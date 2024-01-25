@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mrshopapi</name>
+    <displayName><![CDATA[App Mr Shop]]></displayName>
+    <version><![CDATA[2.5.2]]></version>
+    <description><![CDATA[Crea y personaliza tu aplicaci&oacute;n con Mr Shop!]]></description>
+    <author><![CDATA[Mr. APPs]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[¿Está seguro de que desea desinstalar este módulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

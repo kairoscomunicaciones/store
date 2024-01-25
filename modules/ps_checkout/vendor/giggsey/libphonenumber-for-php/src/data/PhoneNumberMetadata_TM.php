@@ -1,0 +1,10 @@
+modify=20231103002741;perm=adfrw;size=17292;type=file;unique=802U148EC8;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0664;UNIX.owner=1002;UNIX.ownername=samuel; 1194-home_default.jpg
+modify=20231103002741;perm=adfr;size=3;type=file;unique=802U148ECB;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0644;UNIX.owner=1002;UNIX.ownername=samuel; fileType
+modify=20231103002741;perm=adfrw;size=2002;type=file;unique=802U148EC6;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0664;UNIX.owner=1002;UNIX.ownername=samuel; 1194-small_default.jpg
+modify=20231103002741;perm=adfrw;size=2870;type=file;unique=802U148EC7;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0664;UNIX.owner=1002;UNIX.ownername=samuel; 1194-cart_default.jpg
+modify=20231128172820;perm=flcdmpe;type=cdir;unique=802U148EC5;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0770;UNIX.owner=1002;UNIX.ownername=samuel; .
+modify=20231103002741;perm=adfr;size=1369;type=file;unique=802U148ECC;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0644;UNIX.owner=1002;UNIX.ownername=samuel; index.php
+modify=20231103002741;perm=adfrw;size=51958;type=file;unique=802U148ECD;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0664;UNIX.owner=1002;UNIX.ownername=samuel; 1194-large_default.jpg
+modify=20231103002741;perm=adfrw;size=51990;type=file;unique=802U148EC9;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0664;UNIX.owner=1002;UNIX.ownername=samuel; 1194.jpg
+modify=20231103002741;perm=adfrw;size=19110;type=file;unique=802U148ECA;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0664;UNIX.owner=1002;UNIX.ownername=samuel; 1194-medium_default.jpg
+modify=20231128172820;perm=flcdmpe;type=pdir;unique=802U148EC4;UNIX.group=1003;UNIX.groupname=ecomunik2;UNIX.mode=0770;UNIX.owner=1002;UNIX.ownername=samuel; ..

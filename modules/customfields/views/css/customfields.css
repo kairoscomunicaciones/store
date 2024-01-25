@@ -1,0 +1,68 @@
+ul.customfields {
+   list-style-type:none;
+   float:left;
+   position:relative;
+   width:100% !important
+}
+#address_delivery {margin-right:35px;}
+#address_invoice {margin-right:0}
+#delivery_address {margin-right:65px;}
+
+ul.customfields li {
+	padding:0 15px;
+	font-weight:bold;
+	line-height:18px;
+	margin: 10px 0;
+}
+
+ul.customfields li.address_title {
+   height: 29px;
+   font-weight: bold;
+   line-height:29px;
+   color:#fff;
+    text-shadow:0 1px 0 #666;
+   background:url(../../img/bg_table_th.png) repeat-x 0 -10px #999
+}
+ul.customfields .address_alias {
+	font-weight: normal;
+	text-transform: none;
+}
+ul.customfields >li:first-child + li {
+	margin-top:8px
+}
+
+ul.customfields  li.address_update {
+	margin-top:20px
+}
+ul.customfields  li.address_update,
+ul.customfields li.address_delete {
+	font-size:11px;
+   text-transform:none
+}
+.address_add {
+   padding:20px 0
+}
+.customfields .select, .customfields .multiselect{
+	border:1px solid #ccc;
+	width: 200px;
+	margin-left: 10px;
+}
+label[for=id_address_delivery], label[for=id_address_invoice] {
+	float: left;
+	width: 225px;
+}
+.addressesAreEquals label {
+	margin-left: 5px;
+}
+.addressesAreEquals input {
+	float: left;
+}
+p.address_delivery, p.addressesAreEquals {
+	padding-bottom: 14px
+}
+.extension_error { display: none; margin-top: 10px; }
+
+/*------Floating Errors ------*/
+#fmm_error_console { position: fixed; top: 3%; right: 1%; z-index: 50000; width: 240px; overflow: hidden;}
+#fmm_error_console .fmm_error_console_item { background: #c0392b; color: #fff; font-size: 12px; padding: 8px; width: 220px; clear: both;
+opacity: 0.8; border-radius: 5px; margin-bottom: 6px;}

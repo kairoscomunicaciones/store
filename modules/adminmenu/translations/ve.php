@@ -1,0 +1,36 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{adminmenu}prestashop>adminmenu_e8a751e6cce7924c8ec609d8fc5ed68f'] = 'Módulo que permite administrar el menú de back office exactamente como estaba en el antiguo prestashop 1.6';
+$_MODULE['<{adminmenu}prestashop>adminmenu_57206dc27305060c5c29150d3ad00401'] = 'Actualizaciones de MyPresta';
+$_MODULE['<{adminmenu}prestashop>adminmenu_d7d90723c19e43735e731a36a2739c8b'] = 'Revisar actualizaciones';
+$_MODULE['<{adminmenu}prestashop>adminmenu_2c872e677f8b5831f20a66c65e7f8966'] = 'Revisar ahora';
+$_MODULE['<{adminmenu}prestashop>adminmenu_722eb8a4b2d0b1c305d6361bcc7564e7'] = 'Notificaciones de actualizaciones';
+$_MODULE['<{adminmenu}prestashop>adminmenu_633703a658469b7fab7f42e04e59d27a'] = '-- seleccionar --';
+$_MODULE['<{adminmenu}prestashop>adminmenu_2faec1f9f8cc7f8f40d521c4dd574f49'] = 'Habilitado';
+$_MODULE['<{adminmenu}prestashop>adminmenu_bcfaccebf745acfd5e75351095a5394a'] = 'Inhabilitado';
+$_MODULE['<{adminmenu}prestashop>adminmenu_cc6fc347e9fd233bddcb7895e307e9a9'] = 'Active esta opción si desea consultar MyPresta.eu para obtener actualizaciones de módulos automáticamente. Esta opción mostrará una notificación sobre las nuevas versiones de este complemento.';
+$_MODULE['<{adminmenu}prestashop>adminmenu_0d24168598880003b80f9e85b8e1d62a'] = 'Página del módulo';
+$_MODULE['<{adminmenu}prestashop>adminmenu_07ac9eab57de962a9518a7545fd475fe'] = 'Este es un enlace directo a la página oficial de complementos, donde puede leer sobre los cambios en el módulo (registro de cambios)';
+$_MODULE['<{adminmenu}prestashop>adminmenu_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{adminmenu}prestashop>adminmenu_4c73ce9e52a25c69cf0dce126d548f98'] = 'Nueva versión disponible, consulte http://MyPresta.eu para obtener más información';
+$_MODULE['<{adminmenu}prestashop>adminmenu_af02b06496e83946e73e69d774782654'] = '¡Nueva versión disponible!';
+$_MODULE['<{adminmenu}prestashop>adminmenu_358a5fcb448d507b41d7c0a83485973a'] = '¡El módulo está actualizado!';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_d3b206d196cd6be3a2764c1fb90b200f'] = 'Eliminar seleccionado';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_e25f0ecd41211b01c83e5fec41df4fe7'] = '¿Eliminar elementos seleccionados?';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_9bd81329febf6efe22788e03ddeaf0af'] = 'Clase';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_e55f75a29310d7b60f7ac1d390c8ae42'] = 'Módulo';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_52f5e0bc3859bc5f5e25130b6c7e8881'] = 'Posición';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_e14a302d2a9e9e99ea3053cbc5895aee'] = 'Módulos de MyPresta.eu';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_3f182b819ac7bd95a0ecdd28a057576e'] = 'Desarrollo este complemento de forma gratuita, da las gracias donándome a través de PayPal';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_c0e23dde2f4db94917036e6d9f92c7af'] = 'Dóname';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_630f6dc397fe74e52d5189e2c80f282b'] = 'Volver a la lista';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_0164b35f3cbc5cbf9bf58abeb4bc14df'] = 'Añadir nuevo menú';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_99a35a01dbc333fe7c47e10caeba04ff'] = 'Elemento principal';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_6252c0f2c2ed83b7b06dfca86d4650bb'] = 'Caracteres invalidos';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_ec53a8c4f07baed5d8825072c89799be'] = 'Estado';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_fe513725b21a16ced7d05b454e74a33e'] = 'Mostrar o esconder menú';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_817434295a673aed431435658b65d9a7'] = 'Icono';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_ede4759c9afae620fd586628789fa304'] = 'Habilitar selección';
+$_MODULE['<{adminmenu}prestashop>adminmenutabs_ab7fd6e250b64a46027a996088fdff74'] = 'Deshabilitar selección';

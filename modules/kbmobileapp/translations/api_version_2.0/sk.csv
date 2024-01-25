@@ -1,0 +1,449 @@
+app_text_home,Domov
+app_text_recent_product,Nedávny produkt
+app_text_category,Kategórie
+app_text_login,Prihlásiť sa
+app_text_logout,Odhlásiť sa
+app_text_login_signup,Prihlásiť Registrácia
+app_text_account,Môj účet
+app_text_contact,Kontaktuj nás
+app_text_about,O nás
+app_text_wishlist,Pridať do zoznamu želaní
+app_text_cart,Pridať do košíka
+app_text_off,vypnutý
+app_text_all,Všetko
+app_text_languages,Jazyk
+app_text_sort,Triediť
+app_text_filter,Filter
+app_text_sort_order,Vyberte Order
+app_text_price_asc,Cena: nízka až vysoká
+app_text_price_desc,Cena: vysoká až nízka
+app_text_product,Produkt
+app_text_select,Vybraný
+app_text_instock,Skladom
+app_text_outstock,Vypredané
+app_text_product_info,Informácie o produkte a starostlivosť
+app_text_customization,Prispôsobenie produktu
+app_text_accessories,Príslušenstvo
+app_text_view_less,Menej
+app_text_view_more,Vidieť viac
+app_text_provide_details,Uveďte podrobnosti
+app_text_bag,Nákupná taška
+app_text_apply_voucher,Aplikovať poukaz
+app_text_entry_voucher_code,Zadajte kód poukážky
+app_text_apply,Uplatniť
+app_text_gift,Baliaci papier
+app_text_entry_message,Zadajte svoju správu
+app_text_available_first,Najskôr pošlite dostupné produkty
+app_text_continue_shopping,Pokračovať v nákupe
+app_text_continue_checkout,Pokračujte v pokladni
+app_text_update_quantity,Aktualizácia množstva
+app_text_enter_quantity,Zadajte množstvo (0-10)
+app_text_empty_cart,Váš nákupný košík je prázdny!
+app_text_goto_home,Prejdi na domovskú stránku
+app_text_review_checkout,Ohodnoť svoju objednávku
+app_text_add_new_shipping_address,Pridajte novú dopravnú adresu
+app_text_history,Prepravné podrobnosti
+app_text_summary,Zhrnutie objednávky
+app_text_shipping_methods,Metódy prepravy
+app_text_comment,Komentár
+app_text_payment_summary,Zhrnutie
+app_text_proceed,Pokračovať v platbe
+app_text_make_payment,Vykonať platbu
+app_text_congratulations,Blahoželanie
+app_text_shipping_addresses,Dodacia adresa (režimy)
+app_text_order_detail,Podrobnosť
+app_text_update_personal,Aktualizovať osobné údaje
+app_text_update_password,Aktualizácia hesla
+app_text_current_password,Súčasné heslo
+app_text_new_password,Nové heslo
+app_text_confirm_password,Potvrďte heslo
+app_text_cancel,Zrušiť
+app_text_save,Zachrániť
+app_text_sale,zľava
+app_text_new,Nový
+app_text_order_ref,Referencia
+app_text_status,Postavenie
+app_text_placed,Kladený na
+app_text_reorder,Nastaviť
+app_text_order_details,Detaily objednávky
+app_text_status_history,História stavu
+app_text_shipping_address,Prepravná adresa
+app_text_order_summary,Zhrnutie objednávky
+app_text_shipping_method,Spôsob dopravy
+app_text_payment_method,Spôsob platby
+app_text_gift_wrapping,Balenie darčekov
+app_text_no_shipping_address,Žiadna dodacia adresa k dispozícii!
+app_text_no_order_details,Nie sú k dispozícii žiadne podrobnosti o objednávke!
+app_text_signup,Prihlásiť Se
+app_text_continue_guest,Pokračujte ako hosť
+app_text_email,E -mail
+app_text_password,Heslo
+app_text_forgot_password,Zabudol si heslo?
+app_text_login_social_account,Môžete sa prihlásiť pomocou sociálneho účtu.
+app_text_login_with_google,Prihláste sa pomocou Google+
+app_text_login_with_facebook,Prihlásiť sa cez Facebook
+app_text_signup_with_google,Registrácia s Google+
+app_text_signup_with_facebook,Registrácia s Facebookom
+app_text_msg_enter_valid_email,Zadajte platný e -mail!
+app_text_msg_enter_email,Zadajte e -mail!
+app_text_msg_enter_password,Zadajte heslo!
+app_text_msg_password_characters_less_than_3,Zadajte heslo s znakmi viac, ktoré sa rovnajú 3!
+app_text_msg_first_name,Krstné meno
+app_text_msg_last_name,Priezvisko
+app_text_msg_dob,Dátum narodenia
+app_text_msg_confirm_password,Potvrďte heslo
+app_text_msg_personal_details,Osobné údaje
+app_text_msg_pass_not_matched,Heslo a potvrdenie hesla sa nezhodujú!
+app_text_sold_by,Predal:
+app_text_write_review,Recenzia
+app_text_view_review,Zobraziť recenzie
+app_text_view_seller_products,Zobraziť produkty predajcu
+app_text_wait,Prosím čakajte
+app_text_loading,Načítanie údajov ...
+app_text_msg_went_wrong,Niečo sa pokazilo. Prosím skúste znova.
+app_text_msg_no_internet_found,Nenašli sa žiadne pripojenie na internet.
+app_text_msg_no_internet_title,Žiadny internet
+app_text_msg_request,Žiadosť nemôže byť proces. Dôvodom môže byť pomalé pripojenie na internet.
+app_text_msg_order_placed_email,Vaša objednávka bola úspešne zadaná. Dostanete e -mail týkajúci sa toho istého.
+app_text_msg_product_look,Produkty môžete hľadať podľa ich kategórie.
+app_text_msg_search_product,Môžete vyhľadať akýkoľvek produkt v obchode podľa textu alebo hlasu!
+app_text_msg_view_cart,Môžete si pozrieť nákupný košík s množstvom!
+app_text_msg_logout,Úspešne ste sa odhlásili!
+app_text_msg_view_product,Produkt môžete zobraziť v zozname alebo v režime mriežky!
+app_text_msg_sort_product,Produkt môžete zoradiť podľa ich ceny!
+app_text_msg_filter_product,Produkty môžete filtrovať podľa svojej potreby!
+app_text_text_next,Ďalšie
+app_text_text_okay,V poriadku
+app_text_required,Požadovaný
+app_text_msg_rating,Vyberte hodnotenie
+app_text_msg_add_cart,Produkt môžete pridať do nákupného košíka jednoduchým kliknutím na tlačidlo „Pridať do košíka“!
+app_text_msg_add_wishlist,Môžete pridať produkt do zoznamu želaní jednoduchým kliknutím na tlačidlo „Pridať do zoznamu želaní“!
+app_text_msg_product_price,Cena produktu bola aktualizovaná!
+app_text_msg_product_not_available,Tento produkt nie je k dispozícii na objednávku!
+app_text_msg_combination,Produkt už nie je na sklade s vybranou kombináciou. Vyskúšajte ďalšie kombinácie.
+app_text_msg_product_no_stock,Tento produkt nie je k dispozícii v požadovanom množstve alebo nie na sklade!
+app_text_msg_out_stock,Niektoré výrobky vo vozíku nie sú k dispozícii v požadovanom množstve alebo nie na sklade. Odstráňte takéto produkty z košíka!
+app_text_msg_checkout_products,Produkty pokladnice v nákupnom košíku môžete jednoducho kliknúť na tlačidlo „Pokračujte v pokladni“.
+app_text_msg_apply_voucher,Na nákupný košík môžete použiť poukaz!
+app_text_msg_update_quantity,Môžete aktualizovať množstvo produktu alebo ho odstrániť z nákupného košíka!
+app_text_msg_view_details,Podrobnosti o produkte môžete zobraziť kliknutím na obrázok produktu!
+app_text_msg_success,Úspech!
+app_text_msg_failure,Neúspech!
+app_text_msg_enter_quantity,Zadajte množstvo
+app_text_quantity,Množstvo
+text_quantity,Množstvo
+app_text_remove,Presťahovať
+app_text_customization_details,Podrobnosti o prispôsobení
+app_text_msg_add_address,Kliknutím na tlačidlo môžete pridať novú dopravnú adresu!
+app_text_msg_update_address,Môžete aktualizovať dodaciu adresu!
+app_text_msg_select_address,Môžete si vybrať ľubovoľnú prepravnú adresu jednoduchým kliknutím na ňu!
+app_text_select_address_text,*Vyberte prepravnú adresu a skontrolujte svoju objednávku.
+app_text_msg_no_product,Nie sú k dispozícii žiadne produkty!
+app_text_msg_no_comment_available,Žiadne komentáre (komentáre)!
+app_text_msg_reset_password,Svoje heslo môžete resetovať kliknutím na „Zabudnite heslo“
+app_text_msg_login,Odtiaľto sa môžete prihlásiť do obchodu!
+app_text_msg_login_fb,Môžete sa tiež prihlásiť do obchodu z svojho účtu Facebook!
+app_text_msg_login_google,Môžete sa tiež prihlásiť do obchodu z účtu Google!
+app_text_msg_update_profile,Môžete aktualizovať podrobnosti o podrobnostiach prepravy profilu alebo si zobraziť podrobnosti o objednávke odtiaľto!
+app_text_product_info_and_care,Informácie o produkte a starostlivosť
+app_text_download,K stiahnutiu
+app_text_minimal_quantity,Minimálne množstvo
+app_text_pack_content,Obsah
+app_text_seller_details,Podrobnosti predajcu
+app_text_submit,Predložiť
+app_text_msg_forget_password,Zadajte e-mailovú adresu priradenú s vaším účtom. Kliknite na odoslanie, aby ste vaše heslo poslali e-mailom.
+app_text_enter_your_email,Zadajte svoj e-mail
+app_text_reset_password,Obnoviť heslo
+app_text_view_selected_filter,Vybraný výsledok filtra si môžete zobraziť kliknutím na tento obrázok!
+app_text_clear_selected_filter,Aplikovaný filter môžete vymazať kliknutím na tento obrázok!
+app_text_no_filter,Žiadne filtre
+app_text_phone_number_required,*Musíte sa zaregistrovať aspoň jedno telefónne číslo
+app_text_refresh,Obnoviť
+app_text_internet_connection_failed,Internetové pripojenie zlyhalo!
+app_text_internet_connection_problem,S vašim internetovým pripojením môže byť problém. Prosím skontroluj.
+app_text_cancel_transaction,Zrušiť transakciu
+app_text_middle_of_payment,Ste uprostred procesu platobnej transakcie. Naozaj chcete zrušiť svoju transakciu?
+app_text_yes,Áno
+app_text_no,Nie
+app_text_enter_your_comment,Zadajte svoj komentár
+app_text_msg_shipping_methods_unavailable,Žiadne metódy prepravy k dispozícii
+app_text_msg_select_shipping_methods,Vyberte metódu prepravy
+app_text_billing_address,Fakturačná adresa
+app_text_billing_addresses,Fakturačné adresy
+app_text_addresses,Adresa (režimy)
+app_text_billing_details,fakturačné údaje
+app_text_same_as_shipping_details,Rovnaké ako dodacia adresa
+app_text_share_log,Protokol
+app_text_payment_failed_contact_support,Vaša objednávka sa nedala spracovať. Láskavo kontaktujte podporu pre akékoľvek otázky
+app_text_choose_payment_method,Vyberte si metódu platby
+app_text_no_payment_method,Žiadne spôsoby platby sa nenašli!
+app_text_no_payment_currently,V súčasnosti neexistuje žiadny spôsob platby.
+app_text_no_make_payment,Nebudete môcť uskutočniť platbu, pretože táto mobilná aplikácia je nastavená na demo účel.
+app_text_make_payment_after_select,Platbu môžete uskutočniť po výbere akéhokoľvek spôsobu platby!
+app_text_title_payment_paypal,Platba
+app_text_order_total_price,Objednávka Celková cena
+app_text_user_cancelled_the_payment,Užívateľ zrušil platbu
+app_text_invalid_payment_try_again,Neplatná platba. Láskavo skúste to znova
+app_text_title_paypal_payment,Platba
+app_text_wishlist_item_removed,Položka odstránená z zoznamu želaní.
+app_text_wishlist_item_added,Položka bola pridaná do zoznamu želaní
+app_text_subject,Hej, pozrite sa na to!
+app_text_extra_share,K dispozícii tu:
+app_text_intent_title,zdieľam
+app_text_error_product_name_url,Názov produktu alebo URL môžu byť prázdne.
+app_text_tag_error,Chyba
+app_text_ok,V poriadku
+app_text_view_your_store,Zobraziť svoj obchod
+app_text_view_demo,Pozrieť demo
+app_text_currency,Mena
+app_text_choose_your_app_theme,Vyberte si tému svojej aplikácie
+app_text_terms_and_conditions,Podmienky používania
+app_text_wishlist_only,Zoznam želaní
+app_text_wishlist_remove,Odstrániť z zoznamu želaní
+app_text_update_address,Aktualizácia
+app_text_state_not_required,Štát, ktorý nie je potrebný pre vybranú krajinu
+app_text_currencies,Mena
+app_text_payment_failed,Pri spracovaní platby sa vyskytla určitá chyba. Láskavo skúste to znova
+app_text_entered_wrong_url,Možno ste zadali nesprávnu adresu URL alebo ste nainštalovali náš Bodule Builder Builder.
+app_text_login_failed,Prihlásenie zlyhalo!
+app_text_install_module,Inštalovať modul
+app_text_no_data_found,Neboli nájdené žiadne dáta
+app_text_enter_store_url,Zadajte adresu URL Store
+app_text_fill_all_required_fields,Vyplňte všetky požadované polia.
+app_text_state,Štát
+app_text_add_to_wishlist,Pridať do zoznamu želaní
+app_text_add_to_cart,Pridať do košíka
+text_prices,Ceny
+text_brands,Značky
+text_shipping_address_success,Úspešná adresa bola úspešne pridaná
+text_shipping_address_issue,Existujú nejaké problémy s údajmi
+text_shipping_address_update,Adresa prepravy bola úspešne aktualizovaná
+text_cart_loaded,Informácie o košíku úspešne načítané
+text_order_success,Objednávka vytvorená týmto košíkom
+text_reorder_fail,Objednávku sa nedá znovu vytvoriť
+text_currecy_error,Mena nie je nastavená z dôvodu určitej chyby. Skontrolujte kód meny a skúste to znova.
+text_fcm_fail,ID košíka alebo FCM ID sa nenašlo
+text_empty_cart,Prázdny košík
+text_error_cart,Chyba
+text_session_expired,Vypršanie relácie
+text_customer_created,Zákazník úspešne vytvorený !!
+text_wrong,niečo sa pokazilo
+text_error_email,Chyba pri odosielaní e -mailu !!
+text_confirm_email,Na vašu adresu bol zaslaný potvrdzovací e -mail:
+text_login_success,Úspešne sa prihláste používateľa
+text_language_error,Jazyk nie je nastavený kvôli určitej chybe. Skontrolujte kód ISO a skúste to znova.
+text_customer_update,Osobné informácie sa úspešne aktualizovali.
+error_email_id,E -mail ID neexistuje !!
+error_email_empty,E -mail ID nemôže byť prázdne !!
+text_add_wishlist,Produkt pridaný do zoznamu želaní
+text_fail_wishlist,Produkt nie je pridaný do zoznamu želaní
+text_no_email,Žiadny e -mail
+text_product_added,Produkt úspešne pridaný
+text_product_deleted,Produkt úspešne odstránený
+text_voucher_already,Poukáž už uplatňovaný!
+text_voucher_success,Poukážku úspešne aplikované na košík
+text_voucher_removed,Poukaz úspešne odstránený
+text_product_not_added,Nedá sa pridať do košíka
+error_out_of_stock,Produkt nie je k dispozícii v požadovanom množstve!
+error_firstname,Meno musí byť medzi 3 a 15 znakmi !!
+error_lastname,Priezvisko musí byť medzi 3 a 15 znakmi !!
+error_address_1,Adresa musí byť medzi 3 a 15 znakmi !!
+error_city,Mesto musí byť medzi 3 a 15 znakmi !!
+error_postcode,Vyplňte platný poštový kód !!
+error_country,Vyberte si krajinu !!
+error_zone,Vyberte stav !!
+error_phone1,Telefónne číslo musí byť medzi 3 a 15 znakmi !!
+error_phone2,Telefónne číslo by malo obsahovať iba čísla a pomlčky !!
+error_password,Heslo musí byť medzi 4 a 15 znakmi !!
+error_confirm,Nesúlad hesla !!
+error_email,E -mailové ID nie je platné
+error_exists,E -mail ID už zaregistrovaný
+error_minimum,Na zadanie objednávky je potrebné minimálne množstvo %d.
+error_quantity_required,Vyžaduje sa množstvo.
+error_voucher,Poukáž už uplatňovaný!
+voucher_success,Poukáž úspešne uplatnené!
+voucher_removed,Poukaz úspešne odstránený
+text_wishlist_added,Produkt pridaný do zoznamu želaní
+text_wishlist_removed,Produkt odstránený z zoznamu želaní
+app_text_sellers,Predávajúci
+app_text_seller,Predávajúci
+app_text_seller_shipping_policy,Pravidlá prepravy predávajúceho
+app_text_seller_return_policy,Pravidlá návratnosti predajcu
+app_text_review_title,Recenzia
+app_text_review_comment,Recenzia
+app_text_review_rating,Hodnotenie
+app_text_filter_products,Filtračné výrobky
+app_text_select_category,vybrať kategóriu
+app_text_select_sort,Triediť
+app_text_clear,jasný
+app_text_hour,Hodina
+app_text_min,Minúta
+app_text_sec,Sekundy
+app_text_install_whatsapp,WhatsApp nie je nainštalovaný na vašom zariadení
+app_text_no_account_registered,Na biometrickú autentifikáciu v tomto zariadení nie je zaregistrovaný žiadny účet. Najskôr zaregistrujte účet.
+app_text_confirm_for_authentication,Potvrďte svoj odtlačok prsta alebo tvár, aby ste overili.
+app_text_login_with_fingerprint,Prihláste sa s odtlačkom prsta
+app_text_register_for_fingerprint,Zaregistrujte sa na odtlačok prsta
+app_text_biometric_not_available,Biometrická autentifikácia nie je pre toto zariadenie k dispozícii.
+app_text_fingerprint_not_recognized,Touch ID nerozpozná váš odtlačok prsta. Skúste to znova s ​​prihláseným odtlačkom prsta.
+app_text_face_not_recognizes,Face ID nerozpozná vašu tvár. Skúste to znova s ​​prihlásenou tvárou.
+app_text_fingerprint_or_face_not_enrolled,Do zariadenia sa zaregistrovali žiadne odtlačky prstov/tvár.
+app_text_biometry_locked_out,Funkčnosť je teraz uzamknutá kvôli príliš veľkému počtu neúspešných pokusov.
+app_text_register_for_fingerpring,Zaregistrujte sa na odtlačok prsta
+app_text_register_for_fingerprint_details,Chcete zaregistrovať tento účet pre funkčnosť odtlačkov prstov. Po dokončení sa môžete prihlásiť do tohto účtu bez použitia e -mailového ID alebo hesla iba pomocou overenia odtlačkov prstov.
+app_text_register,Registrovať
+app_text_fingerprint_not_available,V tomto zariadení nie je k dispozícii autentifikácia odtlačkov prstov!
+app_text_fingerprint_not_enrolled,Do zariadenia sa zaradili žiadne odtlačky prstov.
+app_text_android_marshmallow_required,Na podporu autentifikácie odtlačkov prstov je potrebný aspoň Android Marshmallow.
+app_text_fingerprint_error_try_again,S odtlačkom prsta je nejaká chyba. Skúste to znova alebo pokračujte bez odtlačkov prstov!
+app_text_fingerprint_wipe_sensor_try_again,Na snímači odtlačkov prstov môže byť prach. Utrite to a skúste to znova.
+app_text_skip_and_continue,Preskočiť a pokračovať
+app_text_verify,Preveriť
+app_text_get_otp,Dostať OTP
+app_text_mobile_number,Telefónne číslo
+app_text_mobile_number_optional,Mobilné číslo (voliteľné)
+app_text_invalid_phone_number,Prosím vložte platné číslo
+app_text_error_number_verification,Mobilné číslo nebolo možné overiť! Skúste to znova so správnym číslom OTP!
+app_text_phone_number_already_exists,Telefónne číslo je už zaregistrované. Skúste to znova s ​​iným telefónnym číslom!
+app_text_number_verification,Overenie čísla
+app_text_number_verification_description,Musíte overiť telefónne číslo. Zadajte telefónne číslo a odošlite
+app_text_login_with_phone_number,Prihláste sa s telefónnym číslom
+app_text_forget_password_description,Zadajte e-mailovú adresu alebo telefónne číslo spojené s vaším účtom.
+app_text_enter_email_or_mobile_number,Zadajte e -mail alebo mobilné číslo
+app_text_phone_number_change_message,Jedno telefónne číslo je už zaregistrované na tomto účte. Kontaktné číslo môžete zmeniť iba. Zadajte platné telefónne číslo.
+app_text_enter_otp,Zadajte OTP
+app_text_review_your_order,Ohodnoť svoju objednávku
+app_text_attributes,Atribúty
+entry_company,Spoločnosť
+entry_address_1,Adresa 1
+entry_address_2,adresa 2
+entry_city,Mesto
+entry_postcode,Poštové smerovacie číslo
+entry_country,Krajina
+app_text_label_address,Osloviť
+app_text_label_country,Nie
+app_text_label_phone,Telefónne číslo
+app_text_select_all_options,Vyberte všetky možnosti
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-a
+phone_number_not_exist_message,Mobilné číslo v databáze neexistuje
+phone_number_exist_message,Mobilné číslo existuje v databáze
+password_update_message,Aktualizácia hesla úspešne
+app_text_continue_to_checkout_click_msg,Produkty pokladnice v nákupnom košíku môžete jednoducho kliknúť na tlačidlo „Pokračujte v pokladni“!
+app_text_cart_tab,Vozík
+app_text_search,Vyhľadávanie
+app_text_msg_empty_wishlist,Váš zoznam želaní je prázdny
+app_text_your_wishlist_is_empty,Váš zoznam želaní je prázdny!
+app_text_percent_off,zľava
+app_text_update_address_if_exists,Ak existuje, môžete aktualizovať dodaciu adresu alebo zvoliť iného, ​​ak existuje!
+app_text_press_back_again_to_exit,Znova stlačte späť a ukončite
+app_text_please_login,Prosím prihláste sa
+app_text_related_products,Súvisiace produkty
+app_text_view_reviews,Zobraziť recenzie
+app_text_write_reviews,Napíšte recenzie
+app_text_please_fill_all_details,Vyplňte všetky podrobnosti
+app_text_close,Zavrieť
+app_text_add_review,Recenzia Pridať
+app_text_write_a_review,Napísať recenziu
+app_text_name,názov
+app_text_title,Titul
+app_text_number_of_reviews,Počet recenzií
+app_text_minimum_rating,Pridajte minimálny Ratin
+app_text_error,Chyba
+app_text_no_reviews,Žiadne recenzie
+app_text_place_your_finger_on_sensor,Položte prst na senzor
+text_browser_payment_method_success_msg,Úspech: Vaša objednávka bola zadaná. Láskavo sa vráťte do aplikácie.
+text_browser_payment_method_failure_msg,Zlyhanie: Vaša objednávka nie je možné zadať. Láskavo sa vráťte do aplikácie a skúste to znova.
+text_browser_payment_method_already_msg,Objednávka už bola zadaná. Láskavo sa vráťte do aplikácie a skúste to znova.
+text_order_verify_fail,Objednávka ešte nebola zadaná, prosím, pokračujte v objednávke Vyplňte platbu a potom overte objednávku
+app_text_external_web_payment,Po kliknutí na tlačidlo pokračovania budete presmerovaní do externého prehliadača, aby ste spracovali platbu. Po dokončení platby zatvorte prehliadač
+app_text_text_state,Štát
+app_text_description,Opis
+app_text_discount,Zľavu
+app_text_applied,Aplikovaný
+app_text_default,Predvolený
+app_text_name_asc,Meno (A-Z)
+app_text_name_desc,Meno (Z-a)
+app_text_rating_asc,Hodnotenie: Nízka až vysoká
+app_text_rating_desc,Hodnotenie: Vysoké až nízke
+app_text_model_asc,Model (A-Z)
+app_text_model_desc,Model (Z-A)
+app_text_reference_asc,Referencia (A-Z)
+app_text_reference_asc,Referencia (A-Z)
+app_text_reference_desc,Referencia (Z-a)
+app_text_create_new_account,Vytvoriť nový účet
+app_text_back_login,Späť na prihlásenie
+app_text_guest_login,Prihlásenie hosťa
+app_text_first_name,Krstné meno*
+app_text_last_name,Priezvisko*
+app_text_already_have_account,Máte už účet?
+app_text_error_firstname,Zadajte krstné meno.
+app_text_error_lastname,Zadajte priezvisko.
+app_text_error_mobile_number,Zadajte číslo mobilného telefónu.
+app_text_my_profile,Môj profil
+app_text_my_orders,moje objednávky
+app_text_my_addresses,Moje adresy
+app_text_support,podpora
+app_text_account_page_heading,Prístup k podrobnostiam o vašom účte a odmenami
+app_text_not,Nie
+app_text_apple,Jablko
+app_text_google,Riadenie
+app_text_facebook,Facebook
+app_text_view_all,Zobraziť
+app_text_error_email_access,Poskytnite e -mailový prístup alebo použite iný účet.
+app_text_hi,Ahoj
+app_text_sold_out,Vypredané
+app_text_signup_with_apple,Prihláste sa s Apple
+app_text_login_with_apple,Prihláste sa s Apple
+app_text_order,objednať
+app_text_order_date,Dátum objednávky
+app_text_items,Položka
+app_text_amount,Výška
+error_voucher_not_available,Poukáž je buď neplatný, alebo dosiahol svoj limit využitia!
+app_text_review_order,Recenzia
+app_text_payment_methods,spôsob platby
+app_text_review_order,Recenzia
+app_text_payment_methods,spôsob platby
+app_text_guest,Hosť
+app_text_resend_otp,Opätovne odosielať OTP
+app_text_msg_mobile_number,Zadajte svoje mobilné číslo
+app_text_msg_otp,OTP poslal Ben na číslo:
+app_text_msg_resend_otp,OTP má Ben neznesený číslom:
+app_text_confirm_new_password,Potvrďte nové heslo
+app_text_error_facebook_login,Nemohol sa prihlásiť s Facebookom
+app_text_sub_total,Podtlakový
+app_text_product_total,Produkt
+app_text_are_you_sure_you_want_to_exit,Si si isty ze chces odist?
+text_product_updated,Množstvo produktu sa úspešne aktualizovalo !!
+error_incorrect_password,Nesprávne heslo!!
+app_text_unit_price,Jednotková cena
+app_text_only_mobile,Mobilné
+app_text_file_download,Súbor úspešne stiahnutý
+app_text_video,Video
+app_text_agree_to,Dohodnite sa na podmienkach
+app_text_agree_gdpr,Láskavo skontrolujte políčko Zmluvné podmienky !!
+app_text_use_current_location,Používajte aktuálne umiestnenie
+app_text_adding,Pridanie ...
+app_text_removing,Odstránenie ...
+app_text_voucher_adding,Pridanie poukazu ...
+app_text_voucher_removing,Odstránenie poukazu ...
+app_text_mobile,Mobilné
+app_text_deal_ends,Končí
+app_text_expires_in,Expiruje v
+app_text_register_fingerprint,Zaregistrujte sa na prihlásenie do odtlačkov prstov
+app_text_reviews,Recenzie
+app_text_loading,Načítava...
+app_text_please_wait,Prosím čakajte...
+app_text_updating_cart,Aktualizácia vozíka ...
+app_text_loading_shipping_address,NALÁVANIE SPRÁVA ADRESA ...
+app_text_loading_billing_address,Načítanie fakturačnej adresy ...
+app_text_removing_product,Odstránenie produktu ...
+app_text_loading_store_data,Načítať ukladanie údajov
+app_text_select_country,Vyberte krajinu
+app_text_select_state,Vyberte stav
+app_text_delete_account,Zmazať účet
+app_text_delete_account_msg,Ste si istí, že chcete odstrániť účet?
+app_text_scan_barcode,Skenovanie čiarového kódu
+app_text_camera_loading,Načítanie fotoaparátu ...
+app_text_camera_permission_not_available,Povolenie na fotoaparát nie je k dispozícii
+app_text_search_description,Nájdite, čo hľadáte.

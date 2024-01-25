@@ -1,0 +1,208 @@
+{% import '@PrestaShop/Admin/macros.html.twig' as ps %}
+{% extends constant('_PS_VERSION_')|number_format >= 8 ? '@!PrestaShop/Admin/Product/CatalogPage/Lists/products_table.html.twig':'PrestaShopBundle:Admin/Product/CatalogPage/Lists:products_table.html.twig' %}
+{% block product_catalog_form_table_header %}
+    {%if ets_pmg_product_fileds is defined%}
+    <tr class="column-headers{%if ETS_PMN_FIXED_HEADER_PRODUCT%} fixed{%endif%}">
+        <th class="stt" scope="col" style="width: 2rem"></th>
+        {% for key,field in ets_pmg_product_fileds %}
+            <th class="{{key}}">
+                <div class="ets_td">
+                    {% if field.sort is not defined or field.sort %}
+                        {{ ps.sortable_column_header(field.title, key, orderBy, sortOrder) }}
+                    {%else%}
+                        {{field.title}}
+                    {%endif%}
+                </div>
+            </th>
+        {% endfor %}
+        {% if has_category_filter == true %}
+        <th scope="col">
+          <div class="ets_td">{{ ps.sortable_column_header("Position"|trans({}, 'Admin.Global'), 'position', orderBy, sortOrder) }}</div>
+        </th>
+        {% endif %}
+        <th scope="col" class="text-right ets_action_col" style="width: 3rem; padding-right: 2rem">
+          <div class="ets_td">{{ "Actions"|trans({}, 'Admin.Global') }}</div>
+        </th>
+    </tr>
+    {%else%}
+        {{ parent() }}
+    {%endif%}
+{%endblock%}
+{% block product_catalog_form_table_filters %}
+    {%if ets_pmg_product_fileds is defined %}
+        {% set filters_disabled = activate_drag_and_drop %}
+        <tr class="column-filters{%if ETS_PMN_FIXED_HEADER_PRODUCT%} fixed{%endif%}">
+            <th class="stt" scope="col" style="width: 2rem"></th>
+            {% for key,field in ets_pmg_product_fileds %}
+                {%if key=='sav_quantity'%}
+                    {% if 'PS_STOCK_MANAGEMENT'|configuration %}
+                      <th class="text-center {{key}}">
+                        <div class="ets_td">
+                            {% include '@PrestaShop/Admin/Helpers/range_inputs.html.twig' with {
+                              'input_name': "filter_column_sav_quantity",
+                              'min': '-1000000',
+                              'max': '1000000',
+                              'minLabel': "Min"|trans({}, 'Admin.Global'),
+                              'maxLabel': "Max"|trans({}, 'Admin.Global'),
+                              'value': filter_column_sav_quantity,
+                              'disabled': filters_disabled,
+                            } %}
+                        </div>
+                      </th>
+                    {% else %}
+                        <th></th>
+                    {% endif %}
+                {%elseif key=='active'%}
+                    <th id="product_filter_column_active" class="text-center">
+                        <div class="ets_td">
+                            <div class="form-select">
+                              <select class="custom-select"  name="filter_column_active" {% if filters_disabled %}disabled{% endif %}>
+                                <option value=""></option>
+                                <option value="1" {% if (filter_column_active is defined) and filter_column_active == '1' %}selected="selected"{% endif %}>Active</option>
+                                <option value="0" {% if (filter_column_active is defined) and filter_column_active == '0' %}selected="selected"{% endif %}>Inactive</option>
+                              </select>
+                            </div>
+                        </div>
+                    </th>
+                {%elseif key=='on_sale'%}
+                    <th id="product_filter_column_on_sale" class="text-center">
+                        <div class="ets_td">
+                            <div class="form-select">
+                              <select class="custom-select"  name="filter_column_on_sale" {% if filters_disabled %}disabled{% endif %}>
+                                <option value=""></option>
+                                <option value="1" {% if (ets_filter_products['filter_column_on_sale'] is defined) and ets_filter_products['filter_column_on_sale'] == '1' %}selected="selected"{% endif %}>Yes</option>
+                                <option value="0" {% if (ets_filter_products['filter_column_on_sale'] is defined) and ets_filter_products['filter_column_on_sale'] == '0' %}selected="selected"{% endif %}>No</option>
+                              </select>
+                            </div>
+                        </div>
+                    </th>
+                {%elseif key=='is_must_have'%}
+                    <th id="product_filter_column_is_must_have" class="text-center">
+                        <div class="ets_td">
+                            <div class="form-select">
+                              <select class="custom-select"  name="filter_column_is_must_have" {% if filters_disabled %}disabled{% endif %}>
+                                <option value=""></option>
+                                <option value="1" {% if (ets_filter_products['filter_column_is_must_have'] is defined) and ets_filter_products['filter_column_is_must_have'] == '1' %}selected="selected"{% endif %}>Yes</option>
+                                <option value="0" {% if (ets_filter_products['filter_column_is_must_have'] is defined) and ets_filter_products['filter_column_is_must_have'] == '0' %}selected="selected"{% endif %}>No</option>
+                              </select>
+                            </div>
+                        </div>
+                    </th>
+                {%elseif key=='seo_score'%}
+                    <th>
+                        <div class="ets_td">
+                            <div class="form-select">
+                              <select class="custom-select"  name="filter_ets_seo_score">
+                                <option value="">{{ 'All SEO Scores' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                                <option value="bad" {% if (filter_ets_seo_score is defined) and filter_ets_seo_score == 'bad' %}selected="selected"{% endif %}>{{ 'SEO: Not good' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                                <option value="ok" {% if (filter_ets_seo_score is defined) and filter_ets_seo_score == 'ok' %}selected="selected"{% endif %}>{{ 'SEO: Acceptable' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                                <option value="good" {% if (filter_ets_seo_score is defined) and filter_ets_seo_score == 'good' %}selected="selected"{% endif %}>{{ 'SEO: Excellent' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                                <option value="na" {% if (filter_ets_seo_score is defined) and filter_ets_seo_score == 'na' %}selected="selected"{% endif %}>{{ 'SEO: No Focus or Related key phrases' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                                <option value="noindex" {% if (filter_ets_seo_score is defined) and filter_ets_seo_score == 'noindex' %}selected="selected"{% endif %}>{{ 'SEO: No Index' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                              </select>
+                            </div>
+                        </div>
+                    </th>
+                {%elseif key=='readability_score'%}
+                    <th>
+                        <div class="ets_td">
+                            <div class="form-select">
+                              <select class="custom-select"  name="filter_ets_seo_readability">
+                                <option value="">{{ 'All Readability Scores' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                                <option value="bad" {% if (filter_ets_seo_readability is defined) and filter_ets_seo_readability == 'bad' %}selected="selected"{% endif %}>{{ 'Readability: Not good' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                                <option value="ok" {% if (filter_ets_seo_readability is defined) and filter_ets_seo_readability == 'ok' %}selected="selected"{% endif %}>{{ 'Readability: Acceptable' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                                <option value="good" {% if (filter_ets_seo_readability is defined) and filter_ets_seo_readability == 'good' %}selected="selected"{% endif %}>{{ 'Readability: Excellent' |trans({}, 'Modules.Etsseo.Admin') }}</option>
+                              </select>
+                            </div>
+                        </div>
+                      </th>
+                {%elseif key=='additional_delivery_times'%}
+                    <th>
+                        <div class="ets_td">
+                            <div class="form-select">
+                                <select class="custom-select"  name="filter_column_additional_delivery_times" {% if filters_disabled %}disabled{% endif %}>
+                                    <option value=""></option>
+                                    <option value="0" {% if (ets_filter_products['filter_column_additional_delivery_times'] is defined) and ets_filter_products['filter_column_additional_delivery_times'] == '0' %}selected="selected"{% endif %}>{{ 'None' |trans({}, 'Modules.Etsproductmanager.Admin') }}</option>
+                                    <option value="1" {% if (ets_filter_products['filter_column_additional_delivery_times'] is defined) and ets_filter_products['filter_column_additional_delivery_times'] == '1' %}selected="selected"{% endif %}>{{ 'Default delivery time' |trans({}, 'Modules.Etsproductmanager.Admin') }}</option>
+                                    <option value="2" {% if (ets_filter_products['filter_column_additional_delivery_times'] is defined) and ets_filter_products['filter_column_additional_delivery_times'] == '1' %}selected="selected"{% endif %}>{{ 'Specific delivery time to this product' |trans({}, 'Modules.Etsproductmanager.Admin') }}</option>
+                                </select>
+                            </div>
+                        </div>
+                    </th>
+                {%elseif field.filter is defined and field.filter%}
+                    {%if field.type is defined and field.type=='int'%}
+                    {%if ets_filter_products['filter_column_'~key] is defined%}
+                        {% set filter_column_value = ets_filter_products['filter_column_'~key] %}
+                    {%else%}
+                        {% set filter_column_value = '' %}
+                    {%endif%}
+                        <th class="{{key}}">
+                        <div class="ets_td">
+                            {% include '@PrestaShop/Admin/Helpers/range_inputs.html.twig' with {
+                              'input_name': "filter_column_"~key,
+                              'min': '-1000000',
+                              'max': '1000000',
+                              'minLabel': "Min"|trans({}, 'Admin.Global'),
+                              'maxLabel': "Max"|trans({}, 'Admin.Global'),
+                              'value': filter_column_value,
+                              'disabled': filters_disabled,
+                            } %}
+                        </div>
+                      </th>
+                    {%else%}
+                        <th class="{{key}}">
+                            <div class="ets_td">
+                                <input
+                                  type="text"
+                                  class="form-control"
+                                  placeholder="{{ field.filter }}"
+                                  name="filter_column_{{key}}"
+                                  value="{%if ets_filter_products['filter_column_'~key] is defined%}{{ets_filter_products['filter_column_'~key]}}{%endif%}"
+                                  {% if filters_disabled %}disabled{% endif %}
+                                />
+                            </div>
+                        </th>
+                    {%endif%}
+                {%else%}
+                    <th class="{{key}}"><div class="ets_td">--</div></th>
+                {%endif%}
+            {% endfor %}
+            {% if has_category_filter == true %}
+            <th class="">
+                <div class="ets_td">
+                      {% if not(activate_drag_and_drop) %}
+                        <input type="button" class="btn btn-outline-secondary" name="products_filter_position_asc" value="{{ "Reorder"|trans({}, 'Admin.Actions') }}" onclick="productOrderPrioritiesTable();" />
+                        {% else %}
+                        <input type="button" id="bulk_edition_save_keep" class="btn" onclick="bulkProductAction(this, 'edition');" value="{{ "Save & refresh"|trans({}, 'Admin.Actions')|raw }}" />
+                      {% endif %}
+                </div>
+            </th>
+          {% endif %}
+          <th class="text-right ets_action_col" style="width: 5rem">
+            <div class="ets_td">
+                <button
+                  type="submit"
+                  class="btn btn-primary"
+                  name="products_filter_submit"
+                  title="{{ "Search"|trans({}, 'Admin.Actions') }}"
+                >
+                  <i class="material-icons">search</i>
+                  {{ "Search"|trans({}, 'Admin.Actions') }}
+                </button>
+                <button
+                  type="reset"
+                  class="btn btn-link"
+                  name="products_filter_reset"
+                  onclick="productColumnFilterResetEts($(this).closest('tr.column-filters'));"
+                  title="{{ "Reset"|trans({}, 'Admin.Actions') }}"
+                >
+                  <i class="material-icons">clear</i>
+                  {{ "Reset"|trans({}, 'Admin.Actions') }}
+                </button>
+            </div>
+            </th>
+        </tr>
+    {%else%}
+        {{ parent() }}
+    {%endif%}
+{%endblock%}

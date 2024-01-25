@@ -1,0 +1,1 @@
+DROP TABLE `PREFIX_mrshop_stripe_customer`;

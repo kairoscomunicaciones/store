@@ -1,0 +1,449 @@
+app_text_home,Thuis
+app_text_recent_product,Recent product
+app_text_category,Categorieën
+app_text_login,Log in
+app_text_logout,Uitloggen
+app_text_login_signup,Log in Schrijf in
+app_text_account,Mijn rekening
+app_text_contact,Neem contact op
+app_text_about,Over ons
+app_text_wishlist,Toevoegen aan verlanglijst
+app_text_cart,Voeg toe aan winkelmandje
+app_text_off,uit
+app_text_all,Alle
+app_text_languages,Taal (s)
+app_text_sort,Soort
+app_text_filter,Filter
+app_text_sort_order,Selecteer Sorteervolgorde
+app_text_price_asc,Prijs laag naar hoog
+app_text_price_desc,Prijs: hoog tot laag
+app_text_product,Product
+app_text_select,Uitkiezen
+app_text_instock,Op voorraad
+app_text_outstock,Uitverkocht
+app_text_product_info,Productinformatie en zorg
+app_text_customization,Productaanpassing
+app_text_accessories,Accessoires
+app_text_view_less,Bekijk minder
+app_text_view_more,Bekijk meer
+app_text_provide_details,Gelieve details te geven
+app_text_bag,Plastic tas
+app_text_apply_voucher,Voucher aanbrengen
+app_text_entry_voucher_code,Voer voucher code in
+app_text_apply,Toepassen
+app_text_gift,Cadeaupapier
+app_text_entry_message,Voer uw bericht in
+app_text_available_first,Stuur eerst beschikbare producten
+app_text_continue_shopping,Doorgaan met winkelen
+app_text_continue_checkout,Blijf afreken
+app_text_update_quantity,Update hoeveelheid
+app_text_enter_quantity,Voer de hoeveelheid in (0-10)
+app_text_empty_cart,Uw winkelwagen is leeg!
+app_text_goto_home,Ga naar homepagina
+app_text_review_checkout,Controleer uw bestelling
+app_text_add_new_shipping_address,Voeg een nieuw afleveradres toe
+app_text_history,Verzendgegevens
+app_text_summary,overzicht van de bestelling
+app_text_shipping_methods,Verzendmethoden
+app_text_comment,Bestel commentaar
+app_text_payment_summary,Betalingsoverzicht
+app_text_proceed,Ga door naar betaling
+app_text_make_payment,Betaling maken
+app_text_congratulations,Gefeliciteerd
+app_text_shipping_addresses,Verzendadres (en)
+app_text_order_detail,Bestel detail
+app_text_update_personal,Werk persoonlijke gegevens bij
+app_text_update_password,Vernieuw wachtwoord
+app_text_current_password,huidig ​​wachtwoord
+app_text_new_password,nieuw paswoord
+app_text_confirm_password,bevestig wachtwoord
+app_text_cancel,Annuleren
+app_text_save,Opslaan
+app_text_sale,Uitverkoop
+app_text_new,Nieuw
+app_text_order_ref,Bestelreferentie
+app_text_status,Toestand
+app_text_placed,Geplaatst op
+app_text_reorder,Herstellen
+app_text_order_details,Bestel Details
+app_text_status_history,Statusgeschiedenis
+app_text_shipping_address,afleveradres
+app_text_order_summary,overzicht van de bestelling
+app_text_shipping_method,Verzendmethode
+app_text_payment_method,Betalingsmiddel
+app_text_gift_wrapping,Geschenkverpakking
+app_text_no_shipping_address,Geen verzendadres beschikbaar!
+app_text_no_order_details,Geen besteldetails beschikbaar!
+app_text_signup,Inschrijven
+app_text_continue_guest,Ga door als gast
+app_text_email,E -mail
+app_text_password,Wachtwoord
+app_text_forgot_password,Wachtwoord vergeten?
+app_text_login_social_account,U kunt inloggen met een sociaal account.
+app_text_login_with_google,Log in met Google+
+app_text_login_with_facebook,Inloggen met Facebook
+app_text_signup_with_google,Meld u aan bij Google+
+app_text_signup_with_facebook,Aanmelden met Facebook
+app_text_msg_enter_valid_email,Voer een geldig emailadres in!
+app_text_msg_enter_email,Voer e -mail in!
+app_text_msg_enter_password,Voer wachtwoord in alstublieft!
+app_text_msg_password_characters_less_than_3,Voer het wachtwoord in met tekens meer dan 3 of gelijk aan 3!
+app_text_msg_first_name,Voornaam
+app_text_msg_last_name,Achternaam
+app_text_msg_dob,Geboortedatum
+app_text_msg_confirm_password,bevestig wachtwoord
+app_text_msg_personal_details,Persoonlijke gegevens
+app_text_msg_pass_not_matched,Wachtwoord en bevestig wachtwoord niet gekoppeld!
+app_text_sold_by,Verkocht door:
+app_text_write_review,Schrijfreview
+app_text_view_review,Bekijk beoordeling (en)
+app_text_view_seller_products,Bekijk verkoperproduct (s)
+app_text_wait,Even geduld aub
+app_text_loading,Data laden...
+app_text_msg_went_wrong,Er is iets fout gegaan. Probeer het opnieuw.
+app_text_msg_no_internet_found,Geen internetverbinding gevonden.
+app_text_msg_no_internet_title,Geen internet
+app_text_msg_request,Verzoek kan niet worden proces. Dit kan komen door een trage internetverbinding.
+app_text_msg_order_placed_email,Uw bestelling is met succes geplaatst. U ontvangt een e -mail over hetzelfde.
+app_text_msg_product_look,U kunt op zoek gaan naar product (en) in hun categorie.
+app_text_msg_search_product,U kunt elk product in de winkel zoeken via tekst of spraak!
+app_text_msg_view_cart,U kunt winkelwagentje met kwantiteit bekijken!
+app_text_msg_logout,Je bent met succes uitgelogd!
+app_text_msg_view_product,U kunt het product in lijst- of rastermodus bekijken!
+app_text_msg_sort_product,U kunt het product op hun prijs sorteren!
+app_text_msg_filter_product,U kunt product (s) filteren volgens uw behoefte!
+app_text_text_next,Volgende
+app_text_text_okay,Oké
+app_text_required,Vereist
+app_text_msg_rating,Selecteer de beoordeling
+app_text_msg_add_cart,U kunt product toevoegen aan winkelwagentje door eenvoudig op de knop 'Toevoegen aan kar' te klikken!
+app_text_msg_add_wishlist,U kunt een product toevoegen aan Wishlist door eenvoudig te klikken op de knop 'Toevoegen aan verlanglijst'!
+app_text_msg_product_price,Productprijs is bijgewerkt!
+app_text_msg_product_not_available,Dit product is niet beschikbaar voor bestelling!
+app_text_msg_combination,Het product is niet langer op voorraad met de geselecteerde combinatie. Probeer het met andere combinaties.
+app_text_msg_product_no_stock,Dit product is niet beschikbaar in de gewenste hoeveelheid of niet op voorraad!
+app_text_msg_out_stock,Sommige producten in de kar zijn niet beschikbaar in de gewenste hoeveelheid of niet op voorraad. Verwijder dergelijke product (s) uit een winkelwagen!
+app_text_msg_checkout_products,U kunt producten in het winkelwagentje afrekenen door eenvoudig op de knop 'doorgaan met afrekenen' te klikken.
+app_text_msg_apply_voucher,U kunt een voucher aanbrengen op winkelwagentje!
+app_text_msg_update_quantity,U kunt de hoeveelheid product bijwerken of uit het winkelwagentje verwijderen!
+app_text_msg_view_details,U kunt productdetails bekijken door op productafbeelding te klikken!
+app_text_msg_success,Succes!
+app_text_msg_failure,Mislukking!
+app_text_msg_enter_quantity,Voer de hoeveelheid in
+app_text_quantity,Aantal stuks
+text_quantity,Aantal stuks
+app_text_remove,Verwijderen
+app_text_customization_details,Aanpassingsgegevens
+app_text_msg_add_address,U kunt een nieuw verzendadres toevoegen door op de knop te klikken!
+app_text_msg_update_address,U kunt verzendadres bijwerken!
+app_text_msg_select_address,U kunt elk verzendadres selecteren door er eenvoudig op te klikken!
+app_text_select_address_text,*Selecteer het verzendadres om uw bestelling te bekijken.
+app_text_msg_no_product,Geen producten beschikbaar!
+app_text_msg_no_comment_available,Geen commentaar (en) beschikbaar!
+app_text_msg_reset_password,U kunt uw wachtwoord opnieuw instellen door te klikken op `wachtwoord vergeten '
+app_text_msg_login,U kunt vanaf hier inloggen op de winkel!
+app_text_msg_login_fb,U kunt ook inloggen op de winkel vanuit uw Facebook -account!
+app_text_msg_login_google,U kunt ook inloggen op de winkel vanuit uw Google -account!
+app_text_msg_update_profile,U kunt uw profielgegevens bijwerken Verzendgegevens of uw bestelgegevens hier bekijken!
+app_text_product_info_and_care,Productinformatie en zorg
+app_text_download,Downloads
+app_text_minimal_quantity,Minimale hoeveelheid
+app_text_pack_content,Pack -inhoud
+app_text_seller_details,Verkopergegevens
+app_text_submit,Indienen
+app_text_msg_forget_password,Voer het e-mailadres in dat aan uw account is gekoppeld. Klik in indienen om uw wachtwoord naar u te laten e-mailen.
+app_text_enter_your_email,Voer uw e -mail in
+app_text_reset_password,Reset wachtwoord
+app_text_view_selected_filter,U kunt uw geselecteerde filterresultaat bekijken door op deze afbeelding te klikken!
+app_text_clear_selected_filter,U kunt het aangebrachte filter wissen door op deze afbeelding te klikken!
+app_text_no_filter,Geen filters
+app_text_phone_number_required,*U moet ten minste één telefoonnummer registreren
+app_text_refresh,Verversen
+app_text_internet_connection_failed,Internetverbinding is mislukt!
+app_text_internet_connection_problem,Er kan een probleem zijn met uw internetverbinding. Gelieve dit na te kijken.
+app_text_cancel_transaction,annuleer transactie
+app_text_middle_of_payment,U zit midden in uw betalingstransactieproces. Wilt u echt uw transactie annuleren?
+app_text_yes,Ja
+app_text_no,Nee
+app_text_enter_your_comment,Voer uw opmerking in
+app_text_msg_shipping_methods_unavailable,Geen verzendmethoden beschikbaar
+app_text_msg_select_shipping_methods,Selecteer de verzendmethode
+app_text_billing_address,Facturatie adres
+app_text_billing_addresses,Factureringsadres (en)
+app_text_addresses,Adres (en)
+app_text_billing_details,Factureringsdetails
+app_text_same_as_shipping_details,Hetzelfde als verzendadres
+app_text_share_log,Deel logboek
+app_text_payment_failed_contact_support,Uw bestelling kan niet worden verwerkt. Neem contact op met ondersteuning voor eventuele vragen
+app_text_choose_payment_method,Kies betalingsmethode
+app_text_no_payment_method,Geen betaalmethode (en) gevonden!
+app_text_no_payment_currently,Er zijn momenteel geen betaalmethode.
+app_text_no_make_payment,U kunt niet betalen, omdat deze mobiele app is ingesteld voor demo -doel.
+app_text_make_payment_after_select,U kunt een betaling doen na het selecteren van een betaalmethode!
+app_text_title_payment_paypal,PayPal betaling
+app_text_order_total_price,Bestel de totale prijs
+app_text_user_cancelled_the_payment,Gebruiker heeft de betaling geannuleerd
+app_text_invalid_payment_try_again,Ongeldige betaling. Probeer het vriendelijk opnieuw
+app_text_title_paypal_payment,PayPal betaling
+app_text_wishlist_item_removed,Item verwijderd uit de verlanglijst.
+app_text_wishlist_item_added,Item toegevoegd aan Wishlist
+app_text_subject,Hey, bekijk dit!
+app_text_extra_share,Beschikbaar Hier :
+app_text_intent_title,Delen
+app_text_error_product_name_url,De productnaam of URL kan leeg zijn.
+app_text_tag_error,Fout
+app_text_ok,Oké
+app_text_view_your_store,Bekijk uw winkel
+app_text_view_demo,Bekijk de demo
+app_text_currency,Valuta (s)
+app_text_choose_your_app_theme,Kies uw app -thema
+app_text_terms_and_conditions,Gebruiksvoorwaarden
+app_text_wishlist_only,Verlanglijst
+app_text_wishlist_remove,Verwijder uit de verlanglijst
+app_text_update_address,Update adres
+app_text_state_not_required,Staat niet vereist voor het geselecteerde land
+app_text_currencies,Valuta (s)
+app_text_payment_failed,Er is enige fout opgetreden bij het verwerken van de betaling. Probeer het vriendelijk opnieuw
+app_text_entered_wrong_url,U hebt mogelijk een verkeerde URL ingevoerd of u hebt onze mobiele app -bouwlotule niet geïnstalleerd.
+app_text_login_failed,Inloggen mislukt!
+app_text_install_module,Installeer module
+app_text_no_data_found,Geen data gevonden
+app_text_enter_store_url,Voer de winkel -URL in
+app_text_fill_all_required_fields,Vul alle vereiste velden in.
+app_text_state,Staat
+app_text_add_to_wishlist,Toevoegen aan verlanglijst
+app_text_add_to_cart,Voeg toe aan winkelmandje
+text_prices,Prijzen
+text_brands,Merken
+text_shipping_address_success,Verzendadres is met succes toegevoegd
+text_shipping_address_issue,Er zijn enkele problemen met gegevens
+text_shipping_address_update,Verzendadres is met succes bijgewerkt
+text_cart_loaded,Cart -informatie informatie met succes
+text_order_success,Order gemaakt door deze kar
+text_reorder_fail,Orde kan niet worden nagebouwd
+text_currecy_error,Valuta niet ingesteld vanwege een fout. Controleer de valutacode en probeer het opnieuw.
+text_fcm_fail,Kar ID of FCM ID niet gevonden
+text_empty_cart,Lege kar
+text_error_cart,Fout
+text_session_expired,Sessie verlopen
+text_customer_created,Klant met succes gemaakt !!
+text_wrong,er is iets fout gegaan
+text_error_email,Fout tijdens het verzenden van e -mail !!
+text_confirm_email,Een bevestigingsmail is naar uw adres verzonden:
+text_login_success,Gebruikersaanmelding succesvol
+text_language_error,Taal niet ingesteld vanwege een fout. Controleer de ISO -code en probeer het opnieuw.
+text_customer_update,Persoonlijke informatie met succes bijgewerkt.
+error_email_id,E -mail -ID bestaat niet !!
+error_email_empty,E -mail -ID kan niet leeg zijn !!
+text_add_wishlist,Product toegevoegd aan Wishlist
+text_fail_wishlist,Product niet toegevoegd aan Wishlist
+text_no_email,Geen e -mail
+text_product_added,Product met succes toegevoegd
+text_product_deleted,Product met succes verwijderd
+text_voucher_already,Voucher al van toepassing!
+text_voucher_success,Voucher met succes van toepassing op winkelwagen
+text_voucher_removed,Voucher met succes verwijderd
+text_product_not_added,Kan niet toevoegen aan kar
+error_out_of_stock,Product is niet beschikbaar in de gewenste hoeveelheid!
+error_firstname,Voornaam moet tussen 3 en 15 tekens zijn !!
+error_lastname,Achternaam moet tussen 3 en 15 tekens zijn !!
+error_address_1,Adres moet tussen de 3 en 15 tekens zijn !!
+error_city,Stad moet tussen de 3 en 15 karakters zijn !!
+error_postcode,Vul de geldige postcode in !!
+error_country,Selecteer alstublieft een land!!
+error_zone,Selecteer een staat !!
+error_phone1,Telefoonnummer moet tussen de 3 en 15 tekens zijn !!
+error_phone2,Telefoonnummer mag alleen nummers en streepjes bevatten !!
+error_password,Wachtwoord moet tussen 4 en 15 tekens zijn !!
+error_confirm,Wachtwoord Mismatch !!
+error_email,E -mail -ID is niet geldig
+error_exists,E -mail -ID al geregistreerd
+error_minimum,Minimale hoeveelheid %d is vereist voor de product %s om de bestelling te plaatsen.
+error_quantity_required,Hoeveelheid Vereist.
+error_voucher,Voucher al van toepassing!
+voucher_success,Voucher met succes toegepast!
+voucher_removed,Voucher met succes verwijderd
+text_wishlist_added,Product toegevoegd aan Wishlist
+text_wishlist_removed,Product verwijderd uit verlanglijstje
+app_text_sellers,Verkopers
+app_text_seller,Verkoper
+app_text_seller_shipping_policy,Verkoper verzendbeleid
+app_text_seller_return_policy,Retourbeleid van de verkoper
+app_text_review_title,Review titel
+app_text_review_comment,Bekijk commentaar
+app_text_review_rating,Beoordelingsbeoordeling
+app_text_filter_products,Filterproducten
+app_text_select_category,selecteer categorie
+app_text_select_sort,Soort
+app_text_clear,Duidelijk
+app_text_hour,Uur
+app_text_min,Minuten
+app_text_sec,Seconden
+app_text_install_whatsapp,WhatsApp is niet op uw apparaat geïnstalleerd
+app_text_no_account_registered,Er is geen account geregistreerd voor de biometrische authenticatie in dit apparaat. Registreer eerst een account.
+app_text_confirm_for_authentication,Bevestig uw vingerafdruk of gezicht om te authenticeren.
+app_text_login_with_fingerprint,Log in met vingerafdruk
+app_text_register_for_fingerprint,Registreer voor vingerafdruk
+app_text_biometric_not_available,Biometrische authenticatie is niet beschikbaar voor dit apparaat.
+app_text_fingerprint_not_recognized,Touch ID herkent uw vingerafdruk niet. Probeer het opnieuw met uw ingeschreven vingerafdruk.
+app_text_face_not_recognizes,Face ID herkent je gezicht niet. Probeer het opnieuw met uw ingeschreven gezicht.
+app_text_fingerprint_or_face_not_enrolled,Geen vingerafdrukken/gezicht ingeschreven in het apparaat.
+app_text_biometry_locked_out,Functionaliteit is nu vergrendeld vanwege te veel mislukte pogingen.
+app_text_register_for_fingerpring,Registreer voor vingerafdruk
+app_text_register_for_fingerprint_details,Wilt u dit account registreren voor vingerafdrukfunctionaliteit. Eenmaal gedaan kunt u inloggen op dit account zonder e -mail -ID of wachtwoord te gebruiken, alleen met behulp van de vingerafdrukverificatie.
+app_text_register,Register
+app_text_fingerprint_not_available,Vingerafdrukauthenticatie is niet beschikbaar in dit apparaat!
+app_text_fingerprint_not_enrolled,Geen vingerafdrukken die zijn ingeschreven in het apparaat.
+app_text_android_marshmallow_required,Ten minste Android Marshmallow is vereist om vingerafdrukauthenticatie te ondersteunen.
+app_text_fingerprint_error_try_again,Er is een fout met vingerafdruk. Probeer het opnieuw of ga verder zonder vingerafdruk!
+app_text_fingerprint_wipe_sensor_try_again,Er is misschien wat stof op de vingerafdruksensor. Veeg het alsjeblieft af en probeer het opnieuw.
+app_text_skip_and_continue,Overslaan en doorgaan
+app_text_verify,Verifiëren
+app_text_get_otp,Krijg OTP
+app_text_mobile_number,Mobiel nummer
+app_text_mobile_number_optional,Mobiel nummer (optioneel)
+app_text_invalid_phone_number,Gelieve een geldig nummer invoeren
+app_text_error_number_verification,Mobiel nummer kan niet worden geverifieerd! Probeer het opnieuw met het juiste OTP -nummer!
+app_text_phone_number_already_exists,Telefoonnummer is al geregistreerd. Probeer het opnieuw met een ander telefoonnummer!
+app_text_number_verification,Nummerverificatie
+app_text_number_verification_description,U moet het telefoonnummer verifiëren. Voer het telefoonnummer in en verzend
+app_text_login_with_phone_number,Log in met telefoonnummer
+app_text_forget_password_description,Voer het e-mailadres of telefoonnummer in dat aan uw account is gekoppeld.
+app_text_enter_email_or_mobile_number,Voer e -mail of mobiel nummer in
+app_text_phone_number_change_message,Eén telefoonnummer is al geregistreerd bij dit account. U kunt het contactnummer alleen wijzigen. Voer een geldig telefoonnummer in.
+app_text_enter_otp,Voer OTP in
+app_text_review_your_order,Controleer uw bestelling
+app_text_attributes,Attributen
+entry_company,Bedrijf
+entry_address_1,adres 1
+entry_address_2,Adres 2
+entry_city,Stad
+entry_postcode,Postcode
+entry_country,Land
+app_text_label_address,Adres
+app_text_label_country,Nee
+app_text_label_phone,Telefoonnummer
+app_text_select_all_options,Selecteer alle opties
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,Mobiel nummer bestaat niet in de database
+phone_number_exist_message,Mobiel nummer bestaat in database
+password_update_message,Wachtwoord update met succes
+app_text_continue_to_checkout_click_msg,U kunt producten in het winkelwagentje afrekenen door eenvoudig op de knop 'doorgaan met afrekenen' te klikken!
+app_text_cart_tab,Kar
+app_text_search,Zoekopdracht
+app_text_msg_empty_wishlist,Jouw wens lijst is leeg
+app_text_your_wishlist_is_empty,Jouw wens lijst is leeg!
+app_text_percent_off,% uit
+app_text_update_address_if_exists,U kunt het verzendadres bijwerken of een andere kiezen als het bestaat!
+app_text_press_back_again_to_exit,Druk opnieuw terug om af te sluiten
+app_text_please_login,Log alsjeblieft in
+app_text_related_products,gerelateerde producten
+app_text_view_reviews,Bekijk beoordelingen
+app_text_write_reviews,Schrijf beoordelingen
+app_text_please_fill_all_details,Vul alle details in
+app_text_close,Dichtbij
+app_text_add_review,Voeg recensie toe
+app_text_write_a_review,Schrijf een recensie
+app_text_name,Naam
+app_text_title,Titel
+app_text_number_of_reviews,Aantal beoordelingen
+app_text_minimum_rating,Voeg minimale ratin toe
+app_text_error,Fout
+app_text_no_reviews,Geen beoordelingen
+app_text_place_your_finger_on_sensor,Plaats uw vinger op de sensor
+text_browser_payment_method_success_msg,Succes: uw bestelling is geplaatst. Keer vriendelijk terug naar de app.
+text_browser_payment_method_failure_msg,Falen: uw bestelling kan niet worden geplaatst. Keer vriendelijk terug naar de app en probeer het opnieuw.
+text_browser_payment_method_already_msg,Orde is al geplaatst. Keer vriendelijk terug naar de app en probeer het opnieuw.
+text_order_verify_fail,De bestelling is nog niet geplaatst
+app_text_external_web_payment,Bij het klikken op de knop Voortgang wordt u doorgestuurd naar de externe browser om de betaling te verwerken. Zodra u de betaling daar hebt voltooid, sluit u de browser
+app_text_text_state,Staat
+app_text_description,Beschrijving
+app_text_discount,Korting
+app_text_applied,Toegepast
+app_text_default,Standaard
+app_text_name_asc,Naam (A-Z)
+app_text_name_desc,Naam (Z-A)
+app_text_rating_asc,Beoordeling: laag tot hoog
+app_text_rating_desc,Beoordeling: hoog tot laag
+app_text_model_asc,Model (A-Z)
+app_text_model_desc,Model (Z-A)
+app_text_reference_asc,Referentie (A-Z)
+app_text_reference_asc,Referentie (A-Z)
+app_text_reference_desc,Referentie (Z-A)
+app_text_create_new_account,Creëer een nieuw account
+app_text_back_login,Terug naar Inloggen
+app_text_guest_login,Gast login
+app_text_first_name,Voornaam*
+app_text_last_name,Achternaam*
+app_text_already_have_account,Heb je al een account?
+app_text_error_firstname,Voer de voornaam in.
+app_text_error_lastname,Voer de achternaam in.
+app_text_error_mobile_number,Vul alsjeblieft het mobiele nummer in.
+app_text_my_profile,Mijn profiel
+app_text_my_orders,mijn bestellingen
+app_text_my_addresses,Mijn adressen
+app_text_support,Steun
+app_text_account_page_heading,Toegang tot uw accountgegevens en beloningen
+app_text_not,Niet
+app_text_apple,Appel
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Bekijk alles
+app_text_error_email_access,Geef e -mailtoegang of gebruik een ander account.
+app_text_hi,Hoi
+app_text_sold_out,Uitverkocht
+app_text_signup_with_apple,Log in met Apple
+app_text_login_with_apple,Log in met Apple
+app_text_order,Volgorde
+app_text_order_date,Besteldatum
+app_text_items,Item (s)
+app_text_amount,Hoeveelheid
+error_voucher_not_available,Voucher is ofwel ongeldig verlopen of bereikt de gebruikslimiet!
+app_text_review_order,Revieworder
+app_text_payment_methods,Betalingsmethoden
+app_text_review_order,Revieworder
+app_text_payment_methods,Betalingsmethoden
+app_text_guest,Gast
+app_text_resend_otp,Resend OTP
+app_text_msg_mobile_number,Voer alstublieft uw mobiele nummer in
+app_text_msg_otp,Een OTP heeft Ben naar het nummer gestuurd:
+app_text_msg_resend_otp,Een OTP heeft zich een hekel aan het nummer:
+app_text_confirm_new_password,Bevestig nieuw wachtwoord
+app_text_error_facebook_login,Kon niet inloggen met Facebook
+app_text_sub_total,Subtotaal
+app_text_product_total,Producttotaal
+app_text_are_you_sure_you_want_to_exit,Weet u zeker dat u wilt afsluiten?
+text_product_updated,Producthoeveelheid met succes bijgewerkt !!
+error_incorrect_password,Incorrect wachtwoord!!
+app_text_unit_price,Stuksprijs
+app_text_only_mobile,Mobiel
+app_text_file_download,Bestand met succes gedownload op
+app_text_video,Video -bijlagen
+app_text_agree_to,Ga akkoord met de algemene voorwaarden
+app_text_agree_gdpr,Controleer het selectievakje Algemene voorwaarden !!
+app_text_use_current_location,Gebruik de huidige locatie
+app_text_adding,Toevoegen ...
+app_text_removing,Verwijderen…
+app_text_voucher_adding,Voucher toevoegen ...
+app_text_voucher_removing,Voucher verwijderen ...
+app_text_mobile,Mobiel
+app_text_deal_ends,Deal eindigt
+app_text_expires_in,Verloopt in
+app_text_register_fingerprint,Registreer je voor vingerafdruk inloggen
+app_text_reviews,Beoordelingen
+app_text_loading,Bezig met laden...
+app_text_please_wait,Even geduld aub...
+app_text_updating_cart,WAARDE CART UPDATE ...
+app_text_loading_shipping_address,Verzendadres laden ...
+app_text_loading_billing_address,Het laden van het factureringsadres ...
+app_text_removing_product,Product verwijderen ...
+app_text_loading_store_data,Store -gegevens laden
+app_text_select_country,Selecteer alstublieft een land
+app_text_select_state,Selecteer een status
+app_text_delete_account,Account verwijderen
+app_text_delete_account_msg,Weet u zeker dat u een account wilt verwijderen?
+app_text_scan_barcode,Scan barcode
+app_text_camera_loading,Camera laden ...
+app_text_camera_permission_not_available,Cameramotor is niet beschikbaar
+app_text_search_description,Vind wat u zoekt.

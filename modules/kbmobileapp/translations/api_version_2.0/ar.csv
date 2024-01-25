@@ -1,0 +1,449 @@
+app_text_home,مسكن
+app_text_recent_product,المنتج الأخير
+app_text_category,فئات
+app_text_login,تسجيل الدخول
+app_text_logout,تسجيل خروج
+app_text_login_signup,الدخول التسجيل فى الموقع
+app_text_account,حسابي
+app_text_contact,اتصل بنا
+app_text_about,معلومات عنا
+app_text_wishlist,أضف إلى قائمة الامنيات
+app_text_cart,أضف إلى السلة
+app_text_off,إيقاف
+app_text_all,الجميع
+app_text_languages,اللغات)
+app_text_sort,نوع
+app_text_filter,منقي
+app_text_sort_order,حدد ترتيب الفرز
+app_text_price_asc,السعر من الارخص للاعلى
+app_text_price_desc,السعر الاعلى الى الادنى
+app_text_product,المنتج
+app_text_select,يختار
+app_text_instock,في المخزن
+app_text_outstock,إنتهى من المخزن
+app_text_product_info,معلومات المنتج والرعاية
+app_text_customization,تخصيص المنتج
+app_text_accessories,مستلزمات
+app_text_view_less,عرض أقل
+app_text_view_more,عرض المزيد
+app_text_provide_details,يرجى تقديم تفاصيل
+app_text_bag,كيس التسوق
+app_text_apply_voucher,تطبيق القسيمة
+app_text_entry_voucher_code,أدخل رمز القسيمة
+app_text_apply,يتقدم
+app_text_gift,غلاف الهدايا
+app_text_entry_message,أدخل رسالتك
+app_text_available_first,نرسل المنتجات المتاحة أولا
+app_text_continue_shopping,مواصلة التسوق
+app_text_continue_checkout,الاستمرار في الخروج
+app_text_update_quantity,تحديث الكمية
+app_text_enter_quantity,أدخل الكمية (0-10)
+app_text_empty_cart,سلة التسوق الخاصة بك فارغة!
+app_text_goto_home,انتقل إلى الصفحة الرئيسية
+app_text_review_checkout,راجع طلباتك
+app_text_add_new_shipping_address,اضف عنوان شحن جديد
+app_text_history,تفاصيل الشحن
+app_text_summary,ملخص الطلب
+app_text_shipping_methods,طرق الشحن
+app_text_comment,طلب تعليق
+app_text_payment_summary,ملخص الدفع
+app_text_proceed,الشروع في دفع
+app_text_make_payment,قم بالدفع
+app_text_congratulations,تهانينا
+app_text_shipping_addresses,عنوان الشحن (ق)
+app_text_order_detail,تفاصيل الطلب
+app_text_update_personal,تحديث التفاصيل الشخصية
+app_text_update_password,تطوير كلمة السر
+app_text_current_password,كلمة المرور الحالية
+app_text_new_password,كلمة المرور الجديدة
+app_text_confirm_password,تأكيد كلمة المرور
+app_text_cancel,يلغي
+app_text_save,يحفظ
+app_text_sale,تخفيض السعر
+app_text_new,جديد
+app_text_order_ref,ترتيب المرجعي
+app_text_status,حالة
+app_text_placed,موضوع على
+app_text_reorder,إعادة ترتيب
+app_text_order_details,تفاصيل الطلب
+app_text_status_history,تاريخ الحالة
+app_text_shipping_address,عنوان الشحن
+app_text_order_summary,ملخص الطلب
+app_text_shipping_method,طريقة الشحن
+app_text_payment_method,طريقة الدفع او السداد
+app_text_gift_wrapping,تغليف الهدايا
+app_text_no_shipping_address,لا يوجد عنوان شحن متاح!
+app_text_no_order_details,لا تفاصيل الطلب المتاحة!
+app_text_signup,اشتراك
+app_text_continue_guest,استمر كضيف
+app_text_email,بريد الالكتروني
+app_text_password,كلمه السر
+app_text_forgot_password,هل نسيت كلمة السره
+app_text_login_social_account,يمكنك تسجيل الدخول مع حساب اجتماعي.
+app_text_login_with_google,تسجيل الدخول مع Google+
+app_text_login_with_facebook,تسجيل الدخول باستخدام الفيسبوك
+app_text_signup_with_google,الاشتراك مع Google+
+app_text_signup_with_facebook,اشترك عبر حساب فايسبوك
+app_text_msg_enter_valid_email,الرجاء إدخال بريد إلكتروني صحيح!
+app_text_msg_enter_email,الرجاء إدخال البريد الإلكتروني!
+app_text_msg_enter_password,الرجاء إدخال كلمة المرور!
+app_text_msg_password_characters_less_than_3,الرجاء إدخال كلمة المرور التي تحتوي على أحرف أكثر أو تساوي 3!
+app_text_msg_first_name,الاسم الأول
+app_text_msg_last_name,الكنية
+app_text_msg_dob,تاريخ الميلاد
+app_text_msg_confirm_password,تأكيد كلمة المرور
+app_text_msg_personal_details,تفاصيل شخصية
+app_text_msg_pass_not_matched,كلمة المرور وتأكيد كلمة المرور غير متطابقة!
+app_text_sold_by,تم بيعها من قبل:
+app_text_write_review,أكتب مراجعة
+app_text_view_review,عرض المراجعة (ق)
+app_text_view_seller_products,عرض منتج (منتجات) البائع
+app_text_wait,ارجوك انتظر
+app_text_loading,تحميل البيانات...
+app_text_msg_went_wrong,هناك خطأ ما. حاول مرة اخرى.
+app_text_msg_no_internet_found,لم يتم العثور على اتصال إنترنت.
+app_text_msg_no_internet_title,لا انترنت
+app_text_msg_request,لا يمكن أن يكون الطلب عملية. قد يكون هذا بسبب اتصال الإنترنت البطيء.
+app_text_msg_order_placed_email,تم تقديم طلبك بنجاح. سوف تتلقى بريدًا إلكترونيًا بخصوص نفسه.
+app_text_msg_product_look,يمكنك البحث عن المنتج (المنتجات) حسب فئتهم.
+app_text_msg_search_product,يمكنك البحث في أي منتج في المتجر عن طريق النص أو الصوت!
+app_text_msg_view_cart,يمكنك عرض عربة التسوق بكمية!
+app_text_msg_logout,أنت سجل بنجاح!
+app_text_msg_view_product,يمكنك عرض المنتج في القائمة أو وضع الشبكة!
+app_text_msg_sort_product,يمكنك فرز المنتج بسعرها!
+app_text_msg_filter_product,يمكنك تصفية المنتج (المنتجات) حسب حاجتك!
+app_text_text_next,التالي
+app_text_text_okay,تمام
+app_text_required,مطلوب
+app_text_msg_rating,الرجاء تحديد التصنيف
+app_text_msg_add_cart,يمكنك إضافة منتج إلى عربة التسوق بمجرد النقر على الزر "إضافة إلى عربة"!
+app_text_msg_add_wishlist,يمكنك إضافة منتج إلى قائمة الرغبات بمجرد النقر على الزر "إضافة إلى قائمة الرغبات"!
+app_text_msg_product_price,تم تحديث سعر المنتج!
+app_text_msg_product_not_available,هذا المنتج غير متوفر للطلب!
+app_text_msg_combination,لم يعد المنتج في المخزون مع التركيبة المحددة. يرجى المحاولة مع مجموعات أخرى.
+app_text_msg_product_no_stock,هذا المنتج غير متوفر في الكمية المطلوبة أم لا في المخزون!
+app_text_msg_out_stock,بعض المنتجات في العربة غير متوفرة في الكمية المطلوبة أم لا في المخزون. يرجى إزالة مثل هذه المنتجات (المنتجات) من العربة!
+app_text_msg_checkout_products,يمكنك الخروج من المنتجات في عربة التسوق بمجرد النقر على الزر "متابعة الخروج".
+app_text_msg_apply_voucher,يمكنك تطبيق القسيمة على عربة التسوق!
+app_text_msg_update_quantity,يمكنك تحديث كمية المنتج أو إزالته من عربة التسوق!
+app_text_msg_view_details,يمكنك عرض تفاصيل المنتج بالنقر فوق صورة المنتج!
+app_text_msg_success,نجاح!
+app_text_msg_failure,فشل!
+app_text_msg_enter_quantity,الرجاء إدخال الكمية
+app_text_quantity,كمية
+text_quantity,كمية
+app_text_remove,إزالة
+app_text_customization_details,تفاصيل التخصيص
+app_text_msg_add_address,يمكنك إضافة عنوان شحن جديد بالنقر فوق الزر!
+app_text_msg_update_address,يمكنك تحديث عنوان الشحن!
+app_text_msg_select_address,يمكنك تحديد أي عنوان شحن بمجرد النقر فوقه!
+app_text_select_address_text,*الرجاء تحديد عنوان الشحن لمراجعة طلبك.
+app_text_msg_no_product,لا توجد منتجات متاحة!
+app_text_msg_no_comment_available,لا تعليق (ق) متاح!
+app_text_msg_reset_password,يمكنك إعادة تعيين كلمة المرور الخاصة بك بالنقر فوق "نسيان كلمة المرور"
+app_text_msg_login,يمكنك تسجيل الدخول إلى المتجر من هنا!
+app_text_msg_login_fb,يمكنك أيضًا تسجيل الدخول إلى المتجر من حساب Facebook الخاص بك!
+app_text_msg_login_google,يمكنك أيضًا تسجيل الدخول إلى المتجر من حساب Google الخاص بك!
+app_text_msg_update_profile,يمكنك تحديث تفاصيل ملفك الشخصي تفاصيل الشحن أو عرض تفاصيل طلبك من هنا!
+app_text_product_info_and_care,معلومات المنتج والرعاية
+app_text_download,التحميلات
+app_text_minimal_quantity,الحد الأدنى من الكمية
+app_text_pack_content,حزمة المحتوى
+app_text_seller_details,تفاصيل البائع
+app_text_submit,إرسال
+app_text_msg_forget_password,أدخل عنوان البريد الإلكتروني المرتبط بحسابك. قم بإرسال إرسال كلمة مرورك عبر البريد الإلكتروني لك.
+app_text_enter_your_email,أدخل بريدك الإلكتروني
+app_text_reset_password,إعادة تعيين كلمة المرور
+app_text_view_selected_filter,يمكنك عرض نتيجة التصفية المحددة من خلال النقر على هذه الصورة!
+app_text_clear_selected_filter,يمكنك مسح المرشح المطبق من خلال النقر على هذه الصورة!
+app_text_no_filter,لا المرشحات
+app_text_phone_number_required,*يجب عليك تسجيل رقم هاتف واحد على الأقل
+app_text_refresh,تحديث
+app_text_internet_connection_failed,فشل اتصال الإنترنت!
+app_text_internet_connection_problem,قد يكون هناك بعض المشكلة في اتصال الإنترنت الخاص بك. يرجى المراجعة.
+app_text_cancel_transaction,إلغاء الصفقة
+app_text_middle_of_payment,أنت في منتصف عملية المعاملات الخاصة بك. هل تريد حقًا إلغاء معاملتك؟
+app_text_yes,نعم
+app_text_no,لا
+app_text_enter_your_comment,أدخل تعليقك
+app_text_msg_shipping_methods_unavailable,لا توجد طرق شحن متاحة
+app_text_msg_select_shipping_methods,الرجاء تحديد طريقة الشحن
+app_text_billing_address,عنوان وصول الفواتير
+app_text_billing_addresses,عناوين الفواتير
+app_text_addresses,العنوان (s)
+app_text_billing_details,تفاصيل الفاتورة
+app_text_same_as_shipping_details,نفس عنوان الشحن
+app_text_share_log,شارك السجل
+app_text_payment_failed_contact_support,لا يمكن معالجة طلبك. يرجى الاتصال بدعم أي استفسارات
+app_text_choose_payment_method,اختر وسيلة الدفع
+app_text_no_payment_method,لا توجد طريقة (طرق) الدفع!
+app_text_no_payment_currently,لا توجد طريقة دفع حاليا.
+app_text_no_make_payment,لن تكون قادرًا على إجراء الدفع لأن تطبيق الهاتف المحمول هذا هو الإعداد لغرض العرض التجريبي.
+app_text_make_payment_after_select,يمكنك إجراء الدفع بعد اختيار أي طريقة دفع!
+app_text_title_payment_paypal,الدفع باي بال
+app_text_order_total_price,الطلب الإجمالي
+app_text_user_cancelled_the_payment,ألغى المستخدم الدفع
+app_text_invalid_payment_try_again,دفعة غير صالحة. يرجى المحاولة مرة أخرى
+app_text_title_paypal_payment,الدفع باي بال
+app_text_wishlist_item_removed,العنصر الذي تمت إزالته من قائمة الأمنيات.
+app_text_wishlist_item_added,تم إضافة العنصر إلى قائمة الرغبات
+app_text_subject,مرحبًا ، تحقق من هذا!
+app_text_extra_share,متاح هنا:
+app_text_intent_title,شارك
+app_text_error_product_name_url,قد يكون اسم المنتج أو عنوان URL فارغًا.
+app_text_tag_error,خطأ
+app_text_ok,نعم
+app_text_view_your_store,عرض متجرك
+app_text_view_demo,عرض العرض التوضيحي
+app_text_currency,العملة (العملات)
+app_text_choose_your_app_theme,اختر موضوع التطبيق الخاص بك
+app_text_terms_and_conditions,شزوط واشتراطات الاستخدام
+app_text_wishlist_only,قائمة الرغبات
+app_text_wishlist_remove,إزالة من قائمة الأمنيات
+app_text_update_address,تحديث العنوان
+app_text_state_not_required,الدولة غير مطلوبة للبلد المختار
+app_text_currencies,العملة (العملات)
+app_text_payment_failed,حدث بعض الأخطاء أثناء معالجة الدفع. يرجى المحاولة مرة أخرى
+app_text_entered_wrong_url,ربما تكون قد أدخلت عنوان URL الخاطئ أو لم تقم بتثبيت BODUULE BODULE BODULE.
+app_text_login_failed,فشل عملية الدخول!
+app_text_install_module,تثبيت الوحدة النمطية
+app_text_no_data_found,لاتوجد بيانات
+app_text_enter_store_url,الرجاء إدخال عنوان URL للمتجر
+app_text_fill_all_required_fields,يرجى ملء جميع الحقول المطلوبة.
+app_text_state,حالة
+app_text_add_to_wishlist,أضف إلى قائمة الامنيات
+app_text_add_to_cart,أضف إلى السلة
+text_prices,الأسعار
+text_brands,العلامات التجارية
+text_shipping_address_success,تمت إضافة عنوان الشحن بنجاح
+text_shipping_address_issue,هناك بعض المشكلات مع البيانات
+text_shipping_address_update,تم تحديث عنوان الشحن بنجاح
+text_cart_loaded,تم تحميل معلومات العربة بنجاح
+text_order_success,الطلب الذي أنشأته هذه العربة
+text_reorder_fail,لا يمكن إعادة إنشاء الطلب
+text_currecy_error,العملة لم يتم تعيينها بسبب بعض الأخطاء. يرجى التحقق من رمز العملة والمحاولة مرة أخرى.
+text_fcm_fail,لم يتم العثور على معرف عربة أو معرف FCM
+text_empty_cart,عربة فارغة
+text_error_cart,خطأ
+text_session_expired,انتهت الجلسة
+text_customer_created,تم إنشاء العميل بنجاح !!
+text_wrong,هناك خطأ ما
+text_error_email,خطأ أثناء إرسال البريد الإلكتروني !!
+text_confirm_email,تم إرسال رسالة تأكيد بالبريد الإلكتروني إلى عنوان بريدك الإلكتروني:
+text_login_success,تسجيل الدخول المستخدم بنجاح
+text_language_error,اللغة لم يتم تعيينها بسبب بعض الأخطاء. يرجى التحقق من رمز ISO والمحاولة مرة أخرى.
+text_customer_update,المعلومات الشخصية تم تحديثها بنجاح.
+error_email_id,معرف البريد الإلكتروني غير موجود !!
+error_email_empty,معرف البريد الإلكتروني لا يمكن أن يكون فارغًا !!
+text_add_wishlist,تم إضافة المنتج إلى قائمة الرغبات
+text_fail_wishlist,المنتج لم يضاف إلى قائمة الرغبات
+text_no_email,لا البريد الإلكتروني
+text_product_added,تمت إضافة المنتج بنجاح
+text_product_deleted,تم حذف المنتج بنجاح
+text_voucher_already,قسيمة تطبيق بالفعل!
+text_voucher_success,تطبق القسيمة بنجاح على العربة
+text_voucher_removed,قسيمة تم إزالتها بنجاح
+text_product_not_added,غير قادر على إضافة العربة
+error_out_of_stock,المنتج غير متوفر في الكمية المطلوبة!
+error_firstname,يجب أن يكون الاسم الأول بين 3 و 15 حرفًا !!
+error_lastname,يجب أن يكون الاسم الأخير بين 3 و 15 حرفًا !!
+error_address_1,يجب أن يكون العنوان ما بين 3 و 15 حرفًا !!
+error_city,يجب أن تكون المدينة بين 3 و 15 حرفًا !!
+error_postcode,يرجى ملء الرمز البريدي الصالح !!
+error_country,رجاء قم بإختيار دوله!!
+error_zone,الرجاء تحديد دولة !!
+error_phone1,يجب أن يكون رقم الهاتف بين 3 و 15 حرفًا !!
+error_phone2,يجب أن يحتوي رقم الهاتف فقط على أرقام وشرطات !!
+error_password,يجب أن تكون كلمة المرور بين 4 و 15 حرفًا !!
+error_confirm,عدم تطابق كلمة المرور !!
+error_email,معرف البريد الإلكتروني غير صالح
+error_exists,معرف البريد الإلكتروني المسجل بالفعل
+error_minimum,الحد الأدنى للكمية ٪ D مطلوب للمنتج ٪ S للترتيب.
+error_quantity_required,الكمية المطلوبة.
+error_voucher,قسيمة تطبيق بالفعل!
+voucher_success,قسيمة تطبق بنجاح!
+voucher_removed,قسيمة تم إزالتها بنجاح
+text_wishlist_added,تم إضافة المنتج إلى قائمة الرغبات
+text_wishlist_removed,تم إزالة المنتج من قائمة الأمنيات
+app_text_sellers,البائعون
+app_text_seller,تاجر
+app_text_seller_shipping_policy,سياسة الشحن البائع
+app_text_seller_return_policy,سياسة إرجاع البائع
+app_text_review_title,عنوان المراجعة
+app_text_review_comment,مراجعة التعليق
+app_text_review_rating,مراجعة تصنيف
+app_text_filter_products,تصفية المنتجات
+app_text_select_category,اختر الفئة
+app_text_select_sort,نوع
+app_text_clear,واضح
+app_text_hour,ساعة
+app_text_min,الدقائق
+app_text_sec,ثوان
+app_text_install_whatsapp,WhatsApp غير مثبت على جهازك
+app_text_no_account_registered,لا يتم تسجيل أي حساب للمصادقة البيومترية في هذا الجهاز. الرجاء تسجيل حساب أولا.
+app_text_confirm_for_authentication,قم بتأكيد بصمة أو وجهك للمصادقة.
+app_text_login_with_fingerprint,تسجيل الدخول مع بصمات الأصابع
+app_text_register_for_fingerprint,سجل لبصمات الأصابع
+app_text_biometric_not_available,المصادقة البيومترية غير متوفرة لهذا الجهاز.
+app_text_fingerprint_not_recognized,معرف اللمس لا يتعرف على بصمات الأصابع. يرجى المحاولة مرة أخرى مع بصمة مسجلة.
+app_text_face_not_recognizes,معرف الوجه لا يتعرف على وجهك. يرجى المحاولة مرة أخرى مع وجهك المسجل.
+app_text_fingerprint_or_face_not_enrolled,لا بصمات/وجه مسجلة في الجهاز.
+app_text_biometry_locked_out,يتم قفل الوظيفة الآن بسبب الكثير من المحاولات الفاشلة.
+app_text_register_for_fingerpring,سجل لبصمات الأصابع
+app_text_register_for_fingerprint_details,هل تريد تسجيل هذا الحساب لوظيفة البصمات. بمجرد الانتهاء ، يمكنك تسجيل الدخول إلى هذا الحساب دون استخدام معرف البريد الإلكتروني أو كلمة المرور فقط باستخدام التحقق من بصمات الأصابع.
+app_text_register,يسجل
+app_text_fingerprint_not_available,مصادقة البصمات غير متوفرة في هذا الجهاز!
+app_text_fingerprint_not_enrolled,لا بصمات الأصابع المسجلة في الجهاز.
+app_text_android_marshmallow_required,على الأقل مطلوب Marshmallow Android لدعم مصادقة البصمات.
+app_text_fingerprint_error_try_again,هناك بعض الخطأ مع بصمة. يرجى المحاولة مرة أخرى أو متابعة بدون بصمة!
+app_text_fingerprint_wipe_sensor_try_again,قد يكون هناك بعض الغبار على مستشعر البصمات. يرجى مسحها وحاول مرة أخرى.
+app_text_skip_and_continue,تخطي ومتابعة
+app_text_verify,التحقق
+app_text_get_otp,الحصول على OTP
+app_text_mobile_number,رقم الهاتف المحمول
+app_text_mobile_number_optional,رقم الجوال (اختياري)
+app_text_invalid_phone_number,من فضلك أدخل رقما صالحا
+app_text_error_number_verification,لا يمكن التحقق من رقم الهاتف المحمول! يرجى المحاولة مرة أخرى مع رقم OTP الصحيح!
+app_text_phone_number_already_exists,رقم الهاتف مسجل بالفعل. يرجى المحاولة مرة أخرى برقم هاتف آخر!
+app_text_number_verification,رقم التحقق
+app_text_number_verification_description,تحتاج إلى التحقق من رقم الهاتف. الرجاء إدخال رقم الهاتف والإرسال
+app_text_login_with_phone_number,تسجيل الدخول برقم الهاتف
+app_text_forget_password_description,أدخل عنوان البريد الإلكتروني أو رقم الهاتف المرتبط بحسابك.
+app_text_enter_email_or_mobile_number,أدخل البريد الإلكتروني أو رقم الهاتف المحمول
+app_text_phone_number_change_message,تم تسجيل رقم هاتف واحد بالفعل في هذا الحساب. يمكنك فقط تغيير رقم الاتصال. الرجاء إدخال رقم هاتف صحيح.
+app_text_enter_otp,أدخل OTP
+app_text_review_your_order,راجع طلباتك
+app_text_attributes,صفات
+entry_company,شركة
+entry_address_1,العنوان 1
+entry_address_2,العنوان 2
+entry_city,مدينة
+entry_postcode,الرمز البريدي
+entry_country,دولة
+app_text_label_address,عنوان
+app_text_label_country,لا
+app_text_label_phone,رقم الهاتف
+app_text_select_all_options,الرجاء تحديد جميع الخيارات
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-a
+phone_number_not_exist_message,رقم الهاتف المحمول غير موجود في قاعدة البيانات
+phone_number_exist_message,يوجد رقم الهاتف المحمول في قاعدة البيانات
+password_update_message,تحديث كلمة المرور بنجاح
+app_text_continue_to_checkout_click_msg,يمكنك الخروج من المنتجات في عربة التسوق بمجرد النقر على الزر "متابعة الخروج"!
+app_text_cart_tab,عربة التسوق
+app_text_search,بحث
+app_text_msg_empty_wishlist,قائمة رغباتك فارغة
+app_text_your_wishlist_is_empty,قائمة رغباتك فارغة!
+app_text_percent_off,٪ إيقاف
+app_text_update_address_if_exists,يمكنك تحديث عنوان الشحن أو اختيار أي شيء آخر إذا كان موجودًا!
+app_text_press_back_again_to_exit,اضغط مرة أخرى للخروج
+app_text_please_login,الرجاء تسجيل الدخول
+app_text_related_products,منتجات ذات صله
+app_text_view_reviews,عرض المراجعات
+app_text_write_reviews,اكتب المراجعات
+app_text_please_fill_all_details,يرجى ملء جميع التفاصيل
+app_text_close,يغلق
+app_text_add_review,إضافة مراجعة
+app_text_write_a_review,أكتب مراجعة
+app_text_name,اسم
+app_text_title,عنوان
+app_text_number_of_reviews,عدد المراجعات
+app_text_minimum_rating,الرجاء إضافة الحد الأدنى من راتين
+app_text_error,خطأ
+app_text_no_reviews,لم يتم تقديم تعليقات
+app_text_place_your_finger_on_sensor,ضع إصبعك على المستشعر
+text_browser_payment_method_success_msg,النجاح: تم وضع طلبك. يرجى العودة إلى التطبيق.
+text_browser_payment_method_failure_msg,الفشل: لا يمكن وضع طلبك. يرجى العودة إلى التطبيق وحاول مرة أخرى.
+text_browser_payment_method_already_msg,تم وضع الطلب بالفعل. يرجى العودة إلى التطبيق وحاول مرة أخرى.
+text_order_verify_fail,لم يتم تقديم الطلب بعد ، يرجى المتابعة للحصول على طلب إكمال الدفع ثم تحقق من الطلب
+app_text_external_web_payment,عند النقر فوق الزر المتابع ، سيتم إعادة توجيهك إلى المتصفح الخارجي لمعالجة الدفع. بمجرد الانتهاء من الدفع هناك إغلاق المتصفح
+app_text_text_state,حالة
+app_text_description,وصف
+app_text_discount,خصم
+app_text_applied,مُطبَّق
+app_text_default,تقصير
+app_text_name_asc,الاسم (A-Z)
+app_text_name_desc,الاسم (Z-A)
+app_text_rating_asc,التقييم: منخفض إلى مرتفع
+app_text_rating_desc,التقييم: مرتفع إلى منخفض
+app_text_model_asc,نموذج (A-Z)
+app_text_model_desc,نموذج (Z-A)
+app_text_reference_asc,المرجع (A-Z)
+app_text_reference_asc,المرجع (A-Z)
+app_text_reference_desc,المرجع (Z-A)
+app_text_create_new_account,انشاء حساب جديد
+app_text_back_login,العودة إلى تسجيل الدخول
+app_text_guest_login,زائر الرجاء تسجيل الدخول
+app_text_first_name,الاسم الأول*
+app_text_last_name,الكنية*
+app_text_already_have_account,هل لديك حساب؟
+app_text_error_firstname,الرجاء إدخال الاسم الأول.
+app_text_error_lastname,الرجاء إدخال الاسم الأخير.
+app_text_error_mobile_number,الرجاء إدخال رقم الهاتف المحمول.
+app_text_my_profile,ملفي
+app_text_my_orders,طلباتي
+app_text_my_addresses,عناويني
+app_text_support,يدعم
+app_text_account_page_heading,الوصول إلى تفاصيل حسابك ومكافآتك
+app_text_not,لا
+app_text_apple,تفاحة
+app_text_google,جوجل
+app_text_facebook,فيسبوك
+app_text_view_all,عرض الكل
+app_text_error_email_access,يرجى تقديم الوصول إلى البريد الإلكتروني أو استخدام حساب آخر.
+app_text_hi,أهلاً
+app_text_sold_out,نفذ
+app_text_signup_with_apple,تسجيل الدخول مع Apple
+app_text_login_with_apple,تسجيل الدخول مع Apple
+app_text_order,طلب
+app_text_order_date,تاريخ الطلب
+app_text_items,أغراض)
+app_text_amount,مقدار
+error_voucher_not_available,القسيمة إما غير صالحة منتهية الصلاحية أو وصلت إلى حد الاستخدام!
+app_text_review_order,مراجعة أمر
+app_text_payment_methods,طرق الدفع
+app_text_review_order,مراجعة أمر
+app_text_payment_methods,طرق الدفع
+app_text_guest,ضيف
+app_text_resend_otp,إعادة إرسال OTP
+app_text_msg_mobile_number,الرجاء إدخال رقم هاتفك المحمول
+app_text_msg_otp,أرسل OTP Ben إلى الرقم:
+app_text_msg_resend_otp,otp لديه ben مستاء من الرقم:
+app_text_confirm_new_password,تأكيد كلمة المرور الجديدة
+app_text_error_facebook_login,لا يمكن تسجيل الدخول مع Facebook
+app_text_sub_total,الفرعية
+app_text_product_total,مجموع المنتج
+app_text_are_you_sure_you_want_to_exit,هل أنت متأكد أنك تريد الخروج؟
+text_product_updated,تم تحديث كمية المنتج بنجاح !!
+error_incorrect_password,كلمة سر خاطئة!!
+app_text_unit_price,سعر الوحده
+app_text_only_mobile,التليفون المحمول
+app_text_file_download,تم تنزيل الملف بنجاح على
+app_text_video,مرفقات الفيديو
+app_text_agree_to,وافق على الشروط والأحكام
+app_text_agree_gdpr,يرجى التحقق من الشروط والأحكام خانة الاختيار !!
+app_text_use_current_location,استخدام الموقع الحالي
+app_text_adding,مضيفا ...
+app_text_removing,إزالة ...
+app_text_voucher_adding,قسيمة إضافة ...
+app_text_voucher_removing,قسيمة إزالة ...
+app_text_mobile,التليفون المحمول
+app_text_deal_ends,تنتهي الصفقة
+app_text_expires_in,ينتهي في
+app_text_register_fingerprint,سجل لتسجيل الدخول إلى بصمات الأصابع
+app_text_reviews,المراجعات
+app_text_loading,جار التحميل...
+app_text_please_wait,أرجو الإنتظار...
+app_text_updating_cart,تحديث العربة ...
+app_text_loading_shipping_address,تحميل عنوان الشحن ...
+app_text_loading_billing_address,تحميل عنوان الفواتير ...
+app_text_removing_product,إزالة المنتج ...
+app_text_loading_store_data,تحميل بيانات المتجر
+app_text_select_country,رجاء قم بإختيار دوله
+app_text_select_state,الرجاء تحديد دولة
+app_text_delete_account,حذف الحساب
+app_text_delete_account_msg,هل أنت متأكد من أنك تريد حذف الحساب؟
+app_text_scan_barcode,مسح الرمز الشريطى
+app_text_camera_loading,تحميل الكاميرا ...
+app_text_camera_permission_not_available,إذن الكاميرا غير متوفر
+app_text_search_description,ابحث عن ما تبحث عنه.

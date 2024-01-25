@@ -1,0 +1,204 @@
+.homecat_tabs .thumbnail-container{
+    background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    -webkit-box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    height: 318px;
+    margin-bottom: 1.5625em;
+    position: relative;
+    width: 257px;
+    margin-left: auto;
+    margin-right:  auto;
+}
+.homecat_tabs .product_list.active,.homecat_product_list_wrapper.active{
+    margin: 0;
+}
+.homecat_tabs .product-title a{
+    color: #ACAAA6;
+    font-size: 0.875rem;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+}
+.homecat_tabs .product-title {
+    margin-top: 1rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+.homecat_tabs .product-price-and-shipping span.regular-price{
+    color: #ACAAA6;
+    font-size: 0.875rem;
+    text-decoration: line-through;
+}
+.homecat_tabs .product-price-and-shipping{
+    color: #414141;
+    font-weight: 700;
+    text-align: center;
+}
+.homecat_tabs .product-price-and-shipping span.discount-percentage,
+.discount-percentage-custom{
+    background: none repeat scroll 0 0 #2FB5D2;
+    box-shadow: 2px 2px 11px 0 rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 2px 2px 11px 0 rgba(0, 0, 0, 0.1);
+    color: #FFFFFF;
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+    left: -0.4375rem;
+    min-height: 1.875rem;
+    min-width: 3.125rem;
+    padding: 0.3125rem 0.4375rem;
+    position: relative;
+    text-transform: uppercase;
+    clear: left;
+    float: left;
+    top: 0.4375rem;
+}
+.discount_custom {
+  clear: left;
+  float: left;
+  pointer-events: none;
+}
+.homecat_tabs .product-description{
+    background: none repeat scroll 0 0 #FFFFFF;
+    bottom: 0;
+    height: 70px;
+    position: absolute;
+    width: 257px;
+    z-index: 1;
+}
+.homecat_tabs .highlighted-informations{
+    background: none repeat scroll 0 0 #FFFFFF;
+    bottom: 1.25rem;
+    box-shadow: 0 -5px 10px -5px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 -5px 10px -5px rgba(0, 0, 0, 0.2);
+    height: 3.125rem;
+    padding-top: 0.3125rem;
+    position: absolute;
+    text-align: center;
+    transition: bottom 0.3s ease 0s;
+    width: 257px;
+    z-index: 0;
+}
+.homecat_tabs .thumbnail-container:hover .highlighted-informations{
+    bottom: 5.625rem;
+}
+.homecat_tabs .variant-links {
+  background: none repeat scroll 0 0 #EBEBEB;
+  min-height: 2.5rem;
+  padding-top: 0.1875rem;
+  position: relative;
+  text-align: center;
+  top: 0.25em;
+  width: 100%;
+}
+.homecat_tabs .highlighted-informations .quick-view {
+  color: #878787;
+  font-size: 1rem;
+}
+.homecat_tabs .highlighted-informations .quick-view:hover {
+  color: #2FB5D2;
+}
+.homecat_tabs .product-miniature {
+  margin: 0 0.625rem;
+}
+.ets_home_categories .homecat_tab_type_list .products,
+.homecat-tab-list .products {
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  -js-display: flex;
+  display: flex;
+  -webkit-box-lines: multiple;
+  -moz-box-lines: multiple;
+  box-lines: multiple;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: start;
+  -moz-box-pack: start;
+  box-pack: start;
+  -webkit-justify-content: flex-start;
+  -moz-justify-content: flex-start;
+  -ms-justify-content: flex-start;
+  -o-justify-content: flex-start;
+  justify-content: flex-start;
+  -ms-flex-pack: start; 
+  margin: 0;
+}
+.homecat_product_list_wrapper .product-flags .new {
+    background: none repeat scroll 0 0 #2FB5D2;
+    box-shadow: 2px 2px 11px 0 rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 2px 2px 11px 0 rgba(0, 0, 0, 0.1);
+    color: #FFFFFF;
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+    left: -0.4375rem;
+    min-height: 1.875rem;
+    min-width: 3.125rem;
+    padding: 0.3125rem 0.4375rem;
+    position: relative;
+    float: left;
+    text-transform: uppercase;
+    top: 0.4375rem!important;
+    width: auto;
+}
+
+.homecat_product_list_wrapper .product-flags .on-sale {
+    background: none repeat scroll 0 0 #2FB5D2;
+    box-shadow: 2px 2px 11px 0 rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 2px 2px 11px 0 rgba(0, 0, 0, 0.1);
+    color: #FFFFFF;
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+    left: -0.4375rem;
+    min-height: 1.875rem;
+    min-width: 3.125rem;
+    padding: 0.3125rem 0.4375rem;
+    position: absolute;
+    text-transform: uppercase;
+    top: 0.4375rem!important;
+    width: auto;
+}
+.homecat_product_list_wrapper .product-flags .on-sale{
+    background: none repeat scroll 0 0 #F39D72;
+    left: 0;
+    text-align: center;
+    right: -0.4375rem;
+    left: auto;
+}
+@media (min-width: 1200px){
+    .homecat_tabs .thumbnail-container {
+      max-width: 100%;
+      width: 262px;
+    }
+}
+@media (max-width: 989px){
+    .homecat_tabs .product-miniature {
+      margin: 0 auto;
+    }
+}
+
+@media (max-width: 800px){
+    .ets_home_categories li {
+      text-align: center;
+      width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

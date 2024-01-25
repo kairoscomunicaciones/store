@@ -1,0 +1,528 @@
+/*Don't change the file if you want upgrade the module in future*/
+
+.icon-AdminGwadvancedinvoice:before{
+    content:"\f0f6";
+}
+.clear{
+    clear: both;
+}
+#productlist tr.title th,#productlist tr.content td {
+    border: 1px solid #ccc;
+    padding: 5px 0;
+}
+#productlist tr.title th{
+    background: #dcdcdc;
+}
+#customcss{
+    overflow-y: scroll !important;
+    max-height: 300px!important;
+    height: 300px!important;
+}
+input[type="radio"].colums_align{
+    display: none;
+}
+input[type="radio"].colums_align:checked + i:before{
+    color: #00aff0;
+}
+.column_resize {
+    position: absolute;
+    top: 0;
+    left: -3px;
+    cursor: pointer;
+    display: none;
+    color: #00aff0;
+}
+#slides:hover .column_resize{
+    display: block;
+}
+
+#template_box label.template_wp > input{
+  visibility: hidden;
+  position: absolute;
+}
+#template_box label.template_wp > input + img.thumbnail{
+  cursor:pointer;
+  border: 1px solid #f1f1f1 !important;
+}
+#template_box label.template_wp > input:checked + img.thumbnail{
+  border: 1px solid #C7D6DB !important;
+  box-shadow: 0 0 3px #A3B1A1;
+  background: #F5F8F9;
+}
+.group_variable_title td{
+    background-color: #f4f8fb !important;
+}
+@media screen and (min-width: 992px) {
+    .template_item:nth-child(5n+1){
+        clear:left;
+    }
+}
+@media screen and (max-width: 991px) {
+    .template_item:nth-child(2n+1){
+        clear:left;
+    }
+}
+#gwadvancedinvoicetemplate_form .translatable-field .chosen-container{
+    width: 100% !important;
+}
+#cus_invoice_wp,#cus_delivery_wp,#cus_order_wp{
+    display: none;
+}
+#cus_invoice_wp.active,#cus_delivery_wp.active,#cus_order_wp.active{
+    display: block;
+}
+.addgrouprule{
+    min-width: 150px;
+}
+.gimport_template {
+    float: left;
+    width: 100%;
+    clear: both;
+}
+/* #desc-gwadvancedinvoicetemplate-exportgtemplate:hover,#desc-gwadvancedinvoicetemplate-new{
+    background: #00aff0 !important;
+    color: #fff !important;
+} */
+/* #desc-gwadvancedinvoicetemplate-exportgtemplate,#desc-gwadvancedinvoicetemplate-new:hover{
+    background: #fff !important;
+    color: #00aff0 !important;
+} */
+i.process-icon-exportgtemplate:before {
+    content: "\F14D";
+}
+.content-listinvoice{
+    padding: 70px;
+}
+
+/* update version 1.3 */
+
+
+.bootstrap label{
+    color: #575784!important;
+}
+.bootstrap .help-block{
+    color: #A1A1C6!important;
+}
+.bootstrap .prestashop-switch input:checked+label{
+    color: #fff!important;
+}
+.admingwadvancedinvoiceconfig #main  .panel-heading,
+.admingwaicustomnumber #main  .panel-heading,
+.admingwadvancedinvoicetemplate #main  .panel-heading{
+    color: #575784!important;
+    border-bottom: 1px solid #E9EAF2!important;
+}
+.admingwadvancedinvoicetemplate #main .list-template .title{
+    color: rgb(87, 87, 132);
+    font-size: 36px;
+    font-family: OpenSans-Bold, "Open Sans";
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.admingwadvancedinvoicetemplate #main .list-template .span{
+    color: rgb(161, 161, 198);
+    font-size: 14px;
+    font-family: OpenSans, "Open Sans";
+    margin-bottom: 40px;
+}
+.admingwadvancedinvoicetemplate #main .add-template{
+    background: rgb(97, 97, 199);
+    display: inline-block;
+    border-radius: 4px;
+}
+.admingwadvancedinvoicetemplate #main .add-template a:focus,
+.add-template a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.admingwadvancedinvoicetemplate #main .add-template a{
+    color: #fff;
+    padding: 15px 40px;
+    display: block;
+    font-size: 18px;
+    font-family: OpenSans-Semibold, "Open Sans";
+    font-weight: 600;
+}
+#main .add-template .iconplus{
+    line-height: 24px;
+    margin-right: 8px;
+}
+#main .bootstrap .btn-default.active{
+    background: #6161C7!important;
+}
+#main .bootstrap .btn-default.active i{
+    color: #fff!important;
+}
+#main .bootstrap .btn-default{
+    border: 1px solid #E9EAF2!important;
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+    color: #575784;
+}
+#main .bootstrap .btn-default:focus,
+#main .bootstrap .btn-default:hover{
+    outline: 0;
+    background: #6161C7!important;
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+    color: #fff;
+}
+#main .bootstrap .row i{
+    color: #575784!important;
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+}
+.admingwadvancedinvoicetemplate .form-wrapper > .form-group{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+div#fieldset_0 > .form-group {
+    margin: 0!important;
+}
+#main .bootstrap label.control-label{
+    color: #575784;
+}
+.admingwadvancedinvoicetemplate #main .add-template i{
+    width: 18px;
+    height: 18px;
+    background:  #fff;
+    color: #6161C7;
+    line-height: 18px;
+    border-radius: 100%;
+    font-weight: 400;
+    display: inline-block;
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+}
+#main .bootstrap .btn-default:focus i,
+#main .bootstrap .btn-default:hover i{
+    color: #fff!important;
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .input-group-addon,
+.admingwadvancedinvoicetemplate #main .bootstrap textarea,
+.admingwadvancedinvoiceconfig #main .bootstrap select,
+.admingwadvancedinvoiceconfig #main .bootstrap input,
+.admingwadvancedinvoicetemplate #main .bootstrap select,
+.admingwadvancedinvoicetemplate #main .bootstrap input{
+    border: 1px solid #E9EAF2!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap textarea:hover,
+.admingwadvancedinvoicetemplate #main .bootstrap textarea:focus,
+.admingwadvancedinvoicetemplate #main .bootstrap select:hover,
+.admingwadvancedinvoicetemplate #main .bootstrap select:focus,
+.admingwadvancedinvoiceconfig #main .bootstrap select:hover,
+.admingwadvancedinvoiceconfig #main .bootstrap select:focus,
+.admingwadvancedinvoiceconfig #main .bootstrap input:focus,
+.admingwadvancedinvoiceconfig #main .bootstrap input:hover,
+.admingwadvancedinvoicetemplate #main .bootstrap input:hover,
+.admingwadvancedinvoicetemplate #main .bootstrap input:focus{
+    border: 1px solid #6161C7!important;
+    outline: 0;
+}
+#main .bootstrap .panel-footer{
+    border-top: 1px solid #E9EAF2!important;
+}
+.admingwadvancedinvoiceconfig #main .bootstrap .switch a,
+.admingwaicustomnumber #main .bootstrap .switch a,
+.admingwadvancedinvoicetemplate #main .bootstrap .switch a{
+    background-color: #6161C7!important;
+    border: 1px solid #6161C7!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .dropdown-menu>li>a:focus,
+.admingwadvancedinvoicetemplate #main .bootstrap .dropdown-menu>li>a:hover{
+    background: #6161C7!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .remove_column{
+    top: 5px!important;
+    background: #E08F95;
+    width: 17px;
+    text-align: center;
+    height: 22px;
+    line-height: 22px;
+    border-radius: 2px;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .remove_column i{
+    color: #fff!important;
+}
+.admingwadvancedinvoiceconfig #main .bootstrap .prestashop-switch,
+.admingwaicustomnumber #main .bootstrap .prestashop-switch,
+.admingwadvancedinvoicetemplate #main .bootstrap .prestashop-switch{
+    background: #E9EAF2!important;
+    box-shadow:  none;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .template_style .control-label{
+    text-align: left;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .template_style .control-label{
+    margin-bottom: 15px;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .chosen-container-single{
+    width: 100%!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .template_style .panel-heading{
+    margin: -20px -20px 20px -20px;
+    font-weight: bold;
+    background: #6161C7;
+    color: #fff!important;
+    font-size: 16px;
+    text-align: center;
+    height: 55px;
+    line-height: 55px;
+    font-family: Open Sans,Helvetica,Arial,sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .template_style{
+    position: fixed;
+    padding: 0;
+    width: 300px;
+    top: 0;
+    right: -300px;
+    z-index: 10000;
+    height: 100vh;
+    border-radius: 0;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .template_style .panel-body{
+    overflow-y: auto;
+    height: 100vh;
+    padding-bottom: 60px;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .template_style.active{
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+    right: 0;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .customtemplate_style i{
+    font-size: 25px;
+    color: #fff!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .customtemplate_style{
+    box-shadow: none;
+    width: 50px;
+    background: #6161C7!important;
+    height: 50px;
+    position: fixed;
+    top: 300px;
+    right: 0;
+    z-index: 100000;
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .list-group .list-group-item:hover{
+    border: 1px solid #6161C7!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .list-group .list-group-item{
+    float: inherit!important;
+    display: inherit;
+    padding: 0!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .list-group .list-group-item.active{
+    background: #6161C7!important;
+    color: #fff!important;
+    border: 1px solid #6161C7!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .list-group .active a{
+    display: block;
+    color: #fff!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .list-group a:hover{
+    background: #6161C7!important;
+    color: #fff!important;
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .list-group a{
+    color: #6161C7;
+    border: none!important;
+    background: none!important;
+    margin: 0!important;
+    border-radius: 0!important;
+    font-family: Open Sans,Helvetica,Arial,sans-serif;
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+}
+#template_box label.template_wp > input:checked + img.thumbnail,
+#template_box label.template_wp > input + img.thumbnail:hover{
+    border: 1px solid #6161c7 !important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .background{
+    margin-bottom: 55px;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .customtemplate_style.active{
+    right: 299px;
+    border-right: 1px solid #fff!important;
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+        -ms-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+}
+.admingwaicustomnumber .bootstrap .btn.btn-default:hover,
+.admingwaicustomnumber .list-group-item.active{
+    background: #6161C7!important;
+    border: 1px solid #6161C7!important;
+}
+.admingwaicustomnumber .addnewrule_bt i{
+    color: #A1A1C6!important;
+}
+.tabs-create{
+    position: absolute;
+    top: 0;
+    right: 15px;
+    z-index: 490;
+}
+.tabs-create li a{
+    padding: 6px 15px;
+    border-radius: 0;
+    margin: 0;
+    display: block;
+    color: #575784;
+}
+.menuconfig{
+    top: 1px;
+}
+.tabs-create li a:focus,
+.tabs-create li a:hover{
+    text-decoration: none;
+    outline: none;
+    color: #6161C7;
+}
+.tabs-create > li{
+    list-style: none;
+    border: 1px solid #fff;
+    border-left: 1px solid #E9EAF2;
+    float: left;
+}
+.tabs-create > li:last-child a{
+    border-right: 1px solid #E9EAF2;
+}
+.tabs-create li.active{
+    border-top: 2px solid #6161C7;
+}
+.tabs-create li.active a{
+    color: #6161C7;
+}
+.form-group < .formbuilder_tab.active{
+    display: block!important;
+}
+.formbuilder_tab{
+    display: none;
+}
+.formbuilder_tab.active{
+    display: block;
+}
+.AdminGwadvancedinvoiceconfig{
+    display: none;
+}
+.AdminGwadvancedinvoiceconfig.active{
+    display:  block;
+}
+#desc-gwadvancedinvoicetemplate-new{
+    background-color: #6161C7!important;
+    border: 1px solid #6161C7!important;
+}
+#desc-gwadvancedinvoicetemplate-new .label-tooltip i{
+    color: #fff!important;
+}
+.panel-heading-action .list-toolbar-btn:hover{
+    background: #6161C7!important;
+    border: 1px solid #6161C7!important;
+}
+#content.bootstrap .panel-heading-action a.list-toolbar-btn:hover span i{
+    color: #fff!important;
+}
+.border_water{
+    border: 1px solid #E9EAF2;
+    border-radius: 3px;
+    padding: 15px 10px;
+}
+.border_water .translatable-field{
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 100%;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap .dropdown-menu>li>a:hover i,
+#content.bootstrap .panel-heading .panel-heading-action a.list-toolbar-btn#desc-gwadvancedinvoicetemplate-new span i{
+    color: #fff!important;
+}
+.admingwadvancedinvoiceconfig #main .bootstrap .switch input:last-of-type:checked ~ a,
+.admingwaicustomnumber #main .bootstrap .switch input:last-of-type:checked ~ a,
+.admingwadvancedinvoicetemplate #main .bootstrap .switch input:last-of-type:checked~a{
+    border: 0!important;
+    background-color: #E08F95!important;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap #productlist .remove_column{
+    display: none;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap #productlist tr.title .slide_column:hover .remove_column{
+    display: block;
+}
+.admingwadvancedinvoicetemplate #main .bootstrap #productlist .translatable-field > .col-sm-12:first-child{
+    margin-bottom: 5px;
+}
+#new_column{
+    background: #6161C7!important;
+}
+#new_column i{
+    color: #fff!important;
+}
+.config_content,
+.extra_content{
+    display: none;
+}
+.config_content.activetab,
+.extra_content.activetab{
+    display: block;
+}
+#main .bootstrap .row i.icon-check{
+    color: #72C279!important;
+}
+#main .bootstrap .row i.icon-remove{
+    color: #E08F95!important;
+}
+#template iframe{
+    min-height: 150px;
+}
+#main .bootstrap .btn-default#new_column .icon-plus{
+    color: #fff!important;
+}
+
+
+
+
+
+

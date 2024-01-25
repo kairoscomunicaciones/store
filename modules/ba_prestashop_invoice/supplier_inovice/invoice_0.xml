@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name><![CDATA[Default Invoice]]></name>
+	<description><![CDATA[]]></description>
+	<thumbnail><![CDATA[icon_default.png]]></thumbnail>
+	<show_pagination><![CDATA[0]]></show_pagination>   <!-- Y: Yes, N: No -->
+	<useAdminOrClient><![CDATA[0]]></useAdminOrClient>
+	<enable_landscape ><![CDATA[0]]></enable_landscape><!-- Y: Yes, N: No -->
+	<status><![CDATA[1]]></status><!-- 1: Enable, 0: Disable -->
+	<pdf_header><![CDATA[]]></pdf_header>
+	<pdf_content><![CDATA[
+		<table>
+			<tr><td style="line-height: 6px">&nbsp;</td></tr>
+		</table>
+		<table style="width: 100%">
+			<tr>
+				<td style="width: 50%">
+					<img src="PREFIX_URLmodules/ba_prestashop_invoice/views/img/logo.png" />
+				</td>
+				<td style="width: 50%; text-align: right;">
+					<table style="width: 100%">
+						<tr>
+							<td style="width: 100%;"><span>Name shop /</span><strong> <span> [shopname]</span></strong></td>
+						</tr>
+						<tr>
+							<td><span>Date order /</span><strong> <span>[date]</span></strong></td>
+						</tr>
+						<tr>
+							<td><span>Title /</span><strong> <span>[title]</span></strong></td>
+						</tr>
+						<tr>
+							<td><span>Reference /</span><strong> <span>[reference]</span></strong></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	<div style="font-size: 9pt; color: #444;margin-top:30px;">
+
+		<!-- SHOP ADDRESS -->
+		
+		<!-- / SHOP ADDRESS -->
+		
+		<!-- SUPPLIER ADDRESS -->
+		<table style="width: 100%; float: left;">
+			<tbody>
+				<tr>
+					<td style="font-family: arial; font-size: 11pt; width: 33.33%; vertical-align: top;">
+					<div><strong>Supplier order</strong></div>
+					<br />
+					<div>[supplier_name]</div>
+					<div>[supplier_address1]</div>
+					<div>[supplier_address2]</div>
+					<div>[supplier_postcode] [supplier_city]</div>
+					<div>[supplier_country]</div>
+					</td>
+					<td style="font-family: arial; font-size: 11pt; width: 33.33%; vertical-align: top;">
+					<div><strong>Ware house</strong></div>
+					<br />
+					<div>[firstname_warehouse] [lastname_warehouse]</div>
+					<div>[address_warehouse_address1]</div>
+					<div>[vat_number_warehouse] - [warehouse_postcode]</div>
+					<div>[phone_warehouse]</div>
+					<div>[phone_mobile_warehouse]</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<!-- / SUPPLIER ADDRESS -->
+
+		<table>
+			<tr><td style="line-height: 8px">&nbsp;</td></tr>
+		</table>
+
+		<!-- PRODUCTS -->
+		[product_list]
+		<!-- / PRODUCTS -->
+		
+		<table>
+			<tr><td style="line-height: 8px">&nbsp;</td></tr>
+		</table>
+
+		<div style="width: 100%; float: left; border-bottom: 3px solid #000;"><!-- PRODUCTS TAXES --> [tax_list] <!-- / PRODUCTS TAXES -->
+			<div style="float: left; width: 55%; margin-left: 5%;">
+				<div style="float: left; width: 100%; margin-top: 7px; margin-bottom: 20px;">
+					<div style="float: left; width: 100%; border-bottom: 1px solid #ececec;">
+					<div style="color: #000;height: 20px; float: left; width: 50%; font-weight: bold; font-size: 14px; padding: 5px 0;">Total TE (Before discount)</div>
+					<div style="color: #000;height: 20px; float: left; width: 50%; text-align: right; font-family: arial; font-size: 14px; padding: 5px 0;">[total_te]</div>
+					</div>
+					<div style="float: left; width: 100%; border-bottom: 1px solid #ececec;">
+					<div style="color: #000;height: 20px; float: left; width: 50%; font-weight: bold; font-size: 14px; padding: 5px 0;">Order Discount</div>
+					<div style="color: #000;height: 20px; float: left; width: 50%; text-align: right; font-size: 14px; padding: 5px 0;">[discount_value_te]</div>
+					</div>
+					<div style="float: left; width: 100%; border-bottom: 1px solid #ececec;">
+					<div style="color: #000;height: 20px; float: left; width: 50%; font-weight: bold; font-size: 14px; padding: 5px 0;">Total TE (After discount)</div>
+					<div style="color: #000;height: 20px; float: left; width: 50%; text-align: right; font-size: 14px; padding: 5px 0;">[total_with_discount_te]</div>
+					</div>
+					<div style="float: left; width: 100%; border-bottom: 1px solid #ececec;">
+					<div style="color: #000;height: 20px; float: left; width: 50%; font-weight: bold; font-size: 14px; padding: 5px 0;">Tax value</div>
+					<div style="color: #000;height: 20px; float: left; width: 50%; text-align: right; font-size: 14px; padding: 5px 0;">[total_tax]</div>
+					</div>
+					<div style="float: left; width: 100%; border-bottom: 1px solid #000;">
+					<div style="color: #000;height: 20px; float: left; width: 50%; font-weight: bold; font-size: 14px; padding: 5px 0;">Total TI</div>
+					<div style="color: #000;height: 20px; float: left; width: 50%; text-align: right; font-size: 14px; padding: 5px 0;">[total_ti]</div>
+					</div>
+					<div style="float: left; width: 100%;">
+					<div style="color: #000;height: 20px; float: left; width: 50%; font-weight: bold; font-size: 14px; padding: 5px 0;">Total to pay</div>
+					<div style="color: #000;height: 20px; float: left; width: 50%; text-align: right; font-size: 14px; padding: 5px 0;">[total_ti]</div>
+					</div>
+				<!-- TOTAL --> <!-- / TOTAL --></div>
+			</div>
+		</div>
+		
+		<table>
+			<tr><td style="line-height: 8px">&nbsp;</td></tr>
+		</table>
+		
+		<!-- TOTAL -->
+		<!-- / TOTAL -->
+	</div>
+	<!-- <div style="padding: 15pt 0 10px 10px; width: 30%; float: right;"> -->
+		<!-- <div style="border: 2px solid #000; text-align: center; padding: 7px; font-weight: bold; font-family: arial; font-size: 11pt;">TOTAL: [total_ti]</div> -->
+	<!-- </div> -->
+
+	]]></pdf_content><pdf_footer><![CDATA[
+		<div style="width: 100%;">
+			<table style="width: 100%;">
+				<tbody>
+					<tr>
+						<td style="text-align: center; height: 30px;" colspan="2"> </td>
+					</tr>
+					<tr><th style="font-size: 18pt; text-transform: uppercase; font-family: arial; font-weight: bold; width: 50%;" colspan="2">THANK YOU</th></tr>
+					<tr>
+						<td style="padding-right: 10px; width: 50%; text-align: right; float: right; border-right: 1px solid #999999;">
+							<table>
+								<tbody>
+									<tr>
+										<td style="font-family: arial; font-size: 11pt; text-align: right;">Company Name</td>
+									</tr>
+									<tr>
+										<td style="font-family: arial; font-size: 11pt; text-align: right;">16, Main street 2nd floor Miami,</td>
+									</tr>
+									<tr>
+										<td style="font-family: arial; font-size: 11pt; text-align: right;">Florida 33133 United States</td>
+									</tr>
+									<tr>
+										<td style="font-family: arial; font-size: 11pt; text-align: right;">https://yourstore.com</td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+						<td style="padding-left: 10px; width: 50%;">
+							<table>
+								<tbody>
+									<tr>
+										<td>&nbsp;<img src="PREFIX_URLmodules/ba_prestashop_invoice/views/img/icon_facebook.png" alt="" width="16" height="16" />&nbsp;</td>
+										<td>https://facebook.com/your_facebook</td>
+									</tr>
+									<tr>
+										<td>&nbsp;<img src="PREFIX_URLmodules/ba_prestashop_invoice/views/img/icon_twitter.png" alt="" width="16" height="16" />&nbsp;</td>
+										<td>Twitter: Twitter Name</td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td style="text-align: center; height: 30px;" colspan="2"> </td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	]]></pdf_footer>
+	<customize_css><![CDATA[
+		.ba-box-table{
+			font-size: 6pt;
+			border-top:2px solid #000;
+			padding-top:10px;
+			border-bottom:1px solid #ececec;
+			padding-bottom:10px;
+		}
+		.ba-tabletax{
+			padding-top:10px;
+			border-bottom:1px solid #ececec;
+			padding-bottom:10px;
+			float:left;
+			width:100%;
+		}
+		.ba-tabletax tr td{
+			padding-right: 15px;
+		}
+	]]></customize_css>
+	<products_template columns_size="9">
+		<col>
+			<col_title><![CDATA[REFERENCE]]></col_title>
+			<col_content><![CDATA[2]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[PRODUCT NAME]]></col_title>
+			<col_content><![CDATA[1]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[QTY]]></col_title>
+			<col_content><![CDATA[3]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[UNIT PRICE TE]]></col_title>
+			<col_content><![CDATA[4]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Total TE Before discount]]></col_title>
+			<col_content><![CDATA[5]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Discount Rate]]></col_title>
+			<col_content><![CDATA[6]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[Total TE After discount]]></col_title>
+			<col_content><![CDATA[8]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[TAX RATE]]></col_title>
+			<col_content><![CDATA[7]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+		<col>
+			<col_title><![CDATA[ITEM TOTAL]]></col_title>
+			<col_content><![CDATA[9]]></col_content>
+			<col_title_color><![CDATA[000000]]></col_title_color>
+			<col_title_bgcolor><![CDATA[FFFFFF]]></col_title_bgcolor>
+		</col>
+	</products_template>
+</module>

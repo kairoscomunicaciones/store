@@ -1,0 +1,8 @@
+Dobrý den, {customer_name},
+Děkujeme za registraci na {shop_name}. Podrobnosti o vašem účtu jsou následující:
+E-mail: {customer_email}
+Heslo: {auto_generated_password}
+Vaše aktuální heslo bylo automaticky vygenerováno naším obchodem. Doporučujeme změnit heslo na něco, co je snáze zapamatovatelné a bezpečnější.
+ZMĚŇTE SI HESLO: {link_change_password}
+Máte-li jakékoli dotazy týkající se vašeho účtu, neváhejte nás kontaktovat. Rádi vám pomůžeme!
+S pozdravem,

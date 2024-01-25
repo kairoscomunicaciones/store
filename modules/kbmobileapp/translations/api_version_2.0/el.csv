@@ -1,0 +1,449 @@
+app_text_home,Σπίτι
+app_text_recent_product,Πρόσφατο προϊόν
+app_text_category,Κατηγορίες
+app_text_login,Σύνδεση
+app_text_logout,Αποσύνδεση
+app_text_login_signup,Σύνδεση εγγραφή
+app_text_account,Ο λογαριασμός μου
+app_text_contact,Επικοινωνήστε μαζί μας
+app_text_about,Σχετικά με εμάς
+app_text_wishlist,Πρόσθεσε στην λίστα επιθυμιών
+app_text_cart,Προσθήκη στο καλάθι
+app_text_off,μακριά από
+app_text_all,Ολα
+app_text_languages,Γλώσσες)
+app_text_sort,Είδος
+app_text_filter,Φίλτρο
+app_text_sort_order,Επιλέξτε ταξινόμηση παραγγελίας
+app_text_price_asc,Τιμή: Χαμηλή έως υψηλή
+app_text_price_desc,Τιμή: Υψηλή έως Χαμηλή
+app_text_product,Προϊόν
+app_text_select,Επιλέγω
+app_text_instock,Σε απόθεμα
+app_text_outstock,Εκτός αποθέματος
+app_text_product_info,Πληροφορίες και φροντίδα προϊόντος
+app_text_customization,Εξατομίκευση προϊόντος
+app_text_accessories,αξεσουάρ
+app_text_view_less,Δείτε λιγότερα
+app_text_view_more,Δείτε περισσότερα
+app_text_provide_details,Δώστε λεπτομέρειες
+app_text_bag,Τσάντα για ψώνια
+app_text_apply_voucher,Εφαρμογή κουπονιού
+app_text_entry_voucher_code,Εισαγάγετε τον κωδικό κουπόνι
+app_text_apply,Ισχύουν
+app_text_gift,Χαρτί περιτυλίγματος
+app_text_entry_message,Εισαγάγετε το μήνυμά σας
+app_text_available_first,Αποστολή διαθέσιμων προϊόντων πρώτα
+app_text_continue_shopping,Συνεχίστε τις αγορές
+app_text_continue_checkout,Συνεχίστε να ελέγχετε
+app_text_update_quantity,Ενημέρωση ποσότητα
+app_text_enter_quantity,Εισαγάγετε την ποσότητα (0-10)
+app_text_empty_cart,Το καλάθι αγορών σας είναι άδειο!
+app_text_goto_home,ΠΗΓΑΙΝΕ ΣΤΗΝ ΑΡΧΙΚΗ ΣΕΛΙΔΑ
+app_text_review_checkout,Ελέγξτε την παραγγελία σας
+app_text_add_new_shipping_address,Προσθήκη νέας διεύθυνσης αποστολής
+app_text_history,Λεπτομέρειες αποστολής
+app_text_summary,περίληψη παραγγελίας
+app_text_shipping_methods,Μεθόδους αποστολής
+app_text_comment,Παραγγείλετε σχόλιο
+app_text_payment_summary,Περίληψη πληρωμής
+app_text_proceed,Προχωρήστε στην πληρωμή
+app_text_make_payment,Κάνω πληρωμή
+app_text_congratulations,Συγχαρητήρια
+app_text_shipping_addresses,Διευθύνσεις αποστολής
+app_text_order_detail,Λεπτομέρειες παραγγελίας
+app_text_update_personal,Ενημέρωση προσωπικών λεπτομερειών
+app_text_update_password,Ενημέρωση κωδικού πρόσβασης
+app_text_current_password,Τρέχων κωδικός πρόσβασης
+app_text_new_password,νέος κωδικός πρόσβασης
+app_text_confirm_password,Επιβεβαίωση Κωδικού
+app_text_cancel,Ματαίωση
+app_text_save,Σώσει
+app_text_sale,Πώληση
+app_text_new,Νέος
+app_text_order_ref,Παραγγελία
+app_text_status,Κατάσταση
+app_text_placed,Τοποθετημένος
+app_text_reorder,Παραγγέλλω πάλι
+app_text_order_details,Λεπτομέρειες Παραγγελίας
+app_text_status_history,Ιστορικό κατάστασης
+app_text_shipping_address,Διεύθυνση αποστολής
+app_text_order_summary,περίληψη παραγγελίας
+app_text_shipping_method,Μέθοδος αποστολής
+app_text_payment_method,Μέθοδος πληρωμής
+app_text_gift_wrapping,Περιτύλιγμα δώρων
+app_text_no_shipping_address,Δεν υπάρχει διαθέσιμη διεύθυνση αποστολής!
+app_text_no_order_details,Δεν υπάρχουν διαθέσιμα στοιχεία παραγγελίας!
+app_text_signup,Εγγραφείτε
+app_text_continue_guest,Συνεχίστε ως επισκέπτης
+app_text_email,ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ
+app_text_password,Κωδικός πρόσβασης
+app_text_forgot_password,Ξεχάσατε τον κωδικό?
+app_text_login_social_account,Μπορείτε να συνδεθείτε με κοινωνικό λογαριασμό.
+app_text_login_with_google,Συνδεθείτε με το Google+
+app_text_login_with_facebook,Σύνδεση με το Facebook
+app_text_signup_with_google,Εγγραφή με το Google+
+app_text_signup_with_facebook,Εγγραφή με το Facebook
+app_text_msg_enter_valid_email,Εισαγάγετε έγκυρο email!
+app_text_msg_enter_email,Εισαγάγετε email!
+app_text_msg_enter_password,Παρακαλώ εισάγετε κωδικό πρόσβασης!
+app_text_msg_password_characters_less_than_3,Εισαγάγετε τον κωδικό πρόσβασης με χαρακτήρες περισσότερο ή ίσο με 3!
+app_text_msg_first_name,Ονομα
+app_text_msg_last_name,Επίθετο
+app_text_msg_dob,Ημερομηνια γεννησης
+app_text_msg_confirm_password,Επιβεβαίωση Κωδικού
+app_text_msg_personal_details,Προσωπικα ΣΤΟΙΧΕΙΑ
+app_text_msg_pass_not_matched,Ο κωδικός πρόσβασης και η επιβεβαίωση του κωδικού πρόσβασης δεν ταιριάζουν!
+app_text_sold_by,Πουλήθηκε από:
+app_text_write_review,Γράψε κριτική
+app_text_view_review,Προβολή αναθεώρησης (ες)
+app_text_view_seller_products,Προβολή προϊόντων πωλητή
+app_text_wait,Παρακαλώ περιμένετε
+app_text_loading,Τα δεδομένα φορτώνονται...
+app_text_msg_went_wrong,Κάτι πήγε στραβά. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.
+app_text_msg_no_internet_found,Δεν βρέθηκε σύνδεση στο Διαδίκτυο.
+app_text_msg_no_internet_title,Χωρίς Διαδίκτυο
+app_text_msg_request,Το αίτημα δεν μπορεί να είναι διαδικασία. Αυτό μπορεί να οφείλεται σε αργή σύνδεση στο διαδίκτυο.
+app_text_msg_order_placed_email,Η παραγγελία σας έχει τοποθετηθεί με επιτυχία. Θα λάβετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου σχετικά με το ίδιο.
+app_text_msg_product_look,Μπορείτε να αναζητήσετε προϊόντα (ες) από την κατηγορία τους.
+app_text_msg_search_product,Μπορείτε να αναζητήσετε οποιοδήποτε προϊόν στο κατάστημα με κείμενο ή φωνή!
+app_text_msg_view_cart,Μπορείτε να δείτε το καλάθι αγορών με ποσότητα!
+app_text_msg_logout,Εσείς αποσυνδέετε με επιτυχία!
+app_text_msg_view_product,Μπορείτε να δείτε το προϊόν σε λειτουργία λίστας ή πλέγματος!
+app_text_msg_sort_product,Μπορείτε να ταξινομήσετε το προϊόν με την τιμή τους!
+app_text_msg_filter_product,Μπορείτε να φιλτράρετε τα προϊόντα (ες) σύμφωνα με την ανάγκη σας!
+app_text_text_next,Επόμενο
+app_text_text_okay,εντάξει
+app_text_required,Απαιτείται
+app_text_msg_rating,Επιλέξτε βαθμολογία
+app_text_msg_add_cart,Μπορείτε να προσθέσετε προϊόν στο καλάθι αγορών κάνοντας απλά κλικ στο κουμπί 'Προσθήκη στο καλάθι'!
+app_text_msg_add_wishlist,Μπορείτε να προσθέσετε προϊόν στη λίστα επιθυμιών κάνοντας απλά κλικ στο κουμπί 'Προσθήκη στη λίστα επιθυμιών'!
+app_text_msg_product_price,Η τιμή του προϊόντος έχει ενημερωθεί!
+app_text_msg_product_not_available,Αυτό το προϊόν δεν είναι διαθέσιμο για παραγγελία!
+app_text_msg_combination,Το προϊόν δεν είναι πλέον σε απόθεμα με τον επιλεγμένο συνδυασμό. Δοκιμάστε με άλλους συνδυασμούς.
+app_text_msg_product_no_stock,Αυτό το προϊόν δεν είναι διαθέσιμο στην επιθυμητή ποσότητα ή όχι σε απόθεμα!
+app_text_msg_out_stock,Ορισμένα από τα προϊόντα του καλαθιού δεν είναι διαθέσιμα στην επιθυμητή ποσότητα ή όχι σε απόθεμα. Αφαιρέστε αυτά τα προϊόντα από το καλάθι!
+app_text_msg_checkout_products,Μπορείτε να ελέγξετε τα προϊόντα στο καλάθι αγορών, απλά κάνοντας κλικ στο κουμπί 'Συνεχίστε να ελέγχετε'.
+app_text_msg_apply_voucher,Μπορείτε να εφαρμόσετε κουπόνι στο καλάθι αγορών!
+app_text_msg_update_quantity,Μπορείτε να ενημερώσετε την ποσότητα του προϊόντος ή να το αφαιρέσετε από το καλάθι αγορών!
+app_text_msg_view_details,Μπορείτε να δείτε τα στοιχεία του προϊόντος κάνοντας κλικ στην εικόνα του προϊόντος!
+app_text_msg_success,Επιτυχία!
+app_text_msg_failure,Αποτυχία!
+app_text_msg_enter_quantity,Εισαγάγετε την ποσότητα
+app_text_quantity,Ποσότητα
+text_quantity,Ποσότητα
+app_text_remove,Αφαιρώ
+app_text_customization_details,Λεπτομέρειες προσαρμογής
+app_text_msg_add_address,Μπορείτε να προσθέσετε νέα διεύθυνση αποστολής κάνοντας κλικ στο κουμπί!
+app_text_msg_update_address,Μπορείτε να ενημερώσετε τη διεύθυνση αποστολής!
+app_text_msg_select_address,Μπορείτε να επιλέξετε οποιαδήποτε διεύθυνση αποστολής κάνοντας απλά κάνοντας κλικ σε αυτό!
+app_text_select_address_text,*Επιλέξτε τη διεύθυνση αποστολής για να ελέγξετε την παραγγελία σας.
+app_text_msg_no_product,Δεν υπάρχουν διαθέσιμα προϊόντα!
+app_text_msg_no_comment_available,Δεν υπάρχουν διαθέσιμα σχόλια!
+app_text_msg_reset_password,Μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας κάνοντας κλικ στο "Ξεχάστε τον κωδικό πρόσβασης"
+app_text_msg_login,Μπορείτε να συνδεθείτε στο κατάστημα από εδώ!
+app_text_msg_login_fb,Μπορείτε επίσης να συνδεθείτε στο κατάστημα από το λογαριασμό σας στο Facebook!
+app_text_msg_login_google,Μπορείτε επίσης να συνδεθείτε στο κατάστημα από τον λογαριασμό σας στο Google!
+app_text_msg_update_profile,Μπορείτε να ενημερώσετε τα στοιχεία της αποστολής του προφίλ σας ή να δείτε τα στοιχεία της παραγγελίας σας από εδώ!
+app_text_product_info_and_care,Πληροφορίες και φροντίδα προϊόντος
+app_text_download,Λήψεις
+app_text_minimal_quantity,Ελάχιστη ποσότητα
+app_text_pack_content,Περιεχόμενο συσκευασίας
+app_text_seller_details,Λεπτομέρειες πωλητή
+app_text_submit,υποβάλλουν
+app_text_msg_forget_password,Εισαγάγετε τη διεύθυνση e-mail που σχετίζεται με τον λογαριασμό σας. Κάντε υποβολή υποβολής για να σας αποσταλεί μέσω ηλεκτρονικού ταχυδρομείου.
+app_text_enter_your_email,Συμπληρώστε το email σας
+app_text_reset_password,Επαναφέρετε τον κωδικό πρόσβασης
+app_text_view_selected_filter,Μπορείτε να δείτε το επιλεγμένο αποτέλεσμα φίλτρου κάνοντας κλικ σε αυτήν την εικόνα!
+app_text_clear_selected_filter,Μπορείτε να καθαρίσετε το εφαρμοσμένο φίλτρο κάνοντας κλικ σε αυτήν την εικόνα!
+app_text_no_filter,Χωρίς φίλτρα
+app_text_phone_number_required,*Πρέπει να εγγραφείτε τουλάχιστον ένας αριθμός τηλεφώνου
+app_text_refresh,Φρεσκάρω
+app_text_internet_connection_failed,Η σύνδεση στο Διαδίκτυο απέτυχε!
+app_text_internet_connection_problem,Μπορεί να υπάρχει κάποιο πρόβλημα με τη σύνδεσή σας στο Διαδίκτυο. Παρακαλώ ελέγξτε.
+app_text_cancel_transaction,Ακύρωση συναλλαγής
+app_text_middle_of_payment,Βρίσκεστε στη μέση της διαδικασίας συναλλαγής πληρωμής. Θέλετε πραγματικά να ακυρώσετε τη συναλλαγή σας;
+app_text_yes,Ναί
+app_text_no,Οχι
+app_text_enter_your_comment,Εισαγάγετε το σχόλιό σας
+app_text_msg_shipping_methods_unavailable,Δεν υπάρχουν διαθέσιμες μέθοδοι αποστολής
+app_text_msg_select_shipping_methods,Επιλέξτε τη μέθοδο αποστολής
+app_text_billing_address,διεύθυνση χρέωσης
+app_text_billing_addresses,Διεύθυνση χρέωσης
+app_text_addresses,Διεύθυνση (ες)
+app_text_billing_details,λεπτομέρειες χρέωσης
+app_text_same_as_shipping_details,Ίδια με τη διεύθυνση αποστολής
+app_text_share_log,Αρχείο καταγραφής
+app_text_payment_failed_contact_support,Η παραγγελία σας δεν μπορούσε να υποβληθεί σε επεξεργασία. Υποστηρίξτε την υποστήριξη επικοινωνίας για τυχόν ερωτήματα
+app_text_choose_payment_method,Διαλέξτε μέθοδο πληρωμής
+app_text_no_payment_method,Δεν βρέθηκαν μέθοδοι πληρωμής!
+app_text_no_payment_currently,Δεν υπάρχει τρόπος πληρωμής επί του παρόντος.
+app_text_no_make_payment,Δεν θα μπορείτε να κάνετε πληρωμή, καθώς αυτή η εφαρμογή για κινητά είναι ρύθμιση για σκοπούς επίδειξης.
+app_text_make_payment_after_select,Μπορείτε να κάνετε πληρωμή μετά την επιλογή οποιασδήποτε μέθοδοι πληρωμής!
+app_text_title_payment_paypal,Πληρωμή paypal
+app_text_order_total_price,Παραγγελία συνολική τιμή
+app_text_user_cancelled_the_payment,Ο χρήστης ακύρωσε την πληρωμή
+app_text_invalid_payment_try_again,Μη έγκυρη πληρωμή. Δοκιμάστε ξανά
+app_text_title_paypal_payment,Πληρωμή paypal
+app_text_wishlist_item_removed,Το στοιχείο που αφαιρείται από τη λίστα επιθυμιών.
+app_text_wishlist_item_added,Το αντικείμενο προστέθηκε στη λίστα επιθυμιών
+app_text_subject,Γεια σου, ελέγξτε αυτό!
+app_text_extra_share,Διατίθεται εδώ:
+app_text_intent_title,Μερίδιο
+app_text_error_product_name_url,Το όνομα του προϊόντος ή η διεύθυνση URL μπορεί να είναι κενό.
+app_text_tag_error,Λάθος
+app_text_ok,Εντάξει
+app_text_view_your_store,Δείτε το κατάστημά σας
+app_text_view_demo,ΔΗΜΙΟΥΡΓΟΣ ΔΗΜΙΟΥΡΓΟΥ
+app_text_currency,Νόμισμα (ες)
+app_text_choose_your_app_theme,Επιλέξτε το θέμα της εφαρμογής σας
+app_text_terms_and_conditions,Οροι Χρήσης
+app_text_wishlist_only,Λίστα επιθυμιών
+app_text_wishlist_remove,Αφαιρέστε από τη λίστα επιθυμιών
+app_text_update_address,Ενημέρωση
+app_text_state_not_required,Το κράτος δεν απαιτείται για επιλεγμένη χώρα
+app_text_currencies,Νόμισμα (ες)
+app_text_payment_failed,Παρουσιάστηκε κάποιο σφάλμα κατά την επεξεργασία της πληρωμής. Δοκιμάστε ξανά
+app_text_entered_wrong_url,Μπορεί να έχετε εισαγάγει λάθος διεύθυνση URL ή δεν έχετε εγκαταστήσει το Bodule Mobile Builder.
+app_text_login_failed,Η σύνδεση απέτυχε!
+app_text_install_module,Μονάδα εγκατάστασης
+app_text_no_data_found,Δε βρέθηκαν δεδομένα
+app_text_enter_store_url,Εισαγάγετε τη διεύθυνση URL αποθήκευσης
+app_text_fill_all_required_fields,Συμπληρώστε όλα τα απαιτούμενα πεδία.
+app_text_state,κατάσταση
+app_text_add_to_wishlist,Πρόσθεσε στην λίστα επιθυμιών
+app_text_add_to_cart,Προσθήκη στο καλάθι
+text_prices,Τιμές
+text_brands,Σήματα
+text_shipping_address_success,Η διεύθυνση αποστολής έχει προστεθεί με επιτυχία
+text_shipping_address_issue,Υπάρχουν ορισμένα προβλήματα με δεδομένα
+text_shipping_address_update,Η διεύθυνση αποστολής ενημερώθηκε με επιτυχία
+text_cart_loaded,Πληροφορίες καλαθιού φορτώθηκαν με επιτυχία
+text_order_success,Παραγγελία που δημιουργήθηκε από αυτό το καλάθι
+text_reorder_fail,Η παραγγελία δεν μπορεί να αναδημιουργηθεί
+text_currecy_error,Το νόμισμα δεν έχει οριστεί λόγω κάποιου σφάλματος. Ελέγξτε τον κωδικό νομίσματος και δοκιμάστε ξανά.
+text_fcm_fail,Το αναγνωριστικό καλαθιού ή το αναγνωριστικό FCM δεν βρέθηκαν
+text_empty_cart,Αδειο καλάθι
+text_error_cart,Λάθος
+text_session_expired,Η συνεδρία έληξε
+text_customer_created,Ο πελάτης δημιούργησε με επιτυχία !!
+text_wrong,κάτι πήγε στραβά
+text_error_email,Σφάλμα κατά την αποστολή email !!
+text_confirm_email,Ένα email επιβεβαίωσης έχει σταλεί στη διεύθυνσή σας:
+text_login_success,Σύνδεση χρήστη με επιτυχία
+text_language_error,Η γλώσσα δεν έχει ρυθμιστεί λόγω κάποιου σφάλματος. Ελέγξτε τον κωδικό ISO και δοκιμάστε ξανά.
+text_customer_update,Οι προσωπικές πληροφορίες ενημερώθηκαν με επιτυχία.
+error_email_id,Το αναγνωριστικό email δεν υπάρχει !!
+error_email_empty,Το αναγνωριστικό email δεν μπορεί να είναι κενό !!
+text_add_wishlist,Το προϊόν προστέθηκε στη λίστα επιθυμιών
+text_fail_wishlist,Το προϊόν δεν προστέθηκε στη λίστα επιθυμιών
+text_no_email,Χωρίς email
+text_product_added,Το προϊόν προστέθηκε με επιτυχία
+text_product_deleted,Το προϊόν διαγράφηκε με επιτυχία
+text_voucher_already,Το κουπόνι έχει ήδη εφαρμοστεί!
+text_voucher_success,Το κουπόνι εφαρμόστηκε με επιτυχία στο καλάθι
+text_voucher_removed,Το κουπόνι αφαιρέθηκε με επιτυχία
+text_product_not_added,Δεν είναι δυνατή η προσθήκη στο καλάθι
+error_out_of_stock,Το προϊόν δεν είναι διαθέσιμο σε επιθυμητή ποσότητα!
+error_firstname,Το όνομα πρέπει να είναι μεταξύ 3 και 15 χαρακτήρων !!
+error_lastname,Το επώνυμο πρέπει να είναι μεταξύ 3 και 15 χαρακτήρων !!
+error_address_1,Η διεύθυνση πρέπει να είναι μεταξύ 3 και 15 χαρακτήρων !!
+error_city,Η πόλη πρέπει να είναι μεταξύ 3 και 15 χαρακτήρων !!
+error_postcode,Συμπληρώστε έγκυρο ταχυδρομικό κώδικα !!
+error_country,Επιλέξτε μια χώρα !!
+error_zone,Επιλέξτε μια κατάσταση !!
+error_phone1,Ο αριθμός τηλεφώνου πρέπει να είναι μεταξύ 3 και 15 χαρακτήρων !!
+error_phone2,Ο αριθμός τηλεφώνου πρέπει να περιέχει μόνο αριθμούς και παύλες !!
+error_password,Ο κωδικός πρόσβασης πρέπει να είναι μεταξύ 4 και 15 χαρακτήρων !!
+error_confirm,Αναντιστοιχία κωδικού πρόσβασης !!
+error_email,Το αναγνωριστικό email δεν είναι έγκυρο
+error_exists,Αναγνωριστικό email που έχει ήδη εγγραφεί
+error_minimum,Η ελάχιστη ποσότητα %D απαιτείται για το προϊόν %s για την τοποθέτηση της παραγγελίας.
+error_quantity_required,Απαιτείται ποσότητα.
+error_voucher,Το κουπόνι έχει ήδη εφαρμοστεί!
+voucher_success,Το κουπόνι εφαρμόστηκε με επιτυχία!
+voucher_removed,Το κουπόνι αφαιρέθηκε με επιτυχία
+text_wishlist_added,Το προϊόν προστέθηκε στη λίστα επιθυμιών
+text_wishlist_removed,Το προϊόν αφαιρέθηκε από τη λίστα επιθυμιών
+app_text_sellers,Πωλητές
+app_text_seller,Πωλητής
+app_text_seller_shipping_policy,Πολιτική αποστολής πωλητών
+app_text_seller_return_policy,Πολιτική επιστροφής πωλητή
+app_text_review_title,Αναθεωρητής τίτλου
+app_text_review_comment,Αναθεωρήστε το σχόλιο
+app_text_review_rating,Βαθμολογία αναθεώρησης
+app_text_filter_products,Προϊόντα φιλτραρίσματος
+app_text_select_category,Επιλέξτε Κατηγορία
+app_text_select_sort,Είδος
+app_text_clear,Σαφή
+app_text_hour,Ωρα
+app_text_min,Λεπτά
+app_text_sec,Δευτερόλεπτα
+app_text_install_whatsapp,Το WhatsApp δεν έχει εγκατασταθεί στη συσκευή σας
+app_text_no_account_registered,Κανένας λογαριασμός δεν έχει καταχωρηθεί για τον βιομετρικό έλεγχο ταυτότητας σε αυτήν τη συσκευή. Καταγράψτε πρώτα έναν λογαριασμό.
+app_text_confirm_for_authentication,Επιβεβαιώστε το δακτυλικό αποτύπωμα ή το πρόσωπό σας για να πιστοποιήσετε τον έλεγχο ταυτότητας.
+app_text_login_with_fingerprint,Σύνδεση με δακτυλικό αποτύπωμα
+app_text_register_for_fingerprint,Εγγραφείτε για δακτυλικό αποτύπωμα
+app_text_biometric_not_available,Ο βιομετρικός έλεγχος ταυτότητας δεν είναι διαθέσιμος για αυτήν τη συσκευή.
+app_text_fingerprint_not_recognized,Το Touch ID δεν αναγνωρίζει το δακτυλικό σας αποτύπωμα. Δοκιμάστε ξανά με το εγγεγραμμένο δακτυλικό αποτύπωμα σας.
+app_text_face_not_recognizes,Το αναγνωριστικό προσώπου δεν αναγνωρίζει το πρόσωπό σας. Δοκιμάστε ξανά με το εγγεγραμμένο πρόσωπό σας.
+app_text_fingerprint_or_face_not_enrolled,Χωρίς δακτυλικά αποτυπώματα/πρόσωπο που εγγράφονται στη συσκευή.
+app_text_biometry_locked_out,Η λειτουργικότητα είναι κλειδωμένη τώρα λόγω πάρα πολλών αποτυχημένων προσπαθειών.
+app_text_register_for_fingerpring,Εγγραφείτε για δακτυλικό αποτύπωμα
+app_text_register_for_fingerprint_details,Θέλετε να καταχωρήσετε αυτόν τον λογαριασμό για τη λειτουργικότητα δακτυλικών αποτυπωμάτων. Μόλις ολοκληρωθεί μπορείτε να συνδεθείτε σε αυτόν τον λογαριασμό χωρίς να χρησιμοποιήσετε το αναγνωριστικό ηλεκτρονικού ταχυδρομείου ή τον κωδικό πρόσβασης χρησιμοποιώντας την επαλήθευση δακτυλικών αποτυπωμάτων.
+app_text_register,Κανω ΕΓΓΡΑΦΗ
+app_text_fingerprint_not_available,Ο έλεγχος ταυτότητας δακτυλικών αποτυπωμάτων δεν είναι διαθέσιμος σε αυτήν τη συσκευή!
+app_text_fingerprint_not_enrolled,Δεν έχουν εγγραφεί δακτυλικά αποτυπώματα στη συσκευή.
+app_text_android_marshmallow_required,Απαιτείται τουλάχιστον Android Marshmallow για να υποστηρίξει τον έλεγχο ταυτότητας δακτυλικών αποτυπωμάτων.
+app_text_fingerprint_error_try_again,Υπάρχει κάποιο σφάλμα με δακτυλικό αποτύπωμα. Δοκιμάστε ξανά ή συνεχίστε χωρίς δακτυλικά αποτυπώματα!
+app_text_fingerprint_wipe_sensor_try_again,Μπορεί να υπάρχει κάποια σκόνη στον αισθητήρα δακτυλικών αποτυπωμάτων. Σκουπίστε το και δοκιμάστε ξανά.
+app_text_skip_and_continue,Παραλείψτε και συνεχίστε
+app_text_verify,Επαληθεύω
+app_text_get_otp,Αποκτήστε OTP
+app_text_mobile_number,Αριθμός κινητού
+app_text_mobile_number_optional,Αριθμός κινητού τηλεφώνου (προαιρετικό)
+app_text_invalid_phone_number,Παρακαλώ εισάγετε έναν έγκυρο αριθμό
+app_text_error_number_verification,Ο αριθμός κινητού τηλεφώνου δεν μπορούσε να επαληθευτεί! Δοκιμάστε ξανά με τον σωστό αριθμό OTP!
+app_text_phone_number_already_exists,Ο αριθμός τηλεφώνου έχει ήδη εγγραφεί. Δοκιμάστε ξανά με άλλο αριθμό τηλεφώνου!
+app_text_number_verification,Επαλήθευση αριθμού
+app_text_number_verification_description,Πρέπει να επαληθεύσετε τον αριθμό τηλεφώνου. Εισαγάγετε τον αριθμό τηλεφώνου και υποβάλετε
+app_text_login_with_phone_number,Συνδεθείτε με τον αριθμό τηλεφώνου
+app_text_forget_password_description,Εισαγάγετε τη διεύθυνση e-mail ή τον αριθμό τηλεφώνου που σχετίζεται με τον λογαριασμό σας.
+app_text_enter_email_or_mobile_number,Εισαγάγετε το email ή τον αριθμό κινητού
+app_text_phone_number_change_message,Ένας αριθμός τηλεφώνου έχει ήδη εγγραφεί σε αυτόν τον λογαριασμό. Μπορείτε να αλλάξετε μόνο τον αριθμό επικοινωνίας. Εισαγάγετε έγκυρο αριθμό τηλεφώνου.
+app_text_enter_otp,Εισαγάγετε το OTP
+app_text_review_your_order,Ελέγξτε την παραγγελία σας
+app_text_attributes,Γνωρίσματα
+entry_company,Εταιρία
+entry_address_1,Διεύθυνση 1
+entry_address_2,Διεύθυνση 2
+entry_city,Πόλη
+entry_postcode,ΤΑΧΥΔΡΟΜΙΚΟΣ ΚΩΔΙΚΟΣ
+entry_country,Χώρα
+app_text_label_address,Διεύθυνση
+app_text_label_country,Οχι
+app_text_label_phone,Τηλεφωνικό νούμερο
+app_text_select_all_options,Επιλέξτε όλες τις επιλογές
+app_text_sort_asc,Α-Ζ
+app_text_sort_desc,Ζ-Α
+phone_number_not_exist_message,Ο αριθμός κινητού τηλεφώνου δεν υπάρχει στη βάση δεδομένων
+phone_number_exist_message,Υπάρχει αριθμός κινητού τηλεφώνου στη βάση δεδομένων
+password_update_message,Ενημέρωση κωδικού πρόσβασης με επιτυχία
+app_text_continue_to_checkout_click_msg,Μπορείτε να ελέγξετε τα προϊόντα στο καλάθι αγορών κάνοντας απλά κάνοντας κλικ στο κουμπί 'Συνεχίστε να ελέγχετε'!
+app_text_cart_tab,Καροτσάκι
+app_text_search,Αναζήτηση
+app_text_msg_empty_wishlist,Η Λίστα Επιθυμών σας είναι άδεια
+app_text_your_wishlist_is_empty,Η Λίστα Επιθυμών σας είναι άδεια!
+app_text_percent_off,% off
+app_text_update_address_if_exists,Μπορείτε να ενημερώσετε τη διεύθυνση αποστολής ή να επιλέξετε οποιοδήποτε άλλο αν υπάρχει!
+app_text_press_back_again_to_exit,Πατήστε ξανά για έξοδο
+app_text_please_login,ΠΑΡΑΚΑΛΩ ΣΥΝΔΕΘΕΙΤΕ
+app_text_related_products,Σχετικά προϊόντα
+app_text_view_reviews,Προβολή κριτικών
+app_text_write_reviews,Γράψτε κριτικές
+app_text_please_fill_all_details,Συμπληρώστε όλες τις λεπτομέρειες
+app_text_close,Κλείσε
+app_text_add_review,Προσθέστε κριτική
+app_text_write_a_review,Γράψτε μια κριτική
+app_text_name,Ονομα
+app_text_title,Τίτλος
+app_text_number_of_reviews,Αριθμός κριτικών
+app_text_minimum_rating,Προσθέστε ελάχιστο Ratin
+app_text_error,Λάθος
+app_text_no_reviews,Χωρίς κριτικές
+app_text_place_your_finger_on_sensor,Τοποθετήστε το δάχτυλό σας στον αισθητήρα
+text_browser_payment_method_success_msg,Επιτυχία: Η παραγγελία σας έχει τοποθετηθεί. Παρακαλούμε επιστρέψτε στην εφαρμογή.
+text_browser_payment_method_failure_msg,Αποτυχία: Η παραγγελία σας δεν μπορεί να τοποθετηθεί. Παρακαλούμε επιστρέψτε στην εφαρμογή και δοκιμάστε ξανά.
+text_browser_payment_method_already_msg,Έχει ήδη τοποθετηθεί η παραγγελία. Παρακαλούμε επιστρέψτε στην εφαρμογή και δοκιμάστε ξανά.
+text_order_verify_fail,Η παραγγελία δεν έχει τοποθετηθεί ακόμη, προχωρήστε για παραγγελία συμπληρώστε την πληρωμή και, στη συνέχεια, επαληθεύστε την παραγγελία
+app_text_external_web_payment,Κάνοντας κλικ στο κουμπί Provel θα ανακατευθύνετε στο εξωτερικό πρόγραμμα περιήγησης για να επεξεργαστείτε την πληρωμή. Μόλις ολοκληρώσετε την πληρωμή, κλείστε το πρόγραμμα περιήγησης
+app_text_text_state,κατάσταση
+app_text_description,Περιγραφή
+app_text_discount,Εκπτωση
+app_text_applied,Εφαρμοσμένος
+app_text_default,Προκαθορισμένο
+app_text_name_asc,Όνομα (A-Z)
+app_text_name_desc,Όνομα (Z-A)
+app_text_rating_asc,Βαθμολογία: Χαμηλή έως υψηλή
+app_text_rating_desc,Βαθμολογία: Υψηλή έως Χαμηλή
+app_text_model_asc,Μοντέλο (A-Z)
+app_text_model_desc,Μοντέλο (z-a)
+app_text_reference_asc,Αναφορά (A-Z)
+app_text_reference_asc,Αναφορά (A-Z)
+app_text_reference_desc,Αναφορά (Z-A)
+app_text_create_new_account,Δημιουργία νέου λογαριασμού
+app_text_back_login,Επιστροφή στην σελίδα εισόδου
+app_text_guest_login,Σύνδεσμος επισκεπτών
+app_text_first_name,Ονομα*
+app_text_last_name,Επίθετο*
+app_text_already_have_account,Εχετε ήδη λογαριασμό?
+app_text_error_firstname,Εισαγάγετε το όνομα.
+app_text_error_lastname,Εισαγάγετε το επώνυμο.
+app_text_error_mobile_number,Εισαγάγετε τον αριθμό κινητού τηλεφώνου.
+app_text_my_profile,Το ΠΡΟΦΙΛ μου
+app_text_my_orders,Οι παραγγελίες μου
+app_text_my_addresses,Οι διευθύνσεις μου
+app_text_support,Υποστήριξη
+app_text_account_page_heading,Πρόσβαση στα στοιχεία του λογαριασμού σας και ανταμοιβές
+app_text_not,Δεν
+app_text_apple,μήλο
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Βλέπω όλα
+app_text_error_email_access,Παρέχετε πρόσβαση στο email ή χρησιμοποιήστε έναν άλλο λογαριασμό.
+app_text_hi,γεια
+app_text_sold_out,Εξαντλημένα
+app_text_signup_with_apple,Συνδεθείτε με την Apple
+app_text_login_with_apple,Συνδεθείτε με την Apple
+app_text_order,Σειρά
+app_text_order_date,Ημερομηνία παραγγελίας
+app_text_items,Στοιχείο (ες)
+app_text_amount,Ποσό
+error_voucher_not_available,Το κουπόνι είναι είτε άκυρο που έχει λήξει είτε φθάνει στο όριο χρήσης του!
+app_text_review_order,Αναθεώρηση
+app_text_payment_methods,μέθοδοι πληρωμής
+app_text_review_order,Αναθεώρηση
+app_text_payment_methods,μέθοδοι πληρωμής
+app_text_guest,Επισκέπτης
+app_text_resend_otp,Επαναφορά OTP
+app_text_msg_mobile_number,Εισαγάγετε τον αριθμό του κινητού σας
+app_text_msg_otp,Ένα OTP έχει στείλει στον αριθμό:
+app_text_msg_resend_otp,Ένα OTP έχει τον Ben να αντιμετωπίσει τον αριθμό:
+app_text_confirm_new_password,Επιβεβαιώστε τον καινούριο σας κωδικό
+app_text_error_facebook_login,Δεν μπορούσα να συνδεθώ με το Facebook
+app_text_sub_total,ΜΕΡΙΚΟ ΣΥΝΟΛΟ
+app_text_product_total,Συνολικά
+app_text_are_you_sure_you_want_to_exit,Είσαι σίγουρος ότι θέλεις να φύγεις?
+text_product_updated,Η ποσότητα του προϊόντος ενημερώνεται με επιτυχία !!
+error_incorrect_password,Λάθος κωδικός!!
+app_text_unit_price,Τιμή μονάδας
+app_text_only_mobile,Κινητό
+app_text_file_download,Αρχείο με επιτυχία λήψη στις
+app_text_video,Συνημμένα βίντεο
+app_text_agree_to,Συμφωνώ με τους όρους και τις προϋποθέσεις
+app_text_agree_gdpr,Ελέγξτε τους όρους και τις προϋποθέσεις ελέγχου!
+app_text_use_current_location,Χρησιμοποιήστε την τρέχουσα τοποθεσία
+app_text_adding,Προσθέτωντας…
+app_text_removing,Αφαίρεση…
+app_text_voucher_adding,Κουπόνι προσθέτοντας ...
+app_text_voucher_removing,Κατάργηση κουπονιού ...
+app_text_mobile,Κινητό
+app_text_deal_ends,Τελειώνει η συμφωνία
+app_text_expires_in,Λήγει σε
+app_text_register_fingerprint,Εγγραφείτε για σύνδεση δακτυλικών αποτυπωμάτων
+app_text_reviews,Ανασκοπήσεις
+app_text_loading,Φόρτωση...
+app_text_please_wait,Παρακαλώ περιμένετε...
+app_text_updating_cart,Ενημέρωση καλάθι ...
+app_text_loading_shipping_address,Φόρτωση διεύθυνσης αποστολής ...
+app_text_loading_billing_address,Φόρτωση διεύθυνσης χρέωσης ...
+app_text_removing_product,Αφαίρεση του προϊόντος ...
+app_text_loading_store_data,Φόρτωση δεδομένων αποθήκευσης
+app_text_select_country,Επιλέξτε μια χώρα
+app_text_select_state,Επιλέξτε μια κατάσταση
+app_text_delete_account,Διαγραφή λογαριασμού
+app_text_delete_account_msg,Είστε βέβαιοι ότι θέλετε να διαγράψετε λογαριασμό;
+app_text_scan_barcode,Γραμμικός κώδικας σάρωσης
+app_text_camera_loading,Φόρτωση κάμερας ...
+app_text_camera_permission_not_available,Η άδεια κάμερας δεν είναι διαθέσιμη
+app_text_search_description,Βρείτε αυτό που ψάχνετε.

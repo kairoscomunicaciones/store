@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{codpro}prestashop>codpro_c05b1787b97c64eef53c50218f3ad56d'] = 'Πληρωμή με αντικαταβολή';
+$_MODULE['<{codpro}prestashop>validation_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = 'Μεταφορικά';
+$_MODULE['<{codpro}prestashop>validation_39a0b7d25fe288f07a25d27ece788867'] = 'Επιβεβαιώστε τις λεπτομέρειες της παραγγελίας σας και κάντε την παραγγελία σας.';
+$_MODULE['<{codpro}prestashop>validation_b75443a19207ed3a3552edda86536857'] = 'Καλάθι';
+$_MODULE['<{codpro}prestashop>validation_fd858ce1035dd594432cfc6e95a8118b'] = 'Αν αλλάξετε κάτι στο καλάθι σας θα μεταφερθείτε στην πίσω ενότητα που θα επιλέξετε μέθοδο αποστολής ξανά ';
+$_MODULE['<{codpro}prestashop>validation_ad2f6328c24caa7d25dd34bfc3e7e25a'] = 'Έχετε επιλέξει πληρωμή με αντικαταβολή.';
+$_MODULE['<{codpro}prestashop>validation_db528137a0770fd2e2de609b0d0e4baa'] = 'Έξοδα αντικαταβολής';
+$_MODULE['<{codpro}prestashop>validation_3b5a05f2c4a0373c7a6e8d1cfec7020f'] = 'Περιλαμβάνονται φόροι';
+$_MODULE['<{codpro}prestashop>validation_96b0141273eabab320119c467cdcaf17'] = 'Σύνολο';
+$_MODULE['<{codpro}prestashop>validation_d031f109624d74bf3d2c7d472e6fe475'] = 'Συνολική αξίας προιόντων καλαθιού';
+$_MODULE['<{codpro}prestashop>validation_2757729fbd09d910f25c1590014191cf'] = 'Έξοδα αποστολής';
+$_MODULE['<{codpro}prestashop>validation_e2867a925cba382f1436d1834bb52a1c'] = 'Άλλες μεθόδοι πληρωμής';
+$_MODULE['<{codpro}prestashop>validation_569fd05bdafa1712c4f6be5b153b8418'] = 'Μεθόδοι πληρωμής';
+$_MODULE['<{codpro}prestashop>validation_46b9e3665f187c739c55983f757ccda0'] = 'Επιβεβαιώνω την παραγγγελία μου';
+$_MODULE['<{codpro}prestashop>confirmation_bddd470742bc2329733e489ed05a8ba1'] = 'Η παραγγελία σας εστάλη.';
+$_MODULE['<{codpro}prestashop>confirmation_8861c5d3fa54b330d1f60ba50fcc4aab'] = 'Επιλέξατε πληρωμή με αντικαταβολή.';
+$_MODULE['<{codpro}prestashop>confirmation_e6dc7945b557a1cd949bea92dd58963e'] = 'Η παραγγελία σας θα αποσταλεί άμεσα.';
+$_MODULE['<{codpro}prestashop>confirmation_b913dabf84a2fbeb711e6873210228b7'] = 'Κωδικός παραγγελίας:';
+$_MODULE['<{codpro}prestashop>confirmation_0db71da7150c27142eef9d22b843b4a9'] = 'Για παραπάνω πληροφορίες παρακαλώ επικοινωνήστε μαζί με το';
+$_MODULE['<{codpro}prestashop>confirmation_64430ad2835be8ad60c59e7d44e4b0b1'] = 'τμήμα εξυπηρετησης';
+$_MODULE['<{codpro}prestashop>confirmation_25c44465ed210ff7f440074bc3765ba3'] = 'Έξοδα αντικαταβολής';
+$_MODULE['<{codpro}prestashop>displayadminorder16_db528137a0770fd2e2de609b0d0e4baa'] = 'Έξοδα αντικαταβολής';
+$_MODULE['<{codpro}prestashop>displayorderdetail_cee6d6b1ef7f689b54df86e540406a8c'] = 'Αυτή η παραγγελία έχει επιβάρυνση εξόδων αντικαβολής';
+$_MODULE['<{codpro}prestashop>displayorderdetail_58ef6750a23ba432fc1377b7de085d9f'] = 'Φόροι δεν συμπ.';
+$_MODULE['<{codpro}prestashop>displayorderdetail_94dfb2009644e42ef41f47aece4c0350'] = 'Φόροι συμπ.';
+$_MODULE['<{codpro}prestashop>displayorderdetail_25c44465ed210ff7f440074bc3765ba3'] = 'Έξοδα αντικαταβολής';
+$_MODULE['<{codpro}prestashop>payment_b7ada96a0da7ee7fb5371cca0b036d5c'] = 'Πληρωμή με αντικαταβολή';
+$_MODULE['<{codpro}prestashop>payment_536dc7424180872c8c2488ae0286fb53'] = 'Πληρώνετε στον οδηγό με την παραλαβή';
+$_MODULE['<{codpro}prestashop>payment_a709ef4cdbb244426872eb3f317c8ede'] = 'Έξτρα κόστος:';
+$_MODULE['<{codpro}prestashop>payment_2194aaec8cc7086ab0e93f74547e5f53'] = 'Μερικό σύνολο';
+$_MODULE['<{codpro}prestashop>payment_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = 'Μεταφορικά';
+$_MODULE['<{codpro}prestashop>payment_3b5a05f2c4a0373c7a6e8d1cfec7020f'] = 'Περιλαμβάνονται φόροι';
+$_MODULE['<{codpro}prestashop>payment_96b0141273eabab320119c467cdcaf17'] = 'Σύνολο';

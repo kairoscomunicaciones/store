@@ -1,0 +1,8 @@
+Bonjour {customer_name},
+Merci de vous être inscrit sur {shop_name}. Les détails de votre compte sont les suivants :
+Courriel : {customer_email}
+Mot de passe : {auto_generated_password}
+Votre mot de passe actuel a été généré automatiquement par notre boutique. Nous vous recommandons de remplacer votre mot de passe par un mot de passe plus facile à retenir et plus sûr.
+CHANGEZ VOTRE MOT DE PASSE : {link_change_password}
+Si vous avez des questions concernant votre compte, n'hésitez pas à nous contacter. Nous sommes heureux de vous aider !
+Sincèrement,

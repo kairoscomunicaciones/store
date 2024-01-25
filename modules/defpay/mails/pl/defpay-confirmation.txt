@@ -1,0 +1,12 @@
+Hello {customer_firstname} {customer_lastname}
+Thank you for placing an order in our shop: {shop_name} {shop_url}
+
+You selected deffered payment method.
+Your order is deffered for {defpay_days} days
+Payment deadline: {defpay_deadline}
+
+your order ID number is: #{order_id}
+your order reference is: {order_reference}
+total to pay: {order_total}
+
+{defpay_message}

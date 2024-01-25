@@ -1,0 +1,22 @@
+v1.0.3---------------------- (07/28/2018)
+Fixed js error.
+v1.0.4---------------------- (22/11/2018)
+Fix bug edit shipping cost
+v1.0.5---------------------- (26/11/2018)
+Fix bug "Generated invoice" button
+Fix bug Previous and next button
+v1.0.6---------------------- (06/03/2019)
+Fix bug in Prestashop 1.7.5.x
+v1.0.7---------------------- (23/04/2019)
+Fix bug in multi shop
+v2.1.1---------------------- (12/04/2021)
+[New] Login as customer
+[New] Change quickedit, Config UX/UI
+[Fix] Bug edit discount
+[Fix] Bug in prestashop 1.7
+v2.1.2---------------------- (16/12/2021)
+fix bug search product when create new order
+fix bug display message when view order
+fix bug export csv
+fix bug add product to order
+fix bug customer note

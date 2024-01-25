@@ -1,0 +1,68 @@
+services:
+  _defaults:
+    public: true
+
+  psxdesign.module:
+    class: 'PsxDesign'
+    factory: [ 'Module', 'getInstanceByName' ]
+    arguments:
+      - 'psxdesign'
+
+  vite_cache_pool:
+    class: Symfony\Component\Cache\Adapter\NullAdapter
+
+  prestashop.bundle.twig.extension.vite_asset_extension:
+    class: PrestaShop\Module\PsxDesign\Twig\ViteAssetExtension
+    arguments:
+      $isDev: '1'
+    tags:
+      - { name: twig.extension }
+
+  psxdesign.guzzle.client:
+    class: 'GuzzleHttp\Client'
+    public: true
+
+  PrestaShop\Module\PsxDesign\Controller\Admin\AdminPsxDesignThemeGeneralController:
+    class: PrestaShop\Module\PsxDesign\Controller\Admin\AdminPsxDesignThemeGeneralController
+
+  PrestaShop\Module\PsxDesign\Controller\Admin\AdminPsxDesignLogosController:
+    class: PrestaShop\Module\PsxDesign\Controller\Admin\AdminPsxDesignLogosController
+
+  prestashop.module.psxdesign.marketplace.upgrade.check.processor:
+    class: PrestaShop\Module\PsxDesign\MarketPlace\PsxDesignUpgradeCheckProcessor
+    arguments:
+      - '@prestashop.module.psxdesign.marketplace.data.provider'
+      - '@prestashop.module.psxdesign.marketplace.repository'
+      - '@cache.app'
+      - '@prestashop.adapter.legacy.configuration'
+      - "@=service('psxdesign.module').name"
+      - "@=service('psxdesign.module').version"
+
+  prestashop.module.psxdesign.marketplace.repository:
+    class: PrestaShop\Module\PsxDesign\MarketPlace\PsxDesignModuleMarketPlaceRepository
+    arguments:
+      - '@doctrine.dbal.default_connection'
+      - '%database_prefix%'
+      - !php/const PrestaShop\Module\PsxDesign\MarketPlace\PsxDesignUpgradeCheckProcessor::PSXDESIGN_MARKETPLACE_MODULE_VERSION
+
+  prestashop.module.psxdesign.marketplace.data.provider:
+    class: PrestaShop\Module\PsxDesign\MarketPlace\PsxDesignModuleDataProvider
+    arguments:
+      - '@psxdesign.guzzle.client'
+      - '@psxdesign.marketplace.query'
+
+  psxdesign.marketplace.query:
+    class: 'PrestaShop\Module\PsxDesign\MarketPlace\PsxDesignMarketPlaceModuleDataQuery'
+    public: true
+    arguments:
+      - !php/const PsxDesign::ADDONS_MODULE_ID
+      - !php/const _PS_VERSION_
+      - "@=service('prestashop.adapter.legacy.context').getContext().language.language_code"
+      - "@=service('prestashop.adapter.legacy.context').getContext().language.iso_code"
+
+  prestashop.module.psxdesign.module_cache_handler:
+    class: PrestaShop\Module\PsxDesign\Handler\PsxDesignModuleUpgradeCacheHandler
+    arguments:
+      - '@cache.app'
+      - "@=service('prestashop.module.psxdesign.marketplace.upgrade.check.processor').buildUpgradeAvailableCacheId()"
+      - '@prestashop.adapter.legacy.configuration'

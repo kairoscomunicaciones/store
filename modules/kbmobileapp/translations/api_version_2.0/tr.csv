@@ -1,0 +1,449 @@
+app_text_home,Ev
+app_text_recent_product,Son ürün
+app_text_category,Kategoriler
+app_text_login,Giriş yapmak
+app_text_logout,Çıkış Yap
+app_text_login_signup,Giriş yapmak kayıt olmak
+app_text_account,Hesabım
+app_text_contact,Bizimle iletişime geçin
+app_text_about,Hakkımızda
+app_text_wishlist,İstek listesine ekle
+app_text_cart,Sepete ekle
+app_text_off,kapalı
+app_text_all,Herşey
+app_text_languages,Diller)
+app_text_sort,Çeşit
+app_text_filter,Filtre
+app_text_sort_order,Sıralama siparişini seçin
+app_text_price_asc,Fiyat: Düşük ila yüksek
+app_text_price_desc,Fiyatı yüksekten düşüğe doğru
+app_text_product,Ürün
+app_text_select,Seçme
+app_text_instock,Stokta var
+app_text_outstock,Stoklar tükendi
+app_text_product_info,Ürün Bilgisi ve Bakımı
+app_text_customization,Ürün kişiselleştirme
+app_text_accessories,Aksesuarlar
+app_text_view_less,Daha az görüntüle
+app_text_view_more,Daha fazla göster
+app_text_provide_details,Lütfen detayları sağlayın
+app_text_bag,Alışveriş çantası
+app_text_apply_voucher,Kupon uygulayın
+app_text_entry_voucher_code,Kupon kodunu girin
+app_text_apply,Uygulamak
+app_text_gift,Hediye paketi
+app_text_entry_message,Mesajınızı girin
+app_text_available_first,öncelikle uygun olan ürünleri Gönder
+app_text_continue_shopping,Alışverişe devam
+app_text_continue_checkout,Ödeme yapmaya devam et
+app_text_update_quantity,Güncelleme miktarı
+app_text_enter_quantity,Miktarı girin (0-10)
+app_text_empty_cart,Alışveriş sepetiniz boş!
+app_text_goto_home,Ana sayfaya git
+app_text_review_checkout,Siparişini gözden geçir
+app_text_add_new_shipping_address,Yeni nakliye adresi ekle
+app_text_history,Nakliye ayrıntıları
+app_text_summary,sipariş özeti
+app_text_shipping_methods,Nakliye Yöntemleri
+app_text_comment,Sipariş Yorumu
+app_text_payment_summary,Ödeme özeti
+app_text_proceed,Ödemeye devam edin
+app_text_make_payment,Ödeme yapmak
+app_text_congratulations,Tebrikler
+app_text_shipping_addresses,Nakliye Adresi (ler)
+app_text_order_detail,Sipariş detayı
+app_text_update_personal,Kişisel Ayrıntıları Güncelleyin
+app_text_update_password,Şifreyi güncelle
+app_text_current_password,Mevcut Şifre
+app_text_new_password,Yeni Şifre
+app_text_confirm_password,Şifreyi Onayla
+app_text_cancel,İptal etmek
+app_text_save,Kaydetmek
+app_text_sale,Satış
+app_text_new,Yeni
+app_text_order_ref,sipariş referansı
+app_text_status,Durum
+app_text_placed,Yer almak
+app_text_reorder,Yeniden sıralamak
+app_text_order_details,sipariş detayları
+app_text_status_history,Durum Geçmişi
+app_text_shipping_address,Gönderi Adresi
+app_text_order_summary,sipariş özeti
+app_text_shipping_method,Nakliye Yöntemi
+app_text_payment_method,Ödeme şekli
+app_text_gift_wrapping,Hediye sarma
+app_text_no_shipping_address,Nakliye adresi yok!
+app_text_no_order_details,Sipariş detayları yok!
+app_text_signup,Üye olmak
+app_text_continue_guest,Misafir olarak devam et
+app_text_email,E -posta
+app_text_password,Parola
+app_text_forgot_password,Parolanızı mı unuttunuz?
+app_text_login_social_account,Sosyal hesapla giriş yapabilirsiniz.
+app_text_login_with_google,Google+ ile giriş yapın
+app_text_login_with_facebook,Facebook ile giriş
+app_text_signup_with_google,Google+ ile kaydolma
+app_text_signup_with_facebook,Facebook ile kayıt ol
+app_text_msg_enter_valid_email,Lütfen geçerli e -postayı girin!
+app_text_msg_enter_email,Lütfen e-posta giriniz!
+app_text_msg_enter_password,Lütfen şifre giriniz!
+app_text_msg_password_characters_less_than_3,Lütfen daha fazla veya 3'e eşit karakterlere sahip şifreyi girin!
+app_text_msg_first_name,İlk adı
+app_text_msg_last_name,Soyadı
+app_text_msg_dob,Doğum tarihi
+app_text_msg_confirm_password,Şifreyi Onayla
+app_text_msg_personal_details,Kişisel detaylar
+app_text_msg_pass_not_matched,Şifre ve Onay şifre eşleşmez!
+app_text_sold_by,Tarafından satılan:
+app_text_write_review,Yazma İncelemesi
+app_text_view_review,İnceleme (ler)
+app_text_view_seller_products,Satıcı Ürünlerini Görüntüle
+app_text_wait,Lütfen bekle
+app_text_loading,Veri yükleniyor...
+app_text_msg_went_wrong,Bir şeyler yanlış gitti. Lütfen tekrar deneyin.
+app_text_msg_no_internet_found,İnternet bağlantısı bulunamadı.
+app_text_msg_no_internet_title,İnternet yok
+app_text_msg_request,İstek işlem olamaz. Bunun nedeni yavaş internet bağlantısı olabilir.
+app_text_msg_order_placed_email,Siparişiniz başarıyla yerleştirildi. Aynı şeyle ilgili bir e -posta alacaksınız.
+app_text_msg_product_look,Ürün (ler) i kategorilerine göre arayabilirsiniz.
+app_text_msg_search_product,Metin veya sesle mağazadaki herhangi bir ürünü arayabilirsiniz!
+app_text_msg_view_cart,Alışveriş sepetini miktarla görüntüleyebilirsiniz!
+app_text_msg_logout,Başarılı bir şekilde oturum açıyorsunuz!
+app_text_msg_view_product,Ürünü liste veya ızgara modunda görüntüleyebilirsiniz!
+app_text_msg_sort_product,Ürünü fiyatlarına göre sıralayabilirsiniz!
+app_text_msg_filter_product,Ürün (ler) i ihtiyacınıza göre filtreleyebilirsiniz!
+app_text_text_next,Sonraki
+app_text_text_okay,Peki
+app_text_required,Gerekli
+app_text_msg_rating,Lütfen derecelendirmeyi seçin
+app_text_msg_add_cart,'Sepete Ekle' düğmesine tıklayarak alışveriş sepetine ürün ekleyebilirsiniz!
+app_text_msg_add_wishlist,'Wish Liste'ye Ekle' düğmesine tıklayarak Wish Liste'ye ürün ekleyebilirsiniz!
+app_text_msg_product_price,Ürün fiyatı güncellendi!
+app_text_msg_product_not_available,Bu ürün sipariş için mevcut değil!
+app_text_msg_combination,Ürün artık seçilen kombinasyon ile stokta değil. Lütfen diğer kombinasyonlarla deneyin.
+app_text_msg_product_no_stock,Bu ürün istenen miktarda mevcut değildir veya stokta mevcut değildir!
+app_text_msg_out_stock,Sepetteki bazı ürünler istenen miktarda mevcut değildir veya stokta mevcut değildir. Lütfen bu tür ürünleri sepetten çıkarın!
+app_text_msg_checkout_products,'Ödeme yapmaya devam et' düğmesine tıklayarak alışveriş sepetindeki ürünleri kontrol edebilirsiniz.
+app_text_msg_apply_voucher,Alışveriş sepetine kupon uygulayabilirsiniz!
+app_text_msg_update_quantity,Ürün miktarını güncelleyebilir veya alışveriş sepetinden kaldırabilirsiniz!
+app_text_msg_view_details,Ürün görüntüsünü tıklayarak ürün ayrıntılarını görüntüleyebilirsiniz!
+app_text_msg_success,Başarı!
+app_text_msg_failure,Arıza!
+app_text_msg_enter_quantity,Lütfen miktarı girin
+app_text_quantity,Miktar
+text_quantity,Miktar
+app_text_remove,Kaldırmak
+app_text_customization_details,Özelleştirme Ayrıntıları
+app_text_msg_add_address,Düğmeye tıklayarak yeni gönderim adresi ekleyebilirsiniz!
+app_text_msg_update_address,Gönderim adresini güncelleyebilirsiniz!
+app_text_msg_select_address,Sadece tıklayarak herhangi bir gönderim adresini seçebilirsiniz!
+app_text_select_address_text,*Siparişinizi gözden geçirmek için lütfen gönderim adresini seçin.
+app_text_msg_no_product,Ürün yok!
+app_text_msg_no_comment_available,Yorum yok!
+app_text_msg_reset_password,Şifrenizi `` Şifremi Unut '' 'yu tıklayarak sıfırlayabilirsiniz.
+app_text_msg_login,Buradan mağazaya giriş yapabilirsiniz!
+app_text_msg_login_fb,Ayrıca Facebook hesabınızdan mağazaya giriş yapabilirsiniz!
+app_text_msg_login_google,Ayrıca Google hesabınızdan mağazaya giriş yapabilirsiniz!
+app_text_msg_update_profile,Profil ayrıntılarınızı gönderebilir veya sipariş ayrıntılarınızı buradan görüntüleyebilirsiniz!
+app_text_product_info_and_care,Ürün Bilgisi ve Bakımı
+app_text_download,İndirilenler
+app_text_minimal_quantity,Asgari miktar
+app_text_pack_content,Paket içeriği
+app_text_seller_details,Satıcı Ayrıntıları
+app_text_submit,Göndermek
+app_text_msg_forget_password,Hesabınızla ilişkili e-posta adresini girin. Şifrenizin size e-posta göndermesini sağlamak için gönderin.
+app_text_enter_your_email,E-postanızı giriniz
+app_text_reset_password,Şifreyi yenile
+app_text_view_selected_filter,Bu resme tıklayarak seçtiğiniz filtre sonucunu görüntüleyebilirsiniz!
+app_text_clear_selected_filter,Bu resme tıklayarak uygulanan filtreyi temizleyebilirsiniz!
+app_text_no_filter,Filtresiz
+app_text_phone_number_required,*En az bir telefon numarası kaydetmelisiniz
+app_text_refresh,Yenilemek
+app_text_internet_connection_failed,İnternet bağlantısı başarısız oldu!
+app_text_internet_connection_problem,İnternet bağlantınızla ilgili bazı sorunlar olabilir. Lütfen kontrol edin.
+app_text_cancel_transaction,İşlemi iptal et
+app_text_middle_of_payment,Ödeme işleminizin ortasındasınız. İşleminizi gerçekten iptal etmek mi istiyorsunuz?
+app_text_yes,Evet
+app_text_no,Numara
+app_text_enter_your_comment,Yorumunuzu Girin
+app_text_msg_shipping_methods_unavailable,Gönderim Yöntemi Yok
+app_text_msg_select_shipping_methods,Lütfen gönderim yöntemini seçin
+app_text_billing_address,Fatura Adresi
+app_text_billing_addresses,Faturalandırma adresi (ler)
+app_text_addresses,Adres (ler)
+app_text_billing_details,Fatura Detayları
+app_text_same_as_shipping_details,Sevkıyat adresi ile aynı
+app_text_share_log,Paylaşım günlüğü
+app_text_payment_failed_contact_support,Siparişiniz işlenemedi. Herhangi bir sorgu için lütfen destekle iletişime geçin
+app_text_choose_payment_method,Ödeme yöntemini seçin
+app_text_no_payment_method,Ödeme yöntemi bulunamadı!
+app_text_no_payment_currently,Şu anda ödeme yöntemi yok.
+app_text_no_make_payment,Bu mobil uygulama demo amacıyla kurulduğundan ödeme yapamazsınız.
+app_text_make_payment_after_select,Herhangi bir ödeme yöntemi seçtikten sonra ödeme yapabilirsiniz!
+app_text_title_payment_paypal,PayPal ödemesi
+app_text_order_total_price,Total Fiyat Siparişi
+app_text_user_cancelled_the_payment,Kullanıcı ödemeyi iptal etti
+app_text_invalid_payment_try_again,Geçersiz ödeme. Lütfen tekrar dene
+app_text_title_paypal_payment,PayPal ödemesi
+app_text_wishlist_item_removed,WishList'den kaldırıldı.
+app_text_wishlist_item_added,İstek listesine eklendi
+app_text_subject,Hey buna bak!
+app_text_extra_share,Burada mevcut:
+app_text_intent_title,Paylaşmak
+app_text_error_product_name_url,Ürün adı veya URL boş olabilir.
+app_text_tag_error,Hata
+app_text_ok,TAMAM
+app_text_view_your_store,Mağazanızı görüntüleyin
+app_text_view_demo,Demoyu Görüntüle
+app_text_currency,Para birimi (ler)
+app_text_choose_your_app_theme,Uygulama Temanızı Seçin
+app_text_terms_and_conditions,Kullanım Koşulları
+app_text_wishlist_only,İstek listesi
+app_text_wishlist_remove,Wish List'ten Kaldır
+app_text_update_address,Güncelleme adresi
+app_text_state_not_required,Seçilen ülke için gerekli değil
+app_text_currencies,Para birimi (ler)
+app_text_payment_failed,Ödeme işlenirken bazı hatalar meydana geldi. Lütfen tekrar dene
+app_text_entered_wrong_url,Yanlış URL girmiş olabilirsiniz veya mobil uygulama oluşturucu bodülümüzü yüklemediniz.
+app_text_login_failed,Giriş başarısız oldu!
+app_text_install_module,Modül yükleyin
+app_text_no_data_found,Veri bulunamadı
+app_text_enter_store_url,Lütfen Mağaza URL'sini girin
+app_text_fill_all_required_fields,Lütfen gerekli tüm alanları doldurun.
+app_text_state,Belirtmek, bildirmek
+app_text_add_to_wishlist,İstek listesine ekle
+app_text_add_to_cart,Sepete ekle
+text_prices,Fiyat:% s
+text_brands,Markalar
+text_shipping_address_success,Nakliye adresi başarıyla eklendi
+text_shipping_address_issue,Verilerle ilgili bazı sorunlar var
+text_shipping_address_update,Nakliye adresi başarıyla güncellendi
+text_cart_loaded,Sepet bilgileri başarıyla yüklendi
+text_order_success,Bu araba tarafından oluşturulan sipariş
+text_reorder_fail,Sipariş yeniden yaratılamaz
+text_currecy_error,Bazı hatalar nedeniyle para birimi ayarlanmadı. Lütfen para kodunu kontrol edin ve tekrar deneyin.
+text_fcm_fail,Sepet Kimliği veya FCM kimliği bulunamadı
+text_empty_cart,Boş sepet
+text_error_cart,Hata
+text_session_expired,Oturum süresi doldu
+text_customer_created,Müşteri Başarıyla Oluşturuldu !!
+text_wrong,bir şeyler yanlış gitti
+text_error_email,E -posta gönderirken hata !!
+text_confirm_email,Adresinize bir onay e -postası gönderildi:
+text_login_success,Kullanıcı Başarıyla Giriş
+text_language_error,Bazı hatalar nedeniyle dil ayarlanmadı. Lütfen ISO kodunu kontrol edin ve tekrar deneyin.
+text_customer_update,Kişisel bilgiler başarıyla güncellendi.
+error_email_id,E -posta kimliği yok !!
+error_email_empty,E -posta kimliği boş olamaz !!
+text_add_wishlist,İstek listesine ürün eklendi
+text_fail_wishlist,İstek listesine ürün eklenmiyor
+text_no_email,Email yok
+text_product_added,Ürün başarıyla eklendi
+text_product_deleted,Ürün başarıyla silindi
+text_voucher_already,Kupon zaten uygulandı!
+text_voucher_success,Kupon, arabaya başarıyla uygulandı
+text_voucher_removed,Kupon başarıyla kaldırıldı
+text_product_not_added,Sepete eklenemiyor
+error_out_of_stock,Ürün istenen miktarda mevcut değildir!
+error_firstname,Adı 3 ila 15 karakter arasında olmalıdır !!
+error_lastname,Soyadı 3 ila 15 karakter arasında olmalıdır !!
+error_address_1,Adres 3 ila 15 karakter arasında olmalıdır !!
+error_city,Şehir 3 ila 15 karakter arasında olmalı !!
+error_postcode,Lütfen geçerli posta kodu doldurun !!
+error_country,Lütfen bir ülke seçin!!
+error_zone,Lütfen bir durum seçin !!
+error_phone1,Telefon numarası 3 ila 15 karakter arasında olmalıdır !!
+error_phone2,Telefon numarası yalnızca numaralar ve çizgiler içermelidir !!
+error_password,Parola 4 ila 15 karakter arasında olmalıdır !!
+error_confirm,Şifre eşleşmiyor!!
+error_email,E -posta kimliği geçerli değil
+error_exists,E -posta kimliği zaten kayıtlı
+error_minimum,Ürün %s'nin sipariş vermesi için minimum %d gereklidir.
+error_quantity_required,gerekli miktar.
+error_voucher,Kupon zaten uygulandı!
+voucher_success,Kupon başarıyla uygulandı!
+voucher_removed,Kupon başarıyla kaldırıldı
+text_wishlist_added,İstek listesine ürün eklendi
+text_wishlist_removed,İstek listesinden kaldırıldı
+app_text_sellers,Satıcılar
+app_text_seller,Satıcı
+app_text_seller_shipping_policy,Satıcı Nakliye Politikası
+app_text_seller_return_policy,Satıcı İade Politikası
+app_text_review_title,İnceleme Başlığı
+app_text_review_comment,Gözden Geçirme Yorumu
+app_text_review_rating,İnceleme Değerlendirmesi
+app_text_filter_products,Filtre Ürünleri
+app_text_select_category,Kategori seç
+app_text_select_sort,Çeşit
+app_text_clear,Açık
+app_text_hour,Saat
+app_text_min,Dakikalar
+app_text_sec,Saniye
+app_text_install_whatsapp,WhatsApp cihazınıza yüklenmedi
+app_text_no_account_registered,Bu cihazdaki biyometrik kimlik doğrulama için hiçbir hesap kayıtlı değildir. Lütfen önce bir hesap kaydedin.
+app_text_confirm_for_authentication,Kimlik doğrulamak için parmak izinizi veya yüzünüzü onaylayın.
+app_text_login_with_fingerprint,Parmak izi ile giriş yapın
+app_text_register_for_fingerprint,Parmak İzine Kaydolun
+app_text_biometric_not_available,Bu cihaz için biyometrik kimlik doğrulama mevcut değildir.
+app_text_fingerprint_not_recognized,Touch ID parmak izinizi tanımıyor. Lütfen kayıtlı parmak izinizle tekrar deneyin.
+app_text_face_not_recognizes,Face ID yüzünüzü tanımıyor. Lütfen kayıtlı yüzünüzle tekrar deneyin.
+app_text_fingerprint_or_face_not_enrolled,Cihaza kayıtlı parmak izi/yüz yok.
+app_text_biometry_locked_out,Çok fazla başarısız girişim nedeniyle işlevsellik şimdi kilitleniyor.
+app_text_register_for_fingerpring,Parmak İzine Kaydolun
+app_text_register_for_fingerprint_details,Parmak izi işlevselliği için bu hesabı kaydetmek istiyor musunuz? Yapıldıktan sonra, yalnızca parmak izi doğrulamasını kullanarak e -posta kimliği veya şifre kullanmadan bu hesaba giriş yapabilirsiniz.
+app_text_register,Kayıt olmak
+app_text_fingerprint_not_available,Bu cihazda parmak izi kimlik doğrulaması mevcut değil!
+app_text_fingerprint_not_enrolled,Cihaza kayıtlı bir parmak izi yok.
+app_text_android_marshmallow_required,Parmak izi kimlik doğrulamasını desteklemek için en az Android Marshmallow gereklidir.
+app_text_fingerprint_error_try_again,Parmak izi ile ilgili bir hata var. Lütfen tekrar deneyin veya parmak izi olmadan devam edin!
+app_text_fingerprint_wipe_sensor_try_again,Parmak izi sensöründe biraz toz olabilir. Lütfen silin ve tekrar deneyin.
+app_text_skip_and_continue,Atla ve devam et
+app_text_verify,Doğrulayın
+app_text_get_otp,OTP al
+app_text_mobile_number,Cep numarası
+app_text_mobile_number_optional,Cep telefonu numarası (isteğe bağlı)
+app_text_invalid_phone_number,Lütfen geçerli bir numara girin
+app_text_error_number_verification,Cep numarası doğrulanamadı! Lütfen doğru OTP numarasıyla tekrar deneyin!
+app_text_phone_number_already_exists,Telefon numarası zaten kayıtlı. Lütfen başka bir telefon numarası ile tekrar deneyin!
+app_text_number_verification,Sayı doğrulama
+app_text_number_verification_description,Telefon numarasını doğrulamanız gerekir. Lütfen telefon numarasını girin ve gönderin
+app_text_login_with_phone_number,Telefon numarası ile giriş yapın
+app_text_forget_password_description,Hesabınızla ilişkili e-posta adresini veya telefon numarasını girin.
+app_text_enter_email_or_mobile_number,E -posta veya cep telefonu numarası girin
+app_text_phone_number_change_message,Bir telefon numarası zaten bu hesaba kayıtlı. Yalnızca iletişim numarasını değiştirebilirsiniz. Lütfen geçerli telefon numarasını girin.
+app_text_enter_otp,OTP girin
+app_text_review_your_order,Siparişini gözden geçir
+app_text_attributes,Öznitellikler
+entry_company,Şirket
+entry_address_1,Adres 1
+entry_address_2,Adres 2
+entry_city,Şehir
+entry_postcode,Posta kodu
+entry_country,Ülke
+app_text_label_address,Adres
+app_text_label_country,Numara
+app_text_label_phone,Telefon numarası
+app_text_select_all_options,Lütfen tüm seçenekleri seçin
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,Veritabanında cep telefonu numarası yok
+phone_number_exist_message,Veritabanında cep telefonu numarası var
+password_update_message,Şifre Güncellemesi Başarılı Bir
+app_text_continue_to_checkout_click_msg,'Ödeme yapmaya devam et' düğmesine tıklayarak alışveriş sepetindeki ürünleri kontrol edebilirsiniz!
+app_text_cart_tab,Araba
+app_text_search,Aramak
+app_text_msg_empty_wishlist,İstek listeniz boş
+app_text_your_wishlist_is_empty,İstek listeniz boş!
+app_text_percent_off,% kapalı
+app_text_update_address_if_exists,Gönderim adresini güncelleyebilir veya varsa başka bir seçebilirsiniz!
+app_text_press_back_again_to_exit,Çıkmak için tekrar tekrar basın
+app_text_please_login,Lütfen giriş yapın
+app_text_related_products,ilgili ürünler
+app_text_view_reviews,İncelemeleri Görüntüle
+app_text_write_reviews,İncelemeler yazın
+app_text_please_fill_all_details,Lütfen tüm ayrıntıları doldurun
+app_text_close,Kapat
+app_text_add_review,İnceleme Ekle
+app_text_write_a_review,Bir değerlendirme yazın
+app_text_name,İsim
+app_text_title,Başlık
+app_text_number_of_reviews,İnceleme sayısı
+app_text_minimum_rating,Lütfen minimum ratin ekleyin
+app_text_error,Hata
+app_text_no_reviews,İnceleme Yok
+app_text_place_your_finger_on_sensor,Parmağınızı sensöre yerleştirin
+text_browser_payment_method_success_msg,Başarı: Siparişiniz yerleştirildi. Lütfen uygulamaya dönün.
+text_browser_payment_method_failure_msg,Başarısızlık: Siparişiniz yerleştirilemez. Lütfen uygulamaya dönün ve tekrar deneyin.
+text_browser_payment_method_already_msg,Sipariş zaten yerleştirildi. Lütfen uygulamaya dönün ve tekrar deneyin.
+text_order_verify_fail,Sipariş henüz verilmedi, lütfen sipariş için devam edin ödemeyi tamamlayın ve ardından siparişi doğrulayın
+app_text_external_web_payment,Devam düğmesine tıkladıktan sonra, ödemeyi işlemek için harici tarayıcıya yönlendirilirsiniz. Ödemeyi tamamladıktan sonra tarayıcıyı kapatın
+app_text_text_state,Belirtmek, bildirmek
+app_text_description,Tanım
+app_text_discount,İndirim
+app_text_applied,Uygulamalı
+app_text_default,Varsayılan
+app_text_name_asc,İsim (A-Z)
+app_text_name_desc,İsim (Z-A)
+app_text_rating_asc,Derecelendirme: düşük ila yüksek
+app_text_rating_desc,Derecelendirme: Yüksek ila düşük
+app_text_model_asc,Model (A-Z)
+app_text_model_desc,Model (Z-A)
+app_text_reference_asc,Referans (A-Z)
+app_text_reference_asc,Referans (A-Z)
+app_text_reference_desc,Referans (Z-A)
+app_text_create_new_account,Yeni hesap oluştur
+app_text_back_login,Giriş yapmak için geri dön
+app_text_guest_login,Misafir girişi
+app_text_first_name,İlk adı*
+app_text_last_name,Soyadı*
+app_text_already_have_account,Zaten hesabınız var mı?
+app_text_error_firstname,Lütfen adını girin.
+app_text_error_lastname,Lütfen soyadı girin.
+app_text_error_mobile_number,Lütfen cep telefonu numarasını girin.
+app_text_my_profile,Benim profilim
+app_text_my_orders,Siparişlerim
+app_text_my_addresses,Adresim
+app_text_support,Destek olmak
+app_text_account_page_heading,Hesap ayrıntılarınıza ve ödüllerinize erişin
+app_text_not,Değil
+app_text_apple,Elma
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Hepsini gör
+app_text_error_email_access,Lütfen e -posta erişimi sağlayın veya başka bir hesap kullanın.
+app_text_hi,Merhaba
+app_text_sold_out,Hepsi satıldı
+app_text_signup_with_apple,Apple ile oturum açın
+app_text_login_with_apple,Apple ile giriş yapın
+app_text_order,Sipariş
+app_text_order_date,Sipariş tarihi
+app_text_items,Öğeler)
+app_text_amount,Miktar
+error_voucher_not_available,Kupon geçersiz süresi dolmuş veya kullanım sınırına ulaştı!
+app_text_review_order,İnceleme Siparişi
+app_text_payment_methods,Ödeme metodları
+app_text_review_order,İnceleme Siparişi
+app_text_payment_methods,Ödeme metodları
+app_text_guest,Misafir
+app_text_resend_otp,OTP'yi yeniden yap
+app_text_msg_mobile_number,Lütfen telefon numaranızı giriniz
+app_text_msg_otp,Bir OTP, numaraya gönderdi:
+app_text_msg_resend_otp,Bir OTP'nin sayıya kızması var:
+app_text_confirm_new_password,Yeni şifreyi onayla
+app_text_error_facebook_login,Facebook ile giriş yapamadı
+app_text_sub_total,Ara toplam
+app_text_product_total,Ürün toplamı
+app_text_are_you_sure_you_want_to_exit,Çıkmak istediğine emin misin?
+text_product_updated,Ürün miktarı başarıyla güncellendi !!
+error_incorrect_password,Yanlış parola!!
+app_text_unit_price,Birim fiyat
+app_text_only_mobile,Hareketli
+app_text_file_download,Dosya başarıyla indirildi
+app_text_video,Video ekleri
+app_text_agree_to,Şartlar ve koşulları kabul edin
+app_text_agree_gdpr,Lütfen Şartlar ve Koşullar onay kutusunu kontrol edin !!
+app_text_use_current_location,Mevcut konumu kullanın
+app_text_adding,Ekleme…
+app_text_removing,Çıkarma…
+app_text_voucher_adding,Kupon ekliyor ...
+app_text_voucher_removing,Kupon kaldırıyor ...
+app_text_mobile,Hareketli
+app_text_deal_ends,Anlaşma biter
+app_text_expires_in,İçinde sona eriyor
+app_text_register_fingerprint,Parmak izi giriş için kaydolun
+app_text_reviews,İncelemeler
+app_text_loading,Yükleniyor...
+app_text_please_wait,Lütfen bekle...
+app_text_updating_cart,Güncelleme arabası ...
+app_text_loading_shipping_address,Yükleme nakliye adresi ...
+app_text_loading_billing_address,Fatura adresi yükleme ...
+app_text_removing_product,Ürünü Çıkarma ...
+app_text_loading_store_data,Mağaza verilerinin yüklenmesi
+app_text_select_country,lütfen bir ülke seçiniz
+app_text_select_state,Lütfen bir durum seçin
+app_text_delete_account,Hesabı sil
+app_text_delete_account_msg,Hesabı silmek istediğinden emin misiniz?
+app_text_scan_barcode,Barkod tarama
+app_text_camera_loading,Kamera yükleme ...
+app_text_camera_permission_not_available,Kamera izni mevcut değil
+app_text_search_description,Ne aradığınızı bul.

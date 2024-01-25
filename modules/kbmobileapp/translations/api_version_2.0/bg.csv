@@ -1,0 +1,449 @@
+app_text_home,У дома
+app_text_recent_product,Скорошен продукт
+app_text_category,Категории
+app_text_login,Влизане
+app_text_logout,Излез от профила си
+app_text_login_signup,Влезте/регистрирайте
+app_text_account,Моята сметка
+app_text_contact,Свържете се с нас
+app_text_about,За нас
+app_text_wishlist,Добавете към списъка с желания
+app_text_cart,Добави в кошницата
+app_text_off,изключване
+app_text_all,всичко
+app_text_languages,Език (и)
+app_text_sort,Вид
+app_text_filter,Филтър
+app_text_sort_order,Изберете Ред за сортиране
+app_text_price_asc,Цена: Ниска до висока
+app_text_price_desc,Цена: Висока до ниска
+app_text_product,Продукт
+app_text_select,Изберете
+app_text_instock,В наличност
+app_text_outstock,Не е налично
+app_text_product_info,Информация и грижи за продукта
+app_text_customization,Персонализиране на продукта
+app_text_accessories,Аксесоари
+app_text_view_less,Вижте по -малко
+app_text_view_more,Виж повече
+app_text_provide_details,Моля, предоставете подробности
+app_text_bag,Пазарска чанта
+app_text_apply_voucher,Нанесете ваучер
+app_text_entry_voucher_code,Въведете код на ваучер
+app_text_apply,Приложи
+app_text_gift,Опаковъчна хартия
+app_text_entry_message,Въведете вашето съобщение
+app_text_available_first,Първо изпратете наличните продукти
+app_text_continue_shopping,Продължи пазаруването
+app_text_continue_checkout,Продължете да касата
+app_text_update_quantity,Количество актуализиране
+app_text_enter_quantity,Въведете количество (0-10)
+app_text_empty_cart,Вашата количка за пазаруване е празна!
+app_text_goto_home,Отидете в началната страница
+app_text_review_checkout,Прегледайте вашата поръчка
+app_text_add_new_shipping_address,Добавете нов адрес за доставка
+app_text_history,Подробности за доставката
+app_text_summary,Резюме на поръчката
+app_text_shipping_methods,Методи за доставка
+app_text_comment,Поръчайте коментар
+app_text_payment_summary,Обобщение на плащанията
+app_text_proceed,Пристъпват към плащане
+app_text_make_payment,Извършвам плащане
+app_text_congratulations,Честито
+app_text_shipping_addresses,Адрес (и) за доставка (и)
+app_text_order_detail,Поръчайте подробности
+app_text_update_personal,Актуализирайте личните данни
+app_text_update_password,Актуализиране на парола
+app_text_current_password,Настояща парола
+app_text_new_password,нова парола
+app_text_confirm_password,потвърди парола
+app_text_cancel,Отказ
+app_text_save,Запазете
+app_text_sale,Продажба
+app_text_new,Ново
+app_text_order_ref,Справка за поръчка
+app_text_status,Статус
+app_text_placed,Сложен на
+app_text_reorder,Пренареждане
+app_text_order_details,подробности за поръчката
+app_text_status_history,История на състоянието
+app_text_shipping_address,Адрес за доставка
+app_text_order_summary,Резюме на поръчката
+app_text_shipping_method,Начин на доставка
+app_text_payment_method,Начин на плащане
+app_text_gift_wrapping,Опаковане на подаръци
+app_text_no_shipping_address,Няма наличен адрес за доставка!
+app_text_no_order_details,Няма налични подробности за поръчката!
+app_text_signup,Регистрирай се
+app_text_continue_guest,Продължете като гост
+app_text_email,електронна поща
+app_text_password,Парола
+app_text_forgot_password,Забравена парола?
+app_text_login_social_account,Можете да влезете със социален акаунт.
+app_text_login_with_google,Влезте с Google+
+app_text_login_with_facebook,Влезте с Facebook
+app_text_signup_with_google,Регистрация с Google+
+app_text_signup_with_facebook,Регистрация с Facebook
+app_text_msg_enter_valid_email,Моля, въведете валиден имейл!
+app_text_msg_enter_email,Моля, въведете имейл!
+app_text_msg_enter_password,Моля, въведете парола!
+app_text_msg_password_characters_less_than_3,Моля, въведете парола с знаци повече, които или равни на 3!
+app_text_msg_first_name,Първо име
+app_text_msg_last_name,Фамилия
+app_text_msg_dob,Дата на раждане
+app_text_msg_confirm_password,потвърди парола
+app_text_msg_personal_details,Лични данни
+app_text_msg_pass_not_matched,Паролата и потвърдете паролата не съвпадат!
+app_text_sold_by,Продаден от:
+app_text_write_review,Напиши отзив
+app_text_view_review,Преглед на преглед (и)
+app_text_view_seller_products,Преглед на продавача продукт (и)
+app_text_wait,Моля Изчакай
+app_text_loading,Данни за зареждане ...
+app_text_msg_went_wrong,Нещо се обърка. Моля, опитайте отново.
+app_text_msg_no_internet_found,Не е намерена интернет връзка.
+app_text_msg_no_internet_title,Няма интернет
+app_text_msg_request,Заявката не може да бъде процес. Това може да се дължи на бавна интернет връзка.
+app_text_msg_order_placed_email,Вашата поръчка е направена успешно. Ще получите имейл относно същото.
+app_text_msg_product_look,Можете да потърсите продукт (и) по тяхната категория.
+app_text_msg_search_product,Можете да търсите всеки продукт в магазина по текст или глас!
+app_text_msg_view_cart,Можете да видите количката за пазаруване с количество!
+app_text_msg_logout,Излизате успешно!
+app_text_msg_view_product,Можете да видите продукт в режим на списъка или мрежата!
+app_text_msg_sort_product,Можете да сортирате продукта по тяхната цена!
+app_text_msg_filter_product,Можете да филтрирате продукти (и) според вашите нужди!
+app_text_text_next,Следващия
+app_text_text_okay,добре
+app_text_required,Задължително
+app_text_msg_rating,Моля, изберете рейтинг
+app_text_msg_add_cart,Можете да добавите продукт към количката за пазаруване, като просто щракнете върху бутона „Добавяне към количката“!
+app_text_msg_add_wishlist,Можете да добавите продукт към списъка с желания, като просто щракнете върху бутона „Добавяне към списъка с желания“!
+app_text_msg_product_price,Цената на продукта е актуализирана!
+app_text_msg_product_not_available,Този продукт не е наличен за поръчка!
+app_text_msg_combination,Продуктът вече не е на склад с избраната комбинация. Моля, опитайте с други комбинации.
+app_text_msg_product_no_stock,Този продукт не се предлага в желаното количество или не на склад!
+app_text_msg_out_stock,Някои от продуктите в количката не се предлагат в желаното количество или не на склад. Моля, премахнете такъв продукт (и) от количката!
+app_text_msg_checkout_products,Можете да проверите продукти в количката за пазаруване, като просто щракнете върху бутона „Продължете да касата“.
+app_text_msg_apply_voucher,Можете да нанесете ваучер в количката за пазаруване!
+app_text_msg_update_quantity,Можете да актуализирате количество продукт или да го премахнете от количката за пазаруване!
+app_text_msg_view_details,Можете да видите подробности за продукта, като щракнете върху изображението на продукта!
+app_text_msg_success,Успех!
+app_text_msg_failure,Провал!
+app_text_msg_enter_quantity,Моля, въведете количество
+app_text_quantity,Количество
+text_quantity,Количество
+app_text_remove,Премахване
+app_text_customization_details,Подробности за персонализиране
+app_text_msg_add_address,Можете да добавите нов адрес за доставка, като щракнете върху бутона!
+app_text_msg_update_address,Можете да актуализирате адреса за доставка!
+app_text_msg_select_address,Можете да изберете всеки адрес за доставка, като просто щракнете върху него!
+app_text_select_address_text,*Моля, изберете адрес за доставка, за да прегледате вашата поръчка.
+app_text_msg_no_product,Няма налични продукти!
+app_text_msg_no_comment_available,Няма коментар (и) на разположение!
+app_text_msg_reset_password,Можете да нулирате паролата си, като щракнете върху „Забравете паролата“
+app_text_msg_login,Можете да влезете в магазина от тук!
+app_text_msg_login_fb,Можете също да влезете в магазина от вашия акаунт във Facebook!
+app_text_msg_login_google,Можете също да влезете в магазина от вашия акаунт в Google!
+app_text_msg_update_profile,Можете да актуализирате подробности за вашия профил подробности за доставка или да видите подробностите за поръчката си от тук!
+app_text_product_info_and_care,Информация и грижи за продукта
+app_text_download,Изтегляния
+app_text_minimal_quantity,Минимално количество
+app_text_pack_content,Съдържание на опаковане
+app_text_seller_details,Подробности за продавача
+app_text_submit,Изпращане
+app_text_msg_forget_password,Въведете имейл адреса, свързан с вашия акаунт. Кликнете изпратете, за да ви изпратите паролата.
+app_text_enter_your_email,Въведете вашия имейл
+app_text_reset_password,Нулиране на паролата
+app_text_view_selected_filter,Можете да видите резултата от избрания от вашия филтър, като щракнете върху това изображение!
+app_text_clear_selected_filter,Можете да изчистите приложения филтър, като щракнете върху това изображение!
+app_text_no_filter,Без филтри
+app_text_phone_number_required,*Трябва да регистрирате поне един телефонен номер
+app_text_refresh,Опресняване
+app_text_internet_connection_failed,Интернет връзка не успя!
+app_text_internet_connection_problem,Може да има някакъв проблем с вашата интернет връзка. Моля те, провери.
+app_text_cancel_transaction,Анулиране на транзакция
+app_text_middle_of_payment,Вие сте в средата на процеса на сделки с плащане. Наистина ли искате да анулирате транзакцията си?
+app_text_yes,Да
+app_text_no,Не
+app_text_enter_your_comment,Въведете вашия коментар
+app_text_msg_shipping_methods_unavailable,Няма налични методи за доставка
+app_text_msg_select_shipping_methods,Моля, изберете метод за доставка
+app_text_billing_address,адрес на плащане
+app_text_billing_addresses,Адрес (и) за фактуриране
+app_text_addresses,Адрес (и)
+app_text_billing_details,Подробности за фактуриране
+app_text_same_as_shipping_details,Същия като адреса за доставка
+app_text_share_log,Споделете дневника
+app_text_payment_failed_contact_support,Вашата поръчка не може да бъде обработена. Моля, свържете се с поддръжка за всякакви заявки
+app_text_choose_payment_method,Изберете начин на плащане
+app_text_no_payment_method,Не са намерени методи за плащане!
+app_text_no_payment_currently,В момента няма начин на плащане.
+app_text_no_make_payment,Няма да можете да извършвате плащане, тъй като това мобилно приложение е настроено за демонстрация.
+app_text_make_payment_after_select,Можете да извършите плащане, след като изберете всеки начин на плащане!
+app_text_title_payment_paypal,Плащане на PayPal
+app_text_order_total_price,Поръчайте обща цена
+app_text_user_cancelled_the_payment,Потребителят анулира плащането
+app_text_invalid_payment_try_again,Невалидно плащане. Моля, опитайте отново
+app_text_title_paypal_payment,Плащане на PayPal
+app_text_wishlist_item_removed,Елемент, премахнат от списъка с желания.
+app_text_wishlist_item_added,Елемент, добавен към списъка с желания
+app_text_subject,Ей, проверете това!
+app_text_extra_share,Достъпно тук:
+app_text_intent_title,Дял
+app_text_error_product_name_url,Името на продукта или URL адресът може да е празно.
+app_text_tag_error,Грешка
+app_text_ok,Добре
+app_text_view_your_store,Вижте вашия магазин
+app_text_view_demo,Преглед на демонстрацията
+app_text_currency,Валута (и)
+app_text_choose_your_app_theme,Изберете темата за приложението си
+app_text_terms_and_conditions,Общи условия за употреба
+app_text_wishlist_only,Списък с желания
+app_text_wishlist_remove,Извадете от списъка с желания
+app_text_update_address,Актуализиране на адрес
+app_text_state_not_required,Държавата не се изисква за избрана държава
+app_text_currencies,Валута (и)
+app_text_payment_failed,По време на обработката на плащането възникна известна грешка. Моля, опитайте отново
+app_text_entered_wrong_url,Може да сте въвели грешен URL адрес или да не сте инсталирали нашия Bodule Bodule Bodle.
+app_text_login_failed,Неуспешно влизане!
+app_text_install_module,Инсталиране на модул
+app_text_no_data_found,Не са намерени данни
+app_text_enter_store_url,Моля, въведете URL адрес на магазина
+app_text_fill_all_required_fields,Моля, попълнете всички необходими полета.
+app_text_state,Състояние
+app_text_add_to_wishlist,Добавете към списъка с желания
+app_text_add_to_cart,Добави в кошницата
+text_prices,Цени
+text_brands,Марки
+text_shipping_address_success,Адресът за доставка е добавен успешно
+text_shipping_address_issue,Има някои проблеми с данните
+text_shipping_address_update,Адресът за доставка е актуализиран успешно
+text_cart_loaded,Информацията за количката се зарежда успешно
+text_order_success,Поръчка, създадена от тази количка
+text_reorder_fail,Поръчката не може да бъде пресъздадена
+text_currecy_error,Валутата не е зададена поради някаква грешка. Моля, проверете кода на валутата и опитайте отново.
+text_fcm_fail,ID на количката или FCM ID не са намерени
+text_empty_cart,Празна количка
+text_error_cart,Грешка
+text_session_expired,Сесията изтече
+text_customer_created,Клиентът успешно създаден !!
+text_wrong,нещо се обърка
+text_error_email,Грешка при изпращане на имейл !!
+text_confirm_email,Дойсьор е изпратен имейл за потвърждение:
+text_login_success,Потребителят вход успешно
+text_language_error,Езикът не е зададен поради някаква грешка. Моля, проверете ISO кода и опитайте отново.
+text_customer_update,Личната информация се актуализира успешно.
+error_email_id,Идентификационният номер на имейл не съществува !!
+error_email_empty,Идентификационният номер на имейл не може да бъде празен !!
+text_add_wishlist,Продукт, добавен към списъка с желания
+text_fail_wishlist,Продуктът не е добавен към списъка с желания
+text_no_email,Без имейл
+text_product_added,Продуктът успешно се добавя
+text_product_deleted,Продуктът успешно изтрит
+text_voucher_already,Ваучер вече е приложен!
+text_voucher_success,Ваучер, който успешно се прилага в количката
+text_voucher_removed,Ваучерът успешно се отстрани
+text_product_not_added,Не може да се добави към количката
+error_out_of_stock,Продуктът не се предлага в желаното количество!
+error_firstname,Името трябва да е между 3 и 15 знака !!
+error_lastname,Фамилното име трябва да е между 3 и 15 знака !!
+error_address_1,Адресът трябва да е между 3 и 15 знака !!
+error_city,Градът трябва да е между 3 и 15 знака !!
+error_postcode,Моля, попълнете валиден пощенски код !!
+error_country,Моля, изберете държава !!
+error_zone,Моля, изберете състояние !!
+error_phone1,Телефонният номер трябва да е между 3 и 15 знака !!
+error_phone2,Телефонният номер трябва да съдържа само номера и тирета !!
+error_password,Паролата трябва да е между 4 и 15 знака !!
+error_confirm,Несъответствие с парола !!
+error_email,Идентификационният номер на имейл не е валиден
+error_exists,Имейл за имейл вече е регистриран
+error_minimum,Необходимо е минимално количество %d, за да може продуктът %s да прави поръчка.
+error_quantity_required,необходимо количество.
+error_voucher,Ваучер вече е приложен!
+voucher_success,Ваучер се прилага успешно!
+voucher_removed,Ваучерът успешно се отстрани
+text_wishlist_added,Продукт, добавен към списъка с желания
+text_wishlist_removed,Продукт, отстранен от списъка с желания
+app_text_sellers,Продавачи
+app_text_seller,Продавач
+app_text_seller_shipping_policy,Политика за доставка на продавач
+app_text_seller_return_policy,Политика за връщане на продавача
+app_text_review_title,Преглед заглавие
+app_text_review_comment,Преглед на коментара
+app_text_review_rating,Рейтинг за преглед
+app_text_filter_products,Филтрирани продукти
+app_text_select_category,Избери категория
+app_text_select_sort,Вид
+app_text_clear,Ясно
+app_text_hour,Час
+app_text_min,Минути
+app_text_sec,Секунди
+app_text_install_whatsapp,WhatsApp не е инсталиран на вашето устройство
+app_text_no_account_registered,Не е регистриран акаунт за биометричното удостоверяване в това устройство. Моля, първо регистрирайте акаунт.
+app_text_confirm_for_authentication,Потвърдете пръстовия си отпечатък или лицето, за да се удостоверите.
+app_text_login_with_fingerprint,Влезте с пръстов отпечатък
+app_text_register_for_fingerprint,Регистрирайте се за пръстов отпечатък
+app_text_biometric_not_available,Биометричната автентификация не е налична за това устройство.
+app_text_fingerprint_not_recognized,Touch ID не разпознава вашия пръстов отпечатък. Моля, опитайте отново с записания си пръстов отпечатък.
+app_text_face_not_recognizes,Face ID не разпознава лицето ви. Моля, опитайте отново с записаното си лице.
+app_text_fingerprint_or_face_not_enrolled,В устройството няма записани пръстови отпечатъци/лице.
+app_text_biometry_locked_out,Функционалността вече е заключена поради твърде много неуспешни опити.
+app_text_register_for_fingerpring,Регистрирайте се за пръстов отпечатък
+app_text_register_for_fingerprint_details,Искате ли да регистрирате този акаунт за функционалност за пръстови отпечатъци. След като направите, можете да влезете в този акаунт, без да използвате имейл идентификатор или парола, просто използвате проверката на пръстовия отпечатък.
+app_text_register,Регистрирам
+app_text_fingerprint_not_available,Удостоверяването на пръстови отпечатъци не е налично в това устройство!
+app_text_fingerprint_not_enrolled,В устройството няма записани пръстови отпечатъци.
+app_text_android_marshmallow_required,Най -малкото Android Marshmallow е необходим за поддържане на удостоверяване на пръстови отпечатъци.
+app_text_fingerprint_error_try_again,Има някаква грешка с пръстовия отпечатък. Моля, опитайте отново или продължете без пръстов отпечатък!
+app_text_fingerprint_wipe_sensor_try_again,Възможно е да има някакъв прах върху сензора за пръстови отпечатъци. Моля, избършете го и опитайте отново.
+app_text_skip_and_continue,Пропуснете и продължете
+app_text_verify,Проверете
+app_text_get_otp,Вземете OTP
+app_text_mobile_number,Мобилен номер
+app_text_mobile_number_optional,Мобилен номер (незадължително)
+app_text_invalid_phone_number,Моля въведете валиден номер
+app_text_error_number_verification,Мобилният номер не може да бъде проверен! Моля, опитайте отново с правилния OTP номер!
+app_text_phone_number_already_exists,Телефонният номер вече е регистриран. Моля, опитайте отново с друг телефонен номер!
+app_text_number_verification,Проверка на номера
+app_text_number_verification_description,Трябва да потвърдите телефонния номер. Моля, въведете телефонния номер и изпратете
+app_text_login_with_phone_number,Влезте с телефонен номер
+app_text_forget_password_description,Въведете имейл адреса или телефонен номер, свързан с вашия акаунт.
+app_text_enter_email_or_mobile_number,Въведете имейл или мобилен номер
+app_text_phone_number_change_message,Един телефонен номер вече е регистриран в този акаунт. Можете да промените само номера за контакт. Моля, въведете валиден телефонен номер.
+app_text_enter_otp,Въведете OTP
+app_text_review_your_order,Прегледайте вашата поръчка
+app_text_attributes,Атрибути
+entry_company,Компания
+entry_address_1,Адрес 1
+entry_address_2,Адрес 2
+entry_city,Град
+entry_postcode,Пощенски код
+entry_country,Държава
+app_text_label_address,Адрес
+app_text_label_country,Не
+app_text_label_phone,Телефонен номер
+app_text_select_all_options,Моля, изберете всички опции
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,Мобилният номер не съществува в базата данни
+phone_number_exist_message,Мобилният номер съществува в базата данни
+password_update_message,Актуализиране на паролата успешно
+app_text_continue_to_checkout_click_msg,Можете да проверите продукти в количката за пазаруване, като просто щракнете върху бутона „Продължете да качите“!
+app_text_cart_tab,Количка
+app_text_search,Търсене
+app_text_msg_empty_wishlist,Вашият списък с желания е празен
+app_text_your_wishlist_is_empty,Вашият списък с желания е празен!
+app_text_percent_off,% отстъпка
+app_text_update_address_if_exists,Можете да актуализирате адрес за доставка или да изберете всеки друг, ако съществува!
+app_text_press_back_again_to_exit,Натиснете отново, за да излезете
+app_text_please_login,Моля влезте
+app_text_related_products,Свързани продукти
+app_text_view_reviews,Преглед на прегледите
+app_text_write_reviews,Напишете отзиви
+app_text_please_fill_all_details,Моля, попълнете всички подробности
+app_text_close,Близо
+app_text_add_review,Добавете преглед
+app_text_write_a_review,Напишете коментар
+app_text_name,Име
+app_text_title,Заглавие
+app_text_number_of_reviews,Брой отзиви
+app_text_minimum_rating,Моля, добавете минимален Ratin
+app_text_error,Грешка
+app_text_no_reviews,Без отзиви
+app_text_place_your_finger_on_sensor,Поставете пръста си върху сензора
+text_browser_payment_method_success_msg,Успех: Вашата поръчка е направена. Моля, върнете се към приложението.
+text_browser_payment_method_failure_msg,Провал: Вашата поръчка не може да бъде направена. Моля, върнете се в приложението и опитайте отново.
+text_browser_payment_method_already_msg,Поръчката вече е поставена. Моля, върнете се в приложението и опитайте отново.
+text_order_verify_fail,Поръчката все още не е направена, моля, продължете за поръчка Попълнете плащането и след това проверете поръчката
+app_text_external_web_payment,При щракване върху бутона Продължаване ще бъдете пренасочени към външния браузър, за да обработите плащането. След като приключите плащането там, затворете браузъра
+app_text_text_state,Състояние
+app_text_description,Описание
+app_text_discount,Отстъпка
+app_text_applied,Прилага се
+app_text_default,По подразбиране
+app_text_name_asc,Име (A-Z)
+app_text_name_desc,Име (Z-A)
+app_text_rating_asc,Оценка: Ниско до високо
+app_text_rating_desc,Оценка: Висока до ниска
+app_text_model_asc,Модел (A-Z)
+app_text_model_desc,Модел (Z-A)
+app_text_reference_asc,Справка (A-Z)
+app_text_reference_asc,Справка (A-Z)
+app_text_reference_desc,Справка (Z-A)
+app_text_create_new_account,Създаване на нов акаунт
+app_text_back_login,Обратно към вход
+app_text_guest_login,Вход за гости
+app_text_first_name,Първо име*
+app_text_last_name,Фамилия*
+app_text_already_have_account,Вече имате акаунт?
+app_text_error_firstname,Моля, въведете първото име.
+app_text_error_lastname,Моля, въведете фамилното име.
+app_text_error_mobile_number,Моля, въведете мобилния номер.
+app_text_my_profile,Моят профил
+app_text_my_orders,Моите поръчки
+app_text_my_addresses,Моите адреси
+app_text_support,поддържа
+app_text_account_page_heading,Достъп до подробности за вашия акаунт и награди
+app_text_not,Не
+app_text_apple,Apple
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Виж всички
+app_text_error_email_access,Моля, предоставете достъп до имейл или използвайте друг акаунт.
+app_text_hi,Здравей
+app_text_sold_out,Продадено
+app_text_signup_with_apple,Влезте с Apple
+app_text_login_with_apple,Влезте с Apple
+app_text_order,Поръчка
+app_text_order_date,Дата на поръчка
+app_text_items,Елемент (и)
+app_text_amount,Количество
+error_voucher_not_available,Ваучерът е или невалиден с изтекъл срок или достигане на ограничението си за използване!
+app_text_review_order,Поръчка за преглед
+app_text_payment_methods,начини за плащане
+app_text_review_order,Поръчка за преглед
+app_text_payment_methods,начини за плащане
+app_text_guest,Гост
+app_text_resend_otp,Възстановете OTP
+app_text_msg_mobile_number,Моля, въведете вашия мобилен номер
+app_text_msg_otp,OTP изпрати Бен на номера:
+app_text_msg_resend_otp,OTP се възмущава от номера:
+app_text_confirm_new_password,Потвърждение на новата парола
+app_text_error_facebook_login,Не можах да влязат с Facebook
+app_text_sub_total,Подтотален
+app_text_product_total,Общ продукт
+app_text_are_you_sure_you_want_to_exit,Сигурни ли сте, че искате да излезете?
+text_product_updated,Количеството на продукта се актуализира успешно !!
+error_incorrect_password,Грешна парола!!
+app_text_unit_price,Единична цена
+app_text_only_mobile,Подвижен
+app_text_file_download,Файл успешно се изтегля на
+app_text_video,Видео прикачени файлове
+app_text_agree_to,Съгласете се с условията
+app_text_agree_gdpr,Моля, проверете квадратчето Общите условия !!
+app_text_use_current_location,Използвайте текущото местоположение
+app_text_adding,Добавяне…
+app_text_removing,Премахване ...
+app_text_voucher_adding,Ваучер добавяне ...
+app_text_voucher_removing,Ваучер за премахване ...
+app_text_mobile,Подвижен
+app_text_deal_ends,Сделката приключва
+app_text_expires_in,Изтича на
+app_text_register_fingerprint,Регистрирайте се за вход за пръстови отпечатъци
+app_text_reviews,Отзиви
+app_text_loading,Зареждане...
+app_text_please_wait,Моля Изчакай...
+app_text_updating_cart,Актуализиране на количката ...
+app_text_loading_shipping_address,Зареждане на адрес за доставка ...
+app_text_loading_billing_address,Зареждане на адрес за фактуриране ...
+app_text_removing_product,Премахване на продукт ...
+app_text_loading_store_data,Данни за зареждане на магазина
+app_text_select_country,Моля, изберете държава
+app_text_select_state,Моля, изберете състояние
+app_text_delete_account,Изтриване на акаунт
+app_text_delete_account_msg,Сигурни ли сте, че искате да изтриете акаунт?
+app_text_scan_barcode,Сканирайте баркод
+app_text_camera_loading,Зареждане на камерата ...
+app_text_camera_permission_not_available,Разрешение за камера не е налично
+app_text_search_description,Намерете това, което търсите.

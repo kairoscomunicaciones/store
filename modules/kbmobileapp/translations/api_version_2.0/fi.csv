@@ -1,0 +1,449 @@
+app_text_home,Koti
+app_text_recent_product,Tuote
+app_text_category,Luokat
+app_text_login,Kirjaudu sisään
+app_text_logout,Kirjautua ulos
+app_text_login_signup,Kirjaudu sisään Rekisteröidy
+app_text_account,Tilini
+app_text_contact,Ota meihin yhteyttä
+app_text_about,Meistä
+app_text_wishlist,Lisää toivelistaan
+app_text_cart,Lisää ostoskoriin
+app_text_off,vinossa
+app_text_all,Kaikki
+app_text_languages,Kieli (kielet)
+app_text_sort,Järjestellä
+app_text_filter,Suodattaa
+app_text_sort_order,Valitse Lajittelutilaus
+app_text_price_asc,Hinta: matalalle korkealle
+app_text_price_desc,Hinta: korkea tai alhainen
+app_text_product,Tuote
+app_text_select,Valita
+app_text_instock,Varastossa
+app_text_outstock,Loppu varastosta
+app_text_product_info,Tuotetiedot ja hoito
+app_text_customization,Tuotteen muokattavuus
+app_text_accessories,Lisätarvikkeet
+app_text_view_less,Nähdä vähemmän
+app_text_view_more,Katso lisää
+app_text_provide_details,Anna yksityiskohdat
+app_text_bag,Ostoskassi
+app_text_apply_voucher,Levitä tositteita
+app_text_entry_voucher_code,Syötä alennuskoodi
+app_text_apply,Käytä
+app_text_gift,Lahjapaperia
+app_text_entry_message,Kirjoita viestisi
+app_text_available_first,Lähetä ensin käytettävissä olevat tuotteet
+app_text_continue_shopping,Jatka ostoksia
+app_text_continue_checkout,Jatka kassalle
+app_text_update_quantity,Päivitä määrä
+app_text_enter_quantity,Kirjoita määrä (0-10)
+app_text_empty_cart,Ostoskori on tyhjä!
+app_text_goto_home,Mene kotisivulle
+app_text_review_checkout,Tarkista tilauksesi
+app_text_add_new_shipping_address,Lisää uusi lähetysosoite
+app_text_history,Rahti tiedot
+app_text_summary,tilauksen yhteenveto
+app_text_shipping_methods,Toimitusmenetelmät
+app_text_comment,Tilata kommentti
+app_text_payment_summary,Maksuyhteenveto
+app_text_proceed,Jatka maksamaan
+app_text_make_payment,Maksaa
+app_text_congratulations,Onnittelut
+app_text_shipping_addresses,Toimitusosoite (t)
+app_text_order_detail,Tilauksen tiedot
+app_text_update_personal,Päivitä henkilökohtaiset tiedot
+app_text_update_password,Päivitä salasana
+app_text_current_password,Nykyinen salasana
+app_text_new_password,uusi salasana
+app_text_confirm_password,Vahvista salasana
+app_text_cancel,Peruuttaa
+app_text_save,Tallentaa
+app_text_sale,Myynti
+app_text_new,Uusi
+app_text_order_ref,Tilauksen viite
+app_text_status,Tila
+app_text_placed,Asettua jhk
+app_text_reorder,Järjestää uudelleen
+app_text_order_details,Tilauksen tiedot
+app_text_status_history,Tilihistoria
+app_text_shipping_address,Toimitusosoite
+app_text_order_summary,tilauksen yhteenveto
+app_text_shipping_method,toimitustapa
+app_text_payment_method,Maksutapa
+app_text_gift_wrapping,Lahjan paketointi
+app_text_no_shipping_address,Toimitusosoitetta ei ole saatavilla!
+app_text_no_order_details,Tilaustietoja ei ole saatavilla!
+app_text_signup,Kirjaudu
+app_text_continue_guest,Jatka vieraana
+app_text_email,Sähköposti
+app_text_password,Salasana
+app_text_forgot_password,Unohtuiko salasana?
+app_text_login_social_account,Voit kirjautua sisään sosiaalisella tilillä.
+app_text_login_with_google,Kirjaudu sisään Google+: n kanssa
+app_text_login_with_facebook,Kirjaudu sisään Facebookin kanssa
+app_text_signup_with_google,Rekisteröidy Google+: n kanssa
+app_text_signup_with_facebook,Rekisteröidy Facebookin kanssa
+app_text_msg_enter_valid_email,Anna kelvollinen sähköposti!
+app_text_msg_enter_email,Anna sähköpostia!
+app_text_msg_enter_password,Anna salasana!
+app_text_msg_password_characters_less_than_3,Anna salasana, jolla on merkkejä enemmän tai yhtä suuri kuin 3!
+app_text_msg_first_name,Etunimi
+app_text_msg_last_name,Sukunimi
+app_text_msg_dob,Syntymäaika
+app_text_msg_confirm_password,Vahvista salasana
+app_text_msg_personal_details,Henkilökohtaiset tiedot
+app_text_msg_pass_not_matched,Salasana ja vahvista salasana eivät sovi!
+app_text_sold_by,Myynyt:
+app_text_write_review,Kirjoittaa arvostelu
+app_text_view_review,Näytä arvostelu (t)
+app_text_view_seller_products,Näytä myyjätuotteet (t)
+app_text_wait,Odota
+app_text_loading,Tietojen lataaminen ...
+app_text_msg_went_wrong,Jotain meni pieleen. Yritä uudelleen.
+app_text_msg_no_internet_found,Internet -yhteyttä ei löydy.
+app_text_msg_no_internet_title,Ei Internetiä
+app_text_msg_request,Pyyntö ei voi olla prosessi. Tämä voi johtua hitaasta Internet -yhteydestä.
+app_text_msg_order_placed_email,Tilauksesi on tehty onnistuneesti. Saat sähköpostin samasta.
+app_text_msg_product_look,Voit etsiä tuotteita / tuotteita heidän luokastaan.
+app_text_msg_search_product,Voit etsiä mitä tahansa tuotetta myymälästä tekstin tai äänen mukaan!
+app_text_msg_view_cart,Voit tarkastella ostoskärryä määrällä!
+app_text_msg_logout,Olet kirjautunut onnistuneesti!
+app_text_msg_view_product,Voit tarkastella tuotetta luettelossa tai ruudukkotilassa!
+app_text_msg_sort_product,Voit lajitella tuotteen heidän hintaansa!
+app_text_msg_filter_product,Voit suodattaa tuotteita (t) tarpeesi mukaan!
+app_text_text_next,Seuraava
+app_text_text_okay,Okei
+app_text_required,Edellytetään
+app_text_msg_rating,Valitse luokitus
+app_text_msg_add_cart,Voit lisätä tuotteen ostoskoriin napsauttamalla painiketta 'Lisää ostoskoriin'!
+app_text_msg_add_wishlist,Voit lisätä tuotteen toivelistalle napsauttamalla painiketta 'Lisää toivelistalle'!
+app_text_msg_product_price,Tuotteen hinta on päivitetty!
+app_text_msg_product_not_available,Tätä tuotetta ei ole saatavana tilaukseksi!
+app_text_msg_combination,Tuotetta ei ole enää varastossa valitulla yhdistelmällä. Yritä muilla yhdistelmillä.
+app_text_msg_product_no_stock,Tätä tuotetta ei ole saatavana halutulla määrällä tai ei varastossa!
+app_text_msg_out_stock,Joitakin kärryjen tuotteita ei ole saatavana halutulla määrällä tai ei varastossa. Poista tällaiset tuotteet ostoskorista!
+app_text_msg_checkout_products,Voit kassatuotteet ostoskorissa napsauttamalla painiketta 'Jatka kassalle'.
+app_text_msg_apply_voucher,Voit levittää tositteen ostoskoriin!
+app_text_msg_update_quantity,Voit päivittää tuotteen tai poistaa sen ostoskorista!
+app_text_msg_view_details,Voit tarkastella tuotetietoja napsauttamalla tuotekuvaa!
+app_text_msg_success,Menestys!
+app_text_msg_failure,Epäonnistuin!
+app_text_msg_enter_quantity,Anna määrä
+app_text_quantity,Määrä
+text_quantity,Määrä
+app_text_remove,Poista
+app_text_customization_details,Mukauttamistiedot
+app_text_msg_add_address,Voit lisätä uuden toimitusosoitteen napsauttamalla painiketta!
+app_text_msg_update_address,Voit päivittää lähetysosoitteen!
+app_text_msg_select_address,Voit valita minkä tahansa lähetysosoitteen napsauttamalla sitä!
+app_text_select_address_text,*Valitse lähetysosoite tarkistaaksesi tilauksesi.
+app_text_msg_no_product,Tuotteita ei ole saatavilla!
+app_text_msg_no_comment_available,Ei kommentteja saatavilla!
+app_text_msg_reset_password,Voit nollata salasanasi napsauttamalla "unohda salasana"
+app_text_msg_login,Voit kirjautua kauppaan täältä!
+app_text_msg_login_fb,Voit myös kirjautua kauppaan Facebook -tililtäsi!
+app_text_msg_login_google,Voit myös kirjautua sisään myymälään Google -tililtäsi!
+app_text_msg_update_profile,Voit päivittää profiilitiedot toimitustiedot tai tarkastella tilauksen yksityiskohtia täältä!
+app_text_product_info_and_care,Tuotetiedot ja hoito
+app_text_download,Lataukset
+app_text_minimal_quantity,Minimaalinen määrä
+app_text_pack_content,Pakkaussisältö
+app_text_seller_details,Myyjätiedot
+app_text_submit,Lähetä
+app_text_msg_forget_password,Kirjoita tiliisi liittyvä sähköpostiosoite.Click Lähetä salasanasi sähköpostitse sinulle.
+app_text_enter_your_email,Syötä sähköpostiosoitteesi
+app_text_reset_password,Nollaa salasana
+app_text_view_selected_filter,Voit tarkastella valittua suodatintulosta napsauttamalla tätä kuvaa!
+app_text_clear_selected_filter,Voit tyhjentää sovelletun suodattimen napsauttamalla tätä kuvaa!
+app_text_no_filter,Ei suodattimia
+app_text_phone_number_required,*Sinun on rekisteröidyttävä vähintään yksi puhelinnumero
+app_text_refresh,virkistää
+app_text_internet_connection_failed,Internet -yhteys epäonnistui!
+app_text_internet_connection_problem,Internet -yhteyden suhteen voi olla jonkin verran ongelmia. Tarkista.
+app_text_cancel_transaction,Peruuta tapahtuma
+app_text_middle_of_payment,Olet keskellä maksutapahtumaa. Haluatko todella peruuttaa tapahtumasi?
+app_text_yes,Joo
+app_text_no,Ei
+app_text_enter_your_comment,Kirjoita kommenttisi
+app_text_msg_shipping_methods_unavailable,Toimitusmenetelmiä ei ole käytettävissä
+app_text_msg_select_shipping_methods,Valitse toimitusmenetelmä
+app_text_billing_address,Laskutusosoite
+app_text_billing_addresses,Laskutusosoite (t)
+app_text_addresses,Osoite)
+app_text_billing_details,laskutustiedot
+app_text_same_as_shipping_details,Sama kuin toimitusosoite
+app_text_share_log,Jakaa loki
+app_text_payment_failed_contact_support,Tilaustasi ei voitu käsitellä. Ystävällisesti ota yhteyttä kyselyihin
+app_text_choose_payment_method,Valitse maksutapa
+app_text_no_payment_method,Maksumenetelmää ei löydy!
+app_text_no_payment_currently,Tällä hetkellä maksutapaa ei ole.
+app_text_no_make_payment,Et voi suorittaa maksua, koska tämä mobiilisovellus on asetettu esittelytarkoitukseen.
+app_text_make_payment_after_select,Voit suorittaa maksun minkä tahansa maksutavan valitsemisen jälkeen!
+app_text_title_payment_paypal,Paypal -maksu
+app_text_order_total_price,Tilauksen kokonaishinta
+app_text_user_cancelled_the_payment,Käyttäjä peruutti maksun
+app_text_invalid_payment_try_again,Virheellinen maksu. Yritä uudelleen uudelleen
+app_text_title_paypal_payment,Paypal -maksu
+app_text_wishlist_item_removed,Kohde poistettu toivelista.
+app_text_wishlist_item_added,Kohde lisätty toivelistalle
+app_text_subject,Hei tarkista tämä!
+app_text_extra_share,Saatavana täältä:
+app_text_intent_title,Jaa
+app_text_error_product_name_url,Tuotteen nimi tai URL voi olla tyhjä.
+app_text_tag_error,Virhe
+app_text_ok,Hyvä
+app_text_view_your_store,Katso myymäläsi
+app_text_view_demo,Näytä esittely
+app_text_currency,Valuutta (t)
+app_text_choose_your_app_theme,Valitse sovellusteema
+app_text_terms_and_conditions,Säännöt ja käyttöehdot
+app_text_wishlist_only,Toivelista
+app_text_wishlist_remove,Poista toivelista
+app_text_update_address,Päivitysosoite
+app_text_state_not_required,Valtiota ei vaadita valittuun maahan
+app_text_currencies,Valuutta (t)
+app_text_payment_failed,Maksun käsittelyn aikana tapahtui jonkin verran virhettä. Yritä uudelleen uudelleen
+app_text_entered_wrong_url,Olet ehkä syöttänyt väärän URL -osoitteen tai et ole asentanut mobiilisovellusrakentaja -boduliamme.
+app_text_login_failed,Kirjautuminen epäonnistui!
+app_text_install_module,Asenna moduuli
+app_text_no_data_found,Dataa ei löytynyt
+app_text_enter_store_url,Anna Store URL -osoite
+app_text_fill_all_required_fields,Täytä kaikki vaadittavat kentät.
+app_text_state,Osavaltio
+app_text_add_to_wishlist,Lisää toivelistaan
+app_text_add_to_cart,Lisää ostoskoriin
+text_prices,Hinnat
+text_brands,Tuotemerkit
+text_shipping_address_success,Toimitusosoite on lisätty onnistuneesti
+text_shipping_address_issue,Tietojen kanssa on joitain ongelmia
+text_shipping_address_update,Toimitusosoite on päivitetty onnistuneesti
+text_cart_loaded,Kärrytiedot ladataan onnistuneesti
+text_order_success,Tämän kärryn luoma tilaus
+text_reorder_fail,Tilausta ei voida luoda uudelleen
+text_currecy_error,Valuutta ei ole asetettu jonkin virheen vuoksi. Tarkista valuuttakoodi ja yritä uudelleen.
+text_fcm_fail,Kärrytunnus tai FCM -tunnusta ei löydy
+text_empty_cart,Tyhjä kärry
+text_error_cart,Virhe
+text_session_expired,Istunto päättyi
+text_customer_created,Asiakas onnistuneesti luodaan !!
+text_wrong,jotain meni pieleen
+text_error_email,Virhe lähettäessäsi sähköpostia !!
+text_confirm_email,Osoitteeseesi on lähetetty vahvistusviesti:
+text_login_success,Käyttäjän kirjautuminen onnistuneesti
+text_language_error,Kieli, jota ei ole asetettu jonkin virheen vuoksi. Tarkista ISO -koodi ja yritä uudelleen.
+text_customer_update,Henkilökohtaiset tiedot päivitettiin onnistuneesti.
+error_email_id,Sähköpostitunnusta ei ole!
+error_email_empty,Sähköpostitunnus ei voi olla tyhjä !!
+text_add_wishlist,Tuote, joka on lisätty toivelistalle
+text_fail_wishlist,Tuotteita ei ole lisätty toivelistalle
+text_no_email,Ei sähköpostia
+text_product_added,Tuote on lisätty onnistuneesti
+text_product_deleted,Tuote poistettu onnistuneesti
+text_voucher_already,Kuponki jo sovellettu!
+text_voucher_success,Kuponki, joka levitettiin onnistuneesti kärryyn
+text_voucher_removed,Tosite poistettu onnistuneesti
+text_product_not_added,Kärryyn ei voi lisätä
+error_out_of_stock,Tuotetta ei ole saatavana halutulla määrällä!
+error_firstname,Etunimen on oltava 3–15 merkkiä !!
+error_lastname,Sukunimen on oltava 3–15 merkkiä !!
+error_address_1,Osoitteen on oltava 3–15 merkkiä !!
+error_city,Kaupungin on oltava 3–15 merkkiä !!
+error_postcode,Täytä kelvollinen postinumero !!
+error_country,Valitse maa !!
+error_zone,Valitse tila !!
+error_phone1,Puhelinnumeron on oltava 3–15 merkkiä !!
+error_phone2,Puhelinnumeron tulisi sisältää vain numeroita ja viivoja !!
+error_password,Salasanan on oltava 4–15 merkkiä !!
+error_confirm,Salasanat eivät täsmää!!
+error_email,Sähköpostitunnus ei ole kelvollinen
+error_exists,Sähköpostitunnus jo rekisteröity
+error_minimum,Tuotteen %S tarvitaan vähimmäismäärä D: n tilauksen tekemiseen.
+error_quantity_required,vaadittu määrä.
+error_voucher,Kuponki jo sovellettu!
+voucher_success,Kuponki onnistui!
+voucher_removed,Tosite poistettu onnistuneesti
+text_wishlist_added,Tuote, joka on lisätty toivelistalle
+text_wishlist_removed,Tuote poistettu toivelistalta
+app_text_sellers,Myyjät
+app_text_seller,Myyjä
+app_text_seller_shipping_policy,Myyjän toimituskäytäntö
+app_text_seller_return_policy,Myyjän palautuskäytäntö
+app_text_review_title,Arvioinnin nimi
+app_text_review_comment,Tarkista kommentti
+app_text_review_rating,Arvosteluluokitus
+app_text_filter_products,Suodatintuotteet
+app_text_select_category,Valitse kategoria
+app_text_select_sort,Järjestellä
+app_text_clear,Asia selvä
+app_text_hour,Tunnin
+app_text_min,Pöytäkirja
+app_text_sec,Sekunti
+app_text_install_whatsapp,WhatsAppia ei ole asennettu laitteeseesi
+app_text_no_account_registered,Tämän laitteen biometriseen todennukseen ei ole rekisteröity tiliä. Rekisteröidy ensin tili.
+app_text_confirm_for_authentication,Vahvista sormenjälki tai kasvot todentamaan.
+app_text_login_with_fingerprint,Kirjaudu sisään sormenjälkillä
+app_text_register_for_fingerprint,Rekisteröidy sormenjälkeen
+app_text_biometric_not_available,Biometrinen todennus ei ole saatavana tälle laitteelle.
+app_text_fingerprint_not_recognized,Touch ID ei tunnista sormenjälkiä. Yritä uudelleen ilmoittautuneella sormenjälkillä.
+app_text_face_not_recognizes,Kasvotunnus ei tunnista kasvosi. Yritä uudelleen ilmoittautuneilla kasvoillasi.
+app_text_fingerprint_or_face_not_enrolled,Laitteeseen ei ole ilmoittautunut sormenjälkiä/kasvoja.
+app_text_biometry_locked_out,Toiminnallisuus on nyt lukittu liian monien epäonnistuneiden yritysten takia.
+app_text_register_for_fingerpring,Rekisteröidy sormenjälkeen
+app_text_register_for_fingerprint_details,Haluatko rekisteröidä tämän tilin sormenjälkitoiminnoista. Kun olet valmis, voit kirjautua tähän tilille käyttämättä sähköpostin tunnusta tai salasanaa vain sormenjälkien varmennuksen avulla.
+app_text_register,Rekisteröidä
+app_text_fingerprint_not_available,Sormenjälkitodennusta ei ole käytettävissä tässä laitteessa!
+app_text_fingerprint_not_enrolled,Laitteeseen ei ole ilmoittautunut sormenjälkiä.
+app_text_android_marshmallow_required,Ainoa Android Marshmallow vaaditaan sormenjälkitodennuksen tukemiseksi.
+app_text_fingerprint_error_try_again,Sormenjälkillä on jonkin verran virhettä. Yritä uudelleen tai jatka ilman sormenjälkeä!
+app_text_fingerprint_wipe_sensor_try_again,Sormenjälkitunnistimessa saattaa olla jonkin verran pölyä. Pyyhi se ja yritä uudelleen.
+app_text_skip_and_continue,Ohita ja jatka
+app_text_verify,Vahvistaa
+app_text_get_otp,Saada OTP
+app_text_mobile_number,Matkapuhelinnumero
+app_text_mobile_number_optional,Matkapuhelinnumero (valinnainen)
+app_text_invalid_phone_number,Anna kelvollinen numero
+app_text_error_number_verification,Mobiilinumeroa ei voitu vahvistaa! Yritä uudelleen oikealla OTP -numerolla!
+app_text_phone_number_already_exists,Puhelinnumero on jo rekisteröity. Yritä uudelleen toisella puhelinnumerolla!
+app_text_number_verification,Numero tarkistus
+app_text_number_verification_description,Sinun on tarkistettava puhelinnumero. Anna puhelinnumero ja lähetä
+app_text_login_with_phone_number,Kirjaudu puhelinnumerolla
+app_text_forget_password_description,Kirjoita tiliisi liittyvä sähköpostiosoite tai puhelinnumero.
+app_text_enter_email_or_mobile_number,Kirjoita sähköposti- tai matkapuhelinnumero
+app_text_phone_number_change_message,Yksi puhelinnumero on jo rekisteröity tällä tilillä. Voit muuttaa vain yhteyshenkilön numeroa. Anna kelvollinen puhelinnumero.
+app_text_enter_otp,Anna OTP
+app_text_review_your_order,Tarkista tilauksesi
+app_text_attributes,Ominaisuudet
+entry_company,Yhtiö
+entry_address_1,osoite 1
+entry_address_2,Osoite 2
+entry_city,Kaupunki
+entry_postcode,Postinumero
+entry_country,Maa
+app_text_label_address,Osoite
+app_text_label_country,Ei
+app_text_label_phone,Puhelinnumero
+app_text_select_all_options,Valitse kaikki vaihtoehdot
+app_text_sort_asc,A-z
+app_text_sort_desc,Z-a
+phone_number_not_exist_message,Matkapuhelinta ei ole tietokannassa
+phone_number_exist_message,Tietokannassa on mobiilinumero
+password_update_message,Salasanan päivitys onnistuneesti
+app_text_continue_to_checkout_click_msg,Voit kassatuotteet ostoskorissa napsauttamalla painiketta 'Jatka kassalle'!
+app_text_cart_tab,Kärry
+app_text_search,Hae
+app_text_msg_empty_wishlist,Sinun toivelistasi on tyhjä
+app_text_your_wishlist_is_empty,Sinun toivelistasi on tyhjä!
+app_text_percent_off,% vinossa
+app_text_update_address_if_exists,Voit päivittää lähetysosoitteen tai valita muun, jos on olemassa!
+app_text_press_back_again_to_exit,Paina takaisin poistuaksesi
+app_text_please_login,Kirjaudu sisään, ole hyvä
+app_text_related_products,Liittyvät tuotteet
+app_text_view_reviews,Katso arvosteluja
+app_text_write_reviews,Kirjoita arvosteluja
+app_text_please_fill_all_details,Täytä kaikki yksityiskohdat
+app_text_close,kiinni
+app_text_add_review,Lisää arvostelu
+app_text_write_a_review,Kirjoita arvostelu
+app_text_name,Nimi
+app_text_title,Otsikko
+app_text_number_of_reviews,Arvostelujen määrä
+app_text_minimum_rating,Lisää vähimmäisartin
+app_text_error,Virhe
+app_text_no_reviews,Ei arvosteluja
+app_text_place_your_finger_on_sensor,Aseta sormi anturiin
+text_browser_payment_method_success_msg,Menestys: Tilauksesi on sijoitettu. Palaa ystävällisesti sovellukseen.
+text_browser_payment_method_failure_msg,Epäonnistuminen: Tilausta ei voida tehdä. Palaa ystävällisesti sovellukseen ja yritä uudelleen.
+text_browser_payment_method_already_msg,Tilaus on jo tehty. Palaa ystävällisesti sovellukseen ja yritä uudelleen.
+text_order_verify_fail,Tilausta ei ole vielä annettu, jatka tilausta suorittamaan maksu ja tarkista sitten tilaus
+app_text_external_web_payment,Napsauttamalla Jatka -painiketta sinut ohjataan ulkoiseen selaimeen maksun käsittelemiseksi. Kun olet suorittanut maksun, sulje selain
+app_text_text_state,Osavaltio
+app_text_description,Kuvaus
+app_text_discount,Alennus
+app_text_applied,Sovellettu
+app_text_default,Laiminlyönti
+app_text_name_asc,Nimi (A-Z)
+app_text_name_desc,Nimi (Z-A)
+app_text_rating_asc,Luokitus: matalalle korkealle
+app_text_rating_desc,Luokitus: Korkea tai matala
+app_text_model_asc,Malli (A-Z)
+app_text_model_desc,Malli (Z-A)
+app_text_reference_asc,Viite (A-Z)
+app_text_reference_asc,Viite (A-Z)
+app_text_reference_desc,Viite (Z-A)
+app_text_create_new_account,Luo uusi tili
+app_text_back_login,Takaisin sisäänkirjautumiseen
+app_text_guest_login,Vieraskirjautuminen
+app_text_first_name,Etunimi*
+app_text_last_name,Sukunimi*
+app_text_already_have_account,Onko sinulla jo tili?
+app_text_error_firstname,Anna etunimi.
+app_text_error_lastname,Anna sukunimi.
+app_text_error_mobile_number,Anna matkapuhelinnumero.
+app_text_my_profile,Profiilini
+app_text_my_orders,Tilaukseni
+app_text_my_addresses,Minun osoitteeni
+app_text_support,Tuki
+app_text_account_page_heading,Käytä tilisi tietoja ja palkintoja
+app_text_not,Ei
+app_text_apple,Omena
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Näytä kaikki
+app_text_error_email_access,Anna sähköposti käyttö tai käytä toista tiliä.
+app_text_hi,Moi
+app_text_sold_out,Loppuunmyyty
+app_text_signup_with_apple,Kirjaudu sisään omenan kanssa
+app_text_login_with_apple,Kirjaudu sisään Applen kanssa
+app_text_order,Tilaus
+app_text_order_date,Tilauspäivämäärä
+app_text_items,Kohde (S)
+app_text_amount,Määrä
+error_voucher_not_available,Kuponki on joko virheellinen vanhentunut tai saavuttanut käyttörajansa!
+app_text_review_order,Tilauksen tarkastelu
+app_text_payment_methods,maksutavat
+app_text_review_order,Tilauksen tarkastelu
+app_text_payment_methods,maksutavat
+app_text_guest,Vieras
+app_text_resend_otp,Palauttaa OTP
+app_text_msg_mobile_number,Anna matkapuhelinnumerosi
+app_text_msg_otp,OTP on lähettänyt numeroon:
+app_text_msg_resend_otp,OTP: llä on Ben pahoinpitely numeroon:
+app_text_confirm_new_password,Vahvista uusi salasana
+app_text_error_facebook_login,Ei voinut kirjautua sisään Facebookin kanssa
+app_text_sub_total,Välisumma
+app_text_product_total,Tuotteen kokonaismäärä
+app_text_are_you_sure_you_want_to_exit,Oletko varma, että haluat poistua?
+text_product_updated,Tuotemäärä päivitettiin onnistuneesti !!
+error_incorrect_password,Väärä salasana!!
+app_text_unit_price,Yksikköhinta
+app_text_only_mobile,Liikkuva
+app_text_file_download,Tiedosto onnistuneesti ladattu
+app_text_video,Videoyhteydet
+app_text_agree_to,Hyväksyä ehdot
+app_text_agree_gdpr,Tarkista ystävällisesti ehdot valintaruutu !!
+app_text_use_current_location,Käytä nykyistä sijaintia
+app_text_adding,Lisäämällä…
+app_text_removing,Poistaminen…
+app_text_voucher_adding,Tositteen lisääminen ...
+app_text_voucher_removing,Tositteen poistaminen ...
+app_text_mobile,Liikkuva
+app_text_deal_ends,Sopia päättyy
+app_text_expires_in,Vanhenee
+app_text_register_fingerprint,Rekisteröidy sormenjälkitunnisteeseen
+app_text_reviews,Arvostelut
+app_text_loading,Ladataan...
+app_text_please_wait,Odota...
+app_text_updating_cart,Päivitys kärry ...
+app_text_loading_shipping_address,Lataus lähetysosoitteesta ...
+app_text_loading_billing_address,Lataus Laskutusosoite ...
+app_text_removing_product,Tuotteen poistaminen ...
+app_text_loading_store_data,Tallennustietojen lataaminen
+app_text_select_country,Valitse maa
+app_text_select_state,Valitse tila
+app_text_delete_account,Poista tili
+app_text_delete_account_msg,Haluatko varmasti poistaa tilin?
+app_text_scan_barcode,Skannata viivakoodia
+app_text_camera_loading,Kameran lataaminen ...
+app_text_camera_permission_not_available,Kameran lupa ei ole käytettävissä
+app_text_search_description,Löydä etsimäsi.

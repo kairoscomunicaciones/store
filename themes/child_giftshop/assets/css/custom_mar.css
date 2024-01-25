@@ -1,0 +1,23 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+ /* #header{ background: red !important; } */
+
+ .product-customization-item textarea{
+    padding: 0.375rem .75rem;
+    color: #212529 !important;
+    background-color: #fff !important;
+    border: 1px solid #ced4da !important;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    appearance: none;
+ }
+ .btn-primary{
+    background-color: #3d9ad2 !important;
+ }
+ .btn-primary:hover{
+    color: #fff !important;
+    background-color: #1a83c1 !important;
+    border-color: #1a83c1 !important;
+ }

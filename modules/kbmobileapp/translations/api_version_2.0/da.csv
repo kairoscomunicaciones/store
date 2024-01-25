@@ -1,0 +1,449 @@
+app_text_home,Hjem
+app_text_recent_product,Nyligt produkt
+app_text_category,Kategorier
+app_text_login,Log på
+app_text_logout,Log ud
+app_text_login_signup,Log ind / Tilmeld
+app_text_account,Min konto
+app_text_contact,Kontakt os
+app_text_about,Om os
+app_text_wishlist,Tilføj til ønskeliste
+app_text_cart,Tilføj til kurv
+app_text_off,af
+app_text_all,Alle
+app_text_languages,Sprog)
+app_text_sort,Sortere
+app_text_filter,Filter
+app_text_sort_order,Vælg sorteringsordre
+app_text_price_asc,Pris: Lav til høj
+app_text_price_desc,Pris: Høj til lav
+app_text_product,Produkt
+app_text_select,Vælg
+app_text_instock,På lager
+app_text_outstock,Udsolgt
+app_text_product_info,Produktinfo og pleje
+app_text_customization,Produkttilpasning
+app_text_accessories,tilbehør
+app_text_view_less,Se mindre
+app_text_view_more,Se mere
+app_text_provide_details,Angiv detaljer
+app_text_bag,Indkøbspose
+app_text_apply_voucher,Anvend voucher
+app_text_entry_voucher_code,Indtast voucher -kode
+app_text_apply,ansøge
+app_text_gift,Gavepapir
+app_text_entry_message,Indtast din besked
+app_text_available_first,Send først tilgængelige produkter
+app_text_continue_shopping,Fortsætte med at handle
+app_text_continue_checkout,Fortsæt med kassen
+app_text_update_quantity,Opdater mængde
+app_text_enter_quantity,Indtast mængde (0-10)
+app_text_empty_cart,Din indkøbskurv er tom!
+app_text_goto_home,Gå til startsiden
+app_text_review_checkout,Gennemgå din ordre
+app_text_add_new_shipping_address,Tilføj ny forsendelsesadresse
+app_text_history,Forsendelsesdetaljer
+app_text_summary,Bestil oversigt
+app_text_shipping_methods,Forsendelsesmetoder
+app_text_comment,Bestil kommentar
+app_text_payment_summary,Betalingsoversigt
+app_text_proceed,Fortsæt til betaling
+app_text_make_payment,Foretage betaling
+app_text_congratulations,Tillykke
+app_text_shipping_addresses,Forsendelsesadresse (er)
+app_text_order_detail,Bestil detaljer
+app_text_update_personal,Opdater personlige detaljer
+app_text_update_password,Opdater adgangskode
+app_text_current_password,Nuværende kodeord
+app_text_new_password,nyt kodeord
+app_text_confirm_password,Bekræft kodeord
+app_text_cancel,Afbestille
+app_text_save,Gemme
+app_text_sale,Salg
+app_text_new,Ny
+app_text_order_ref,ordrenummer
+app_text_status,Status
+app_text_placed,Placeret på
+app_text_reorder,Ombestilling
+app_text_order_details,Ordre detaljer
+app_text_status_history,Statushistorik
+app_text_shipping_address,Forsendelsesadresse
+app_text_order_summary,Bestil oversigt
+app_text_shipping_method,Fragtmetode
+app_text_payment_method,Betalingsmetode
+app_text_gift_wrapping,Gaveindpakning
+app_text_no_shipping_address,Ingen forsendelsesadresse tilgængelig!
+app_text_no_order_details,Ingen ordreoplysninger tilgængelige!
+app_text_signup,Tilmelde
+app_text_continue_guest,Fortsæt som gæst
+app_text_email,E -mail
+app_text_password,Adgangskode
+app_text_forgot_password,Glemt kodeord?
+app_text_login_social_account,Du kan logge ind på social konto.
+app_text_login_with_google,Log ind med Google+
+app_text_login_with_facebook,Login med Facebook
+app_text_signup_with_google,Tilmelding med Google+
+app_text_signup_with_facebook,Tilmelding med Facebook
+app_text_msg_enter_valid_email,Indtast gyldig e -mail!
+app_text_msg_enter_email,Indtast venligst e -mail!
+app_text_msg_enter_password,Indtast adgangskode!
+app_text_msg_password_characters_less_than_3,Indtast adgangskode med tegn mere end eller lig med 3!
+app_text_msg_first_name,Fornavn
+app_text_msg_last_name,Efternavn
+app_text_msg_dob,Fødselsdato
+app_text_msg_confirm_password,Bekræft kodeord
+app_text_msg_personal_details,Personlige detaljer
+app_text_msg_pass_not_matched,Adgangskode og bekræft adgangskode Matches ikke!
+app_text_sold_by,Solgt af:
+app_text_write_review,Skriv anmeldelse
+app_text_view_review,Se anmeldelse (er)
+app_text_view_seller_products,Se sælgerprodukt (er)
+app_text_wait,Vent venligst
+app_text_loading,Indlæsning af data ...
+app_text_msg_went_wrong,Noget gik galt. Prøv igen.
+app_text_msg_no_internet_found,Ingen internetforbindelse fundet.
+app_text_msg_no_internet_title,Intet internet
+app_text_msg_request,Anmodning kan ikke være proces. Dette kan være på grund af langsom internetforbindelse.
+app_text_msg_order_placed_email,Din ordre er placeret med succes. Du modtager en e -mail om det samme.
+app_text_msg_product_look,Du kan se efter produkt (er) ved deres kategori.
+app_text_msg_search_product,Du kan søge ethvert produkt i butik efter tekst eller stemme!
+app_text_msg_view_cart,Du kan se indkøbskurv med mængde!
+app_text_msg_logout,Du logger med succes!
+app_text_msg_view_product,Du kan se produkt i listen eller gittertilstand!
+app_text_msg_sort_product,Du kan sortere produkt efter deres pris!
+app_text_msg_filter_product,Du kan filtrere produkt (er) efter dit behov!
+app_text_text_next,Næste
+app_text_text_okay,okay
+app_text_required,Krævet
+app_text_msg_rating,Vælg vurdering
+app_text_msg_add_cart,Du kan tilføje produkt til indkøbskurv ved blot at klikke på knappen 'Tilføj til indkøbskurv'!
+app_text_msg_add_wishlist,Du kan tilføje produkt til ønskeliste ved blot at klikke på knappen 'Tilføj til ønskeliste'!
+app_text_msg_product_price,Produktpris er blevet opdateret!
+app_text_msg_product_not_available,Dette produkt er ikke tilgængeligt for ordre!
+app_text_msg_combination,Produktet er ikke længere på lager med den valgte kombination. Prøv med andre kombinationer.
+app_text_msg_product_no_stock,Dette produkt er ikke tilgængeligt i den ønskede mængde eller ikke på lager!
+app_text_msg_out_stock,Nogle af produkterne i vognen er ikke tilgængelige i den ønskede mængde eller ikke på lager. Fjern et sådant produkt (er) fra indkøbsvogn!
+app_text_msg_checkout_products,Du kan kassere produkter i indkøbskurv ved blot at klikke på knappen 'Fortsæt med at kassere'.
+app_text_msg_apply_voucher,Du kan anvende voucher på indkøbskurv!
+app_text_msg_update_quantity,Du kan opdatere mængden af ​​produkt eller fjerne det fra indkøbskurv!
+app_text_msg_view_details,Du kan se produktoplysninger ved at klikke på produktbillede!
+app_text_msg_success,Succes!
+app_text_msg_failure,Fiasko!
+app_text_msg_enter_quantity,Indtast kvantitet
+app_text_quantity,Antal
+text_quantity,Antal
+app_text_remove,Fjerne
+app_text_customization_details,Tilpasningsoplysninger
+app_text_msg_add_address,Du kan tilføje en ny forsendelsesadresse ved at klikke på knappen!
+app_text_msg_update_address,Du kan opdatere forsendelsesadresse!
+app_text_msg_select_address,Du kan vælge enhver forsendelsesadresse ved blot at klikke på den!
+app_text_select_address_text,*Vælg forsendelsesadresse for at gennemgå din ordre.
+app_text_msg_no_product,Ingen produkter tilgængelige!
+app_text_msg_no_comment_available,Ingen kommentarer til rådighed!
+app_text_msg_reset_password,Du kan nulstille din adgangskode ved at klikke på "Glem adgangskode"
+app_text_msg_login,Du kan logge ind i butikken herfra!
+app_text_msg_login_fb,Du kan også logge ind på butikken fra din Facebook -konto!
+app_text_msg_login_google,Du kan også logge ind i butikken fra din Google -konto!
+app_text_msg_update_profile,Du kan opdatere dine profiloplysninger forsendelsesoplysninger eller se dine ordreoplysninger herfra!
+app_text_product_info_and_care,Produktinfo og pleje
+app_text_download,Downloads
+app_text_minimal_quantity,Minimal mængde
+app_text_pack_content,Pakkindhold
+app_text_seller_details,Sælgeroplysninger
+app_text_submit,Indsend
+app_text_msg_forget_password,Indtast e-mail-adressen, der er knyttet til din konto. Klik på Indsend for at få din adgangskode e-mail til dig.
+app_text_enter_your_email,Indtast din e -mail
+app_text_reset_password,Nulstille kodeord
+app_text_view_selected_filter,Du kan se dit valgte filterresultat ved at klikke på dette billede!
+app_text_clear_selected_filter,Du kan rydde det anvendte filter ved at klikke på dette billede!
+app_text_no_filter,Ingen filtre
+app_text_phone_number_required,*Du skal registrere mindst et telefonnummer
+app_text_refresh,Opdater
+app_text_internet_connection_failed,Internetforbindelse mislykkedes!
+app_text_internet_connection_problem,Der kan være noget problem med din internetforbindelse. Kontroller venligst.
+app_text_cancel_transaction,Annuller transaktion
+app_text_middle_of_payment,Du er midt i din betalingstransaktionsproces. Ønsker du virkelig at annullere din transaktion?
+app_text_yes,Ja
+app_text_no,Ingen
+app_text_enter_your_comment,Indtast din kommentar
+app_text_msg_shipping_methods_unavailable,Ingen forsendelsesmetoder til rådighed
+app_text_msg_select_shipping_methods,Vælg forsendelsesmetode
+app_text_billing_address,Betalingsadresse
+app_text_billing_addresses,Faktureringsadresse (er)
+app_text_addresses,Adresse (er)
+app_text_billing_details,Faktureringsdetaljer
+app_text_same_as_shipping_details,Samme som forsendelsesadresse
+app_text_share_log,Del log
+app_text_payment_failed_contact_support,Din ordre kunne ikke behandles. Kontakt venligst support for eventuelle spørgsmål
+app_text_choose_payment_method,Vælg betalingsmetode
+app_text_no_payment_method,Ingen betalingsmetode (er) fundet!
+app_text_no_payment_currently,Der er i øjeblikket ingen betalingsmetode.
+app_text_no_make_payment,Du vil ikke være i stand til at foretage betaling, da denne mobilapp er konfigureret til demo -formål.
+app_text_make_payment_after_select,Du kan foretage betaling efter valg af en betalingsmetode!
+app_text_title_payment_paypal,PayPal -betaling
+app_text_order_total_price,Bestil samlet pris
+app_text_user_cancelled_the_payment,Bruger annullerede betalingen
+app_text_invalid_payment_try_again,Ugyldig betaling. Prøv venligst igen
+app_text_title_paypal_payment,PayPal -betaling
+app_text_wishlist_item_removed,Varen fjernet fra ønskeliste.
+app_text_wishlist_item_added,Varen tilføjet til ønskeliste
+app_text_subject,Hej tjek dette!
+app_text_extra_share,Tilgængelig her:
+app_text_intent_title,Del
+app_text_error_product_name_url,Produktnavnet eller URL'en kan være tomt.
+app_text_tag_error,Fejl
+app_text_ok,Okay
+app_text_view_your_store,Se din butik
+app_text_view_demo,Se demo
+app_text_currency,Valuta (r)
+app_text_choose_your_app_theme,Vælg dit app -tema
+app_text_terms_and_conditions,Betingelser og betingelser for brug
+app_text_wishlist_only,Ønskeliste
+app_text_wishlist_remove,Fjern fra ønskeliste
+app_text_update_address,Opdateringsadresse
+app_text_state_not_required,Stat ikke påkrævet for det valgte land
+app_text_currencies,Valuta (r)
+app_text_payment_failed,Der opstod en vis fejl under behandlingen af ​​betalingen. Prøv venligst igen
+app_text_entered_wrong_url,Du har muligvis indtastet en forkert URL, eller du har ikke installeret vores mobilappbygger Bodule.
+app_text_login_failed,Login mislykkedes!
+app_text_install_module,Installer modul
+app_text_no_data_found,Ingen data fundet
+app_text_enter_store_url,Indtast venligst butik URL
+app_text_fill_all_required_fields,Fyld venligst alle de krævede felter.
+app_text_state,Stat
+app_text_add_to_wishlist,Tilføj til ønskeliste
+app_text_add_to_cart,Tilføj til kurv
+text_prices,Priser
+text_brands,Mærker
+text_shipping_address_success,Forsendelsesadresse er tilføjet med succes
+text_shipping_address_issue,Der er nogle problemer med data
+text_shipping_address_update,Forsendelsesadresse er blevet opdateret med succes
+text_cart_loaded,Vognoplysninger indlæst med succes
+text_order_success,Bestilling oprettet af denne vogn
+text_reorder_fail,Bestilling kan ikke genskabes
+text_currecy_error,Valuta er ikke indstillet på grund af en vis fejl. Kontroller valutakoden og prøv igen.
+text_fcm_fail,Vogn -id eller FCM -id ikke fundet
+text_empty_cart,Tom vogn
+text_error_cart,Fejl
+text_session_expired,Sessionen er udløbet
+text_customer_created,KUNDER KUNDTERET !!
+text_wrong,noget gik galt
+text_error_email,Fejl under sending af e -mail !!
+text_confirm_email,En bekræftelses -e -mail er sendt til din adresse:
+text_login_success,Bruger login med succes
+text_language_error,Sprog er ikke indstillet på grund af en vis fejl. Kontroller ISO -koden og prøv igen.
+text_customer_update,Personlige oplysninger opdateres med succes.
+error_email_id,E -mail -id findes ikke !!
+error_email_empty,E -mail -id kan ikke være tomt !!
+text_add_wishlist,Produkt tilføjet til ønskeliste
+text_fail_wishlist,Produktet ikke tilføjet til ønskeliste
+text_no_email,Ingen e -mail
+text_product_added,Produktet med succes tilføjet
+text_product_deleted,Produktet med succes slettet
+text_voucher_already,Voucher allerede anvendt!
+text_voucher_success,Voucher med succes anvendt til indkøbskurv
+text_voucher_removed,Voucher fjernet med succes
+text_product_not_added,Kan ikke tilføje til indkøbskurv
+error_out_of_stock,Produktet er ikke tilgængeligt i den ønskede mængde!
+error_firstname,Fornavn skal være mellem 3 og 15 tegn !!
+error_lastname,Efternavn skal være mellem 3 og 15 tegn !!
+error_address_1,Adressen skal være mellem 3 og 15 tegn !!
+error_city,By skal være mellem 3 og 15 tegn !!
+error_postcode,Udfyld gyldigt postnummer !!
+error_country,Vælg et land !!
+error_zone,Vælg en tilstand !!
+error_phone1,Telefonnummer skal være mellem 3 og 15 tegn !!
+error_phone2,Telefonnummer skal kun indeholde tal og streger !!
+error_password,Adgangskode skal være mellem 4 og 15 tegn !!
+error_confirm,Adgangskode Mismatch !!
+error_email,E -mail -id er ikke gyldigt
+error_exists,E -mail -id allerede registreret
+error_minimum,Minimumsmængde %D er påkrævet for, at produktet %S for at placere rækkefølge.
+error_quantity_required,krævet mængde.
+error_voucher,Voucher allerede anvendt!
+voucher_success,Voucher med succes anvendt!
+voucher_removed,Voucher fjernet med succes
+text_wishlist_added,Produkt tilføjet til ønskeliste
+text_wishlist_removed,Produkt fjernet fra ønskeliste
+app_text_sellers,Sælgere
+app_text_seller,Sælger
+app_text_seller_shipping_policy,Sælgerforsendelsespolitik
+app_text_seller_return_policy,Sælgers returpolitik
+app_text_review_title,Gennemgå titel
+app_text_review_comment,Gennemgå kommentar
+app_text_review_rating,Gennemgå rating
+app_text_filter_products,Filterprodukter
+app_text_select_category,Vælg Kategori
+app_text_select_sort,Sortere
+app_text_clear,Klar
+app_text_hour,Time
+app_text_min,Minutter
+app_text_sec,Sekunder
+app_text_install_whatsapp,Whatsapp er ikke installeret på din enhed
+app_text_no_account_registered,Ingen konto er registreret til den biometriske godkendelse i denne enhed. Registrer venligst en konto først.
+app_text_confirm_for_authentication,Bekræft dit fingeraftryk eller ansigt for at autentificere.
+app_text_login_with_fingerprint,Log ind med fingeraftryk
+app_text_register_for_fingerprint,Tilmeld dig fingeraftrykket
+app_text_biometric_not_available,Biometrisk godkendelse er ikke tilgængelig for denne enhed.
+app_text_fingerprint_not_recognized,Touch ID genkender ikke dit fingeraftryk. Prøv igen med dit tilmeldte fingeraftryk.
+app_text_face_not_recognizes,Face ID genkender ikke dit ansigt. Prøv igen med dit tilmeldte ansigt.
+app_text_fingerprint_or_face_not_enrolled,Ingen fingeraftryk/ansigt tilmeldt enheden.
+app_text_biometry_locked_out,Funktionalitet er låst nu på grund af for mange mislykkede forsøg.
+app_text_register_for_fingerpring,Tilmeld dig fingeraftrykket
+app_text_register_for_fingerprint_details,Vil du registrere denne konto for fingeraftryksfunktionalitet. Når du er færdig, kan du logge ind på denne konto uden at bruge e -mail -id eller adgangskode bare ved hjælp af fingeraftryksbekræftelsen.
+app_text_register,Tilmeld
+app_text_fingerprint_not_available,Fingeraftryksgodkendelse er ikke tilgængelig på denne enhed!
+app_text_fingerprint_not_enrolled,Ingen fingeraftryk, der er indskrevet i enheden.
+app_text_android_marshmallow_required,Atleast Android Marshmallow er påkrævet for at understøtte fingeraftryksgodkendelse.
+app_text_fingerprint_error_try_again,Der er en vis fejl med fingeraftryk. Prøv igen eller fortsæt uden fingeraftryk!
+app_text_fingerprint_wipe_sensor_try_again,Der kan være noget støv på fingeraftrykssensoren. Tør det venligst og prøv igen.
+app_text_skip_and_continue,Spring over og fortsæt
+app_text_verify,Verificere
+app_text_get_otp,Få OTP
+app_text_mobile_number,Mobilnummer
+app_text_mobile_number_optional,Mobilnummer (valgfrit)
+app_text_invalid_phone_number,Indtast et gyldigt nummer
+app_text_error_number_verification,Mobilnummer kunne ikke verificeres! Prøv igen med det rigtige OTP -nummer!
+app_text_phone_number_already_exists,Telefonnummer er allerede registreret. Prøv igen med et andet telefonnummer!
+app_text_number_verification,Antal verifikation
+app_text_number_verification_description,Du skal verificere telefonnummeret. Indtast telefonnummeret og indsend
+app_text_login_with_phone_number,Log ind med telefonnummer
+app_text_forget_password_description,Indtast e-mail-adressen eller telefonnummeret, der er knyttet til din konto.
+app_text_enter_email_or_mobile_number,Indtast e -mail eller mobilnummer
+app_text_phone_number_change_message,Et telefonnummer er allerede registreret på denne konto. Du kan kun ændre kontaktnummeret. Indtast gyldigt telefonnummer.
+app_text_enter_otp,Indtast OTP
+app_text_review_your_order,Gennemgå din ordre
+app_text_attributes,Egenskaber
+entry_company,Selskab
+entry_address_1,adresse 1
+entry_address_2,Adresse 2
+entry_city,By
+entry_postcode,Postnummer
+entry_country,Land
+app_text_label_address,Adresse
+app_text_label_country,Ingen
+app_text_label_phone,Telefonnummer
+app_text_select_all_options,Vælg alle indstillinger
+app_text_sort_asc,A-z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,Mobilnummer findes ikke i databasen
+phone_number_exist_message,Mobilnummer findes i databasen
+password_update_message,Adgangskodeopdatering med succes
+app_text_continue_to_checkout_click_msg,Du kan kassere produkter i indkøbskurv ved blot at klikke på knappen 'Fortsæt med at kassere'!
+app_text_cart_tab,Vogn
+app_text_search,Søg
+app_text_msg_empty_wishlist,Din ønskeliste er tom
+app_text_your_wishlist_is_empty,Din ønskeliste er tom!
+app_text_percent_off,% af
+app_text_update_address_if_exists,Du kan opdatere forsendelsesadresse eller vælge noget andet, hvis der findes!
+app_text_press_back_again_to_exit,Tryk tilbage igen for at afslutte
+app_text_please_login,Vær venlig at logge ind
+app_text_related_products,Relaterede produkter
+app_text_view_reviews,Se anmeldelser
+app_text_write_reviews,Skriv anmeldelser
+app_text_please_fill_all_details,Udfyld alle detaljer
+app_text_close,Tæt
+app_text_add_review,Tilføj gennemgang
+app_text_write_a_review,Skrive en anmeldelse
+app_text_name,Navn
+app_text_title,Titel
+app_text_number_of_reviews,Antal anmeldelser
+app_text_minimum_rating,Tilsæt minimum ratin
+app_text_error,Fejl
+app_text_no_reviews,Ingen anmeldelser
+app_text_place_your_finger_on_sensor,Placer fingeren på sensoren
+text_browser_payment_method_success_msg,Succes: Din ordre er placeret. Vend venligst tilbage til appen.
+text_browser_payment_method_failure_msg,Fejl: Din ordre kan ikke placeres. Vend venligst tilbage til appen og prøv igen.
+text_browser_payment_method_already_msg,Orderen er allerede placeret. Vend venligst tilbage til appen og prøv igen.
+text_order_verify_fail,Ordren er ikke placeret endnu, fortsæt med at bestille, at fuldføring af betalingen og bekræft derefter ordren
+app_text_external_web_payment,Når du klikker på knappen Forløb, bliver du omdirigeret til den eksterne browser for at behandle betalingen. Når du har afsluttet betalingen der lukker browseren
+app_text_text_state,Stat
+app_text_description,Beskrivelse
+app_text_discount,Rabat
+app_text_applied,Anvendt
+app_text_default,Standard
+app_text_name_asc,Navn (A-Z)
+app_text_name_desc,Navn (Z-A)
+app_text_rating_asc,Bedømmelse: Lav til høj
+app_text_rating_desc,Bedømmelse: Høj til lav
+app_text_model_asc,Model (A-Z)
+app_text_model_desc,Model (Z-A)
+app_text_reference_asc,Reference (A-Z)
+app_text_reference_asc,Reference (A-Z)
+app_text_reference_desc,Reference (Z-A)
+app_text_create_new_account,Opret ny konto
+app_text_back_login,Tilbage til login
+app_text_guest_login,Gæst login
+app_text_first_name,Fornavn*
+app_text_last_name,Efternavn*
+app_text_already_have_account,Har du allerede en bruger?
+app_text_error_firstname,Indtast fornavnet.
+app_text_error_lastname,Indtast efternavnet.
+app_text_error_mobile_number,Indtast mobilnummeret.
+app_text_my_profile,Min profil
+app_text_my_orders,Mine Ordrer
+app_text_my_addresses,Mine adresser
+app_text_support,Support
+app_text_account_page_heading,Få adgang til dine kontooplysninger og belønninger
+app_text_not,Ikke
+app_text_apple,Æble
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Se alt
+app_text_error_email_access,Angiv e -mail -adgang eller brug en anden konto.
+app_text_hi,Hej
+app_text_sold_out,Udsolgt
+app_text_signup_with_apple,Log ind med Apple
+app_text_login_with_apple,Log ind med Apple
+app_text_order,Bestille
+app_text_order_date,Bestillingsdato
+app_text_items,Vare (er)
+app_text_amount,Beløb
+error_voucher_not_available,Voucher er enten ugyldig udløbet eller nået sin brugsgrænse!
+app_text_review_order,Gennemgangsordre
+app_text_payment_methods,betalingsmetoder
+app_text_review_order,Gennemgangsordre
+app_text_payment_methods,betalingsmetoder
+app_text_guest,Gæst
+app_text_resend_otp,Send OTP
+app_text_msg_mobile_number,Indtast dit mobilnummer
+app_text_msg_otp,En OTP har Ben sendt til nummeret:
+app_text_msg_resend_otp,En OTP har ben vrede over antallet:
+app_text_confirm_new_password,Bekræft ny adgangskode
+app_text_error_facebook_login,Kunne ikke logge ind med Facebook
+app_text_sub_total,Sub-total
+app_text_product_total,Produkt i alt
+app_text_are_you_sure_you_want_to_exit,Er du sikker på, at du vil afslutte?
+text_product_updated,Produktmængde opdateres med succes !!
+error_incorrect_password,Forkert kodeord!!
+app_text_unit_price,Pris per stk
+app_text_only_mobile,Mobil
+app_text_file_download,Fil med succes downloadet på
+app_text_video,Video vedhæftede filer
+app_text_agree_to,Accepterer vilkårene og betingelserne
+app_text_agree_gdpr,Kontroller venligst afkrydsningsfeltet for vilkår og betingelser !!
+app_text_use_current_location,Brug den aktuelle placering
+app_text_adding,Tilføjelse ...
+app_text_removing,Fjernelse ...
+app_text_voucher_adding,Voucher tilføjelse ...
+app_text_voucher_removing,Voucher fjerner ...
+app_text_mobile,Mobil
+app_text_deal_ends,Deal slutter
+app_text_expires_in,Udløber i
+app_text_register_fingerprint,Tilmeld dig til fingeraftrykslogin
+app_text_reviews,Anmeldelser
+app_text_loading,Indlæser...
+app_text_please_wait,Vent venligst...
+app_text_updating_cart,Opdatering af vogn ...
+app_text_loading_shipping_address,Indlæser forsendelsesadresse ...
+app_text_loading_billing_address,Indlæser faktureringsadresse ...
+app_text_removing_product,Fjernelse af produkt ...
+app_text_loading_store_data,Indlæser butiksdata
+app_text_select_country,Vælg et land
+app_text_select_state,Vælg en stat
+app_text_delete_account,Slet konto
+app_text_delete_account_msg,Er du sikker på, at du vil slette kontoen?
+app_text_scan_barcode,Scan stregkode
+app_text_camera_loading,Kamerabelastning ...
+app_text_camera_permission_not_available,Kameraets tilladelse er ikke tilgængelig
+app_text_search_description,Find det, du leder efter.

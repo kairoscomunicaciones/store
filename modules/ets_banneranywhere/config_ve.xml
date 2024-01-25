@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ets_banneranywhere</name>
+    <displayName><![CDATA[Banner anywhere]]></displayName>
+    <version><![CDATA[1.0.5]]></version>
+    <description><![CDATA[Agregue f&aacute;cilmente banners en la p&aacute;gina de inicio, la p&aacute;gina de categor&iacute;as, la p&aacute;gina de productos o donde desee en su tienda PrestaShop]]></description>
+    <author><![CDATA[ETS-Soft]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

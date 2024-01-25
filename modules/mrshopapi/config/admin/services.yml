@@ -1,0 +1,42 @@
+services:
+  _defaults:
+    public: true
+
+  mrshopapi.module:
+    class: MrShopApi
+    factory: ['Module', 'getInstanceByName']
+    arguments:
+      - 'mrshopapi'
+
+  mrshopapi.context:
+    class: Context
+    factory: [ 'Context', 'getContext' ]
+
+  #####################
+  # PS Account
+
+  mrshopapi.ps_accounts_installer:
+    class: 'PrestaShop\PsAccountsInstaller\Installer\Installer'
+    arguments:
+      - '5.0'
+
+  mrshopapi.ps_accounts_facade:
+    class: 'PrestaShop\PsAccountsInstaller\Installer\Facade\PsAccounts'
+    arguments:
+      - '@mrshopapi.ps_accounts_installer'
+
+  #####################
+  # PS Billing
+  mrshopapi.ps_billings_context_wrapper:
+    class: 'PrestaShopCorp\Billing\Wrappers\BillingContextWrapper'
+    arguments:
+      - '@mrshopapi.ps_accounts_facade'
+      - '@mrshopapi.context'
+      - false # if true you are in sandbox mode, if false or empty not in sandbox
+
+  mrshopapi.ps_billings_facade:
+    class: 'PrestaShopCorp\Billing\Presenter\BillingPresenter'
+    arguments:
+      - '@mrshopapi.ps_billings_context_wrapper'
+      - '@mrshopapi.module'
+

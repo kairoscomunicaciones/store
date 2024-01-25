@@ -1,0 +1,13 @@
+#rpm_payments_list { padding: 10px 0; clear: both;}
+#rpm_payments_list table tr th {padding: .625rem 1.25rem; background: #fff; border: .3125rem solid #f1f1f1; text-align: center;}
+#rpm_payments_list table tbody tr {background: #f6f6f6;}
+#rpm_payments_list table tbody tr:nth-of-type(2n) { background: #fff;}
+#rpm_payments_list table tbody tr td {padding: .625rem 1.25rem; text-align: center; border: .3125rem solid #f1f1f1;}
+
+/*----- v2.0.0 css addition ------*/
+#rpm_payment_msg { display:block; padding: 2%;clear: both; background: #dcf4f9; color: #1e94ab; border-radius: 4px; border: 1px solid #4ac7e0;
+margin: 10px 0 15px;}
+#rpm_payment_msg p,
+#rpm_payment_msg ul,
+#rpm_payment_msg ol,
+#rpm_payment_msg dl { padding: 0; margin: 0;color: #1e94ab;}

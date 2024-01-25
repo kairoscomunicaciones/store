@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>rg_pscleanerextra</name>
+    <displayName><![CDATA[Rolige PrestaShop Cleaner Extra]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[Limpie los datos obsoletos, verifique y corrija las restricciones de integridad funcional, cambie el nombre del prefijo de la base de datos, cambie las tablas a los motores InnoDB, borre las im&aacute;genes obsoletas del producto y elimine los datos predeterminados.]]></description>
+    <author><![CDATA[Rolige]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

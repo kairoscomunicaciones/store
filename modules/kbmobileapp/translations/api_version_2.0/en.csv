@@ -1,0 +1,450 @@
+app_text_home,Home
+app_text_home,Home
+app_text_recent_product,Recent Product
+app_text_category,Categories
+app_text_login,Login
+app_text_logout,Logout
+app_text_login_signup,Login/Sign up
+app_text_account,My Account
+app_text_contact,Contact Us
+app_text_about,About Us
+app_text_wishlist,Add to Wishlist
+app_text_cart,Add to Cart
+app_text_off,off
+app_text_all,All
+app_text_languages,Language(s)
+app_text_sort,Sort
+app_text_filter,Filter
+app_text_sort_order,Select Sort Order
+app_text_price_asc,Price: Low to High
+app_text_price_desc,Price: High to Low
+app_text_product,Product
+app_text_select,Select
+app_text_instock,In Stock
+app_text_outstock,Out of Stock
+app_text_product_info,Product Info and Care
+app_text_customization,Product Customization
+app_text_accessories,Accessories
+app_text_view_less,View Less
+app_text_view_more,View More
+app_text_provide_details,Please provide details
+app_text_bag,Shopping Bag
+app_text_apply_voucher,Apply Voucher
+app_text_entry_voucher_code,Enter voucher code
+app_text_apply,Apply
+app_text_gift,Gift Wrap
+app_text_entry_message,Enter your message
+app_text_available_first,Send available products first
+app_text_continue_shopping,Continue Shopping
+app_text_continue_checkout,Continue To Checkout
+app_text_update_quantity,Update Quantity
+app_text_enter_quantity,Enter quantity (0-10)
+app_text_empty_cart,Your shopping cart is empty!
+app_text_goto_home,Go to Home Page
+app_text_review_checkout,Review Your Order
+app_text_add_new_shipping_address,Add New Shipping Address
+app_text_history,Shipping Details
+app_text_summary,Order Summary
+app_text_shipping_methods,Shipping Methods
+app_text_comment,Order Comment
+app_text_payment_summary,Payment Summary
+app_text_proceed,Proceed To Payment
+app_text_make_payment,Make Payment
+app_text_congratulations,Congratulations
+app_text_shipping_addresses,Shipping Address(s)
+app_text_order_detail,Order Detail
+app_text_update_personal,Update Personal Details
+app_text_update_password,Update Password
+app_text_current_password,Current Password
+app_text_new_password,New Password
+app_text_confirm_password,Confirm Password
+app_text_cancel,Cancel
+app_text_save,Save
+app_text_sale,Sale
+app_text_new,New
+app_text_order_ref,Order Reference
+app_text_status,Status
+app_text_placed,Placed On
+app_text_reorder,Reorder
+app_text_order_details,Order Details
+app_text_status_history,Status History
+app_text_shipping_address,Shipping Address
+app_text_order_summary,Order Summary
+app_text_shipping_method,Shipping Method
+app_text_payment_method,Payment Method
+app_text_gift_wrapping,Gift Wrapping
+app_text_no_shipping_address,No shipping address available!
+app_text_no_order_details,No order details available!
+app_text_signup,Sign Up
+app_text_continue_guest,Continue as Guest
+app_text_email,Email
+app_text_password,Password
+app_text_forgot_password,Forgot Password?
+app_text_login_social_account,You can login with social account.
+app_text_login_with_google,Login with Google+
+app_text_login_with_facebook,Login with Facebook
+app_text_signup_with_google,Signup with Google+
+app_text_signup_with_facebook,Signup with Facebook
+app_text_msg_enter_valid_email,Please enter valid email!
+app_text_msg_enter_email,Please enter email!
+app_text_msg_enter_password,Please enter password!
+app_text_msg_password_characters_less_than_3,Please enter password having characters more that or equal to 3!
+app_text_msg_first_name,First Name
+app_text_msg_last_name,Last Name
+app_text_msg_dob,Date of Birth
+app_text_msg_confirm_password,Confirm Password
+app_text_msg_personal_details,Personal Details
+app_text_msg_pass_not_matched,Password and confirm password do not matched!
+app_text_sold_by,Sold By:
+app_text_write_review,Write Review
+app_text_view_review,View Review(s)
+app_text_view_seller_products,View Seller Product(s)
+app_text_wait,Please wait
+app_text_loading,Loading data...
+app_text_msg_went_wrong,Something went wrong. Please try again.
+app_text_msg_no_internet_found,No internet connection found.
+app_text_msg_no_internet_title,No Internet
+app_text_msg_request,Request cannot be process. This might be because of slow internet connection.
+app_text_msg_order_placed_email,Your order has been placed successfully. You will receive an email regarding the same.
+app_text_msg_product_look,You can look for product(s) by their category.
+app_text_msg_search_product,You can search any product in store by text or voice!
+app_text_msg_view_cart,You can view shopping cart with quantity!
+app_text_msg_logout,You are logout successfully!
+app_text_msg_view_product,You can view product in list or grid mode!
+app_text_msg_sort_product,You can sort product by their price!
+app_text_msg_filter_product,You can filter product(s) as per your need!
+app_text_text_next,Next
+app_text_text_okay,Okay
+app_text_required,Required
+app_text_msg_rating,Please select rating
+app_text_msg_add_cart,You can add product to shopping cart by simply clicking on the button 'Add to Cart'!
+app_text_msg_add_wishlist,You can add product to wishlist by simply clicking on the button 'Add to Wishlist'!
+app_text_msg_product_price,Product price has been updated!
+app_text_msg_product_not_available,This product is not available for order!
+app_text_msg_combination,The Product is no longer in stock with the selected combination. Please try with other combinations.
+app_text_msg_product_no_stock,This product is not available in the desired quantity or not in stock!
+app_text_msg_out_stock,Some of the products in the cart are not available in the desired quantity or not in stock. Please remove such product(s) from cart!
+app_text_msg_checkout_products,You can checkout products in shopping cart by simply clicking on the button 'Continue to Checkout'.
+app_text_msg_apply_voucher,You can apply voucher to shopping cart!
+app_text_msg_update_quantity,You can update quantity of product or remove it from shopping cart!
+app_text_msg_view_details,You can view product details by clicking on product image!
+app_text_msg_success,Success!
+app_text_msg_failure,Failure!
+app_text_msg_enter_quantity,Please enter quantity
+app_text_quantity,Quantity
+text_quantity,Quantity
+app_text_remove,Remove
+app_text_customization_details,Customization Details
+app_text_msg_add_address,You can add new shipping address by clicking on the button!
+app_text_msg_update_address,You can update shipping address!
+app_text_msg_select_address,You can select any shipping address by simply clicking on it!
+app_text_select_address_text,*Please select shipping address to review your order.
+app_text_msg_no_product,No products available!
+app_text_msg_no_comment_available,No comment(s) available!
+app_text_msg_reset_password,You can reset your password by clicking `Forget Password`
+app_text_msg_login,You can login into the store from here!
+app_text_msg_login_fb,You can also login into the store from your Facebook account!
+app_text_msg_login_google,You can also login into the store from your Google account!
+app_text_msg_update_profile,You can update your profile details, shipping details or view your order details from here!
+app_text_product_info_and_care,Product Info and Care
+app_text_download,Downloads
+app_text_minimal_quantity,Minimal Quantity
+app_text_pack_content,Pack Content
+app_text_seller_details,Seller Details
+app_text_submit,Submit
+app_text_msg_forget_password,Enter the e-mail address associated with your account.Click submit to have your password e-mailed to you.
+app_text_enter_your_email,Enter your email
+app_text_reset_password,Reset Password
+app_text_view_selected_filter,You can view your selected filter result by clicking on this image!
+app_text_clear_selected_filter,You can clear the applied filter by clicking on this image!
+app_text_no_filter,No filters
+app_text_phone_number_required,*You must register at least one phone number
+app_text_refresh,Refresh
+app_text_internet_connection_failed,Internet Connection Failed!
+app_text_internet_connection_problem,There might be some problem with your internet connection. Please check.
+app_text_cancel_transaction,Cancel transaction
+app_text_middle_of_payment,You are in the middle of your payment transaction process.Do you really want cancel your transaction?
+app_text_yes,Yes
+app_text_no,No
+app_text_enter_your_comment,Enter your comment
+app_text_msg_shipping_methods_unavailable,No shipping methods available
+app_text_msg_select_shipping_methods,Please select shipping method
+app_text_billing_address,Billing Address
+app_text_billing_addresses,Billing Address(s)
+app_text_addresses,Address(s)
+app_text_billing_details,Billing Details
+app_text_same_as_shipping_details,Same as Shipping Address
+app_text_share_log,Share Log
+app_text_payment_failed_contact_support,Your order could not be processed. Kindly contact support for any queries
+app_text_choose_payment_method,Choose Payment Method
+app_text_no_payment_method,No Payment Method(s) Found!
+app_text_no_payment_currently,There are no payment method currently.
+app_text_no_make_payment,You won't be able to make payment as this mobile App is setup for demo purpose.
+app_text_make_payment_after_select,You can make payment after selecting any payment method!
+app_text_title_payment_paypal,PayPal Payment
+app_text_order_total_price,Order Total Price
+app_text_user_cancelled_the_payment,User cancelled the payment
+app_text_invalid_payment_try_again,Invalid payment. Kindly try again
+app_text_title_paypal_payment,PayPal Payment
+app_text_wishlist_item_removed,Item removed from wishlist.
+app_text_wishlist_item_added,Item Added to Wishlist
+app_text_subject,Hey Check this out!
+app_text_extra_share,Available here :
+app_text_intent_title,Share
+app_text_error_product_name_url,The product name or url may be empty.
+app_text_tag_error,Error
+app_text_ok,OK
+app_text_view_your_store,View Your Store
+app_text_view_demo,View Demo
+app_text_currency,Currency(s)
+app_text_choose_your_app_theme,Choose Your App Theme
+app_text_terms_and_conditions,Terms and Conditions of Use
+app_text_wishlist_only,Wishlist
+app_text_wishlist_remove,Remove from Wishlist
+app_text_update_address,Update Address
+app_text_state_not_required,State not required for selected country
+app_text_currencies,Currency(s)
+app_text_payment_failed,Some error occurred while processing the payment. Kindly try again
+app_text_entered_wrong_url,You might have entered wrong URL or you have not installed our mobile app builder bodule.
+app_text_login_failed,Login Failed!
+app_text_install_module,Install Module
+app_text_no_data_found,No data found
+app_text_enter_store_url,Please enter store URL
+app_text_fill_all_required_fields,Please fill all the required fields.
+app_text_state,State
+app_text_add_to_wishlist,Add to Wishlist
+app_text_add_to_cart,Add to Cart
+text_prices,Prices
+text_brands,Brands
+text_shipping_address_success,shipping address has been added successfully
+text_shipping_address_issue,There is some issues with data
+text_shipping_address_update,shipping address has been Updated successfully
+text_cart_loaded,Cart information loaded successfully
+text_order_success,Order created by this cart
+text_reorder_fail,Order can not be recreated
+text_currecy_error,Currency not set due to some error. Please Check currency code and try again.
+text_fcm_fail,Cart id or FCM id not found
+text_empty_cart,Empty Cart
+text_error_cart,Error
+text_session_expired,Session expired
+text_customer_created,Customer successfully Created!!
+text_wrong,something went wrong
+text_error_email,Error while sending email!!
+text_confirm_email,A confirmation email has been sent to your address: 
+text_login_success,User login successfully
+text_language_error,Language not set due to some error. Please Check iso code and try again.
+text_customer_update,Personal Information updated successfully.
+error_email_id,Email id doesn't exist !!
+error_email_empty,Email id can not be blank!!
+text_add_wishlist,Product added to wishlist
+text_fail_wishlist,Product not added to wishlist
+text_no_email,No email
+text_product_added,Product successfully Added
+text_product_deleted,Product successfully Deleted
+text_voucher_already,Voucher already applied!
+text_voucher_success,Voucher successfully applied to cart
+text_voucher_removed,Voucher successfully removed
+text_product_not_added,Unable to Add to Cart
+error_out_of_stock,Product is not available in desired quantity!
+error_firstname,First Name must be between 3 and 15 characters!!
+error_lastname,Last Name must be between 3 and 15 characters!!
+error_address_1,Address must be between 3 and 15 characters!!
+error_city,City must be between 3 and 15 characters!!
+error_postcode,Please fill valid Postcode!!
+error_country,Please select a country!!
+error_zone,Please select a state!!
+error_phone1,Phone number must be between 3 and 15 characters!!
+error_phone2,Phone number should only contain Numbers and dashes!!
+error_password,Password must be between 4 and 15 characters!!
+error_confirm,Password mismatch!!
+error_email,Email id is not valid
+error_exists,Email id already registered
+error_minimum,Minimum quantity %d is required for the product %s to place order.
+error_quantity_required,quantity required.
+error_voucher,Voucher already applied!
+voucher_success,Voucher successfully applied!
+voucher_removed,Voucher successfully removed
+text_wishlist_added,Product added to wishlist
+text_wishlist_removed,Product removed from wishlist
+app_text_sellers,Sellers
+app_text_seller,Seller
+app_text_seller_shipping_policy,Seller Shipping Policy
+app_text_seller_return_policy,Seller Return Policy
+app_text_review_title,Review Title
+app_text_review_comment,Review Comment
+app_text_review_rating,Review Rating
+app_text_filter_products,Filter Products
+app_text_select_category,Select Category
+app_text_select_sort,Sort
+app_text_clear,Clear
+app_text_hour,Hour
+app_text_min,Minutes
+app_text_sec,Seconds
+app_text_install_whatsapp,Whatsapp is not installed on your device
+app_text_no_account_registered,No account is registered for the biometric authentication in this device. Please register an account first.
+app_text_confirm_for_authentication,Confirm your fingerprint or face to authenticate.
+app_text_login_with_fingerprint,Login with Fingerprint
+app_text_register_for_fingerprint,Register for Fingerprint
+app_text_biometric_not_available,Biometric authentication is not available for this device.
+app_text_fingerprint_not_recognized,Touch ID does not recognize your fingerprint. Please try again with your enrolled fingerprint.
+app_text_face_not_recognizes,Face ID does not recognize your face. Please try again with your enrolled face.
+app_text_fingerprint_or_face_not_enrolled,No fingerprints/face enrolled in the device.
+app_text_biometry_locked_out,Functionality is locked now, because of too many failed attempts.
+app_text_register_for_fingerpring,Register for Fingerprint
+app_text_register_for_fingerprint_details,Do you want to register this account for fingerprint functionality. Once done, you can login into this account without using email Id or password, just using the fingerprint verification.
+app_text_register,Register
+app_text_fingerprint_not_available,Fingerprint authentication is not available in this device!
+app_text_fingerprint_not_enrolled,No fingerprints enrolled in the device.
+app_text_android_marshmallow_required,Atleast Android Marshmallow is required to support fingerprint authentication.
+app_text_fingerprint_error_try_again,There is some error with fingerprint. Please try again or continue without fingerprint!
+app_text_fingerprint_wipe_sensor_try_again,There might be some dust on the fingerprint sensor. Please wipe it and try again.
+app_text_skip_and_continue,Skip and continue
+app_text_verify,Verify
+app_text_get_otp,Get OTP
+app_text_mobile_number,Mobile Number
+app_text_mobile_number_optional,Mobile Number (Optional)
+app_text_invalid_phone_number,Please enter a valid number
+app_text_error_number_verification,Mobile number could not be verified! Please try again with the correct OTP number!
+app_text_phone_number_already_exists,Phone number is already registered. Please try again with another phone number!
+app_text_number_verification,Number Verification
+app_text_number_verification_description,You need to verify the phone number. Please enter the phone number and submit
+app_text_login_with_phone_number,Login with Phone Number
+app_text_forget_password_description,Enter the e-mail address or phone number associated with your account.
+app_text_enter_email_or_mobile_number,Enter email or mobile number
+app_text_phone_number_change_message,One phone number is already registered with this account. You can only change the contact number. Please enter valid phone number.
+app_text_enter_otp,Enter OTP
+app_text_review_your_order,Review your Order
+app_text_attributes,Attributes
+entry_company,Company
+entry_address_1,Address 1
+entry_address_2,Address 2
+entry_city,City
+entry_postcode,Postcode
+entry_country,Country
+app_text_label_address,Address
+app_text_label_country,No
+app_text_label_phone,Phone Number
+app_text_select_all_options,Please select all options
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,Mobile Number Does not exist in Database
+phone_number_exist_message,Mobile Number exist in Database
+password_update_message,Password update successfully
+app_text_continue_to_checkout_click_msg,You can checkout products in shopping cart by simply clicking on the button 'Continue to Checkout'!
+app_text_cart_tab,Cart
+app_text_search,Search
+app_text_msg_empty_wishlist,Your Wishlist is empty
+app_text_your_wishlist_is_empty,Your Wishlist is empty!
+app_text_percent_off,% off
+app_text_update_address_if_exists,You can update shipping address or choose any other if exists!
+app_text_press_back_again_to_exit,Press back again to exit
+app_text_please_login,Please login
+app_text_related_products,Related Products
+app_text_view_reviews,View Reviews
+app_text_write_reviews,Write reviews
+app_text_please_fill_all_details,Please fill all details
+app_text_close,Close
+app_text_add_review,Add Review
+app_text_write_a_review,Write a review
+app_text_name,Name
+app_text_title,Title
+app_text_number_of_reviews,Number of reviews
+app_text_minimum_rating,Please add minimum ratin
+app_text_error,Error
+app_text_no_reviews,No Reviews
+app_text_place_your_finger_on_sensor,Place Your Finger on Sensor
+text_browser_payment_method_success_msg,Success: Your Order has being placed. Kindly return to the app.
+text_browser_payment_method_failure_msg,Failure: Your Order can't be placed. Kindly return to the app and try again.
+text_browser_payment_method_already_msg,Order has been already placed. Kindly return to the app and try again.
+text_order_verify_fail,Order has not been placed yet, please proceed for order, complete the payment and then verify the order
+app_text_external_web_payment,On clicking the Proceed button, you will be redirected to the external browser to process the payment. Once you have completed the payment there, close the browser, then come back to the app and click on the Verify button to confirm your payment.
+app_text_text_state,State
+app_text_description,Description
+app_text_discount,Discount
+app_text_applied,Applied
+app_text_default,Default
+app_text_name_asc,Name (A-Z)
+app_text_name_desc,Name (Z-A)
+app_text_rating_asc,Rating: Low to High
+app_text_rating_desc,Rating: High to Low
+app_text_model_asc,Model (A-Z)
+app_text_model_desc,Model (Z-A)
+app_text_reference_asc,Reference (A-Z)
+app_text_reference_asc,Reference (A-Z)
+app_text_reference_desc,Reference (Z-A)
+app_text_create_new_account,Create new account
+app_text_back_login,Back To Login
+app_text_guest_login,Guest Login
+app_text_first_name,First Name*
+app_text_last_name,Last Name*
+app_text_already_have_account,Already Have an Account?
+app_text_error_firstname,Please enter the first name.
+app_text_error_lastname,Please enter the last name.
+app_text_error_mobile_number,Please enter the mobile number.
+app_text_my_profile,My Profile
+app_text_my_orders,My Orders
+app_text_my_addresses,My Addresses
+app_text_support,Support
+app_text_account_page_heading,Access your account details and rewards
+app_text_not,Not
+app_text_apple,Apple
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,View All
+app_text_error_email_access,Please provide email access or use another account.
+app_text_hi,Hi
+app_text_sold_out,Sold Out
+app_text_signup_with_apple,Sign in with Apple
+app_text_login_with_apple,Log in with Apple
+app_text_order,Order
+app_text_order_date,Order Date
+app_text_items,Item(s)
+app_text_amount,Amount
+error_voucher_not_available,Voucher is either invalid, expired or reached its usage limit!
+app_text_review_order,Review Order
+app_text_payment_methods,Payment Methods
+app_text_review_order,Review Order
+app_text_payment_methods,Payment Methods
+app_text_guest,Guest
+app_text_resend_otp,Resend OTP
+app_text_msg_mobile_number,Please enter your mobile number
+app_text_msg_otp,An OTP has ben sent to the number:
+app_text_msg_resend_otp,An OTP has ben resent to the number:
+app_text_confirm_new_password,Confirm New Password
+app_text_error_facebook_login,Could not login with Facebook
+app_text_sub_total,Sub-Total
+app_text_product_total,Product Total
+app_text_are_you_sure_you_want_to_exit,Are you sure, you want to exit?
+text_product_updated,Product Quantity updated successfully!!
+error_incorrect_password,Incorrect Password!!
+app_text_unit_price,Unit Price
+app_text_only_mobile,Mobile
+app_text_file_download,File Successfully Downloaded on
+app_text_video,Video Attachments
+app_text_agree_to,Agree to the Terms and Conditions
+app_text_agree_gdpr,Kindly check the Terms and Conditions checkbox!!
+app_text_use_current_location,Use Current Location
+app_text_adding,Adding…
+app_text_removing,Removing…
+app_text_voucher_adding,Voucher Adding...
+app_text_voucher_removing,Voucher Removing...
+app_text_mobile,Mobile
+app_text_deal_ends,Deal Ends
+app_text_expires_in,Expires in
+app_text_register_fingerprint,Register for Fingerprint Login
+app_text_reviews,Reviews
+app_text_loading,Loading...
+app_text_please_wait,Please wait...
+app_text_updating_cart,Updating cart...
+app_text_loading_shipping_address,Loading Shipping Address...
+app_text_loading_billing_address,Loading Billing Address...
+app_text_removing_product,Removing Product...
+app_text_loading_store_data,Loading Store Data
+app_text_select_country,Please select a country
+app_text_select_state,Please select a state
+app_text_delete_account,Delete Account
+app_text_delete_account_msg,Are you sure you want to delete account?
+app_text_camera_loading,Camera Loading...
+app_text_camera_permission_not_available,Camera Permission are not available
+app_text_scan_barcode,Scan Barcode
+app_text_search_description,Find what you're looking for.

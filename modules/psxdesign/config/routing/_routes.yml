@@ -1,0 +1,3 @@
+theme:
+  resource: "theme.yml"
+  prefix: /improve/design/

@@ -1,0 +1,1 @@
+ALTER TABLE `PREFIX_app_home` ADD `hash` varchar(32) character set utf8 NULL;

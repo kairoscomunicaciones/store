@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_bead50100aa7825d8c93b1b6fce441b7'] = 'Rollover de la imagen del producto';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_2231d78aad58784e7727b43cb6e17091'] = 'Mostrar la segunda imagen al pasar el cursor sobre la imagen del producto';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_ffe61bebc32cf64ade7789514bd34f88'] = 'Todas las páginas';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_8cf04a9734132302f96da8e113e80ce5'] = 'Inicio';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_3adbdb3ac060038aa0e6e6c138ef9873'] = 'Categoría';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_bfaab8ec6e36068521d2890f5d934e87'] = 'Resultado de búsqueda';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_8af828f302b91d1f905dc35acc43efaa'] = 'Productos especiales';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_9ff0635f5737513b1a6f559ac2bff745'] = 'Nuevos productos';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_bd7929bc6bed5d8ec99db715a980ba04'] = 'Mejores ventas';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_d8a2374af4aa33fac114a587ff049c23'] = 'Marca (fabricante)';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_ec136b444eede3bc85639fac0dd06229'] = 'Proveedor';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_4b7d496eedb665d0b5f589f2f874e7cb'] = 'Detalle del producto';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_04e0385c10aefee8e4681617d2f3ef40'] = 'Desvanecerse';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_d6c0339aa2878aa1942e6c9e849a1ff6'] = 'Desplazamiento vertical de abajo hacia arriba';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_bd97f73bf193e2ad0a4f0955e879d237'] = 'Desplazamiento vertical de arriba a abajo';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_05c13fa184ede4d3fb93e95eaaac5ca9'] = 'Desplazamiento horizontal de izquierda a derecha';
+$_MODULE['<{ybc_productimagehover}prestashop>ybc_productimagehover_fd6214e893f592b9593524b4d788912a'] = 'Desplazamiento horizontal de derecha a izquierda';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config-v15_091c7d6c0e0a9f2bcb38eb7b1a6bdcc1'] = 'Configuración actualizada';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config-v15_51ac4bf63a0c6a9cefa7ba69b4154ef1'] = 'Configuración';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config-v15_042907afc77a315effee2e6533f5fc96'] = 'Efecto de transición';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config-v15_f64770d707422626f222627170ba7432'] = 'Aplicar efecto de transición en esas páginas.';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config-v15_b17f3f4dcf653a5776792498a9b44d6a'] = 'Ajustes de actualización';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config_091c7d6c0e0a9f2bcb38eb7b1a6bdcc1'] = 'Configuración actualizada';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config_51ac4bf63a0c6a9cefa7ba69b4154ef1'] = 'Configuración';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config_042907afc77a315effee2e6533f5fc96'] = 'Efecto de transición';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config_f64770d707422626f222627170ba7432'] = 'Aplicar efecto de transición en esas páginas.';
+$_MODULE['<{ybc_productimagehover}prestashop>admin-config_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';

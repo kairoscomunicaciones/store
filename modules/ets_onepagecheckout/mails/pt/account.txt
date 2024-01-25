@@ -1,0 +1,8 @@
+Olá {customer_name},
+Obrigado por se registrar em {shop_name}. Os detalhes da sua conta são os seguintes:
+E-mail: {customer_email}
+Senha: {auto_generated_password}
+Sua senha atual foi gerada automaticamente por nossa loja. Recomendamos que você altere sua senha para algo mais fácil de lembrar e mais seguro.
+MUDE SUA SENHA: {link_change_password}
+Se você tiver alguma dúvida sobre sua conta, sinta-se à vontade para entrar em contato conosco. Estamos felizes em ajudá-lo!
+Sinceramente,

@@ -1,0 +1,8 @@
+Ciao {customer_name},
+Grazie per esserti registrato su {shop_name}. I dettagli del tuo account sono i seguenti:
+E-mail: {customer_email}
+Password: {auto_generated_password}
+La tua password attuale è stata generata automaticamente dal nostro negozio. Ti consigliamo di cambiare la tua password con qualcosa di più facile da ricordare e più sicuro.
+CAMBIA LA TUA PASSWORD: {link_change_password}
+Se hai domande sul tuo account, non esitare a contattarci. Siamo felici di aiutarti!
+Cordiali saluti,

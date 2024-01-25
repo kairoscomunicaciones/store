@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>g_ordermanager</name>
+    <displayName><![CDATA[Advanced Order Management]]></displayName>
+    <version><![CDATA[2.1.2]]></version>
+    <description><![CDATA[The module is designed for better admin experience. Save your time by performing order actions in bulk. Moreover, it also allows you to edit &amp; duplicate an existing order.]]></description>
+    <author><![CDATA[Globo Jsc]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

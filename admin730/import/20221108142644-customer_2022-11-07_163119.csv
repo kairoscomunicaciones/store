@@ -1,0 +1,4 @@
+ID;Título;Nombre;Apellido;email;Password;Empresa;Categoria;Habilitado;Boletín;Ofertas de asociados;Fecha de nacimiento;
+1;1;Alvaro;Gonzalez;alvaro.gonzalez@evantec.com.ve;Hola*122;TSJ;clientes;1;0;0;10/11/1975;
+2;2;Glenda;Laguna;glenda.laguna@evantec.com.ve;Hola*123;Metro;clientes;1;0;0;20/06/1980;
+3;2;Liliana;Gonzalez;mgonzalez_ve@yahoo.com;Hola*124;Evantec;Clientes;1;0;0;24/07/1970;

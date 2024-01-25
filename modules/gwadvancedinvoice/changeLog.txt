@@ -1,0 +1,20 @@
+[v1.3.1] May 2021 ----------------------
+- fix bug delete row product list
+- fix bug custom Number reset
+- fix bug Price in template 10.
+[v1.3.0] September 2019 ----------------------
+- New UI/UX design.
+- Merge to the same package for Prestashop 1.6 and 1.7
+- [New] Custom number: Add current [counter] option.
+- [Remove] Remove translate Tax tab.
+
+
+[v1.2.7] May 2019       -----------------------
+- New variable : {$order_detail.location} in prestashop version 1.7.5
+- [New] Page number
+- [New] Invoice, Delivery template for Payment method, Order status
+- [New] Import, Export Template
+[v1.2.6]-----------------------
+- Fix bug in php 7.2
+[v1.2.5]-----------------------
+- Fix bug in custom number

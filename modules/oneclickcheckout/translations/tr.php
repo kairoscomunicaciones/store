@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_cca404928ed257a7ec6df89bf8a079c2'] = "Bir tıkırtı Ödeme";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_1ba8c8a9b4117689de17d2c88c81de73'] = "Bu özel ürün satın almak için kullanıcı kolaylaştırmak için modülüdür.";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_876f23178c29dc2552c0b48bf23cd9bd'] = "Eğer kaldırmak istediğinizden emin misiniz?";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_0f40e8817b005044250943f57a21c5e7'] = "Resim adı";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_870d738267b04c7a015b0907dc9eab9d'] = "Yapılandırma başarıyla kaydedildi.";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_ecf3c4dfe9ba415eeec29c13e2437559'] = "Bu ürünü arkadaşlarınızla paylaşın";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_52f4393e1b52ba63e27310ca92ba098c'] = "Genel Ayarlar";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_e566fe9aef1502d69ccdbe28e1957535'] = "Aktifleştirmek kapatmak";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_009e408e8475abac531ce6cba5ecbf09'] = "Etkinleştirme / ön ucundaki modül işlevselliğini devre dışı bırakın";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_00d23a76e43b46dae9ec7aa9dcbebb32'] = "Etkin";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_b9f5c797ebbf55adccdd8539a65a0241'] = "engelli";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_75e7422f2fe253fc69d3f6c148d197ee'] = "Arka plan rengi";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_0172ea669f5b54d443ec9cc60aea6f33'] = "Ön uçta `Satın Now` düğmesi için arka plan rengi seçin";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_8903861290617267b361478ab7f16f31'] = "Metin Rengi";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_9fd4e17aaed9733d281478b802ab1593'] = "Ön uçta `Satın Now` düğmesi için metin rengini seçin";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_475c80ecff56299d3527cf51af68e48c'] = "Sınır rengi";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_087705127e9ddfb5e490515731e87e13'] = "Ön uçta `Satın Now` düğmesi için sınır renk seçin";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_a4d3b161ce1309df1c4e25df28694b7b'] = "Gönder";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_c9cc8cce247e49bae79f15173ce97354'] = "Kayıt etmek";
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_630f6dc397fe74e52d5189e2c80f282b'] = "Listeye geri dön";
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_4d4683b716163f77425690c142b1d1d6'] = "Saha boş olamaz.";
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_1451bd8b0d382ceb101921c399df763d'] = "Alanlar # karakterden daha büyük olamaz.";
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_237da44889cbf84e0922e3bf20fb1fff'] = "Renk geçerli değil.";
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_e3f06d5322c6cc889564fff64715b560'] = "Senaryo etiketleri izin verilmez.";
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_0815f4569dd8c1fd65875b9fec802523'] = "Stil etiketleri izin verilmez.";
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_5f234e61961ec4f209a313ed3474afd6'] = "Iframe etiketleri izin verilmez.";
+$_MODULE['<{oneclickcheckout}prestashop>show_button_c1f52fba179ff982b10e3881670b61ef'] = "Şimdi satın al";

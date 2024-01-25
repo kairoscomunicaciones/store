@@ -1,0 +1,449 @@
+app_text_home,Дом
+app_text_recent_product,Недавний продукт
+app_text_category,Категории
+app_text_login,Авторизоваться
+app_text_logout,Выйти
+app_text_login_signup,Войти Зарегистрироваться
+app_text_account,Мой счет
+app_text_contact,Связаться с нами
+app_text_about,О нас
+app_text_wishlist,Добавить в список желаний
+app_text_cart,Добавить в корзину
+app_text_off,выключенный
+app_text_all,Все
+app_text_languages,Язык (ы)
+app_text_sort,Сортировать
+app_text_filter,Фильтр
+app_text_sort_order,Выберите заказ сортировки
+app_text_price_asc,Цена: низкий до высокого
+app_text_price_desc,Цена: высокий до низкого
+app_text_product,Продукт
+app_text_select,Выбирать
+app_text_instock,В наличии
+app_text_outstock,Распродано
+app_text_product_info,Информация о продукте и уход
+app_text_customization,Настройка продукта
+app_text_accessories,Аксессуары
+app_text_view_less,Просмотреть меньше
+app_text_view_more,Просмотреть больше
+app_text_provide_details,Пожалуйста, предоставьте подробности
+app_text_bag,Сумка для покупок
+app_text_apply_voucher,Применить ваучер
+app_text_entry_voucher_code,Введите код ваучера
+app_text_apply,Применять
+app_text_gift,Подарочная упаковка
+app_text_entry_message,Введите сообщение
+app_text_available_first,Сначала отправьте доступные продукты
+app_text_continue_shopping,Продолжить покупки
+app_text_continue_checkout,Продолжайте заказать
+app_text_update_quantity,Обновить количество
+app_text_enter_quantity,Введите количество (0-10)
+app_text_empty_cart,Ваша корзина пуста!
+app_text_goto_home,Перейдите на домашнюю страницу
+app_text_review_checkout,Просмотрите заказ
+app_text_add_new_shipping_address,Добавить новый адрес доставки
+app_text_history,Отгрузочные реквизиты
+app_text_summary,итог заказа
+app_text_shipping_methods,Методы доставки
+app_text_comment,Заказать комментарий
+app_text_payment_summary,Резюме оплаты
+app_text_proceed,Перейти к оплате
+app_text_make_payment,Производить оплату
+app_text_congratulations,Поздравляю
+app_text_shipping_addresses,Адрес (ы) доставки
+app_text_order_detail,Заказать детали
+app_text_update_personal,Обновите личные данные
+app_text_update_password,Обновить пароль
+app_text_current_password,Текущий пароль
+app_text_new_password,Новый пароль
+app_text_confirm_password,Подтвердить Пароль
+app_text_cancel,Отмена
+app_text_save,Сохранять
+app_text_sale,Распродажа
+app_text_new,Новый
+app_text_order_ref,Код заказа
+app_text_status,Статус
+app_text_placed,Размещены на
+app_text_reorder,Изменение порядка
+app_text_order_details,Информация для заказа
+app_text_status_history,История статуса
+app_text_shipping_address,адреса доставки
+app_text_order_summary,итог заказа
+app_text_shipping_method,способ доставки
+app_text_payment_method,Способ оплаты
+app_text_gift_wrapping,Подарочная упаковка
+app_text_no_shipping_address,Никакого адреса доставки!
+app_text_no_order_details,Нет информации о заказе!
+app_text_signup,Зарегистрироваться
+app_text_continue_guest,Продолжать в качестве гостя
+app_text_email,Эл. адрес
+app_text_password,Пароль
+app_text_forgot_password,Забыли пароль?
+app_text_login_social_account,Вы можете войти в систему с социальной учетной записью.
+app_text_login_with_google,Войдите с Google+
+app_text_login_with_facebook,Войти с Facebook
+app_text_signup_with_google,Зарегистрируйтесь с Google+
+app_text_signup_with_facebook,Зарегистрируйтесь с Facebook
+app_text_msg_enter_valid_email,Пожалуйста, введите действительное письмо!
+app_text_msg_enter_email,Пожалуйста, введите электронное письмо!
+app_text_msg_enter_password,Пожалуйста введите пароль!
+app_text_msg_password_characters_less_than_3,Пожалуйста, введите пароль, имея символы более или равны 3!
+app_text_msg_first_name,Имя
+app_text_msg_last_name,Фамилия
+app_text_msg_dob,Дата рождения
+app_text_msg_confirm_password,Подтвердить Пароль
+app_text_msg_personal_details,Личная информация
+app_text_msg_pass_not_matched,Пароль и подтвердите пароль, не сопоставляется!
+app_text_sold_by,Продан:
+app_text_write_review,Написать обзор
+app_text_view_review,Просмотреть обзор (ы)
+app_text_view_seller_products,Просмотреть продукт продавца (ы)
+app_text_wait,Пожалуйста подождите
+app_text_loading,Загрузка данных...
+app_text_msg_went_wrong,Что-то пошло не так. Пожалуйста, попробуйте еще раз.
+app_text_msg_no_internet_found,Подключение к Интернету не найдено.
+app_text_msg_no_internet_title,Нет интернета
+app_text_msg_request,Запрос не может быть процессом. Это может быть из -за медленного подключения к Интернету.
+app_text_msg_order_placed_email,Ваш заказ был успешно размещен. Вы получите электронное письмо относительно того же.
+app_text_msg_product_look,Вы можете искать продукт (ы) по их категории.
+app_text_msg_search_product,Вы можете искать любой продукт в магазине по тексту или голосу!
+app_text_msg_view_cart,Вы можете просматривать корзину с количеством покупок с количеством!
+app_text_msg_logout,Вы успешно выходите из системы!
+app_text_msg_view_product,Вы можете просмотреть продукт в списке или режиме сетки!
+app_text_msg_sort_product,Вы можете сортировать продукт по их цене!
+app_text_msg_filter_product,Вы можете отфильтровать продукты (ы) в соответствии с вашей потребностью!
+app_text_text_next,Следующий
+app_text_text_okay,Хорошо
+app_text_required,Необходимый
+app_text_msg_rating,Пожалуйста, выберите рейтинг
+app_text_msg_add_cart,Вы можете добавить продукт в корзину покупок, просто нажав на кнопку «Добавить в корзину»!
+app_text_msg_add_wishlist,Вы можете добавить продукт в список желаний, просто нажав кнопку «Добавить в список желаний»!
+app_text_msg_product_price,Цена продукта была обновлена!
+app_text_msg_product_not_available,Этот продукт недоступен для заказа!
+app_text_msg_combination,Продукт больше не в наличии с выбранной комбинацией. Пожалуйста, попробуйте с другими комбинациями.
+app_text_msg_product_no_stock,Этот продукт недоступен в желаемом количестве или нет в наличии!
+app_text_msg_out_stock,Некоторые из продуктов в корзине не доступны в желаемом количестве или нет в наличии. Пожалуйста, удалите такие продукты из корзины!
+app_text_msg_checkout_products,Вы можете заказать продукты в корзине покупок, просто нажав на кнопку «Продолжить оформление заказа».
+app_text_msg_apply_voucher,Вы можете применить ваучер на корзину!
+app_text_msg_update_quantity,Вы можете обновить количество продукта или удалить его из корзины!
+app_text_msg_view_details,Вы можете просмотреть данные продукта, нажав на изображение продукта!
+app_text_msg_success,Успех!
+app_text_msg_failure,Отказ!
+app_text_msg_enter_quantity,Пожалуйста, введите количество
+app_text_quantity,Количество
+text_quantity,Количество
+app_text_remove,Удалять
+app_text_customization_details,Детали настройки
+app_text_msg_add_address,Вы можете добавить новый адрес доставки, нажав на кнопку!
+app_text_msg_update_address,Вы можете обновить адрес доставки!
+app_text_msg_select_address,Вы можете выбрать любой адрес доставки, просто нажав на него!
+app_text_select_address_text,*Пожалуйста, выберите адрес доставки, чтобы просмотреть свой заказ.
+app_text_msg_no_product,Нет продуктов!
+app_text_msg_no_comment_available,Нет комментариев (ы)!
+app_text_msg_reset_password,Вы можете сбросить пароль, нажав «Забудь пароль»
+app_text_msg_login,Вы можете войти в магазин отсюда!
+app_text_msg_login_fb,Вы также можете войти в магазин из своей учетной записи Facebook!
+app_text_msg_login_google,Вы также можете войти в магазин из своей учетной записи Google!
+app_text_msg_update_profile,Вы можете обновить сведения о своем профиле сведения о доставке или просмотреть данные вашего заказа отсюда!
+app_text_product_info_and_care,Информация о продукте и уход
+app_text_download,Загрузки
+app_text_minimal_quantity,Минимальное количество
+app_text_pack_content,Упаковать контент
+app_text_seller_details,Детали продавца
+app_text_submit,Представлять на рассмотрение
+app_text_msg_forget_password,Введите адрес электронной почты, связанный с вашей учетной записью. Нажмите, чтобы отправить вам, как вам по электронной почте.
+app_text_enter_your_email,Введите адрес электронной почты
+app_text_reset_password,Сброс пароля
+app_text_view_selected_filter,Вы можете просмотреть результат выбранного фильтра, нажав на это изображение!
+app_text_clear_selected_filter,Вы можете очистить применяемый фильтр, нажав на это изображение!
+app_text_no_filter,Нет фильтров
+app_text_phone_number_required,*Вы должны зарегистрировать хотя бы один номер телефона
+app_text_refresh,Обновлять
+app_text_internet_connection_failed,Подключение к Интернету не удалось!
+app_text_internet_connection_problem,Там могут возникнуть проблемы с вашим интернет -подключением. Пожалуйста, проверьте.
+app_text_cancel_transaction,Отменить транзакцию
+app_text_middle_of_payment,Вы находитесь в середине процесса транзакции платежей. Вы действительно хотите отменить свою транзакцию?
+app_text_yes,Да
+app_text_no,Нет
+app_text_enter_your_comment,Введите свой комментарий
+app_text_msg_shipping_methods_unavailable,Методы доставки не доступны
+app_text_msg_select_shipping_methods,Пожалуйста, выберите метод доставки
+app_text_billing_address,Адрес для выставления счета
+app_text_billing_addresses,Биллинг -адрес (ы)
+app_text_addresses,Адрес (ы)
+app_text_billing_details,Платежные реквизиты
+app_text_same_as_shipping_details,То же, что и адрес доставки
+app_text_share_log,Поделиться журналом
+app_text_payment_failed_contact_support,Ваш заказ не может быть обработан. Пожалуйста, свяжитесь с поддержкой любых запросов
+app_text_choose_payment_method,Выберите способ оплаты
+app_text_no_payment_method,Метод оплаты не найдена!
+app_text_no_payment_currently,В настоящее время нет способа оплаты.
+app_text_no_make_payment,Вы не сможете произвести платеж, так как это мобильное приложение настроено для демонстрации.
+app_text_make_payment_after_select,Вы можете сделать оплату после выбора любого способа оплаты!
+app_text_title_payment_paypal,PayPal платеж
+app_text_order_total_price,Заказ общая цена
+app_text_user_cancelled_the_payment,Пользователь отменил платеж
+app_text_invalid_payment_try_again,Недействительный платеж. Пожалуйста, попробуйте еще раз
+app_text_title_paypal_payment,PayPal платеж
+app_text_wishlist_item_removed,Элемент удален из списка желаний.
+app_text_wishlist_item_added,Товар добавлен в список желаний
+app_text_subject,Эй, проверь это!
+app_text_extra_share,Доступна здесь :
+app_text_intent_title,Делиться
+app_text_error_product_name_url,Название продукта или URL может быть пустым.
+app_text_tag_error,Ошибка
+app_text_ok,ХОРОШО
+app_text_view_your_store,Посмотреть свой магазин
+app_text_view_demo,Посмотреть демо
+app_text_currency,Валюта
+app_text_choose_your_app_theme,Выберите тему приложения
+app_text_terms_and_conditions,Правила и условия пользования
+app_text_wishlist_only,Список желаний
+app_text_wishlist_remove,Удалить из списка желаний
+app_text_update_address,Обновление адреса
+app_text_state_not_required,Государство не требуется для выбранной страны
+app_text_currencies,Валюта
+app_text_payment_failed,Некоторая ошибка произошла при обработке платежа. Пожалуйста, попробуйте еще раз
+app_text_entered_wrong_url,Возможно, вы ввели неправильный URL -адрес или не установили наш мобильный Bodule Bodule.
+app_text_login_failed,Ошибка входа!
+app_text_install_module,Установить модуль
+app_text_no_data_found,Данные не найдены
+app_text_enter_store_url,Пожалуйста, введите URL магазина
+app_text_fill_all_required_fields,Пожалуйста, заполните все необходимые поля.
+app_text_state,Состояние
+app_text_add_to_wishlist,Добавить в список желаний
+app_text_add_to_cart,Добавить в корзину
+text_prices,Цены
+text_brands,Бренды
+text_shipping_address_success,адрес доставки был успешно добавлен
+text_shipping_address_issue,Есть некоторые проблемы с данными
+text_shipping_address_update,адрес доставки был успешно обновлен
+text_cart_loaded,Информация о корзине успешно загружена
+text_order_success,Порядок, созданный этой тележкой
+text_reorder_fail,Заказ не может быть воссоздан
+text_currecy_error,Валюта не установлена ​​из -за некоторой ошибки. Пожалуйста, проверьте валютный код и попробуйте еще раз.
+text_fcm_fail,ID CART ID или FCM ID не найден
+text_empty_cart,Пустая корзина
+text_error_cart,Ошибка
+text_session_expired,Сессия истек
+text_customer_created,Клиент успешно создан !!
+text_wrong,что-то пошло не так
+text_error_email,Ошибка при отправке электронной почты !!
+text_confirm_email,По вашему адресу было отправлено электронное письмо с подтверждением:
+text_login_success,Пользователь успешно
+text_language_error,Язык не установлен из -за некоторой ошибки. Пожалуйста, проверьте код ISO и попробуйте еще раз.
+text_customer_update,Личная информация обновлена ​​успешно.
+error_email_id,Идентификатор электронной почты не существует !!
+error_email_empty,Идентификатор электронной почты не может быть пустым !!
+text_add_wishlist,Продукт добавлен в список желаний
+text_fail_wishlist,Продукт не добавлен в список желаний
+text_no_email,Нет электронной почты
+text_product_added,Продукт успешно добавлен
+text_product_deleted,Продукт успешно удален
+text_voucher_already,Ваучер уже применяется!
+text_voucher_success,Ваучер успешно применяется к тележке
+text_voucher_removed,Ваучер успешно удален
+text_product_not_added,Невозможно добавить в корзину
+error_out_of_stock,Продукт недоступен в желаемом количестве!
+error_firstname,Имя должно быть от 3 до 15 символов !!
+error_lastname,Фамилия должна быть от 3 до 15 символов !!
+error_address_1,Адрес должен быть от 3 до 15 символов !!
+error_city,Город должен быть от 3 до 15 персонажей !!
+error_postcode,Пожалуйста, заполните действительный почтовый индекс !!
+error_country,Пожалуйста, выберите страну !!
+error_zone,Пожалуйста, выберите штат !!
+error_phone1,Номер телефона должен быть от 3 до 15 символов !!
+error_phone2,Номер телефона должен содержать только номера и тире !!
+error_password,Пароль должен быть от 4 до 15 символов !!
+error_confirm,Пароли не совпадают!!
+error_email,Идентификатор электронной почты недопустим
+error_exists,Идентификатор электронной почты уже зарегистрирован
+error_minimum,Минимальное количество %D требуется для того, чтобы продукт %s размещал заказ.
+error_quantity_required,Требуемое Количество.
+error_voucher,Ваучер уже применяется!
+voucher_success,Ваучер успешно применил!
+voucher_removed,Ваучер успешно удален
+text_wishlist_added,Продукт добавлен в список желаний
+text_wishlist_removed,Продукт удален из списка желаний
+app_text_sellers,Продавцы
+app_text_seller,Продавец
+app_text_seller_shipping_policy,Политика доставки продавца
+app_text_seller_return_policy,Политика возврата продавца
+app_text_review_title,Заголовок отзыва
+app_text_review_comment,Просмотреть комментарий
+app_text_review_rating,Обзор рейтинг
+app_text_filter_products,Фильтруя продукты
+app_text_select_category,выбрать категорию
+app_text_select_sort,Сортировать
+app_text_clear,Прозрачный
+app_text_hour,Час
+app_text_min,Минуты
+app_text_sec,Секунды
+app_text_install_whatsapp,WhatsApp не установлен на вашем устройстве
+app_text_no_account_registered,Ни одна учетная запись не зарегистрирована для биометрической аутентификации в этом устройстве. Пожалуйста, зарегистрируйте учетную запись в первую очередь.
+app_text_confirm_for_authentication,Подтвердите свой отпечаток пальца или лицо для аутентификации.
+app_text_login_with_fingerprint,Войдите с отпечатками пальца
+app_text_register_for_fingerprint,Зарегистрируйтесь на отпечаток пальца
+app_text_biometric_not_available,Биометрическая аутентификация недоступна для этого устройства.
+app_text_fingerprint_not_recognized,Touch ID не узнает ваш отпечаток пальца. Пожалуйста, попробуйте еще раз с помощью зарегистрированного отпечатка пальца.
+app_text_face_not_recognizes,Face ID не узнает ваше лицо. Пожалуйста, попробуйте еще раз со своим зарегистрированным лицом.
+app_text_fingerprint_or_face_not_enrolled,Нет отпечатков пальцев/лица, зарегистрированного в устройстве.
+app_text_biometry_locked_out,Функциональность теперь заблокирована из -за слишком многих неудачных попыток.
+app_text_register_for_fingerpring,Зарегистрируйтесь на отпечаток пальца
+app_text_register_for_fingerprint_details,Вы хотите зарегистрировать эту учетную запись для функциональности отпечатков пальцев. После этого вы можете войти в эту учетную запись, не используя идентификатор электронной почты или пароль, просто используя проверку отпечатков пальцев.
+app_text_register,регистр
+app_text_fingerprint_not_available,Аутентификация отпечатков пальцев недоступна в этом устройстве!
+app_text_fingerprint_not_enrolled,Нет отпечатков пальцев, зарегистрированных в устройстве.
+app_text_android_marshmallow_required,По крайней мере, Android Marshmallow требуется для поддержки аутентификации отпечатков пальцев.
+app_text_fingerprint_error_try_again,Есть ошибка с отпечатком пальца. Пожалуйста, попробуйте еще раз или продолжайте без отпечатков пальцев!
+app_text_fingerprint_wipe_sensor_try_again,На датчике отпечатков пальцев может быть немного пыли. Пожалуйста, протрите его и попробуйте еще раз.
+app_text_skip_and_continue,Пропустите и продолжайте
+app_text_verify,Проверять
+app_text_get_otp,Получить OTP
+app_text_mobile_number,Номер мобильного телефона
+app_text_mobile_number_optional,Мобильный номер (необязательно)
+app_text_invalid_phone_number,пожалуйста введите правильное число
+app_text_error_number_verification,Мобильный номер не может быть проверен! Пожалуйста, попробуйте еще раз с правильным номером OTP!
+app_text_phone_number_already_exists,Номер телефона уже зарегистрирован. Пожалуйста, попробуйте еще раз с другим номером телефона!
+app_text_number_verification,Проверка числа
+app_text_number_verification_description,Вам нужно проверить номер телефона. Пожалуйста, введите номер телефона и отправьте
+app_text_login_with_phone_number,Войти с номером телефона
+app_text_forget_password_description,Введите адрес электронной почты или номер телефона, связанный с вашей учетной записью.
+app_text_enter_email_or_mobile_number,Введите электронное письмо или номер мобильного телефона
+app_text_phone_number_change_message,Один номер телефона уже зарегистрирован в этой учетной записи. Вы можете изменить только контактный номер. Пожалуйста, введите действующий номер телефона.
+app_text_enter_otp,Введите OTP
+app_text_review_your_order,Просмотрите заказ
+app_text_attributes,Атрибуты
+entry_company,Компания
+entry_address_1,адрес 1
+entry_address_2,Адрес 2
+entry_city,Город
+entry_postcode,Почтовый индекс
+entry_country,Страна
+app_text_label_address,Адрес
+app_text_label_country,Нет
+app_text_label_phone,Телефонный номер
+app_text_select_all_options,Пожалуйста, выберите все варианты
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,Номер мобильного телефона не существует в базе данных
+phone_number_exist_message,Мобильный номер существует в базе данных
+password_update_message,Обновление пароля успешно
+app_text_continue_to_checkout_click_msg,Вы можете заказать продукты в корзине покупок, просто нажав на кнопку «Продолжить оформление заказа»!
+app_text_cart_tab,Тележка
+app_text_search,Поиск
+app_text_msg_empty_wishlist,Ваш список пожеланий пуст
+app_text_your_wishlist_is_empty,Ваш список пожеланий пуст!
+app_text_percent_off,% выключенный
+app_text_update_address_if_exists,Вы можете обновить адрес доставки или выбрать любой другой, если существует!
+app_text_press_back_again_to_exit,Нажмите снова, чтобы выйти
+app_text_please_login,Пожалуйста, войдите
+app_text_related_products,сопутствующие товары
+app_text_view_reviews,Просмотреть обзоры
+app_text_write_reviews,Напишите обзоры
+app_text_please_fill_all_details,Пожалуйста, заполните все данные
+app_text_close,Закрывать
+app_text_add_review,Добавить обзор
+app_text_write_a_review,Написать обзор
+app_text_name,Имя
+app_text_title,Заголовок
+app_text_number_of_reviews,Количество обзоров
+app_text_minimum_rating,Пожалуйста, добавьте минимальный ратин
+app_text_error,Ошибка
+app_text_no_reviews,Нет отзывов
+app_text_place_your_finger_on_sensor,Поместите палец на датчик
+text_browser_payment_method_success_msg,Успех: ваш заказ размещен. Пожалуйста, вернитесь в приложение.
+text_browser_payment_method_failure_msg,Неудача: ваш заказ не может быть размещен. Пожалуйста, вернитесь в приложение и попробуйте еще раз.
+text_browser_payment_method_already_msg,Заказ уже был размещен. Пожалуйста, вернитесь в приложение и попробуйте еще раз.
+text_order_verify_fail,Заказ еще не был размещен, пожалуйста, перейдите на заказ, заполните оплату, а затем проверьте заказ
+app_text_external_web_payment,Нажав кнопку «Продолжить», вы будете перенаправлены на внешний браузер для обработки оплаты. После того, как вы закончите платеж, закрыть браузер
+app_text_text_state,Состояние
+app_text_description,Описание
+app_text_discount,Скидка
+app_text_applied,Применяемый
+app_text_default,По умолчанию
+app_text_name_asc,Имя (A-z)
+app_text_name_desc,Имя (Z-A)
+app_text_rating_asc,Рейтинг: низкий или высокий
+app_text_rating_desc,Рейтинг: высокий до низкого
+app_text_model_asc,Модель (A-z)
+app_text_model_desc,Модель (Z-A)
+app_text_reference_asc,Ссылка (A-z)
+app_text_reference_asc,Ссылка (A-z)
+app_text_reference_desc,Ссылка (Z-A)
+app_text_create_new_account,Создать новый аккаунт
+app_text_back_login,Вернуться на страницу входа
+app_text_guest_login,Гостевой вход
+app_text_first_name,Имя*
+app_text_last_name,Фамилия*
+app_text_already_have_account,Уже есть учетная запись?
+app_text_error_firstname,Пожалуйста, введите имя.
+app_text_error_lastname,Пожалуйста, введите фамилию.
+app_text_error_mobile_number,Пожалуйста, введите номер мобильного телефона.
+app_text_my_profile,Мой профайл
+app_text_my_orders,мои заказы
+app_text_my_addresses,Мои адреса
+app_text_support,Поддерживать
+app_text_account_page_heading,Доступ к данным и наградам вашей учетной записи
+app_text_not,Нет
+app_text_apple,Яблоко
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Посмотреть все
+app_text_error_email_access,Пожалуйста, предоставьте доступ по электронной почте или используйте другую учетную запись.
+app_text_hi,Привет
+app_text_sold_out,Распроданный
+app_text_signup_with_apple,Войти в Apple
+app_text_login_with_apple,Войти в Apple
+app_text_order,порядок
+app_text_order_date,Дата заказа
+app_text_items,Предметы)
+app_text_amount,Количество
+error_voucher_not_available,Ваучер либо срок недействительным, либо достиг предела использования!
+app_text_review_order,Просмотреть заказ
+app_text_payment_methods,Способы оплаты
+app_text_review_order,Просмотреть заказ
+app_text_payment_methods,Способы оплаты
+app_text_guest,Гость
+app_text_resend_otp,Повторный ОТП
+app_text_msg_mobile_number,Пожалуйста, введите свой номер мобильного телефона
+app_text_msg_otp,OTP отправил Бен на номер:
+app_text_msg_resend_otp,OTP имеет Бен обижен на число:
+app_text_confirm_new_password,Подтвердите новый пароль
+app_text_error_facebook_login,Не мог войти в систему с Facebook
+app_text_sub_total,Промежуточный итог
+app_text_product_total,Общая сумма продукта
+app_text_are_you_sure_you_want_to_exit,Ты уверен, что хочешь выйти?
+text_product_updated,Количество продукта успешно обновлено !!
+error_incorrect_password,Неверный пароль!!
+app_text_unit_price,Цена за единицу
+app_text_only_mobile,Мобильный
+app_text_file_download,Файл успешно загружен на
+app_text_video,Видео вложения
+app_text_agree_to,Согласиться с условиями
+app_text_agree_gdpr,Пожалуйста, проверьте флажок «Условия и условия» !!
+app_text_use_current_location,Используйте текущее местоположение
+app_text_adding,Добавление…
+app_text_removing,Удаление…
+app_text_voucher_adding,Ваучер добавил ...
+app_text_voucher_removing,Ваучер снял ...
+app_text_mobile,Мобильный
+app_text_deal_ends,Сделка заканчивается
+app_text_expires_in,Истекает
+app_text_register_fingerprint,Зарегистрируйтесь для входа в систему отпечатков пальцев
+app_text_reviews,Отзывы
+app_text_loading,Загрузка ...
+app_text_please_wait,Пожалуйста подождите...
+app_text_updating_cart,Обновление тележки ...
+app_text_loading_shipping_address,Загрузка адреса доставки ...
+app_text_loading_billing_address,Загрузка платежного адреса ...
+app_text_removing_product,Удаление продукта ...
+app_text_loading_store_data,Загрузка данных хранилища
+app_text_select_country,Пожалуйста, выберите страну
+app_text_select_state,Пожалуйста, выберите состояние
+app_text_delete_account,Удалить аккаунт
+app_text_delete_account_msg,Вы уверены, что хотите удалить учетную запись?
+app_text_scan_barcode,Сканировать штрих -код
+app_text_camera_loading,Загрузка камеры ...
+app_text_camera_permission_not_available,Разрешение камеры недоступно
+app_text_search_description,Найдите то, что вы ищете.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>multiprice</name>
+    <displayName><![CDATA[Display price in many currencies]]></displayName>
+    <version><![CDATA[1.5.2]]></version>
+    <description><![CDATA[This is prestashop module that allows to show many prices of product in many currencies]]></description>
+    <author><![CDATA[MyPresta.eu]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

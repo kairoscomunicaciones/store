@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_cca404928ed257a7ec6df89bf8a079c2'] = 'One Click Checkout';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_1ba8c8a9b4117689de17d2c88c81de73'] = 'This is the module for facilitate user to purchase particular product.';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_876f23178c29dc2552c0b48bf23cd9bd'] = 'Are you sure you want to uninstall?';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_0f40e8817b005044250943f57a21c5e7'] = 'No name provided';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_870d738267b04c7a015b0907dc9eab9d'] = 'Configuration has been saved successfully.';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_ecf3c4dfe9ba415eeec29c13e2437559'] = 'Share this product with your friends';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_52f4393e1b52ba63e27310ca92ba098c'] = 'General Settings';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_e566fe9aef1502d69ccdbe28e1957535'] = 'Enable/Disable';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_009e408e8475abac531ce6cba5ecbf09'] = 'Enable/Disable module functionality at the front end';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Enabled';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_b9f5c797ebbf55adccdd8539a65a0241'] = 'Disabled';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_75e7422f2fe253fc69d3f6c148d197ee'] = 'Background Color';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_0172ea669f5b54d443ec9cc60aea6f33'] = 'Choose the background color for the `Buy Now` button at the front end';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_8903861290617267b361478ab7f16f31'] = 'Text Color';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_9fd4e17aaed9733d281478b802ab1593'] = 'Choose the text color for the `Buy Now` button at the front end';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_475c80ecff56299d3527cf51af68e48c'] = 'Border Color';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_087705127e9ddfb5e490515731e87e13'] = 'Choose the border color for the `Buy Now` button at the front end';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_a4d3b161ce1309df1c4e25df28694b7b'] = 'Submit';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_c9cc8cce247e49bae79f15173ce97354'] = 'Save';
+$_MODULE['<{oneclickcheckout}prestashop>oneclickcheckout_630f6dc397fe74e52d5189e2c80f282b'] = 'Back to list';
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_4d4683b716163f77425690c142b1d1d6'] = 'Field cannot be empty.';
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_1451bd8b0d382ceb101921c399df763d'] = 'Fields cannot be greater than # characters.';
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_237da44889cbf84e0922e3bf20fb1fff'] = 'Color is not valid.';
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_e3f06d5322c6cc889564fff64715b560'] = 'Script tags are not allowed.';
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_0815f4569dd8c1fd65875b9fec802523'] = 'Style tags are not allowed.';
+$_MODULE['<{oneclickcheckout}prestashop>translations_error_assign_5f234e61961ec4f209a313ed3474afd6'] = 'Iframe tags are not allowed.';
+$_MODULE['<{oneclickcheckout}prestashop>show_button_c1f52fba179ff982b10e3881670b61ef'] = 'Buy Now';

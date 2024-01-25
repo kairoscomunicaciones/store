@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.velsof.prestashopgenericapp",
+    "sha256_cert_fingerprints":
+    ["D2:2B:F7:B4:D3:49:52:E0:68:CB:AE:9F:C2:79:3E:C5:40:76:0F:AD:28:7F:A3:6B:84:9B:B7:20:9B:F3:EF:E5"]
+  }
+}]

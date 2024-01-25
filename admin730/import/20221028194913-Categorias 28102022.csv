@@ -1,0 +1,13 @@
+ID;Name;Parent category;Description;Position;Displayed;Image URL
+12;Alimentos;Home;Elige productos de la cesta básica, proteínas, embutidos y vìveres en general de excelente calidad y marcas reconocidas;0;1;https://inversionesrpz.com/imagenes/alimentos.jpg
+13;Delivery;Home;Cuenta con nuestro servicio de despacho de tus productos en cualquier zona de Caracas;1;1;https://inversionesrpz.com/imágenes/delivery.jpg
+14;Higiene;Home;Consiéntete con productos de higiene y cuidado personal de afamadas marcas;2;1;https://inversionesrpz.com/imágenes/higiene.jpg
+15;Salud;Home;Cuídate con nuestros servicios especializados de salud, laboratorios, consultas y jornanas especiales;3;1;https://inversionesrpz.com/imágenes/salud.jpg
+16;Construcción y Ferretería;Home;Confíanos tus proyectos de remodelación, plomería o arreglos de cualquier tipo para tu hogar.;4;1;https://inversionesrpz.com/imagenes/constyferret.png
+17;Servicios Automotrices;Home;Cuida y protege tu vehículo con nuestros servicios automotrices;5;1;https://inversionesrpz.com/imágenes/serviciosautomotrices.jpg
+18;Eventos y Festejos;Home;Podemos ayudarte a organizar tus eventos tanto familiares como laborales para que todo salga perfecto sin tanto esfuerzo.;6;1;https://inversionesrpz.com/imágenes/eventos.jpg
+19;Juguetes;Home;Elige el juguete perfecto para la ocasiòn especial y consiente a tus pequeños;7;1;https://inversionesrpz.com/imágenes/juguetes.jpg
+20;Vestidos y Calzados;Home;Déjate tentar por esa ropa o esos zapatos para una ocasión especial, o simplemente para hoy, porque lo mereces.;8;1;https://inversionesrpz.com/imágenes/ropayzapatos.jpg
+21;Víveres;Alimentos;Compra todo lo que necesitas, de buena calidad y al mejor precio.;9;1;https://inversionesrpz.com/imágenes/viveres.jpg
+22;Proteínas;Alimentos;Consigue aquí ofertas en carnes, pollo, pescado, huevos y otros productos proteícos.;10;1;https://inversionesrpz.com/imágenes/proteinas.jpg
+23;Embutidos;Alimentos;Èchale un vistazo a nuestra selección de embutidos: jamón, mortadela, salchichas y otros.;11;1;https://inversionesrpz.com/imágenes/embutidos.jpg

@@ -1,0 +1,8 @@
+Witaj {customer_name},
+Dziękujemy za rejestrację w {shop_name}. Dane Twojego konta są następujące:
+E-mail: {customer_email}
+Hasło: {auto_generated_password}
+Twoje aktualne hasło zostało automatycznie wygenerowane przez nasz sklep. Zalecamy zmianę hasła na łatwiejsze do zapamiętania i bezpieczniejsze.
+ZMIEŃ HASŁO: {link_change_password}
+Jeśli masz jakiekolwiek pytania dotyczące swojego konta, skontaktuj się z nami. Chętnie Ci pomożemy!
+Z poważaniem,

@@ -1,0 +1,449 @@
+app_text_home,Acasă
+app_text_recent_product,Produs recent
+app_text_category,Categorii
+app_text_login,Autentificare
+app_text_logout,Deconectare
+app_text_login_signup,Log In / Înregistrare
+app_text_account,Contul meu
+app_text_contact,Contactează-ne
+app_text_about,Despre noi
+app_text_wishlist,Adaugă la lista de dorințe
+app_text_cart,Adaugă în coș
+app_text_off,OFF
+app_text_all,Toate
+app_text_languages,Limbaj
+app_text_sort,Fel
+app_text_filter,Filtru
+app_text_sort_order,Selectați comandă de sortare
+app_text_price_asc,Preț: scăzut până la mare
+app_text_price_desc,Preț: ridicat până la scăzut
+app_text_product,Produs
+app_text_select,Selectați
+app_text_instock,În stoc
+app_text_outstock,Stoc epuizat
+app_text_product_info,Informații despre produs și îngrijire
+app_text_customization,Personalizare articol
+app_text_accessories,Accesorii
+app_text_view_less,Vizualizați mai puțin
+app_text_view_more,Vezi mai mult
+app_text_provide_details,Vă rugăm să furnizați detalii
+app_text_bag,Punga de cumparaturi
+app_text_apply_voucher,Aplicați voucher
+app_text_entry_voucher_code,Introduceti codul voucher-ului
+app_text_apply,aplica
+app_text_gift,Ambalaj pentru cadouri
+app_text_entry_message,Introduceți mesajul dvs.
+app_text_available_first,Trimiteți mai întâi produse disponibile
+app_text_continue_shopping,Continua cumparaturile
+app_text_continue_checkout,Continuați să faceți checkout
+app_text_update_quantity,Actualizați cantitatea
+app_text_enter_quantity,Introduceți cantitatea (0-10)
+app_text_empty_cart,Cosul de cumparaturi este gol!
+app_text_goto_home,Mergi la pagina principală, mergi la pagina de început
+app_text_review_checkout,Verifica-ti comanda
+app_text_add_new_shipping_address,Adăugați o nouă adresă de expediere
+app_text_history,Detalii de expediere
+app_text_summary,Comanda Rezumat
+app_text_shipping_methods,Metode de expediere
+app_text_comment,Comentariu de comandă
+app_text_payment_summary,Sumarul platii
+app_text_proceed,Finalizați plata
+app_text_make_payment,Plateste
+app_text_congratulations,Felicitări
+app_text_shipping_addresses,Adresa (adresele) de expediere
+app_text_order_detail,Detaliile comenzii
+app_text_update_personal,Actualizați detaliile personale
+app_text_update_password,Actualizați parola
+app_text_current_password,Parola actuală
+app_text_new_password,Parolă Nouă
+app_text_confirm_password,Confirmă parola
+app_text_cancel,Anulare
+app_text_save,salva
+app_text_sale,Vânzare
+app_text_new,Nou
+app_text_order_ref,Comandă
+app_text_status,stare
+app_text_placed,Pus pe
+app_text_reorder,Reordonare
+app_text_order_details,Comanda Detalii
+app_text_status_history,Istoricul statutului
+app_text_shipping_address,Adresa de transport
+app_text_order_summary,Comanda Rezumat
+app_text_shipping_method,Metodă de livrare
+app_text_payment_method,Modalitate de plată
+app_text_gift_wrapping,Impachetarea cadourilor
+app_text_no_shipping_address,Nu este disponibilă o adresă de expediere!
+app_text_no_order_details,Nu există detalii despre comandă disponibile!
+app_text_signup,Inscrie-te
+app_text_continue_guest,Continuați ca oaspete
+app_text_email,E-mail
+app_text_password,Parola
+app_text_forgot_password,Aţi uitat parola?
+app_text_login_social_account,Vă puteți autentifica cu cont social.
+app_text_login_with_google,Conectați -vă cu Google+
+app_text_login_with_facebook,Logheaza-te cu Facebook
+app_text_signup_with_google,Înscrieți -vă cu Google+
+app_text_signup_with_facebook,Înregistrează-te cu Facebook
+app_text_msg_enter_valid_email,Vă rugăm să introduceți e -mail valid!
+app_text_msg_enter_email,Vă rugăm să introduceți e -mail!
+app_text_msg_enter_password,Te rog introdu parola!
+app_text_msg_password_characters_less_than_3,Vă rugăm să introduceți parola având caractere mai mult sau egale cu 3!
+app_text_msg_first_name,Nume
+app_text_msg_last_name,Nume
+app_text_msg_dob,Data de nastere
+app_text_msg_confirm_password,Confirmă parola
+app_text_msg_personal_details,Detalii personale
+app_text_msg_pass_not_matched,Parola și confirmarea parolei nu se potrivesc!
+app_text_sold_by,Vandut de:
+app_text_write_review,Scrie o recenzie
+app_text_view_review,Vizualizați recenzii (e)
+app_text_view_seller_products,Vizualizați produsul (produsele) vânzătorului
+app_text_wait,Te rog asteapta
+app_text_loading,Încărcare date...
+app_text_msg_went_wrong,Ceva n-a mers bine. Vă rugăm să încercați din nou.
+app_text_msg_no_internet_found,Nu este găsită conexiune la internet.
+app_text_msg_no_internet_title,Fara Internet
+app_text_msg_request,Cererea nu poate fi proces. Acest lucru ar putea fi din cauza conexiunii lente la internet.
+app_text_msg_order_placed_email,Comanda dvs. a fost plasată cu succes. Veți primi un e -mail cu privire la același lucru.
+app_text_msg_product_look,Puteți căuta produsele (produsele) după categoria lor.
+app_text_msg_search_product,Puteți căuta orice produs din magazin prin text sau voce!
+app_text_msg_view_cart,Puteți vizualiza coșul de cumpărături cu cantitate!
+app_text_msg_logout,Sunteți deconectați cu succes!
+app_text_msg_view_product,Puteți vizualiza produsul în lista sau modul grilă!
+app_text_msg_sort_product,Puteți sorta produsul după prețul lor!
+app_text_msg_filter_product,Puteți filtra produsele (produsele) conform nevoilor dvs.!
+app_text_text_next,Următorul
+app_text_text_okay,Bine
+app_text_required,Necesar
+app_text_msg_rating,Vă rugăm să selectați rating
+app_text_msg_add_cart,Puteți adăuga produs la coșul de cumpărături făcând simpla clic pe butonul „Adăugați în coș”!
+app_text_msg_add_wishlist,Puteți adăuga produs la Wishlist făcând clic pe butonul „Adăugați la Wishlist”!
+app_text_msg_product_price,Prețul produsului a fost actualizat!
+app_text_msg_product_not_available,Acest produs nu este disponibil pentru comandă!
+app_text_msg_combination,Produsul nu mai este în stoc cu combinația selectată. Vă rugăm să încercați cu alte combinații.
+app_text_msg_product_no_stock,Acest produs nu este disponibil în cantitatea dorită sau nu în stoc!
+app_text_msg_out_stock,Unele dintre produsele din coș nu sunt disponibile în cantitatea dorită sau nu în stoc. Vă rugăm să eliminați astfel de produse din coș!
+app_text_msg_checkout_products,Puteți face checkout produsele în coșul de cumpărături făcând simpla clic pe butonul „Continuați la checkout”.
+app_text_msg_apply_voucher,Puteți aplica voucher pe coșul de cumpărături!
+app_text_msg_update_quantity,Puteți actualiza cantitatea de produs sau îl puteți elimina din coșul de cumpărături!
+app_text_msg_view_details,Puteți vizualiza detaliile produsului făcând clic pe imaginea produsului!
+app_text_msg_success,Succes!
+app_text_msg_failure,Nerespectat!
+app_text_msg_enter_quantity,Vă rugăm să introduceți cantitatea
+app_text_quantity,Cantitate
+text_quantity,Cantitate
+app_text_remove,Elimina
+app_text_customization_details,Detalii despre personalizare
+app_text_msg_add_address,Puteți adăuga o nouă adresă de expediere făcând clic pe buton!
+app_text_msg_update_address,Puteți actualiza adresa de expediere!
+app_text_msg_select_address,Puteți selecta orice adresă de expediere făcând clic pe ea!
+app_text_select_address_text,*Vă rugăm să selectați adresa de expediere pentru a vă examina comanda.
+app_text_msg_no_product,Nu există produse disponibile!
+app_text_msg_no_comment_available,Fără comentarii disponibile!
+app_text_msg_reset_password,Vă puteți reseta parola făcând clic pe „Uitați parola”
+app_text_msg_login,Vă puteți conecta în magazin de aici!
+app_text_msg_login_fb,De asemenea, vă puteți conecta în magazin din contul dvs. de Facebook!
+app_text_msg_login_google,De asemenea, vă puteți conecta în magazin din contul dvs. Google!
+app_text_msg_update_profile,Puteți actualiza detaliile profilului dvs. Detaliile de expediere sau puteți vizualiza detaliile comenzii de aici!
+app_text_product_info_and_care,Informații despre produs și îngrijire
+app_text_download,Descărcări
+app_text_minimal_quantity,Cantitate minimă
+app_text_pack_content,Conținut de ambalaj
+app_text_seller_details,Detaliile vânzătorului
+app_text_submit,Trimite
+app_text_msg_forget_password,Introduceți adresa de e-mail asociată cu contul dvs.
+app_text_enter_your_email,Introduceți adresa dvs. de email
+app_text_reset_password,Reseteaza parola
+app_text_view_selected_filter,Puteți vizualiza rezultatul filtrului selectat făcând clic pe această imagine!
+app_text_clear_selected_filter,Puteți șterge filtrul aplicat făcând clic pe această imagine!
+app_text_no_filter,Fără filtre
+app_text_phone_number_required,*Trebuie să înregistrați cel puțin un număr de telefon
+app_text_refresh,Reîmprospăta
+app_text_internet_connection_failed,Conexiunea la internet a eșuat!
+app_text_internet_connection_problem,S -ar putea să existe o problemă cu conexiunea dvs. la internet. Te rog verifica.
+app_text_cancel_transaction,Anulați tranzacția
+app_text_middle_of_payment,Sunteți în mijlocul procesului de tranzacție de plată. Doriți să anulați tranzacția?
+app_text_yes,da
+app_text_no,Nu
+app_text_enter_your_comment,Introduceți comentariul
+app_text_msg_shipping_methods_unavailable,Nu există metode de expediere disponibile
+app_text_msg_select_shipping_methods,Vă rugăm să selectați metoda de expediere
+app_text_billing_address,Adresa de facturare
+app_text_billing_addresses,Adresa (adresele) de facturare
+app_text_addresses,Adresa (adresele)
+app_text_billing_details,detalii de facturare
+app_text_same_as_shipping_details,La fel ca adresa de expediere
+app_text_share_log,Partajează jurnalul
+app_text_payment_failed_contact_support,Comanda dvs. nu a putut fi procesată. Vă rugăm să contactați asistența pentru orice întrebări
+app_text_choose_payment_method,Alege metoda de plata
+app_text_no_payment_method,Nu se găsesc nicio metodă (metode) de plată!
+app_text_no_payment_currently,În prezent nu există metode de plată.
+app_text_no_make_payment,Nu veți putea efectua plata, deoarece această aplicație mobilă este configurată în scop demo.
+app_text_make_payment_after_select,Puteți efectua plata după selectarea oricărei metode de plată!
+app_text_title_payment_paypal,Plata PayPal
+app_text_order_total_price,Comandați prețul total
+app_text_user_cancelled_the_payment,Utilizatorul a anulat plata
+app_text_invalid_payment_try_again,Plata nevalide. Vă rugăm să încercați din nou
+app_text_title_paypal_payment,Plata PayPal
+app_text_wishlist_item_removed,Articolul eliminat din Wishlist.
+app_text_wishlist_item_added,Articol adăugat la Wishlist
+app_text_subject,Hei, verifică asta!
+app_text_extra_share,Disponibil aici :
+app_text_intent_title,Acțiune
+app_text_error_product_name_url,Numele produsului sau adresa URL poate fi goală.
+app_text_tag_error,Eroare
+app_text_ok,Bine
+app_text_view_your_store,Vizualizați magazinul
+app_text_view_demo,Vizualizați demo
+app_text_currency,Monedă (monede)
+app_text_choose_your_app_theme,Alegeți tema aplicației
+app_text_terms_and_conditions,Termeni si conditii de utilizare
+app_text_wishlist_only,lista de dorințe
+app_text_wishlist_remove,Scoateți din lista de dorințe
+app_text_update_address,Actualizare adresa
+app_text_state_not_required,Statul nu este necesar pentru țara selectată
+app_text_currencies,Monedă (monede)
+app_text_payment_failed,A apărut o eroare la procesarea plății. Vă rugăm să încercați din nou
+app_text_entered_wrong_url,Este posibil să fi introdus URL greșit sau nu ați instalat Bodule Bodule pentru constructorul de aplicații mobile.
+app_text_login_failed,Autentificare esuata!
+app_text_install_module,Modul de instalare
+app_text_no_data_found,Nu s-au gasit date
+app_text_enter_store_url,Vă rugăm să introduceți URL -ul magazinului
+app_text_fill_all_required_fields,Vă rugăm să completați toate câmpurile necesare.
+app_text_state,Stat
+app_text_add_to_wishlist,Adaugă la lista de dorințe
+app_text_add_to_cart,Adaugă în coș
+text_prices,Prețuri
+text_brands,Mărci
+text_shipping_address_success,Adresa de expediere a fost adăugată cu succes
+text_shipping_address_issue,Există unele probleme cu datele
+text_shipping_address_update,Adresa de expediere a fost actualizată cu succes
+text_cart_loaded,Informații despre coș încărcate cu succes
+text_order_success,Comanda creată de acest coș
+text_reorder_fail,Comanda nu poate fi recreată
+text_currecy_error,Moneda nu este setată din cauza unor erori. Vă rugăm să verificați codul valutar și să încercați din nou.
+text_fcm_fail,ID -ul coșului sau ID -ul FCM nu au fost găsite
+text_empty_cart,Coș gol
+text_error_cart,Eroare
+text_session_expired,Sesiunea a expirat
+text_customer_created,Client creat cu succes !!
+text_wrong,ceva n-a mers bine
+text_error_email,Eroare în timp ce trimiteți e -mail !!
+text_confirm_email,Un e -mail de confirmare a fost trimis la adresa dvs .:
+text_login_success,Conectarea utilizatorului cu succes
+text_language_error,Limbajul nu este setat din cauza unor erori. Vă rugăm să verificați codul ISO și să încercați din nou.
+text_customer_update,Informații personale actualizate cu succes.
+error_email_id,ID -ul de e -mail nu există !!
+error_email_empty,ID -ul de e -mail nu poate fi necompletat !!
+text_add_wishlist,Produs adăugat la Wishlist
+text_fail_wishlist,Produsul care nu este adăugat la Wishlist
+text_no_email,Fără e -mail
+text_product_added,Produsul adăugat cu succes
+text_product_deleted,Produsul șters cu succes
+text_voucher_already,Voucher deja aplicat!
+text_voucher_success,Voucher aplicat cu succes pe coș
+text_voucher_removed,Voucher a eliminat cu succes
+text_product_not_added,Imposibil de adăugat în coș
+error_out_of_stock,Produsul nu este disponibil în cantitatea dorită!
+error_firstname,Prenumele trebuie să fie între 3 și 15 caractere !!
+error_lastname,Numele de familie trebuie să fie între 3 și 15 caractere !!
+error_address_1,Adresa trebuie să fie între 3 și 15 caractere !!
+error_city,Orașul trebuie să fie între 3 și 15 personaje !!
+error_postcode,Vă rugăm să completați codul poștal valid !!
+error_country,Vă rugăm să selectați o țară !!
+error_zone,Vă rugăm să selectați un stat !!
+error_phone1,Numărul de telefon trebuie să fie între 3 și 15 caractere !!
+error_phone2,Numărul de telefon ar trebui să conțină doar numere și liniuțe !!
+error_password,Parola trebuie să fie între 4 și 15 caractere !!
+error_confirm,Nepotrivire a parolei !!
+error_email,ID -ul de e -mail nu este valabil
+error_exists,ID de e -mail deja înregistrat
+error_minimum,Cantitatea minimă %D este necesară pentru ca produsul %să plaseze comanda.
+error_quantity_required,cantitate necesara.
+error_voucher,Voucher deja aplicat!
+voucher_success,Voucher aplicat cu succes!
+voucher_removed,Voucher a eliminat cu succes
+text_wishlist_added,Produs adăugat la Wishlist
+text_wishlist_removed,Produsul eliminat din Wishlist
+app_text_sellers,Vânzători
+app_text_seller,Vânzător
+app_text_seller_shipping_policy,Politica de expediere a vânzătorilor
+app_text_seller_return_policy,Politica de returnare a vânzătorului
+app_text_review_title,Titlul de recenzie
+app_text_review_comment,Revizuiește comentariul
+app_text_review_rating,Evaluarea revizuirii
+app_text_filter_products,Produse de filtrare
+app_text_select_category,selecteaza categoria
+app_text_select_sort,Fel
+app_text_clear,clar
+app_text_hour,Ora
+app_text_min,Minute
+app_text_sec,Secunde
+app_text_install_whatsapp,WhatsApp nu este instalat pe dispozitivul dvs.
+app_text_no_account_registered,Niciun cont nu este înregistrat pentru autentificarea biometrică din acest dispozitiv. Vă rugăm să înregistrați mai întâi un cont.
+app_text_confirm_for_authentication,Confirmați amprenta sau fața pentru a se autentifica.
+app_text_login_with_fingerprint,Conectați -vă cu amprentă
+app_text_register_for_fingerprint,Înregistrați -vă pentru amprentă
+app_text_biometric_not_available,Autentificarea biometrică nu este disponibilă pentru acest dispozitiv.
+app_text_fingerprint_not_recognized,Touch ID nu vă recunoaște amprenta. Vă rugăm să încercați din nou cu amprenta dvs. înscrisă.
+app_text_face_not_recognizes,Fața ID nu vă recunoaște fața. Vă rugăm să încercați din nou cu chipul dvs. înscris.
+app_text_fingerprint_or_face_not_enrolled,Nu există amprente/față înscrise în dispozitiv.
+app_text_biometry_locked_out,Funcționalitatea este blocată acum din cauza prea multor încercări eșuate.
+app_text_register_for_fingerpring,Înregistrați -vă pentru amprentă
+app_text_register_for_fingerprint_details,Doriți să înregistrați acest cont pentru funcționalitatea amprentei digitale. Odată terminat, vă puteți conecta în acest cont fără a utiliza e -mailul sau parola doar folosind verificarea amprentei digitale.
+app_text_register,Inregistreaza-te
+app_text_fingerprint_not_available,Autentificarea amprentei nu este disponibilă în acest dispozitiv!
+app_text_fingerprint_not_enrolled,Nu există amprente digitale înscrise în dispozitiv.
+app_text_android_marshmallow_required,Atleast Android Marshmallow este necesar pentru a susține autentificarea amprentelor digitale.
+app_text_fingerprint_error_try_again,Există o eroare cu amprenta digitală. Vă rugăm să încercați din nou sau continuați fără amprentă!
+app_text_fingerprint_wipe_sensor_try_again,S -ar putea să existe ceva praf pe senzorul de amprentă. Vă rugăm să -l ștergeți și să încercați din nou.
+app_text_skip_and_continue,Săriți și continuați
+app_text_verify,Verifica
+app_text_get_otp,Obțineți OTP
+app_text_mobile_number,Număr de telefon mobil
+app_text_mobile_number_optional,Număr mobil (opțional)
+app_text_invalid_phone_number,Vă rugăm să introduceți un număr valid
+app_text_error_number_verification,Numărul mobil nu a putut fi verificat! Vă rugăm să încercați din nou cu numărul corect OTP!
+app_text_phone_number_already_exists,Numărul de telefon este deja înregistrat. Vă rugăm să încercați din nou cu un alt număr de telefon!
+app_text_number_verification,Verificarea numărului
+app_text_number_verification_description,Trebuie să verificați numărul de telefon. Vă rugăm să introduceți numărul de telefon și să trimiteți
+app_text_login_with_phone_number,Conectați -vă cu numărul de telefon
+app_text_forget_password_description,Introduceți adresa de e-mail sau numărul de telefon asociat cu contul dvs.
+app_text_enter_email_or_mobile_number,Introduceți e -mail sau număr de telefon mobil
+app_text_phone_number_change_message,Un număr de telefon este deja înregistrat la acest cont. Puteți modifica doar numărul de contact. Vă rugăm să introduceți numărul de telefon valid.
+app_text_enter_otp,Introduceți OTP
+app_text_review_your_order,Verifica-ti comanda
+app_text_attributes,Atribute
+entry_company,Companie
+entry_address_1,Adresa 1
+entry_address_2,Adresa 2
+entry_city,Oraș
+entry_postcode,Cod poștal
+entry_country,Țară
+app_text_label_address,Abordare
+app_text_label_country,Nu
+app_text_label_phone,Numar de telefon
+app_text_select_all_options,Vă rugăm să selectați toate opțiunile
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,Numărul mobil nu există în baza de date
+phone_number_exist_message,Numărul mobil există în baza de date
+password_update_message,Actualizarea parolei cu succes
+app_text_continue_to_checkout_click_msg,Puteți face checkout produsele în coșul de cumpărături făcând simpla clic pe butonul „Continuați să faceți checkout”!
+app_text_cart_tab,Cart
+app_text_search,Căutare
+app_text_msg_empty_wishlist,Lista ta de dorințe este goală
+app_text_your_wishlist_is_empty,Lista ta de dorințe este goală!
+app_text_percent_off,% off
+app_text_update_address_if_exists,Puteți actualiza adresa de expediere sau puteți alege orice altul dacă există!
+app_text_press_back_again_to_exit,Apăsați din nou pentru a ieși
+app_text_please_login,Va rugam sa va logati
+app_text_related_products,produse asemanatoare
+app_text_view_reviews,Vizualizați recenziile
+app_text_write_reviews,Scrieți recenzii
+app_text_please_fill_all_details,Vă rugăm să completați toate detaliile
+app_text_close,Închide
+app_text_add_review,Adăugați recenzie
+app_text_write_a_review,Scrie o recenzie
+app_text_name,Nume
+app_text_title,Titlu
+app_text_number_of_reviews,Numărul de recenzii
+app_text_minimum_rating,Vă rugăm să adăugați Ratin minim
+app_text_error,Eroare
+app_text_no_reviews,Fără recenzii
+app_text_place_your_finger_on_sensor,Puneți degetul pe senzor
+text_browser_payment_method_success_msg,Succes: comanda dvs. a fost plasată. Vă rugăm să reveniți la aplicație.
+text_browser_payment_method_failure_msg,Eșec: comanda dvs. nu poate fi plasată. Vă rugăm să reveniți la aplicație și încercați din nou.
+text_browser_payment_method_already_msg,Comanda a fost deja plasată. Vă rugăm să reveniți la aplicație și încercați din nou.
+text_order_verify_fail,Comanda nu a fost plasată încă, vă rugăm să continuați pentru a finaliza plata și apoi verificați comanda
+app_text_external_web_payment,La clic pe butonul continuați, veți fi redirecționat către browserul extern pentru a prelucra plata. După ce ați finalizat plata, închideți browserul
+app_text_text_state,Stat
+app_text_description,Descriere
+app_text_discount,Reducere
+app_text_applied,Aplicat
+app_text_default,Mod implicit
+app_text_name_asc,Nume (A-Z)
+app_text_name_desc,Nume (Z-A)
+app_text_rating_asc,Evaluare: scăzut până la mare
+app_text_rating_desc,Evaluare: ridicat până la scăzut
+app_text_model_asc,Model (A-Z)
+app_text_model_desc,Model (Z-A)
+app_text_reference_asc,Referință (A-Z)
+app_text_reference_asc,Referință (A-Z)
+app_text_reference_desc,Referință (Z-A)
+app_text_create_new_account,Creează un cont nou
+app_text_back_login,Înapoi la autentificare
+app_text_guest_login,Conectare oaspete
+app_text_first_name,Nume*
+app_text_last_name,Nume*
+app_text_already_have_account,Ai deja un cont?
+app_text_error_firstname,Vă rugăm să introduceți prenumele.
+app_text_error_lastname,Vă rugăm să introduceți numele de familie.
+app_text_error_mobile_number,Vă rugăm să introduceți numărul de telefon mobil.
+app_text_my_profile,Profilul meu
+app_text_my_orders,Comenzile mele
+app_text_my_addresses,Adresele mele
+app_text_support,A sustine
+app_text_account_page_heading,Accesați detaliile și recompensele contului
+app_text_not,Nu
+app_text_apple,Măr
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,A vedea tot
+app_text_error_email_access,Vă rugăm să furnizați acces la e -mail sau să utilizați un alt cont.
+app_text_hi,Salut
+app_text_sold_out,Vândut
+app_text_signup_with_apple,Conectați -vă cu Apple
+app_text_login_with_apple,Conectați -vă cu Apple
+app_text_order,Ordin
+app_text_order_date,Data comandă
+app_text_items,Elementele (elementele)
+app_text_amount,Cantitate
+error_voucher_not_available,Voucher este fie nevalid expirat, fie a atins limita de utilizare!
+app_text_review_order,Ordin de revizuire
+app_text_payment_methods,Metode de plata
+app_text_review_order,Ordin de revizuire
+app_text_payment_methods,Metode de plata
+app_text_guest,Oaspete
+app_text_resend_otp,Revedeți OTP
+app_text_msg_mobile_number,Vă rugăm să introduceți numărul dvs. de telefon mobil
+app_text_msg_otp,Un OTP a trimis Ben la numărul:
+app_text_msg_resend_otp,Un OTP l -a resentit pe Ben la numărul:
+app_text_confirm_new_password,Confirmă noua parolă
+app_text_error_facebook_login,Nu s -a putut autentifica cu Facebook
+app_text_sub_total,Sub-total
+app_text_product_total,Total de produs
+app_text_are_you_sure_you_want_to_exit,Ești sigur că vrei să ieși?
+text_product_updated,Cantitatea produsului actualizat cu succes !!
+error_incorrect_password,Parola incorecta!!
+app_text_unit_price,Preț unitar
+app_text_only_mobile,Mobil
+app_text_file_download,Fișier descărcat cu succes pe
+app_text_video,Atașamente video
+app_text_agree_to,Sunt de acord cu termenii și condițiile
+app_text_agree_gdpr,Vă rugăm să verificați caseta de selectare Termeni și condiții !!
+app_text_use_current_location,Folosiți locația curentă
+app_text_adding,Adăugarea ...
+app_text_removing,Îndepărtarea ...
+app_text_voucher_adding,Voucher adăugând ...
+app_text_voucher_removing,Înlăturarea voucherului ...
+app_text_mobile,Mobil
+app_text_deal_ends,Acordul se termină
+app_text_expires_in,Expira in
+app_text_register_fingerprint,Înregistrați -vă pentru autentificarea amprentei digitale
+app_text_reviews,Recenzii
+app_text_loading,Se încarcă...
+app_text_please_wait,Va rugam asteptati...
+app_text_updating_cart,Actualizarea coșului ...
+app_text_loading_shipping_address,Încărcarea adresei de expediere ...
+app_text_loading_billing_address,Încărcarea adresei de facturare ...
+app_text_removing_product,Înlăturarea produsului ...
+app_text_loading_store_data,Încărcarea datelor de stocare
+app_text_select_country,Vă rugăm să selectați o țară
+app_text_select_state,Vă rugăm să selectați un stat
+app_text_delete_account,Șterge cont
+app_text_delete_account_msg,Ești sigur că vrei să ștergi contul?
+app_text_scan_barcode,Scanare cod de bare
+app_text_camera_loading,Încărcarea camerei ...
+app_text_camera_permission_not_available,Permisiunea camerei nu sunt disponibile
+app_text_search_description,Găsiți ceea ce căutați.

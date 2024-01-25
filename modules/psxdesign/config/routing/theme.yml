@@ -1,0 +1,21 @@
+admin_themes_index:
+  path: /themes
+  methods: [ GET ]
+  defaults:
+    _controller: 'PrestaShop\Module\PsxDesign\Controller\Admin\AdminPsxDesignThemeGeneralController::indexAction'
+    _legacy_controller: AdminThemes
+    _legacy_link: AdminThemes
+
+admin_logos_index:
+  path: /logos
+  methods: [ GET ]
+  defaults:
+    _controller: 'PrestaShop\Module\PsxDesign\Controller\Admin\AdminPsxDesignLogosController::indexAction'
+    _legacy_controller: AdminThemes
+    _legacy_link: AdminThemes
+
+admin_psxdesign_upgrade_action:
+  path: /upgrade
+  methods: [ POST ]
+  defaults:
+    _controller: 'PrestaShop\Module\PsxDesign\Controller\Admin\AdminPsxDesignThemeUpgradeController::psxDesignModuleUpgradeAction'

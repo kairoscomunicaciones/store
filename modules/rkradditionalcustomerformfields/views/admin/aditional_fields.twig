@@ -1,0 +1,32 @@
+{#
+#  @author    Rekire <info@rekire.com>
+#  @copyright Rekire
+#  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+#}
+
+<div class="col">
+<div class="card">
+    <h3 class="card-header">
+        <i class="material-icons">person</i>
+        {{ title|escape }}
+    </h3>
+
+    <div class="card-body">
+
+        {% for campo in campos %}
+        <div class="row mb-1">
+            <div class="col-4 text-right">
+                {{ campo['label']|escape}}
+            </div>
+            <div class="col-8">
+                {% if campo['value'] is empty %} -
+                {% else %}
+                {{ campo['value']|escape }}
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+
+    </div>
+</div>
+</div>

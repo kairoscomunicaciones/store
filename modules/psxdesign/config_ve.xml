@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>psxdesign</name>
+    <displayName><![CDATA[PrestaShop Design]]></displayName>
+    <version><![CDATA[0.1.1]]></version>
+    <description><![CDATA[PrestaShop Design allows you to be more autonomous in the complete and advanced customization of your PrestaShop store.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[others]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

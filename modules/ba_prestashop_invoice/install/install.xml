@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <filename path="ADMIN_DIR/themes/ADMIN_TEMPLATE/template/controllers/orders/_documents.tpl" path_bak="ADMIN_DIR/themes/ADMIN_TEMPLATE/template/controllers/orders/_documents.tpl.bak">
+		<!-- for 1.6.0 -->
+        <item>
+            <search><![CDATA[#{Configuration::get('PS_DELIVERY_PREFIX', $current_id_lang, null, $order->id_shop)}{'%06d'|sprintf:$document->delivery_number}]]></search>
+            <replace><![CDATA[{$document->getDeliveryNumberFormatted($current_id_lang, $order->id_shop)}]]></replace>
+        </item>
+		<item>
+            <search><![CDATA[#{Configuration::get('PS_CREDIT_SLIP_PREFIX', $current_id_lang)}{'%06d'|sprintf:$document->id}]]></search>
+            <replace><![CDATA[{$document->getCreditSlipsNumberFormatted($current_id_lang, $order->id_shop)}]]></replace>
+        </item>
+		<!-- end -->
+		<!-- for 1.6.1 and 1.7+ -->
+		<item>
+            <search><![CDATA[{Configuration::get('PS_DELIVERY_PREFIX', $current_id_lang, null, $order->id_shop)}{'%06d'|sprintf:$document->delivery_number}]]></search>
+            <replace><![CDATA[{$document->getDeliveryNumberFormatted($current_id_lang, $order->id_shop)}]]></replace>
+        </item>
+		<item>
+            <search><![CDATA[{Configuration::get('PS_CREDIT_SLIP_PREFIX', $current_id_lang)}{'%06d'|sprintf:$document->id}]]></search>
+            <replace><![CDATA[{$document->getCreditSlipsNumberFormatted($current_id_lang, $order->id_shop)}]]></replace>
+        </item>
+		<!-- end -->
+		<!-- for 1.5.0 -->
+		<item>
+            <search><![CDATA[#{Configuration::get('PS_DELIVERY_PREFIX', $current_id_lang)}{'%06d'|sprintf:$document->delivery_number}]]></search>
+            <replace><![CDATA[{$document->getDeliveryNumberFormatted($current_id_lang, $order->id_shop)}]]></replace>
+        </item>
+		<item>
+            <search><![CDATA[{l s='#%d' sprintf=$document->id}]]></search>
+            <replace><![CDATA[{$document->getCreditSlipsNumberFormatted($current_id_lang, $order->id_shop)}]]></replace>
+        </item>
+  </filename>
+</root>

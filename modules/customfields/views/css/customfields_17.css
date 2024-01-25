@@ -1,0 +1,13 @@
+#customfieldsblock_summary { padding: 10px; box-shadow: 2px 2px 11px 0 rgba(0, 0, 0, 0.1); background: #fff; margin: 10px 0}
+#customfieldsblock_summary .form-control, #customfieldsblock_summary label { display: inline-block}
+#customfieldsblock_summary label { padding-right: 2%;}
+#customfieldsblock_summary label.col-lg-8, #customfieldsblock_summary label.col-lg-7 { text-align: left; }
+#customfieldsblock_summary select,#customfieldsblock_summary textarea { width: 60%}
+#customfieldsblock_summary .checker,
+#customfieldsblock_summary .radio{ display: inline; }
+.extension_error { display: none; margin-top: 10px; }
+
+/*------Floating Errors ------*/
+#fmm_error_console { position: fixed; top: 3%; right: 1%; z-index: 50000; width: 240px; overflow: hidden;}
+#fmm_error_console .fmm_error_console_item { background: #c0392b; color: #fff; font-size: 12px; padding: 8px; width: 220px; clear: both;
+opacity: 0.8; border-radius: 5px; margin-bottom: 6px;}

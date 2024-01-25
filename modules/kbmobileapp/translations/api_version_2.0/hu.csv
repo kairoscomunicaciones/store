@@ -1,0 +1,449 @@
+app_text_home,itthon
+app_text_recent_product,Legújabb termék
+app_text_category,Kategóriák
+app_text_login,Belépés
+app_text_logout,Kijelentkezés
+app_text_login_signup,Belépés Regisztrálás
+app_text_account,Fiókom
+app_text_contact,Lépjen kapcsolatba velünk
+app_text_about,Rólunk
+app_text_wishlist,Hozzáadni a Kívánságlistához
+app_text_cart,Kosárba
+app_text_off,ki
+app_text_all,Minden
+app_text_languages,Nyelv (ek)
+app_text_sort,Fajta
+app_text_filter,Szűrő
+app_text_sort_order,Válassza a rendezési rendelés lehetőséget
+app_text_price_asc,Ár: alacsony vagy magas
+app_text_price_desc,Ár: Magas vagy alacsony
+app_text_product,Termék
+app_text_select,Válasszon
+app_text_instock,Raktáron
+app_text_outstock,Nincs raktáron
+app_text_product_info,Termékinformáció és gondozás
+app_text_customization,Termék testreszabás
+app_text_accessories,kiegészítők
+app_text_view_less,Kevesebb megtekintése
+app_text_view_more,Mutass többet
+app_text_provide_details,Kérjük, adja meg a részleteket
+app_text_bag,Bevásárló táska
+app_text_apply_voucher,Alkalmazza az utalványt
+app_text_entry_voucher_code,Írja be az utalványkódot
+app_text_apply,Alkalmaz
+app_text_gift,Díszcsomagolás
+app_text_entry_message,Írja be üzenetét
+app_text_available_first,Először küldje el a rendelkezésre álló termékeket
+app_text_continue_shopping,Folytatni a vásárlást
+app_text_continue_checkout,Folytassa a Fizetés folytatását
+app_text_update_quantity,Frissítse a mennyiséget
+app_text_enter_quantity,Írja be a mennyiséget (0-10)
+app_text_empty_cart,Az Ön kosara üres!
+app_text_goto_home,Menj a főoldalra
+app_text_review_checkout,Nézze át rendelését
+app_text_add_new_shipping_address,Adjon hozzá új szállítási címet
+app_text_history,Szállítási adatok
+app_text_summary,megrendelés-összesítő
+app_text_shipping_methods,Szállítási módszerek
+app_text_comment,Rendelési megjegyzés
+app_text_payment_summary,Fizetési összefoglaló
+app_text_proceed,Tovább a fizetésre
+app_text_make_payment,Kifizetni
+app_text_congratulations,Gratulálunk
+app_text_shipping_addresses,Szállítási cím (ek)
+app_text_order_detail,Megrendelési részlet
+app_text_update_personal,Frissítse a személyes adatait
+app_text_update_password,A jelszó frissítése
+app_text_current_password,jelenlegi jelszó
+app_text_new_password,új jelszó
+app_text_confirm_password,Jelszó megerősítése
+app_text_cancel,Megszünteti
+app_text_save,Megment
+app_text_sale,Eladás
+app_text_new,Új
+app_text_order_ref,Rendelési szám
+app_text_status,Állapot
+app_text_placed,Rátette
+app_text_reorder,Átrendezés
+app_text_order_details,Rendelési részletek
+app_text_status_history,Státustörténelem
+app_text_shipping_address,szállítási cím
+app_text_order_summary,megrendelés-összesítő
+app_text_shipping_method,Szállítási Mód
+app_text_payment_method,Fizetési mód
+app_text_gift_wrapping,Ajándék csomagolás
+app_text_no_shipping_address,Nincs elérhető szállítási cím!
+app_text_no_order_details,Nincsenek megrendelési részletek!
+app_text_signup,Regisztrálj
+app_text_continue_guest,Folytatás vendégként
+app_text_email,Email
+app_text_password,Jelszó
+app_text_forgot_password,Elfelejtette a jelszót?
+app_text_login_social_account,Jelentkezhet a szociális fiókkal.
+app_text_login_with_google,Jelentkezzen be a Google+ -nel
+app_text_login_with_facebook,Jelentkezz be facebookal
+app_text_signup_with_google,Iratkozzon fel a Google+ -nel
+app_text_signup_with_facebook,Iratkozzon fel a Facebook -szal
+app_text_msg_enter_valid_email,Kérjük, adja meg az érvényes e -mailt!
+app_text_msg_enter_email,Kérjük, adja meg az e -mailt!
+app_text_msg_enter_password,Kérjük, írja be a jelszót!
+app_text_msg_password_characters_less_than_3,Kérjük, írja be a jelszavát, amelynek karakterei jobban vagy egyenlőnek tartják a 3 -at!
+app_text_msg_first_name,Keresztnév
+app_text_msg_last_name,Vezetéknév
+app_text_msg_dob,Születési dátum
+app_text_msg_confirm_password,Jelszó megerősítése
+app_text_msg_personal_details,Személyes adatok
+app_text_msg_pass_not_matched,Jelszó és a jelszó megerősítése nem egyezik meg!
+app_text_sold_by,Által értékesített:
+app_text_write_review,Írja be a felülvizsgálatot
+app_text_view_review,Review (ek) megtekintése
+app_text_view_seller_products,View Seller termék (ek)
+app_text_wait,Kérlek várj
+app_text_loading,Adatok betöltése...
+app_text_msg_went_wrong,Valami elromlott. Kérlek próbáld újra.
+app_text_msg_no_internet_found,Nincs internetkapcsolat.
+app_text_msg_no_internet_title,Nincs internet
+app_text_msg_request,A kérés nem lehet feldolgozni. Ennek oka lehet a lassú internetkapcsolat.
+app_text_msg_order_placed_email,Megrendelését sikeresen elhelyezték. Kap egy e -mailt ugyanazról.
+app_text_msg_product_look,Keresse meg a termékeket (ek) kategóriájuk szerint.
+app_text_msg_search_product,Bármely terméket a boltban vagy hangon kereshet!
+app_text_msg_view_cart,Megtekintheti a bevásárlókosár mennyiségét!
+app_text_msg_logout,Sikeresen kijött a kijelentkezés!
+app_text_msg_view_product,Megtekintheti a terméket lista vagy rács módban!
+app_text_msg_sort_product,A terméket az áruk szerint rendezheti!
+app_text_msg_filter_product,Szűrheti a termékeket az Ön igényei szerint!
+app_text_text_next,Következő
+app_text_text_okay,oké
+app_text_required,Kívánt
+app_text_msg_rating,Kérjük, válassza a Besorolás lehetőséget
+app_text_msg_add_cart,Hozzáadhat terméket a bevásárlókosárhoz, ha egyszerűen kattint a „Hozzáadás a kosárba” gombra!
+app_text_msg_add_wishlist,Hozzáadhatja a terméket a Wishlisthez, ha egyszerűen kattint a „Hozzáadás a Wishlist” gombra!
+app_text_msg_product_price,A termék ára frissült!
+app_text_msg_product_not_available,Ez a termék nem lehet megrendelésre!
+app_text_msg_combination,A termék már nincs raktáron a kiválasztott kombinációval. Kérjük, próbálkozzon más kombinációkkal.
+app_text_msg_product_no_stock,Ez a termék nem érhető el a kívánt mennyiségben, vagy nincs raktáron!
+app_text_msg_out_stock,A kosárban lévő termékek egy része a kívánt mennyiségben nem áll rendelkezésre, vagy nem raktáron. Kérjük, távolítsa el az ilyen termékeket a kosárból!
+app_text_msg_checkout_products,A bevásárlókosárban lévő termékeket csak a „Folytassa a pénztár” gombra kattintva.
+app_text_msg_apply_voucher,Alkalmazhat utalványt a kosárba!
+app_text_msg_update_quantity,Frissítheti a termék mennyiségét, vagy eltávolíthatja a kosárból!
+app_text_msg_view_details,A termék adatait a termékképre kattintva megtekintheti!
+app_text_msg_success,Siker!
+app_text_msg_failure,Kudarc!
+app_text_msg_enter_quantity,Kérjük, írja be a mennyiséget
+app_text_quantity,Mennyiség
+text_quantity,Mennyiség
+app_text_remove,Eltávolítás
+app_text_customization_details,Testreszabási részletek
+app_text_msg_add_address,Új szállítási címet adhat hozzá a gombra kattintva!
+app_text_msg_update_address,Frissítheti a szállítási címet!
+app_text_msg_select_address,Kiválaszthat bármilyen szállítási címet, ha egyszerűen kattintson rá!
+app_text_select_address_text,*Kérjük, válassza a Szállítási cím lehetőséget a megrendelés felülvizsgálatához.
+app_text_msg_no_product,Nincsenek termékek!
+app_text_msg_no_comment_available,Nincsenek megjegyzés (ek)!
+app_text_msg_reset_password,A jelszavát visszaállíthatja a „Felejtsd el a jelszó felejtése” gombra
+app_text_msg_login,Innentől bejelentkezhet a boltba!
+app_text_msg_login_fb,Bejelentkezhet a boltba a Facebook -fiókjáról is!
+app_text_msg_login_google,Bejelentkezhet a boltba a Google -fiókjáról is!
+app_text_msg_update_profile,Frissítheti a profil részleteit a szállítási részletek, vagy innen megtekintheti a megrendelés részleteit!
+app_text_product_info_and_care,Termékinformáció és gondozás
+app_text_download,Letöltések
+app_text_minimal_quantity,Minimális mennyiség
+app_text_pack_content,Csomagolási tartalom
+app_text_seller_details,Eladó részletei
+app_text_submit,Beküldés
+app_text_msg_forget_password,Írja be a fiókjához társított e-mail címet. Kattintson a küldje el, hogy a jelszavát e-mailben kapja meg.
+app_text_enter_your_email,Írd be az email címed
+app_text_reset_password,Jelszó visszaállítása
+app_text_view_selected_filter,A kiválasztott szűrő eredményét a képre kattintva tekintheti meg!
+app_text_clear_selected_filter,A képre kattintva törölheti az alkalmazott szűrőt!
+app_text_no_filter,Nincs szűrő
+app_text_phone_number_required,*Legalább egy telefonszámot kell regisztrálnia
+app_text_refresh,Frissítés
+app_text_internet_connection_failed,Az internetkapcsolat sikertelen!
+app_text_internet_connection_problem,Lehet, hogy van némi probléma az internetkapcsolatával. Kérem ellenőrizze.
+app_text_cancel_transaction,Törölje a tranzakciót
+app_text_middle_of_payment,Ön a fizetési tranzakciós folyamat közepén van. Tényleg szeretné törölni a tranzakciót?
+app_text_yes,Igen
+app_text_no,Nem
+app_text_enter_your_comment,Írja be a megjegyzését
+app_text_msg_shipping_methods_unavailable,Nincsenek szállítási módszerek
+app_text_msg_select_shipping_methods,Kérjük, válassza a Szállítási módszer lehetőséget
+app_text_billing_address,számlázási cím
+app_text_billing_addresses,Számlázási cím (ek)
+app_text_addresses,Cím (ek)
+app_text_billing_details,Számlázási adatok
+app_text_same_as_shipping_details,Megegyezik a szállítási címmel
+app_text_share_log,Megosztási napló
+app_text_payment_failed_contact_support,Megrendelését nem lehetett feldolgozni. Kérjük, vegye fel a kapcsolatot az esetleges lekérdezésekhez
+app_text_choose_payment_method,Válassz fizetési módot
+app_text_no_payment_method,Nincsenek fizetési módszer (ek)!
+app_text_no_payment_currently,Jelenleg nincs fizetési módszer.
+app_text_no_make_payment,Nem lesz képes fizetni, mivel ezt a mobilalkalmazást demo célokra beállítják.
+app_text_make_payment_after_select,Bármely fizetési módszer kiválasztása után fizethet fizetést!
+app_text_title_payment_paypal,PayPal fizetés
+app_text_order_total_price,Teljes ár megrendelése
+app_text_user_cancelled_the_payment,A felhasználó lemondta a fizetést
+app_text_invalid_payment_try_again,Érvénytelen fizetés. Kérjük, próbálja újra újra
+app_text_title_paypal_payment,PayPal fizetés
+app_text_wishlist_item_removed,Az elem eltávolítva a kívánságlistából.
+app_text_wishlist_item_added,Tétel hozzáadva a Wishlisthez
+app_text_subject,Hé, nézd meg ezt!
+app_text_extra_share,Itt érhető el:
+app_text_intent_title,Ossza meg
+app_text_error_product_name_url,A termék neve vagy URL üres lehet.
+app_text_tag_error,Hiba
+app_text_ok,rendben
+app_text_view_your_store,Tekintse meg a boltját
+app_text_view_demo,Demó megtekintése
+app_text_currency,Valuta (ek)
+app_text_choose_your_app_theme,Válassza ki az alkalmazás témáját
+app_text_terms_and_conditions,Felhasználási feltételek
+app_text_wishlist_only,Kívánság lista
+app_text_wishlist_remove,Távolítsa el a kívánságlistából
+app_text_update_address,Frissítési cím
+app_text_state_not_required,A kiválasztott országhoz nincs szükség állapotban
+app_text_currencies,Valuta (ek)
+app_text_payment_failed,A fizetés feldolgozása során némi hiba történt. Kérjük, próbálja újra újra
+app_text_entered_wrong_url,Lehet, hogy rossz URL -t írt be, vagy még nem telepítette a Mobile App Builder Bodule -t.
+app_text_login_failed,Bejelentkezés sikertelen!
+app_text_install_module,Telepítési modul
+app_text_no_data_found,Nem található adat
+app_text_enter_store_url,Kérjük, írja be a Store URL -t
+app_text_fill_all_required_fields,Kérjük, töltse ki az összes szükséges mezőt.
+app_text_state,Állapot
+app_text_add_to_wishlist,Hozzáadni a Kívánságlistához
+app_text_add_to_cart,Kosárba
+text_prices,Árak
+text_brands,Márkák
+text_shipping_address_success,A szállítási cím sikeresen hozzáadódott
+text_shipping_address_issue,Van néhány kérdés az adatokkal
+text_shipping_address_update,A szállítási címet sikeresen frissítették
+text_cart_loaded,A kosáradatok sikeresen betöltődnek
+text_order_success,A kosár által létrehozott megrendelés
+text_reorder_fail,A megrendelést nem lehet újra létrehozni
+text_currecy_error,A valuta nem beállítva valamilyen hiba miatt. Kérjük, ellenőrizze a valutakódot, és próbálja újra.
+text_fcm_fail,CART ID vagy FCM azonosító nem található
+text_empty_cart,Üres Kosár
+text_error_cart,Hiba
+text_session_expired,A munkamenet ideje lejárt
+text_customer_created,Ügyfél sikeresen létrehozta !!
+text_wrong,valami elromlott
+text_error_email,Hiba az e -mail küldése közben !!
+text_confirm_email,Megerősítő e -mailt küldtek a címre:
+text_login_success,A felhasználói bejelentkezés sikeresen
+text_language_error,A nyelv nem beállítva valamilyen hiba miatt. Kérjük, ellenőrizze az ISO kódot, és próbálja újra.
+text_customer_update,A személyes adatok sikeresen frissülnek.
+error_email_id,Az e -mail azonosító nem létezik !!
+error_email_empty,Az e -mail azonosító nem lehet üres !!
+text_add_wishlist,Termék hozzáadva a Wishlist -hez
+text_fail_wishlist,A Wishlist -hez nem adva a terméket
+text_no_email,Nincs e -mail
+text_product_added,A termék sikeresen hozzáadott
+text_product_deleted,A termék sikeresen törölte
+text_voucher_already,Az utalvány már alkalmazva!
+text_voucher_success,Utalvány sikeresen alkalmazva a kosárra
+text_voucher_removed,Az utalvány sikeresen eltávolítva
+text_product_not_added,Képtelen hozzáadni a kosárhoz
+error_out_of_stock,A termék nem érhető el a kívánt mennyiségben!
+error_firstname,A keresztnévnek 3 és 15 karakter között kell lennie !!
+error_lastname,A vezetéknévnek 3 és 15 karakter között kell lennie !!
+error_address_1,A címnek 3 és 15 karakter között kell lennie !!
+error_city,A városnak 3 és 15 karakter között kell lennie !!
+error_postcode,Kérjük, töltse ki az érvényes irányítószámot !!
+error_country,Kérjük, válasszon egy országot !!
+error_zone,Kérjük, válasszon egy állapotot !!
+error_phone1,A telefonszámnak 3 és 15 karakter között kell lennie !!
+error_phone2,A telefonszámnak csak számokat és kötőjeleket kell tartalmaznia !!
+error_password,A jelszónak 4 és 15 karakter között kell lennie !!
+error_confirm,Jelszó nem egyezik!!
+error_email,Az e -mail azonosító nem érvényes
+error_exists,Az e -mail azonosítója már regisztrált
+error_minimum,Minimális mennyiség %d szükséges ahhoz, hogy a %s termék a megrendelést a megrendeléshez.
+error_quantity_required,megkövetelt darabszám.
+error_voucher,Az utalvány már alkalmazva!
+voucher_success,Az utalvány sikeresen alkalmazva!
+voucher_removed,Az utalvány sikeresen eltávolítva
+text_wishlist_added,Termék hozzáadva a Wishlist -hez
+text_wishlist_removed,A kívánságlistából eltávolított termék
+app_text_sellers,Eladók
+app_text_seller,Eladó
+app_text_seller_shipping_policy,Eladó szállítási házirend
+app_text_seller_return_policy,Eladó visszatérési házirend
+app_text_review_title,Beszámoló címe
+app_text_review_comment,Felülvizsgálati megjegyzés
+app_text_review_rating,Felülvizsgálati besorolás
+app_text_filter_products,Szűrő termékek
+app_text_select_category,Válassz kategóriát
+app_text_select_sort,Fajta
+app_text_clear,Egyértelmű
+app_text_hour,Óra
+app_text_min,Percek
+app_text_sec,Másodpercek
+app_text_install_whatsapp,A WhatsApp nincs telepítve a készülékére
+app_text_no_account_registered,Nincs számla regisztrálva az eszköz biometrikus hitelesítésére. Kérjük, először regisztráljon egy fiókot.
+app_text_confirm_for_authentication,Erősítse meg az ujjlenyomatát vagy az arcát a hitelesítéshez.
+app_text_login_with_fingerprint,Jelentkezzen be ujjlenyomatmal
+app_text_register_for_fingerprint,Regisztráljon az ujjlenyomatra
+app_text_biometric_not_available,A biometrikus hitelesítés nem érhető el ehhez az eszközhöz.
+app_text_fingerprint_not_recognized,A Touch ID nem ismeri fel az ujjlenyomatot. Kérjük, próbálkozzon újra a beiratkozott ujjlenyomatával.
+app_text_face_not_recognizes,Az arc azonosítója nem ismeri fel az arcát. Kérjük, próbálkozzon újra a beiratkozott arcával.
+app_text_fingerprint_or_face_not_enrolled,Nincsenek ujjlenyomatok/arc beiratkozott az eszközbe.
+app_text_biometry_locked_out,A funkcionalitás túl sok sikertelen kísérlet miatt zárva van.
+app_text_register_for_fingerpring,Regisztráljon az ujjlenyomatra
+app_text_register_for_fingerprint_details,Szeretné regisztrálni ezt a fiókot az ujjlenyomat -funkciókra? Miután elkészült, bejelentkezhet ebbe a fiókba e -mail azonosító vagy jelszó használata nélkül, csak az ujjlenyomat -ellenőrzés használatával.
+app_text_register,Regisztráció
+app_text_fingerprint_not_available,Az ujjlenyomat -hitelesítés nem érhető el ebben az eszközben!
+app_text_fingerprint_not_enrolled,Nincsenek ujjlenyomatok beiratkozva az eszközbe.
+app_text_android_marshmallow_required,Az ujjlenyomat -hitelesítés támogatásához legalább legalább Android Marshmallow szükséges.
+app_text_fingerprint_error_try_again,Van némi hiba az ujjlenyomatban. Kérjük, próbálkozzon újra, vagy folytassa ujjlenyomat nélkül!
+app_text_fingerprint_wipe_sensor_try_again,Lehet, hogy van némi por az ujjlenyomat -érzékelőn. Kérjük, törölje le, és próbálja újra.
+app_text_skip_and_continue,Hagyja ki és folytassa
+app_text_verify,Igazol
+app_text_get_otp,Szerezzen be OTP -t
+app_text_mobile_number,Mobil szám
+app_text_mobile_number_optional,Mobilszám (opcionális)
+app_text_invalid_phone_number,Kérjük, írjon be egy érvényes számot
+app_text_error_number_verification,A mobil számot nem lehetett ellenőrizni! Kérjük, próbálkozzon újra a megfelelő OTP -számmal!
+app_text_phone_number_already_exists,A telefonszám már regisztrált. Kérjük, próbálkozzon újra egy másik telefonszámmal!
+app_text_number_verification,Szám -ellenőrzés
+app_text_number_verification_description,Ellenőriznie kell a telefonszámot. Kérjük, adja meg a telefonszámot, és küldje el
+app_text_login_with_phone_number,Jelentkezzen be telefonszámmal
+app_text_forget_password_description,Írja be a fiókjához kapcsolódó e-mail címet vagy telefonszámot.
+app_text_enter_email_or_mobile_number,Írja be az e -mailt vagy a mobilszámot
+app_text_phone_number_change_message,Egy telefonszám már regisztrált ezzel a fiókkal. Csak a kapcsolattartási számot lehet megváltoztatni. Kérjük, írja be az érvényes telefonszámot.
+app_text_enter_otp,Írja be az OTP -t
+app_text_review_your_order,Nézze át rendelését
+app_text_attributes,Tulajdonság
+entry_company,Vállalat
+entry_address_1,Cím 1
+entry_address_2,cím 2
+entry_city,Város
+entry_postcode,Irányítószám
+entry_country,Ország
+app_text_label_address,Cím
+app_text_label_country,Nem
+app_text_label_phone,Telefonszám
+app_text_select_all_options,Kérjük, válassza ki az összes lehetőséget
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,A mobilszám nem létezik az adatbázisban
+phone_number_exist_message,A mobilszám létezik az adatbázisban
+password_update_message,A jelszó frissítése sikeresen
+app_text_continue_to_checkout_click_msg,A bevásárlókosárban lévő termékeket csak a „Folytassa a pénztár” gombra kattintva!
+app_text_cart_tab,Kocsi
+app_text_search,Keresés
+app_text_msg_empty_wishlist,A Kívánságlistád üres
+app_text_your_wishlist_is_empty,A Kívánságlistád üres!
+app_text_percent_off,% ki
+app_text_update_address_if_exists,Frissítheti a szállítási címet, vagy választhat bármilyen mást, ha létezik!
+app_text_press_back_again_to_exit,Nyomja meg újra a Back gombot a kilépéshez
+app_text_please_login,Kérjük jelentkezzen be
+app_text_related_products,Kapcsolódó termékek
+app_text_view_reviews,Vélemények megtekintése
+app_text_write_reviews,Írjon véleményeket
+app_text_please_fill_all_details,Kérjük, töltse ki az összes részletet
+app_text_close,Bezárás
+app_text_add_review,Adja meg a felülvizsgálatot
+app_text_write_a_review,Írja meg a véleményét
+app_text_name,Név
+app_text_title,Cím
+app_text_number_of_reviews,A vélemények száma
+app_text_minimum_rating,Kérjük, adjon hozzá minimális ratint
+app_text_error,Hiba
+app_text_no_reviews,Nincs vélemény
+app_text_place_your_finger_on_sensor,Helyezze az ujját az érzékelőre
+text_browser_payment_method_success_msg,Siker: Megrendelését elhelyezték. Kérjük, térjen vissza az alkalmazáshoz.
+text_browser_payment_method_failure_msg,Hiba: A megrendelését nem lehet elhelyezni. Kérjük, térjen vissza az alkalmazásba, és próbálja újra.
+text_browser_payment_method_already_msg,A megrendelést már elhelyezték. Kérjük, térjen vissza az alkalmazásba, és próbálja újra.
+text_order_verify_fail,A megrendelést még nem tették meg, kérjük, folytassa a megrendelést.
+app_text_external_web_payment,A Folytatás gombra kattintva átirányítja a külső böngészőbe a fizetés feldolgozását. Miután befejezte a fizetést, zárja be a böngészőt
+app_text_text_state,Állapot
+app_text_description,Leírás
+app_text_discount,Kedvezmény
+app_text_applied,Alkalmazott
+app_text_default,Mulasztás
+app_text_name_asc,Név (A-Z)
+app_text_name_desc,Név (Z-A)
+app_text_rating_asc,Besorolás: alacsony vagy magas
+app_text_rating_desc,Besorolás: Magas vagy alacsony
+app_text_model_asc,Modell (A-Z)
+app_text_model_desc,Modell (Z-A)
+app_text_reference_asc,Referencia (A-Z)
+app_text_reference_asc,Referencia (A-Z)
+app_text_reference_desc,Referencia (Z-A)
+app_text_create_new_account,Új fiók létrehozása
+app_text_back_login,Vissza a bejelentkezéshez
+app_text_guest_login,Vendég bejelentkezés
+app_text_first_name,Keresztnév*
+app_text_last_name,Vezetéknév*
+app_text_already_have_account,Már van fiókja?
+app_text_error_firstname,Kérjük, adja meg a keresztnevet.
+app_text_error_lastname,Kérjük, adja meg a vezetéknevet.
+app_text_error_mobile_number,Kérjük, írja be a mobil számot.
+app_text_my_profile,A profilom
+app_text_my_orders,rendeléseim
+app_text_my_addresses,A címeim
+app_text_support,Támogatás
+app_text_account_page_heading,Hozzáférjen a fiók adatainak és jutalmaihoz
+app_text_not,Nem
+app_text_apple,alma
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Összes megtekintése
+app_text_error_email_access,Kérjük, adja meg az e -mail hozzáférést, vagy használjon másik fiókot.
+app_text_hi,Szia
+app_text_sold_out,Elkelt
+app_text_signup_with_apple,Jelentkezzen be az Apple -vel
+app_text_login_with_apple,Jelentkezzen be az Apple -vel
+app_text_order,Rendelés
+app_text_order_date,Rendelés dátuma
+app_text_items,Tétel (ek)
+app_text_amount,Összeg
+error_voucher_not_available,Az utalvány vagy érvénytelen lejárt, vagy elérte a használati korlátját!
+app_text_review_order,Felülvizsgálati megrendelés
+app_text_payment_methods,fizetési módok
+app_text_review_order,Felülvizsgálati megrendelés
+app_text_payment_methods,fizetési módok
+app_text_guest,Vendég
+app_text_resend_otp,Helyezze vissza az OTP -t
+app_text_msg_mobile_number,Kérjük, írja be a mobilszámát
+app_text_msg_otp,Egy OTP Ben elküldte a számot:
+app_text_msg_resend_otp,Az OTP Ben ellensúlyozza a számot:
+app_text_confirm_new_password,Erősítsd meg az új jelszót
+app_text_error_facebook_login,Nem tudott bejelentkezni a Facebook -on
+app_text_sub_total,Alsó-alsó
+app_text_product_total,Termék teljes
+app_text_are_you_sure_you_want_to_exit,Biztos ki akarsz lépni?
+text_product_updated,A termékmennyiség sikeresen frissül !!
+error_incorrect_password,Hibás jelszó!!
+app_text_unit_price,Egységár
+app_text_only_mobile,Mobil
+app_text_file_download,A fájl sikeresen letölthető
+app_text_video,Videó mellékletek
+app_text_agree_to,Elfogadja a feltételeket
+app_text_agree_gdpr,Kérjük, jelölje be a Feltételeket jelölőnégyzetet !!
+app_text_use_current_location,Használja az aktuális helyet
+app_text_adding,Hozzáadás…
+app_text_removing,Eltávolítás…
+app_text_voucher_adding,Utalvány hozzáadása ...
+app_text_voucher_removing,Utalvány eltávolítása ...
+app_text_mobile,Mobil
+app_text_deal_ends,Az üzlet vége
+app_text_expires_in,Lejár
+app_text_register_fingerprint,Regisztráljon az ujjlenyomat -bejelentkezéshez
+app_text_reviews,Áttekintés
+app_text_loading,Betöltés...
+app_text_please_wait,Kérlek várj...
+app_text_updating_cart,A kosár frissítése ...
+app_text_loading_shipping_address,Szállítási cím betöltése ...
+app_text_loading_billing_address,Számlázási cím betöltése ...
+app_text_removing_product,A termék eltávolítása ...
+app_text_loading_store_data,A tároló adatainak betöltése
+app_text_select_country,Kérjük, válasszon egy országot
+app_text_select_state,Kérjük, válasszon egy állapotot
+app_text_delete_account,Fiók törlése
+app_text_delete_account_msg,Biztosan törölni akarja a fiókot?
+app_text_scan_barcode,Vonalkód beolvasása
+app_text_camera_loading,Kamera betöltése ...
+app_text_camera_permission_not_available,A kamera engedélye nem áll rendelkezésre
+app_text_search_description,Keresse meg, amit keres.

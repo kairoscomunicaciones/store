@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>prestaheroconnect</name>
+    <displayName><![CDATA[PrestaHero Connect]]></displayName>
+    <version><![CDATA[1.1.3]]></version>
+    <description><![CDATA[Connect your website with PrestaHero to keep your modules up-to-date and install your purchased (or free) modules easily in 1-click!]]></description>
+    <author><![CDATA[PrestaHero]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

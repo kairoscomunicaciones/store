@@ -1,0 +1,8 @@
+Hola {customer_name},
+Gracias por registrarse en {shop_name}. Los detalles de su cuenta son los siguientes:
+Correo electrónico: {customer_email}
+Contraseña: {auto_generated_password}
+Nuestra tienda generó automáticamente su contraseña actual. Le recomendamos que cambie su contraseña por una más fácil de recordar y más segura.
+CAMBIAR SU CONTRASEÑA: {link_change_password}
+Si tiene alguna pregunta sobre su cuenta, no dude en contactarnos. ¡Estamos felices de poder ayudarte!
+Atentamente,

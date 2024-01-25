@@ -1,0 +1,449 @@
+app_text_home,Casa
+app_text_recent_product,Produto recente
+app_text_category,Categorias
+app_text_login,Conecte-se
+app_text_logout,Sair
+app_text_login_signup,Entrar Inscrever-se
+app_text_account,Minha conta
+app_text_contact,Entre em contato conosco
+app_text_about,Sobre nós
+app_text_wishlist,Adicionar a lista de desejos
+app_text_cart,Adicionar ao carrinho
+app_text_off,fora
+app_text_all,Tudo
+app_text_languages,Línguas)
+app_text_sort,Ordenar
+app_text_filter,Filtro
+app_text_sort_order,Selecione o pedido de classificação
+app_text_price_asc,Preço: baixo para alto
+app_text_price_desc,Preço: Alto para baixo
+app_text_product,produtos
+app_text_select,Selecione
+app_text_instock,Em estoque
+app_text_outstock,Fora de estoque
+app_text_product_info,Informações e cuidados do produto
+app_text_customization,Customização de produto
+app_text_accessories,Acessórios
+app_text_view_less,Ver menos
+app_text_view_more,Veja mais
+app_text_provide_details,Por favor forneça detalhes
+app_text_bag,Bolsa de compras
+app_text_apply_voucher,Aplicar cupom
+app_text_entry_voucher_code,Digite o código do voucher
+app_text_apply,Aplicar
+app_text_gift,Embrulho de presente
+app_text_entry_message,Digite sua mensagem
+app_text_available_first,Envie os produtos disponíveis primeiro
+app_text_continue_shopping,Continue comprando
+app_text_continue_checkout,Continue a fazer o checkout
+app_text_update_quantity,Atualizar quantidade
+app_text_enter_quantity,Digite a quantidade (0-10)
+app_text_empty_cart,Seu carrinho de compras está vazio!
+app_text_goto_home,Vá para a página inicial
+app_text_review_checkout,Revise seu pedido
+app_text_add_new_shipping_address,Adicionar novo endereço de entrega
+app_text_history,Detalhes de envio
+app_text_summary,resumo do pedido
+app_text_shipping_methods,Métodos de Envio
+app_text_comment,Encomendar comentário
+app_text_payment_summary,Resumo do pagamento
+app_text_proceed,Prossiga para o pagamento
+app_text_make_payment,Faça o pagamento
+app_text_congratulations,Parabéns
+app_text_shipping_addresses,Endereço (s) de entrega
+app_text_order_detail,Detalhe do pedido
+app_text_update_personal,Atualizar detalhes pessoais
+app_text_update_password,Atualizar senha
+app_text_current_password,Senha atual
+app_text_new_password,Nova Senha
+app_text_confirm_password,Confirme sua senha
+app_text_cancel,Cancelar
+app_text_save,Salve 
+app_text_sale,Oferta
+app_text_new,Novo
+app_text_order_ref,Referência de pedido
+app_text_status,Status
+app_text_placed,Colocado sobre
+app_text_reorder,Reordenar
+app_text_order_details,detalhes do pedido
+app_text_status_history,Histórico de status
+app_text_shipping_address,Endereço para envio
+app_text_order_summary,resumo do pedido
+app_text_shipping_method,método de envio
+app_text_payment_method,Forma de pagamento
+app_text_gift_wrapping,Embalagem de presente
+app_text_no_shipping_address,Sem endereço de entrega disponível!
+app_text_no_order_details,Nenhum detalhe do pedido disponível!
+app_text_signup,Inscrever-se
+app_text_continue_guest,Continue como convidado
+app_text_email,E-mail
+app_text_password,Senha
+app_text_forgot_password,Esqueceu sua senha?
+app_text_login_social_account,Você pode fazer login com conta social.
+app_text_login_with_google,Faça login com o Google+
+app_text_login_with_facebook,Entrar com o Facebook
+app_text_signup_with_google,Inscreva -se com o Google+
+app_text_signup_with_facebook,Inscreva -se com o Facebook
+app_text_msg_enter_valid_email,Por favor, digite um email válido!
+app_text_msg_enter_email,Por favor, digite o email!
+app_text_msg_enter_password,Por favor, digite a senha!
+app_text_msg_password_characters_less_than_3,Por favor, digite a senha com os caracteres mais ou igual a 3!
+app_text_msg_first_name,Primeiro nome
+app_text_msg_last_name,Último nome
+app_text_msg_dob,Data de nascimento
+app_text_msg_confirm_password,Confirme sua senha
+app_text_msg_personal_details,Detalhes pessoais
+app_text_msg_pass_not_matched,Senha e confirmar a senha não correspondem!
+app_text_sold_by,Vendido por:
+app_text_write_review,Escrever análise
+app_text_view_review,Ver Revisão (s)
+app_text_view_seller_products,Veja o (s) produto (s) do vendedor
+app_text_wait,Por favor, espere
+app_text_loading,Carregando dados...
+app_text_msg_went_wrong,Algo deu errado. Por favor, tente novamente.
+app_text_msg_no_internet_found,Nenhuma conexão com a Internet encontrada.
+app_text_msg_no_internet_title,Sem internet
+app_text_msg_request,Solicitação não pode ser processo. Isso pode ser por causa da lenta conexão à Internet.
+app_text_msg_order_placed_email,Seu pedido foi feito com sucesso. Você receberá um e -mail sobre o mesmo.
+app_text_msg_product_look,Você pode procurar produtos por sua categoria.
+app_text_msg_search_product,Você pode pesquisar qualquer produto na loja por texto ou voz!
+app_text_msg_view_cart,Você pode ver o carrinho de compras com quantidade!
+app_text_msg_logout,Você está logout com sucesso!
+app_text_msg_view_product,Você pode visualizar o produto no modo de lista ou grade!
+app_text_msg_sort_product,Você pode classificar o produto pelo preço deles!
+app_text_msg_filter_product,Você pode filtrar o (s) produto (s) conforme sua necessidade!
+app_text_text_next,Próximo
+app_text_text_okay,Ok
+app_text_required,Requerido
+app_text_msg_rating,Selecione a classificação
+app_text_msg_add_cart,Você pode adicionar produto ao carrinho de compras simplesmente clicando no botão 'Adicionar ao carrinho'!
+app_text_msg_add_wishlist,Você pode adicionar o produto à lista de desejos simplesmente clicando no botão 'Adicionar à lista de desejos'!
+app_text_msg_product_price,O preço do produto foi atualizado!
+app_text_msg_product_not_available,Este produto não está disponível para ordem!
+app_text_msg_combination,O produto não está mais em estoque com a combinação selecionada. Por favor, tente com outras combinações.
+app_text_msg_product_no_stock,Este produto não está disponível na quantidade desejada ou não em estoque!
+app_text_msg_out_stock,Alguns dos produtos no carrinho não estão disponíveis na quantidade desejada ou não em estoque. Remova esse (s) produto (s) do carrinho!
+app_text_msg_checkout_products,Você pode fazer o checkout de produtos no carrinho de compras, simplesmente clicando no botão 'Continue a fazer o checkout'.
+app_text_msg_apply_voucher,Você pode aplicar voucher no carrinho de compras!
+app_text_msg_update_quantity,Você pode atualizar a quantidade de produto ou removê -lo do carrinho de compras!
+app_text_msg_view_details,Você pode visualizar os detalhes do produto clicando na imagem do produto!
+app_text_msg_success,Sucesso!
+app_text_msg_failure,Fracasso!
+app_text_msg_enter_quantity,Por favor, insira a quantidade
+app_text_quantity,Quantidade
+text_quantity,Quantidade
+app_text_remove,Remover
+app_text_customization_details,Detalhes da personalização
+app_text_msg_add_address,Você pode adicionar um novo endereço de entrega clicando no botão!
+app_text_msg_update_address,Você pode atualizar o endereço de entrega!
+app_text_msg_select_address,Você pode selecionar qualquer endereço de entrega simplesmente clicando nele!
+app_text_select_address_text,*Selecione o endereço de entrega para revisar seu pedido.
+app_text_msg_no_product,Sem produtos disponíveis!
+app_text_msg_no_comment_available,Sem comentários disponíveis!
+app_text_msg_reset_password,Você pode redefinir sua senha clicando em `esquecer a senha '
+app_text_msg_login,Você pode fazer login na loja daqui!
+app_text_msg_login_fb,Você também pode fazer login na loja na sua conta do Facebook!
+app_text_msg_login_google,Você também pode fazer login na loja na sua conta do Google!
+app_text_msg_update_profile,Você pode atualizar os detalhes do seu perfil Detalhes de envio ou visualizar os detalhes do seu pedido a partir daqui!
+app_text_product_info_and_care,Informações e cuidados do produto
+app_text_download,Transferências
+app_text_minimal_quantity,Quantidade mínima
+app_text_pack_content,Pacote de conteúdo
+app_text_seller_details,Detalhes do vendedor
+app_text_submit,Enviar
+app_text_msg_forget_password,Digite o endereço de e-mail associado à sua conta. Clique em enviar sua senha por e-mail para você.
+app_text_enter_your_email,Digite seu e-mail
+app_text_reset_password,Redefinir senha
+app_text_view_selected_filter,Você pode visualizar o resultado do filtro selecionado clicando nesta imagem!
+app_text_clear_selected_filter,Você pode limpar o filtro aplicado clicando nesta imagem!
+app_text_no_filter,Sem filtros
+app_text_phone_number_required,*Você deve registrar pelo menos um número de telefone
+app_text_refresh,Atualizar
+app_text_internet_connection_failed,A conexão com a Internet falhou!
+app_text_internet_connection_problem,Pode haver algum problema com sua conexão com a Internet. Por favor, verifique.
+app_text_cancel_transaction,cancelar transações
+app_text_middle_of_payment,Você está no meio do seu processo de transação de pagamento. Você realmente deseja cancelar sua transação?
+app_text_yes,Sim
+app_text_no,Não
+app_text_enter_your_comment,Digite seu comentário
+app_text_msg_shipping_methods_unavailable,Sem métodos de envio disponíveis
+app_text_msg_select_shipping_methods,Selecione o método de envio
+app_text_billing_address,endereço de cobrança
+app_text_billing_addresses,Endereços de cobrança (s)
+app_text_addresses,Endereço (s)
+app_text_billing_details,Detalhes de cobrança
+app_text_same_as_shipping_details,Igual ao endereço de entrega
+app_text_share_log,Compartilhar log
+app_text_payment_failed_contact_support,Seu pedido não pôde ser processado. Gentilmente o suporte de contato para qualquer dúvida
+app_text_choose_payment_method,Escolha o método de pagamento
+app_text_no_payment_method,Nenhum método (s) de pagamento encontrado!
+app_text_no_payment_currently,Atualmente, não há método de pagamento.
+app_text_no_make_payment,Você não poderá fazer o pagamento, pois este aplicativo móvel está configurado para fins de demonstração.
+app_text_make_payment_after_select,Você pode fazer o pagamento após selecionar qualquer método de pagamento!
+app_text_title_payment_paypal,Pagamento do PayPal
+app_text_order_total_price,Pedido preço total
+app_text_user_cancelled_the_payment,O usuário cancelou o pagamento
+app_text_invalid_payment_try_again,Pagamento inválido. Por favor, tente novamente
+app_text_title_paypal_payment,Pagamento do PayPal
+app_text_wishlist_item_removed,Item removido da lista de desejos.
+app_text_wishlist_item_added,Item adicionado à lista de desejos
+app_text_subject,Ei, confira isso!
+app_text_extra_share,Disponivel aqui :
+app_text_intent_title,Compartilhar
+app_text_error_product_name_url,O nome do produto ou URL pode estar vazio.
+app_text_tag_error,Erro
+app_text_ok,OK
+app_text_view_your_store,Veja sua loja
+app_text_view_demo,Ver demo
+app_text_currency,Moeda (s)
+app_text_choose_your_app_theme,Escolha o tema do seu aplicativo
+app_text_terms_and_conditions,Termos e Condições de Uso
+app_text_wishlist_only,Lista de Desejos
+app_text_wishlist_remove,Retire da lista de desejos
+app_text_update_address,Atualizar endereço
+app_text_state_not_required,Estado não é necessário para o país selecionado
+app_text_currencies,Moeda (s)
+app_text_payment_failed,Algum erro ocorreu durante o processamento do pagamento. Por favor, tente novamente
+app_text_entered_wrong_url,Você pode ter entrado no URL errado ou não instalou nosso Bodule de construtor de aplicativos móveis.
+app_text_login_failed,Falha no login!
+app_text_install_module,Módulo de instalação
+app_text_no_data_found,Nenhum dado encontrado
+app_text_enter_store_url,Por favor, insira o URL da loja
+app_text_fill_all_required_fields,Por favor, preencha todos os campos necessários.
+app_text_state,Estado
+app_text_add_to_wishlist,Adicionar a lista de desejos
+app_text_add_to_cart,Adicionar ao carrinho
+text_prices,Preços
+text_brands,Marcas
+text_shipping_address_success,O endereço de entrega foi adicionado com sucesso
+text_shipping_address_issue,Existem alguns problemas com dados
+text_shipping_address_update,O endereço de entrega foi atualizado com sucesso
+text_cart_loaded,Informações sobre carrinho carregadas com sucesso
+text_order_success,Ordem criada por este carrinho
+text_reorder_fail,O pedido não pode ser recriado
+text_currecy_error,Moeda não definida devido a algum erro. Verifique o código da moeda e tente novamente.
+text_fcm_fail,CART ID ou FCM ID não encontrado
+text_empty_cart,Carrinho Vazio
+text_error_cart,Erro
+text_session_expired,Sessão expirada
+text_customer_created,Cliente criado com sucesso !!
+text_wrong,Algo deu errado
+text_error_email,Erro ao enviar e -mail !!
+text_confirm_email,Um email de confirmação foi enviado para o seu endereço:
+text_login_success,Login do usuário com sucesso
+text_language_error,Idioma não definido devido a algum erro. Por favor, verifique o código ISO e tente novamente.
+text_customer_update,Informações pessoais atualizadas com sucesso.
+error_email_id,O ID do email não existe !!
+error_email_empty,O ID do email não pode ficar em branco !!
+text_add_wishlist,Produto adicionado à lista de desejos
+text_fail_wishlist,Produto não adicionado à lista de desejos
+text_no_email,Sem email
+text_product_added,Produto adicionado com sucesso
+text_product_deleted,Produto excluído com sucesso
+text_voucher_already,Caso já aplicado!
+text_voucher_success,O voucher aplicado com sucesso ao carrinho
+text_voucher_removed,O voucher removido com sucesso
+text_product_not_added,Incapaz de adicionar ao carrinho
+error_out_of_stock,O produto não está disponível na quantidade desejada!
+error_firstname,O primeiro nome deve estar entre 3 e 15 caracteres !!
+error_lastname,O sobrenome deve estar entre 3 e 15 caracteres !!
+error_address_1,O endereço deve estar entre 3 e 15 caracteres !!
+error_city,A cidade deve estar entre 3 e 15 caracteres !!
+error_postcode,Por favor, preencha o código postal válido !!
+error_country,Por favor, selecione um País: Brasil!!
+error_zone,Selecione um estado !!
+error_phone1,O número de telefone deve estar entre 3 e 15 caracteres !!
+error_phone2,O número de telefone deve conter apenas números e traços !!
+error_password,A senha deve estar entre 4 e 15 caracteres !!
+error_confirm,Senha incorreta!!
+error_email,O ID de email não é válido
+error_exists,ID de e -mail já registrado
+error_minimum,Quantidade mínima %d é necessária para que o produto %s faça pedidos.
+error_quantity_required,Quantidade Requerida.
+error_voucher,Caso já aplicado!
+voucher_success,O voucher aplicado com sucesso!
+voucher_removed,O voucher removido com sucesso
+text_wishlist_added,Produto adicionado à lista de desejos
+text_wishlist_removed,Produto removido da lista de desejos
+app_text_sellers,Vendedores
+app_text_seller,Vendedor
+app_text_seller_shipping_policy,Política de envio do vendedor
+app_text_seller_return_policy,Política de retorno do vendedor
+app_text_review_title,Título da revisão
+app_text_review_comment,Revise o comentário
+app_text_review_rating,Classificação de revisão
+app_text_filter_products,Filtrar produtos
+app_text_select_category,Selecione a Categoria
+app_text_select_sort,Ordenar
+app_text_clear,Claro
+app_text_hour,Hora
+app_text_min,Minutos
+app_text_sec,Segundos
+app_text_install_whatsapp,Whatsapp não está instalado no seu dispositivo
+app_text_no_account_registered,Nenhuma conta é registrada para a autenticação biométrica neste dispositivo. Por favor, registre uma conta primeiro.
+app_text_confirm_for_authentication,Confirme sua impressão digital ou rosto para autenticar.
+app_text_login_with_fingerprint,Faça login com impressão digital
+app_text_register_for_fingerprint,Registre -se para impressão digital
+app_text_biometric_not_available,A autenticação biométrica não está disponível para este dispositivo.
+app_text_fingerprint_not_recognized,O Touch ID não reconhece sua impressão digital. Por favor, tente novamente com sua impressão digital inscrita.
+app_text_face_not_recognizes,O ID do rosto não reconhece seu rosto. Por favor, tente novamente com o rosto inscrito.
+app_text_fingerprint_or_face_not_enrolled,Nenhuma impressões digitais/face matriculada no dispositivo.
+app_text_biometry_locked_out,A funcionalidade está bloqueada agora por causa de muitas tentativas fracassadas.
+app_text_register_for_fingerpring,Registre -se para impressão digital
+app_text_register_for_fingerprint_details,Deseja registrar esta conta para a funcionalidade de impressão digital. Depois de concluído, você pode fazer login nessa conta sem usar o ID de email ou a senha apenas usando a verificação da impressão digital.
+app_text_register,Registro
+app_text_fingerprint_not_available,A autenticação de impressão digital não está disponível neste dispositivo!
+app_text_fingerprint_not_enrolled,Nenhuma impressão digital inscrita no dispositivo.
+app_text_android_marshmallow_required,O Android Marshmallow é necessário para apoiar a autenticação de impressão digital.
+app_text_fingerprint_error_try_again,Há algum erro com impressão digital. Por favor, tente novamente ou continue sem impressão digital!
+app_text_fingerprint_wipe_sensor_try_again,Pode haver um pouco de poeira no sensor de impressão digital. Por favor, limpe e tente novamente.
+app_text_skip_and_continue,Pule e continue
+app_text_verify,Verificar
+app_text_get_otp,Obtenha OTP
+app_text_mobile_number,Número de celular
+app_text_mobile_number_optional,Número de celular (opcional)
+app_text_invalid_phone_number,Por favor insira um número válido
+app_text_error_number_verification,O número de celular não pôde ser verificado! Por favor, tente novamente com o número OTP correto!
+app_text_phone_number_already_exists,O número de telefone já está registrado. Por favor, tente novamente com outro número de telefone!
+app_text_number_verification,Verificação do número
+app_text_number_verification_description,Você precisa verificar o número de telefone. Por favor, insira o número de telefone e envie
+app_text_login_with_phone_number,Faça login com número de telefone
+app_text_forget_password_description,Digite o endereço de e-mail ou o número de telefone associado à sua conta.
+app_text_enter_email_or_mobile_number,Digite email ou número de celular
+app_text_phone_number_change_message,Um número de telefone já está registrado nesta conta. Você só pode alterar o número de contato. Por favor, insira o número de telefone válido.
+app_text_enter_otp,Digite otp
+app_text_review_your_order,Revise seu pedido
+app_text_attributes,Atributos
+entry_company,Companhia
+entry_address_1,Endereço 1
+entry_address_2,Endereço 2
+entry_city,Cidade
+entry_postcode,Código postal
+entry_country,País
+app_text_label_address,Endereço
+app_text_label_country,Não
+app_text_label_phone,Número de telefone
+app_text_select_all_options,Selecione todas as opções
+app_text_sort_asc,A-z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,O número de celular não existe no banco de dados
+phone_number_exist_message,Número de celular existe no banco de dados
+password_update_message,Atualização de senha com sucesso
+app_text_continue_to_checkout_click_msg,Você pode fazer o checkout de produtos no carrinho de compras simplesmente clicando no botão 'Continue a fazer o checkout'!
+app_text_cart_tab,Carrinho
+app_text_search,Procurar
+app_text_msg_empty_wishlist,Sua Lista de Desejos está vazia
+app_text_your_wishlist_is_empty,Sua Lista de Desejos está vazia!
+app_text_percent_off,% fora
+app_text_update_address_if_exists,Você pode atualizar o endereço de entrega ou escolher qualquer outro, se existir!
+app_text_press_back_again_to_exit,Pressione novamente para sair
+app_text_please_login,Por favor entre
+app_text_related_products,produtos relacionados
+app_text_view_reviews,Ver comentários
+app_text_write_reviews,Escreva críticas
+app_text_please_fill_all_details,Por favor, preencha todos os detalhes
+app_text_close,Perto
+app_text_add_review,Adicione uma avaliação
+app_text_write_a_review,Escreva uma crítica
+app_text_name,Nome
+app_text_title,Título
+app_text_number_of_reviews,Número de revisões
+app_text_minimum_rating,Adicione a ratina mínima
+app_text_error,Erro
+app_text_no_reviews,Sem críticas
+app_text_place_your_finger_on_sensor,Coloque seu dedo no sensor
+text_browser_payment_method_success_msg,Sucesso: seu pedido foi feito. Gentilmente retorne ao aplicativo.
+text_browser_payment_method_failure_msg,Falha: seu pedido não pode ser feito. Por favor, volte ao aplicativo e tente novamente.
+text_browser_payment_method_already_msg,O pedido já foi feito. Por favor, volte ao aplicativo e tente novamente.
+text_order_verify_fail,O pedido ainda não foi feito, proceda para encomendar o pagamento e verifique o pedido
+app_text_external_web_payment,Ao clicar no botão Proceder, você será redirecionado para o navegador externo para processar o pagamento. Depois de concluir o pagamento, feche o navegador
+app_text_text_state,Estado
+app_text_description,Descrição
+app_text_discount,Desconto
+app_text_applied,Aplicado
+app_text_default,Predefinição
+app_text_name_asc,Nome (a-z)
+app_text_name_desc,Nome (Z-A)
+app_text_rating_asc,Classificação: baixa a alta
+app_text_rating_desc,Classificação: Alto a baixo
+app_text_model_asc,Modelo (A-Z)
+app_text_model_desc,Modelo (Z-A)
+app_text_reference_asc,Referência (A-Z)
+app_text_reference_asc,Referência (A-Z)
+app_text_reference_desc,Referência (Z-A)
+app_text_create_new_account,Criar nova conta
+app_text_back_login,Volte ao login
+app_text_guest_login,Login como convidado
+app_text_first_name,Primeiro nome*
+app_text_last_name,Último nome*
+app_text_already_have_account,Já tem uma conta?
+app_text_error_firstname,Por favor, digite o primeiro nome.
+app_text_error_lastname,Por favor, insira o sobrenome.
+app_text_error_mobile_number,Introduza o Número de telemóvel.
+app_text_my_profile,Meu perfil
+app_text_my_orders,minhas ordens
+app_text_my_addresses,Meus endereços
+app_text_support,Apoio, suporte
+app_text_account_page_heading,Acesse os detalhes e as recompensas da sua conta
+app_text_not,Não
+app_text_apple,Maçã
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Ver tudo
+app_text_error_email_access,Forneça acesso por e -mail ou use outra conta.
+app_text_hi,Oi
+app_text_sold_out,Vendido
+app_text_signup_with_apple,Faça login com a Apple
+app_text_login_with_apple,Faça login com a Apple
+app_text_order,Pedido
+app_text_order_date,Data do pedido
+app_text_items,Itens)
+app_text_amount,Resultar
+error_voucher_not_available,O voucher é inválido expirado ou atingiu seu limite de uso!
+app_text_review_order,Ordem de revisão
+app_text_payment_methods,Métodos de Pagamento
+app_text_review_order,Ordem de revisão
+app_text_payment_methods,Métodos de Pagamento
+app_text_guest,Hóspede
+app_text_resend_otp,Reenvie otp
+app_text_msg_mobile_number,Por favor, insira seu número de telefone
+app_text_msg_otp,Um OTP enviou Ben para o número:
+app_text_msg_resend_otp,Um OTP tem Ben se ressente ao número:
+app_text_confirm_new_password,Confirme a nova senha
+app_text_error_facebook_login,Não foi possível fazer o login com o Facebook
+app_text_sub_total,Subtotal
+app_text_product_total,Total do produto
+app_text_are_you_sure_you_want_to_exit,Você tem certeza que quer sair?
+text_product_updated,Quantidade do produto Atualizado com sucesso !!
+error_incorrect_password,Senha incorreta!!
+app_text_unit_price,Preço unitário
+app_text_only_mobile,Móvel
+app_text_file_download,Arquivo baixado com sucesso em
+app_text_video,Anexos de vídeo
+app_text_agree_to,Concordo com os termos e condições
+app_text_agree_gdpr,Por favor, verifique os termos e condições de seleção !!
+app_text_use_current_location,Use o local atual
+app_text_adding,Adicionando ...
+app_text_removing,Removendo ...
+app_text_voucher_adding,VIOCHER ADICIONAL ...
+app_text_voucher_removing,Remoção de voucher ...
+app_text_mobile,Móvel
+app_text_deal_ends,O negócio termina
+app_text_expires_in,Expira em
+app_text_register_fingerprint,Registre -se para login de impressão digital
+app_text_reviews,Avaliações
+app_text_loading,Carregando...
+app_text_please_wait,Por favor, espere...
+app_text_updating_cart,Carrinho de atualização ...
+app_text_loading_shipping_address,Carregando endereço de entrega ...
+app_text_loading_billing_address,Endereço de cobrança de carregamento ...
+app_text_removing_product,Removendo o produto ...
+app_text_loading_store_data,Carregando dados do armazenamento
+app_text_select_country,Por favor, selecione um País: Brasil
+app_text_select_state,Selecione um estado
+app_text_delete_account,Deletar conta
+app_text_delete_account_msg,Tem certeza de que deseja excluir a conta?
+app_text_scan_barcode,Digitalize código de barras
+app_text_camera_loading,Carregando da câmera ...
+app_text_camera_permission_not_available,A permissão da câmera não está disponível
+app_text_search_description,Encontre o que você está procurando.

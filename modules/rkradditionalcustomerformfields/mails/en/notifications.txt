@@ -1,0 +1,7 @@
+
+[{shop_url}]
+
+Se acaba de instalar el módulo {moduleName} en la tienda {shop_name}
+Con url: {shopUrl}
+
+{shop_name} [{shop_url}]

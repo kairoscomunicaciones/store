@@ -1,0 +1,449 @@
+app_text_home,Домашній
+app_text_recent_product,Останній продукт
+app_text_category,Категорії
+app_text_login,Вхід
+app_text_logout,Вийти
+app_text_login_signup,Увійти Зареєструватися
+app_text_account,Мій рахунок
+app_text_contact,Зв'яжіться з нами
+app_text_about,Про нас
+app_text_wishlist,Додати до списку бажань
+app_text_cart,Додати до візка
+app_text_off,не вистачати
+app_text_all,Все
+app_text_languages,Мова (и)
+app_text_sort,Сортувати
+app_text_filter,Фільтрувати
+app_text_sort_order,Виберіть Сорт порядок
+app_text_price_asc,Ціна: низька до високої
+app_text_price_desc,Ціна: висока до низької
+app_text_product,Продукт
+app_text_select,Обраний
+app_text_instock,В наявності
+app_text_outstock,Поза запасом
+app_text_product_info,Інформація про товар та догляд
+app_text_customization,Налаштування товару
+app_text_accessories,Аксесуари
+app_text_view_less,Переглянути менше
+app_text_view_more,Дивитись більше
+app_text_provide_details,Будь ласка, надайте деталі
+app_text_bag,Корзина
+app_text_apply_voucher,Застосуйте ваучер
+app_text_entry_voucher_code,Введіть код ваучера
+app_text_apply,Застосовувати
+app_text_gift,Подарункова упаковка
+app_text_entry_message,Введіть своє повідомлення
+app_text_available_first,Спершу надішліть доступні продукти
+app_text_continue_shopping,Продовжити покупки
+app_text_continue_checkout,Продовжуйте оформлення замовлення
+app_text_update_quantity,Кількість оновлення
+app_text_enter_quantity,Введіть кількість (0-10)
+app_text_empty_cart,Ваша корзина порожня!
+app_text_goto_home,Перейдіть на домашню сторінку
+app_text_review_checkout,Перегляньте своє замовлення
+app_text_add_new_shipping_address,Додайте нову адресу доставки
+app_text_history,Деталі доставки
+app_text_summary,Підсумок Замовлення
+app_text_shipping_methods,Методи доставки
+app_text_comment,Замовити коментар
+app_text_payment_summary,Резюме оплати
+app_text_proceed,Перейти до оплати
+app_text_make_payment,Здійснити оплату
+app_text_congratulations,Вітаємо
+app_text_shipping_addresses,Адреса доставки (и)
+app_text_order_detail,Деталі замовити
+app_text_update_personal,Оновіть особисті дані
+app_text_update_password,Оновіть пароль
+app_text_current_password,Поточний пароль
+app_text_new_password,Новий пароль
+app_text_confirm_password,Підтвердьте пароль
+app_text_cancel,Скасувати
+app_text_save,Збагачувати
+app_text_sale,Розпродаж
+app_text_new,Новий
+app_text_order_ref,Посилання на замовлення
+app_text_status,Статус
+app_text_placed,Розташований на
+app_text_reorder,Перепорядкувати
+app_text_order_details,деталі замовлення
+app_text_status_history,Історія статусу
+app_text_shipping_address,Адреса доставки
+app_text_order_summary,Підсумок Замовлення
+app_text_shipping_method,метод доставки
+app_text_payment_method,Метод оплати
+app_text_gift_wrapping,Подарункове обгортання
+app_text_no_shipping_address,Немає адреси доставки!
+app_text_no_order_details,Деталі замовлення немає!
+app_text_signup,Зареєструватися
+app_text_continue_guest,Продовжуйте як гість
+app_text_email,Електронна пошта
+app_text_password,Пароль
+app_text_forgot_password,Забули пароль?
+app_text_login_social_account,Ви можете увійти з соціальним обліковим записом.
+app_text_login_with_google,Увійдіть за допомогою Google+
+app_text_login_with_facebook,Увійдіть у Facebook
+app_text_signup_with_google,Реєстрація з Google+
+app_text_signup_with_facebook,Реєстрація з Facebook
+app_text_msg_enter_valid_email,Введіть дійсну електронну пошту!
+app_text_msg_enter_email,Будь ласка, введіть електронну пошту!
+app_text_msg_enter_password,Введіть пароль!
+app_text_msg_password_characters_less_than_3,Введіть пароль, що має символи більше, або дорівнює 3!
+app_text_msg_first_name,Ім'я
+app_text_msg_last_name,Прізвище
+app_text_msg_dob,Дата народження
+app_text_msg_confirm_password,Підтвердьте пароль
+app_text_msg_personal_details,Персональні дані
+app_text_msg_pass_not_matched,Пароль та підтвердження пароля не відповідають!
+app_text_sold_by,Продається:
+app_text_write_review,Напишіть огляд
+app_text_view_review,Переглянути огляд (и)
+app_text_view_seller_products,Перегляньте продавці (и)
+app_text_wait,Зачекайте
+app_text_loading,Завантаження даних ...
+app_text_msg_went_wrong,Щось пішло не так. Будь ласка спробуйте ще раз.
+app_text_msg_no_internet_found,Не знайдено жодного підключення до Інтернету.
+app_text_msg_no_internet_title,Немає Інтернету
+app_text_msg_request,Запит не може бути обробкою. Це може бути через повільне підключення до Інтернету.
+app_text_msg_order_placed_email,Ваше замовлення було розміщено успішно. Ви отримаєте електронний лист щодо того ж.
+app_text_msg_product_look,Ви можете шукати продукти за їх категорією.
+app_text_msg_search_product,Ви можете шукати будь -який продукт у магазині за текстом чи голосом!
+app_text_msg_view_cart,Ви можете переглянути кошик з кількістю!
+app_text_msg_logout,Ви успішно виходите!
+app_text_msg_view_product,Ви можете переглянути продукт у списку або в режимі сітки!
+app_text_msg_sort_product,Ви можете сортувати продукт за їх ціною!
+app_text_msg_filter_product,Ви можете фільтрувати продукти (и) відповідно до ваших потреб!
+app_text_text_next,Наступний
+app_text_text_okay,Гаразд
+app_text_required,вимагається
+app_text_msg_rating,Виберіть рейтинг
+app_text_msg_add_cart,Ви можете додати товар до кошика, просто натиснувши кнопку "Додати до кошика"!
+app_text_msg_add_wishlist,Ви можете додати продукт до списку бажань, просто натиснувши кнопку "Додати до списку бажань"!
+app_text_msg_product_price,Ціна товару оновлена!
+app_text_msg_product_not_available,Цей продукт недоступний для замовлення!
+app_text_msg_combination,Продукт більше не в наявності з вибраною комбінації. Будь ласка, спробуйте з іншими комбінаціями.
+app_text_msg_product_no_stock,Цей продукт недоступний у потрібній кількості чи ні в наявності!
+app_text_msg_out_stock,Деякі з продуктів у кошику не доступні у потрібній кількості чи ні в наявності. Будь ласка, видаліть такі продукти з кошика!
+app_text_msg_checkout_products,Ви можете оформити продукти в кошику, просто натиснувши кнопку "Продовжити оформлення замовлення".
+app_text_msg_apply_voucher,Ви можете застосувати ваучер на кошик для покупок!
+app_text_msg_update_quantity,Ви можете оновити кількість товару або видалити його з кошика для покупок!
+app_text_msg_view_details,Ви можете переглянути деталі продукту, натиснувши на зображення продукту!
+app_text_msg_success,Успіх!
+app_text_msg_failure,Невдача!
+app_text_msg_enter_quantity,Введіть кількість
+app_text_quantity,Кількість
+text_quantity,Кількість
+app_text_remove,Видалити
+app_text_customization_details,Деталі налаштування
+app_text_msg_add_address,Ви можете додати нову адресу доставки, натиснувши кнопку!
+app_text_msg_update_address,Ви можете оновити адресу доставки!
+app_text_msg_select_address,Ви можете вибрати будь -яку адресу доставки, просто натиснувши на неї!
+app_text_select_address_text,*Виберіть адресу доставки, щоб переглянути ваше замовлення.
+app_text_msg_no_product,Немає продуктів!
+app_text_msg_no_comment_available,Немає коментарів (ів)!
+app_text_msg_reset_password,Ви можете скинути свій пароль, натиснувши `Забудь про пароль '
+app_text_msg_login,Ви можете увійти в магазин звідси!
+app_text_msg_login_fb,Ви також можете увійти в магазин зі свого облікового запису Facebook!
+app_text_msg_login_google,Ви також можете увійти в магазин із свого облікового запису Google!
+app_text_msg_update_profile,Ви можете оновити деталі профілю доставки або переглянути деталі замовлення тут!
+app_text_product_info_and_care,Інформація про товар та догляд
+app_text_download,Завантаження
+app_text_minimal_quantity,Мінімальна кількість
+app_text_pack_content,Упакуйте вміст
+app_text_seller_details,Деталі продавця
+app_text_submit,Подавати
+app_text_msg_forget_password,Введіть адресу електронної пошти, пов’язану з вашим обліковим записом. Натисніть Надіслати, щоб ваш пароль надіслав вам електронну пошту.
+app_text_enter_your_email,Введіть свій електронний лист
+app_text_reset_password,Скинути пароль
+app_text_view_selected_filter,Ви можете переглянути вибраний результат фільтра, натиснувши на це зображення!
+app_text_clear_selected_filter,Ви можете очистити додатковий фільтр, натиснувши на це зображення!
+app_text_no_filter,Немає фільтрів
+app_text_phone_number_required,*Ви повинні зареєструвати принаймні один номер телефону
+app_text_refresh,Оновлювати
+app_text_internet_connection_failed,Не вдалося підключити Інтернет!
+app_text_internet_connection_problem,Можливо, виникає певна проблема з вашим підключенням до Інтернету. Будь ласка, перевірте.
+app_text_cancel_transaction,Скасувати транзакцію
+app_text_middle_of_payment,Ви перебуваєте в середині процесу платіжної транзакції. Ви дійсно хочете скасувати свою транзакцію?
+app_text_yes,Так
+app_text_no,Ні
+app_text_enter_your_comment,Введіть свій коментар
+app_text_msg_shipping_methods_unavailable,Немає методів доставки
+app_text_msg_select_shipping_methods,Виберіть метод доставки
+app_text_billing_address,Адреса виставлення рахунків
+app_text_billing_addresses,Адреса (и)
+app_text_addresses,Адреса (и)
+app_text_billing_details,Деталі виставлення рахунків
+app_text_same_as_shipping_details,Те саме, що і адреса доставки
+app_text_share_log,Поділитися журнал
+app_text_payment_failed_contact_support,Ваше замовлення не вдалося обробити. Будь ласка, зв’яжіться з підтримкою будь -яких запитів
+app_text_choose_payment_method,Виберіть метод оплати
+app_text_no_payment_method,Ніяких методів оплати не знайдено!
+app_text_no_payment_currently,Наразі немає методу оплати.
+app_text_no_make_payment,Ви не зможете здійснити платіж, оскільки цей мобільний додаток налаштовується з демо -метою.
+app_text_make_payment_after_select,Ви можете здійснити платіж після вибору будь -якого способу оплати!
+app_text_title_payment_paypal,Оплата PayPal
+app_text_order_total_price,Замовлення загальної ціни
+app_text_user_cancelled_the_payment,Користувач скасував платіж
+app_text_invalid_payment_try_again,Недійсний платіж. Будь ласка, спробуйте ще раз
+app_text_title_paypal_payment,Оплата PayPal
+app_text_wishlist_item_removed,Елемент, видалений із списку бажань.
+app_text_wishlist_item_added,Товар додається до списку бажань
+app_text_subject,Гей, перевірте це!
+app_text_extra_share,Доступно тут:
+app_text_intent_title,Розподіляти
+app_text_error_product_name_url,Назва продукту або URL -адреса можуть бути порожніми.
+app_text_tag_error,Помилка
+app_text_ok,добре
+app_text_view_your_store,Перегляньте свій магазин
+app_text_view_demo,Переглянути демонстрацію
+app_text_currency,Валюта (и)
+app_text_choose_your_app_theme,Виберіть тему програми
+app_text_terms_and_conditions,Умови використання
+app_text_wishlist_only,Список бажань
+app_text_wishlist_remove,Видаліть із списку бажань
+app_text_update_address,Адреса оновлення
+app_text_state_not_required,Держава не потрібна для вибраної країни
+app_text_currencies,Валюта (и)
+app_text_payment_failed,Під час обробки платежу сталася певна помилка. Будь ласка, спробуйте ще раз
+app_text_entered_wrong_url,Можливо, ви ввели неправильну URL -адресу або не встановили наш мобільний конструктор Bodule.
+app_text_login_failed,Помилка логіну!
+app_text_install_module,Встановити модуль
+app_text_no_data_found,Даних не знайдено
+app_text_enter_store_url,Будь ласка, введіть URL -адресу магазину
+app_text_fill_all_required_fields,Будь ласка, заповніть усі необхідні поля.
+app_text_state,Держави
+app_text_add_to_wishlist,Додати до списку бажань
+app_text_add_to_cart,Додати до візка
+text_prices,Ціни
+text_brands,Бренди
+text_shipping_address_success,Адреса доставки вдало додано
+text_shipping_address_issue,Є деякі проблеми з даними
+text_shipping_address_update,Адреса доставки була успішно оновлена
+text_cart_loaded,Інформація про кошику успішно завантажена
+text_order_success,Замовлення, створене цим візком
+text_reorder_fail,Замовлення не можна відтворити
+text_currecy_error,Валюта не встановлена ​​через якусь помилку. Будь ласка, перевірте код валюти та повторіть спробу.
+text_fcm_fail,Ідентифікатор кошика або ідентифікатор FCM не знайдено
+text_empty_cart,Порожній візок
+text_error_cart,Помилка
+text_session_expired,Закінчився сеанс
+text_customer_created,Клієнт успішно створений !!
+text_wrong,щось пішло не так
+text_error_email,Помилка під час надсилання електронної пошти !!
+text_confirm_email,На вашу адресу надіслано електронний лист із підтвердженням:
+text_login_success,Успіх входу користувача успішно
+text_language_error,Мова не встановлена ​​через якусь помилку. Будь ласка, перевірте ISO -код і повторіть спробу.
+text_customer_update,Особиста інформація успішно оновлена.
+error_email_id,Ідентифікатор електронної пошти не існує !!
+error_email_empty,Ідентифікатор електронної пошти не може бути порожнім !!
+text_add_wishlist,Продукт, доданий до списку бажань
+text_fail_wishlist,Продукт не додається до списку бажань
+text_no_email,Немає електронної пошти
+text_product_added,Продукт успішно додав
+text_product_deleted,Продукт успішно видалено
+text_voucher_already,Ваучер вже застосував!
+text_voucher_success,Ваучер успішно застосував до візка
+text_voucher_removed,Ваучер успішно видалено
+text_product_not_added,Неможливо додати до кошика
+error_out_of_stock,Продукт недоступний у потрібній кількості!
+error_firstname,Ім'я повинно бути від 3 до 15 символів !!
+error_lastname,Прізвище повинно бути від 3 до 15 символів !!
+error_address_1,Адреса повинна бути від 3 до 15 символів !!
+error_city,Місто повинно бути від 3 до 15 символів !!
+error_postcode,Будь ласка, заповніть дійсний поштовий індекс !!
+error_country,Будь ласка, виберіть країну !!
+error_zone,Будь ласка, виберіть стан !!
+error_phone1,Номер телефону повинен бути від 3 до 15 символів !!
+error_phone2,Номер телефону повинен містити лише номери та тире !!
+error_password,Пароль повинен бути від 4 до 15 символів !!
+error_confirm,Невідповідність пароля !!
+error_email,Ідентифікатор електронної пошти не є дійсним
+error_exists,Ідентифікатор електронної пошти вже зареєстровано
+error_minimum,Мінімальна кількість %d необхідна для замовлення продукту %S для розміщення.
+error_quantity_required,необхідна кількість.
+error_voucher,Ваучер вже застосував!
+voucher_success,Ваучер успішно застосував!
+voucher_removed,Ваучер успішно видалено
+text_wishlist_added,Продукт, доданий до списку бажань
+text_wishlist_removed,Продукт, видалений із списку бажань
+app_text_sellers,Продавці
+app_text_seller,Продавець
+app_text_seller_shipping_policy,Політика доставки продавця
+app_text_seller_return_policy,Політика повернення продавця
+app_text_review_title,Назва огляду
+app_text_review_comment,Перегляньте коментар
+app_text_review_rating,Рейтинг огляду
+app_text_filter_products,Фільтрувальні вироби
+app_text_select_category,Виберіть категорію
+app_text_select_sort,Сортувати
+app_text_clear,Чіткий
+app_text_hour,Година
+app_text_min,Хвилини
+app_text_sec,Секунди
+app_text_install_whatsapp,WhatsApp не встановлений на вашому пристрої
+app_text_no_account_registered,Жоден обліковий запис не зареєстровано для біометричної аутентифікації в цьому пристрої. Будь ласка, зареєструйте рахунок спочатку.
+app_text_confirm_for_authentication,Підтвердьте відбиток пальців або обличчя для аутентифікації.
+app_text_login_with_fingerprint,Увійдіть з відбитком пальців
+app_text_register_for_fingerprint,Зареєструйтесь на відбиток пальців
+app_text_biometric_not_available,Для цього пристрою недоступний біометрична аутентифікація.
+app_text_fingerprint_not_recognized,Touch ID не визнає відбитки пальців. Будь ласка, спробуйте ще раз за допомогою зарахування відбитків пальців.
+app_text_face_not_recognizes,Ідентифікатор обличчя не розпізнає ваше обличчя. Будь ласка, спробуйте ще раз із зарахуванням обличчя.
+app_text_fingerprint_or_face_not_enrolled,Ніяких відбитків пальців/обличчя не зараховано до пристрою.
+app_text_biometry_locked_out,Функціональність зараз заблокована через занадто багато невдалих спроб.
+app_text_register_for_fingerpring,Зареєструйтесь на відбиток пальців
+app_text_register_for_fingerprint_details,Ви хочете зареєструвати цей обліковий запис на функцію відбитків пальців. Після закінчення ви можете увійти в цей обліковий запис, не використовуючи ідентифікатор електронної пошти або пароль, просто використовуючи перевірку відбитків пальців.
+app_text_register,Реєстрація
+app_text_fingerprint_not_available,Аутентифікація відбитків пальців недоступна в цьому пристрої!
+app_text_fingerprint_not_enrolled,Ніяких відбитків пальців не зараховано до пристрою.
+app_text_android_marshmallow_required,Щонайменше Android Marshmallow необхідний для підтримки аутентифікації відбитків пальців.
+app_text_fingerprint_error_try_again,Є якась помилка з відбитком пальців. Будь ласка, спробуйте ще раз або продовжуйте без відбитків пальців!
+app_text_fingerprint_wipe_sensor_try_again,На датчику відбитків пальців може бути трохи пилу. Будь ласка, протріть його і спробуйте ще раз.
+app_text_skip_and_continue,Пропустити і продовжувати
+app_text_verify,Перевірити
+app_text_get_otp,Отримати OTP
+app_text_mobile_number,Номер мобільного
+app_text_mobile_number_optional,Номер мобільних пристроїв (необов’язково)
+app_text_invalid_phone_number,Введіть дійсне число
+app_text_error_number_verification,Номер мобільних пристроїв не вдалося перевірити! Будь ласка, спробуйте ще раз з правильним номером OTP!
+app_text_phone_number_already_exists,Номер телефону вже зареєстрований. Будь ласка, спробуйте ще раз з іншим номером телефону!
+app_text_number_verification,Перевірка числа
+app_text_number_verification_description,Потрібно перевірити номер телефону. Введіть номер телефону та надішліть
+app_text_login_with_phone_number,Увійдіть із номером телефону
+app_text_forget_password_description,Введіть адресу електронної пошти або номер телефону, пов'язаний з вашим обліковим записом.
+app_text_enter_email_or_mobile_number,Введіть номер електронної пошти або мобільний номер
+app_text_phone_number_change_message,Один номер телефону вже зареєстрований у цьому обліковому записі. Ви можете змінити лише контактний номер. Введіть дійсний номер телефону.
+app_text_enter_otp,Введіть OTP
+app_text_review_your_order,Перегляньте своє замовлення
+app_text_attributes,Атрибути
+entry_company,Компанія
+entry_address_1,адреса 1
+entry_address_2,Адреса 2
+entry_city,Місто
+entry_postcode,Поштовий індекс
+entry_country,Країна
+app_text_label_address,Адреса
+app_text_label_country,Ні
+app_text_label_phone,Номер телефону
+app_text_select_all_options,Будь ласка, виберіть усі варіанти
+app_text_sort_asc,A-Z
+app_text_sort_desc,Z-A
+phone_number_not_exist_message,Номер мобільних пристроїв не існує в базі даних
+phone_number_exist_message,Мобільний номер існує в базі даних
+password_update_message,Оновлення пароля успішно
+app_text_continue_to_checkout_click_msg,Ви можете оформити продукти в кошику, просто натиснувши кнопку "Продовжуйте оформити замовлення"!
+app_text_cart_tab,Візок
+app_text_search,Обшук
+app_text_msg_empty_wishlist,Ваш список бажань порожній
+app_text_your_wishlist_is_empty,Ваш список бажань порожній!
+app_text_percent_off,% Зниження
+app_text_update_address_if_exists,Ви можете оновити адресу доставки або вибрати будь -яку іншу, якщо існує!
+app_text_press_back_again_to_exit,Натисніть ще раз, щоб вийти
+app_text_please_login,Будь ласка, увійдіть
+app_text_related_products,Супутні товари
+app_text_view_reviews,Переглянути відгуки
+app_text_write_reviews,Напишіть відгуки
+app_text_please_fill_all_details,Будь ласка, заповніть усі деталі
+app_text_close,Закривати
+app_text_add_review,Додайте огляд
+app_text_write_a_review,Написати відгук
+app_text_name,Назва
+app_text_title,Титул
+app_text_number_of_reviews,Кількість відгуків
+app_text_minimum_rating,Будь ласка, додайте мінімальний рясін
+app_text_error,Помилка
+app_text_no_reviews,Відгуків немає
+app_text_place_your_finger_on_sensor,Покладіть палець на датчик
+text_browser_payment_method_success_msg,Успіх: ваше замовлення розміщувалося. Будь ласка, поверніться до програми.
+text_browser_payment_method_failure_msg,Невдача: ваше замовлення не може бути розміщене. Будь ласка, поверніться до програми та повторіть спробу.
+text_browser_payment_method_already_msg,Замовлення вже розміщено. Будь ласка, поверніться до програми та повторіть спробу.
+text_order_verify_fail,Замовлення ще не було розміщено, будь ласка, продовжуйте замовлення Заповніть платіж, а потім перевірте замовлення
+app_text_external_web_payment,При натисканні кнопки приводу ви будете перенаправлені на зовнішній браузер для обробки платежу. Після завершення платежу там закрийте браузер
+app_text_text_state,Держави
+app_text_description,Опис
+app_text_discount,Знижка
+app_text_applied,Застосований
+app_text_default,За замовчуванням
+app_text_name_asc,Ім'я (A-Z)
+app_text_name_desc,Ім'я (Z-A)
+app_text_rating_asc,Рейтинг: низький до високого
+app_text_rating_desc,Рейтинг: високий до низького
+app_text_model_asc,Модель (A-Z)
+app_text_model_desc,Модель (Z-A)
+app_text_reference_asc,Посилання (A-Z)
+app_text_reference_asc,Посилання (A-Z)
+app_text_reference_desc,Довідка (Z-A)
+app_text_create_new_account,Створити новий обліковий запис
+app_text_back_login,Назад до входу
+app_text_guest_login,Гостьовий вхід
+app_text_first_name,Ім'я*
+app_text_last_name,Прізвище*
+app_text_already_have_account,Вже є аккаунт?
+app_text_error_firstname,Введіть ім’я.
+app_text_error_lastname,Введіть прізвище.
+app_text_error_mobile_number,Введіть номер мобільного телефону.
+app_text_my_profile,Мій профіль
+app_text_my_orders,Мої замовлення
+app_text_my_addresses,Мої адреси
+app_text_support,Підтримка
+app_text_account_page_heading,Доступ до реквізитів свого облікового запису та винагород
+app_text_not,Не
+app_text_apple,Яблук
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Подивитись все
+app_text_error_email_access,Будь ласка, надайте доступ до електронної пошти або скористайтеся іншим обліковим записом.
+app_text_hi,Привіт
+app_text_sold_out,Продано
+app_text_signup_with_apple,Увійдіть з Apple
+app_text_login_with_apple,Увійдіть з Apple
+app_text_order,Наказ
+app_text_order_date,Дата замовлення
+app_text_items,Пункт (и)
+app_text_amount,Обсяг
+error_voucher_not_available,Ваучер або недійсне закінчився, або досягла межі його використання!
+app_text_review_order,Замовлення огляду
+app_text_payment_methods,методи оплати
+app_text_review_order,Замовлення огляду
+app_text_payment_methods,методи оплати
+app_text_guest,Гість
+app_text_resend_otp,Зупини OTP
+app_text_msg_mobile_number,Введіть свій номер мобільного телефону
+app_text_msg_otp,OTP надсилав до номера:
+app_text_msg_resend_otp,OTP припадає на число:
+app_text_confirm_new_password,Підтвердити новий пароль
+app_text_error_facebook_login,Не міг увійти з Facebook
+app_text_sub_total,Субтельний
+app_text_product_total,Всього продукту
+app_text_are_you_sure_you_want_to_exit,Ти впевнений, що хочеш вийти?
+text_product_updated,Кількість продукту успішно оновлюється !!
+error_incorrect_password,Невірний пароль!!
+app_text_unit_price,Ціна за одиницю
+app_text_only_mobile,Мобільний
+app_text_file_download,Файл успішно завантажено
+app_text_video,Відео вкладення
+app_text_agree_to,Погодитися з умовами та умовами
+app_text_agree_gdpr,Будь ласка, встановіть прапорець Загальні положення та умови !!
+app_text_use_current_location,Використовуйте поточне розташування
+app_text_adding,Додавання…
+app_text_removing,Видалення…
+app_text_voucher_adding,Ваучер додавання ...
+app_text_voucher_removing,Зняття ваучерів ...
+app_text_mobile,Мобільний
+app_text_deal_ends,Угода закінчується
+app_text_expires_in,Закінчується в
+app_text_register_fingerprint,Зареєструйтесь для входу в відбитки пальців
+app_text_reviews,Огляди
+app_text_loading,Завантаження ...
+app_text_please_wait,Зачекайте ...
+app_text_updating_cart,Оновлення візка ...
+app_text_loading_shipping_address,Завантаження адреси доставки ...
+app_text_loading_billing_address,Завантаження рахунків ...
+app_text_removing_product,Видалення продукту ...
+app_text_loading_store_data,Завантаження даних магазину
+app_text_select_country,Виберіть країну
+app_text_select_state,Будь ласка, виберіть стан
+app_text_delete_account,Видалити аккаунт
+app_text_delete_account_msg,Ви впевнені, що хочете видалити обліковий запис?
+app_text_scan_barcode,Штрих -код сканування
+app_text_camera_loading,Завантаження камери ...
+app_text_camera_permission_not_available,Дозвіл на камеру недоступний
+app_text_search_description,Знайдіть те, що шукаєте.

@@ -1,0 +1,1 @@
+UPDATE `PREFIX_app_home` SET `hide_title_in_home` = 0 WHERE `type` NOT IN ('CAROUSEL','BANNER');

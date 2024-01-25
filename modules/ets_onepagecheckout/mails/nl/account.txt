@@ -1,0 +1,8 @@
+Hallo {customer_name},
+Bedankt voor uw registratie op {shop_name}. Uw accountgegevens zijn als volgt:
+E-mail: {customer_email}
+Wachtwoord: {auto_generated_password}
+Uw huidige wachtwoord is automatisch gegenereerd door onze winkel. We raden u aan uw wachtwoord te wijzigen in iets dat gemakkelijker te onthouden en veiliger is.
+WIJZIG JE WACHTWOORD: {link_change_password}
+Als je vragen hebt over je account, neem dan gerust contact met ons op. We helpen je graag verder!
+Vriendelijke groet,

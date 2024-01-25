@@ -1,0 +1,8 @@
+Hallo {customer_name},
+Vielen Dank für die Registrierung bei {shop_name}. Ihre Kontodaten lauten wie folgt:
+Email: {customer_email}
+Passwort: {auto_generated_password}
+Ihr aktuelles Passwort wurde von unserem Shop automatisch generiert. Wir empfehlen Ihnen, Ihr Passwort in ein leichter zu merkendes und sichereres Passwort zu ändern.
+ÄNDERE DEIN PASSWORT : {link_change_password}
+Wenn Sie Fragen zu Ihrem Konto haben, können Sie sich gerne an uns wenden. Wir helfen Ihnen gerne weiter!
+Aufrichtig,

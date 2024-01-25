@@ -1,0 +1,449 @@
+app_text_home,Hem
+app_text_recent_product,Nyprodukt
+app_text_category,Kategorier
+app_text_login,Logga in
+app_text_logout,Logga ut
+app_text_login_signup,Logga in Bli medlem
+app_text_account,Mitt konto
+app_text_contact,Kontakta oss
+app_text_about,Om oss
+app_text_wishlist,Lägg till i önskelista
+app_text_cart,Lägg till i kundvagn
+app_text_off,av
+app_text_all,Allt
+app_text_languages,Språk)
+app_text_sort,Sortera
+app_text_filter,Filtrera
+app_text_sort_order,Välj sorteringsordning
+app_text_price_asc,Pris: låg till hög
+app_text_price_desc,Pris: högt till lågt
+app_text_product,Produkt
+app_text_select,Välj
+app_text_instock,I lager
+app_text_outstock,Ur lager
+app_text_product_info,Produktinformation och vård
+app_text_customization,Produktanpassning
+app_text_accessories,Tillbehör
+app_text_view_less,Se mindre
+app_text_view_more,Visa mer
+app_text_provide_details,Vänligen ange detaljer
+app_text_bag,Shoppingkasse
+app_text_apply_voucher,Apply Voucher
+app_text_entry_voucher_code,Skriv in en kupongkod
+app_text_apply,Tillämpa
+app_text_gift,Presentpapper
+app_text_entry_message,Ange ditt meddelande
+app_text_available_first,Skicka tillgängliga produkter först
+app_text_continue_shopping,Fortsätt handla
+app_text_continue_checkout,Fortsätt till kassan
+app_text_update_quantity,Uppdatera kvantitet
+app_text_enter_quantity,Ange kvantitet (0-10)
+app_text_empty_cart,Din vagn är tom!
+app_text_goto_home,Gå till hemsidan
+app_text_review_checkout,Granska din beställning
+app_text_add_new_shipping_address,Lägg till ny leveransadress
+app_text_history,Frakt detaljer
+app_text_summary,Ordersammanfattning
+app_text_shipping_methods,Fraktmetoder
+app_text_comment,Beställningskommentar
+app_text_payment_summary,Betalningsöversikt
+app_text_proceed,Fortsätt till betalning
+app_text_make_payment,Betala
+app_text_congratulations,Gratulation
+app_text_shipping_addresses,Leveransadress
+app_text_order_detail,Orderdetaljer
+app_text_update_personal,Uppdatera personliga detaljer
+app_text_update_password,Uppdatera lösenord
+app_text_current_password,Nuvarande lösenord
+app_text_new_password,nytt lösenord
+app_text_confirm_password,Bekräfta lösenord
+app_text_cancel,Avbryt
+app_text_save,Spara
+app_text_sale,Försäljning
+app_text_new,Ny
+app_text_order_ref,Orderreferens
+app_text_status,Status
+app_text_placed,Placerad på
+app_text_reorder,Ombeställa
+app_text_order_details,Orderdetaljer
+app_text_status_history,Statushistoria
+app_text_shipping_address,leveransadress
+app_text_order_summary,Ordersammanfattning
+app_text_shipping_method,Frakt metod
+app_text_payment_method,Betalningsmetod
+app_text_gift_wrapping,Presentinslagning
+app_text_no_shipping_address,Ingen leveransadress tillgänglig!
+app_text_no_order_details,Inga beställningsuppgifter tillgängliga!
+app_text_signup,Bli Medlem
+app_text_continue_guest,Fortsätt som gäst
+app_text_email,E-post
+app_text_password,Lösenord
+app_text_forgot_password,Glömt ditt lösenord?
+app_text_login_social_account,Du kan logga in med socialt konto.
+app_text_login_with_google,Logga in med Google+
+app_text_login_with_facebook,Logga in med Facebook
+app_text_signup_with_google,Registrering med Google+
+app_text_signup_with_facebook,Registrera dig med Facebook
+app_text_msg_enter_valid_email,Ange giltigt e -postmeddelande!
+app_text_msg_enter_email,Ange e -post!
+app_text_msg_enter_password,Var snäll och fyll i lösenordet!
+app_text_msg_password_characters_less_than_3,Ange lösenord med tecken mer det eller lika med 3!
+app_text_msg_first_name,Förnamn
+app_text_msg_last_name,Efternamn
+app_text_msg_dob,Födelsedatum
+app_text_msg_confirm_password,Bekräfta lösenord
+app_text_msg_personal_details,Personliga detaljer
+app_text_msg_pass_not_matched,Lösenord och bekräfta lösenordet matchas inte!
+app_text_sold_by,Såld av:
+app_text_write_review,Skriv recension
+app_text_view_review,Visa granskning (er)
+app_text_view_seller_products,Visa säljarprodukt (er)
+app_text_wait,Vänta
+app_text_loading,Laddar data...
+app_text_msg_went_wrong,Något gick fel. Var god försök igen.
+app_text_msg_no_internet_found,Ingen internetanslutning hittades.
+app_text_msg_no_internet_title,Inget internet
+app_text_msg_request,Begäran kan inte vara process. Detta kan bero på långsam internetanslutning.
+app_text_msg_order_placed_email,Din beställning har gjorts framgångsrikt. Du kommer att få ett e -postmeddelande om samma sak.
+app_text_msg_product_look,Du kan leta efter produkt (er) efter deras kategori.
+app_text_msg_search_product,Du kan söka alla produkter i butik efter text eller röst!
+app_text_msg_view_cart,Du kan se kundvagn med kvantitet!
+app_text_msg_logout,Du är utloggning framgångsrikt!
+app_text_msg_view_product,Du kan visa produkt i lista eller rutnätsläge!
+app_text_msg_sort_product,Du kan sortera produkt efter deras pris!
+app_text_msg_filter_product,Du kan filtrera produkt (er) enligt ditt behov!
+app_text_text_next,Nästa
+app_text_text_okay,Okej
+app_text_required,Nödvändig
+app_text_msg_rating,Välj betyg
+app_text_msg_add_cart,Du kan lägga till produkten i kundvagnen genom att helt enkelt klicka på knappen 'Lägg till i CART'!
+app_text_msg_add_wishlist,Du kan lägga till produkten i önskelistan genom att helt enkelt klicka på knappen 'Lägg till i önskelistan'!
+app_text_msg_product_price,Produktpriset har uppdaterats!
+app_text_msg_product_not_available,Den här produkten är inte tillgänglig för beställning!
+app_text_msg_combination,Produkten finns inte längre i lager med den valda kombinationen. Försök med andra kombinationer.
+app_text_msg_product_no_stock,Denna produkt är inte tillgänglig i önskad mängd eller inte i lager!
+app_text_msg_out_stock,Vissa av produkterna i vagnen finns inte i önskad mängd eller inte i lager. Ta bort sådana produkt (er) från vagnen!
+app_text_msg_checkout_products,Du kan checka ut produkter i kundvagnen genom att helt enkelt klicka på knappen "Fortsätt till kassan".
+app_text_msg_apply_voucher,Du kan applicera kupong på kundvagn!
+app_text_msg_update_quantity,Du kan uppdatera mängden produkt eller ta bort den från kundvagnen!
+app_text_msg_view_details,Du kan visa produktinformation genom att klicka på produktbild!
+app_text_msg_success,Framgång!
+app_text_msg_failure,Fel!
+app_text_msg_enter_quantity,Ange kvantitet
+app_text_quantity,Kvantitet
+text_quantity,Kvantitet
+app_text_remove,Ta bort
+app_text_customization_details,Anpassningsdetaljer
+app_text_msg_add_address,Du kan lägga till ny leveransadress genom att klicka på knappen!
+app_text_msg_update_address,Du kan uppdatera leveransadress!
+app_text_msg_select_address,Du kan välja valfri leveransadress genom att helt enkelt klicka på den!
+app_text_select_address_text,*Välj fraktadress för att granska din beställning.
+app_text_msg_no_product,Inga produkter tillgängliga!
+app_text_msg_no_comment_available,Inga kommentarer tillgängliga!
+app_text_msg_reset_password,Du kan återställa ditt lösenord genom att klicka på "Glöm lösenord"
+app_text_msg_login,Du kan logga in i butiken härifrån!
+app_text_msg_login_fb,Du kan också logga in i butiken från ditt Facebook -konto!
+app_text_msg_login_google,Du kan också logga in i butiken från ditt Google -konto!
+app_text_msg_update_profile,Du kan uppdatera dina profilinformation Fraktuppgifter eller visa dina beställningsinformation härifrån!
+app_text_product_info_and_care,Produktinformation och vård
+app_text_download,Nedladdningar
+app_text_minimal_quantity,Minimal mängd
+app_text_pack_content,Packa innehåll
+app_text_seller_details,Säljarinformation
+app_text_submit,Skicka in
+app_text_msg_forget_password,Ange e-postadressen som är kopplad till ditt konto. Klicka Skicka för att få ditt lösenord e-post till dig.
+app_text_enter_your_email,Skriv in din e-postadress
+app_text_reset_password,Återställ lösenord
+app_text_view_selected_filter,Du kan se ditt valda filterresultat genom att klicka på den här bilden!
+app_text_clear_selected_filter,Du kan rensa det tillämpade filtret genom att klicka på den här bilden!
+app_text_no_filter,Inga filter
+app_text_phone_number_required,*Du måste registrera minst ett telefonnummer
+app_text_refresh,Uppdatera
+app_text_internet_connection_failed,Internetanslutning misslyckades!
+app_text_internet_connection_problem,Det kan vara något problem med din internetanslutning. Kontrollera.
+app_text_cancel_transaction,Avbryt transaktionen
+app_text_middle_of_payment,Du är mitt i din betalningstransaktionsprocess. Vill du verkligen avbryta din transaktion?
+app_text_yes,Ja
+app_text_no,Nej
+app_text_enter_your_comment,Ange din kommentar
+app_text_msg_shipping_methods_unavailable,Inga fraktmetoder tillgängliga
+app_text_msg_select_shipping_methods,Välj leveransmetod
+app_text_billing_address,Fakturaadress
+app_text_billing_addresses,Faktureringsadress (er)
+app_text_addresses,Adress (er)
+app_text_billing_details,Faktureringsuppgifter
+app_text_same_as_shipping_details,Samma som leveransadressen
+app_text_share_log,Aktielogg
+app_text_payment_failed_contact_support,Din beställning kunde inte behandlas. Vänligen kontakta support för alla frågor
+app_text_choose_payment_method,Välj betalsätt
+app_text_no_payment_method,Ingen betalningsmetod hittades!
+app_text_no_payment_currently,Det finns ingen betalningsmetod för närvarande.
+app_text_no_make_payment,Du kommer inte att kunna betala eftersom den här mobilappen är inställd för demo -syfte.
+app_text_make_payment_after_select,Du kan göra betalning efter att du har valt någon betalningsmetod!
+app_text_title_payment_paypal,PayPal -betalning
+app_text_order_total_price,Beställ totalt pris
+app_text_user_cancelled_the_payment,Användaren avbröt betalningen
+app_text_invalid_payment_try_again,Ogiltig betalning. Försök igen
+app_text_title_paypal_payment,PayPal -betalning
+app_text_wishlist_item_removed,Objekt tas bort från önskelistan.
+app_text_wishlist_item_added,Objekt som läggs till i önskelistan
+app_text_subject,Hej kolla in det här!
+app_text_extra_share,Tillgänglig här :
+app_text_intent_title,Dela med sig
+app_text_error_product_name_url,Produktnamnet eller URL: n kan vara tomt.
+app_text_tag_error,Fel
+app_text_ok,OK
+app_text_view_your_store,Visa din butik
+app_text_view_demo,Visa demo
+app_text_currency,Valutor
+app_text_choose_your_app_theme,Välj ditt apptema
+app_text_terms_and_conditions,Regler och villkor för användning
+app_text_wishlist_only,Önskelista
+app_text_wishlist_remove,Ta bort från önskelistan
+app_text_update_address,Uppdateringsadress
+app_text_state_not_required,Stat krävs inte för utvalt land
+app_text_currencies,Valutor
+app_text_payment_failed,Vissa fel inträffade vid behandlingen av betalningen. Försök igen
+app_text_entered_wrong_url,Du kanske har angett fel url eller så har du inte installerat vår mobilappbyggare Bodule.
+app_text_login_failed,Inloggningen misslyckades!
+app_text_install_module,Installera modulen
+app_text_no_data_found,Ingen information hittad
+app_text_enter_store_url,Ange butiks -URL
+app_text_fill_all_required_fields,Fyll alla nödvändiga fält.
+app_text_state,stat
+app_text_add_to_wishlist,Lägg till i önskelista
+app_text_add_to_cart,Lägg till i kundvagn
+text_prices,Priser
+text_brands,Märken
+text_shipping_address_success,Fraktadress har lagts till framgångsrikt
+text_shipping_address_issue,Det finns några problem med data
+text_shipping_address_update,Fraktadress har uppdaterats framgångsrikt
+text_cart_loaded,Korginformation laddas framgångsrikt
+text_order_success,Ordning skapad av denna vagn
+text_reorder_fail,Order kan inte återskapas
+text_currecy_error,Valuta inte inställd på grund av något fel. Kontrollera valutakod och försök igen.
+text_fcm_fail,CART ID eller FCM ID hittades inte
+text_empty_cart,Tom vagn
+text_error_cart,Fel
+text_session_expired,Sessionen löpte
+text_customer_created,Kunden skapade framgångsrikt !!
+text_wrong,något gick fel
+text_error_email,Fel när du skickar e -post !!
+text_confirm_email,Ett bekräftelsemail har skickats till din adress:
+text_login_success,Användarinloggning framgångsrikt
+text_language_error,Språket är inte inställt på grund av något fel. Kontrollera ISO -koden och försök igen.
+text_customer_update,Personlig information uppdateras framgångsrikt.
+error_email_id,E -post -id finns inte !!
+error_email_empty,E -post -ID kan inte vara tomt !!
+text_add_wishlist,Produkt som läggs till i önskelistan
+text_fail_wishlist,Produkten som inte läggs till i önskelistan
+text_no_email,Inget e -postmeddelande
+text_product_added,Produkten har framgångsrikt tillagd
+text_product_deleted,Produkten raderas framgångsrikt
+text_voucher_already,Voucher har redan använts!
+text_voucher_success,Voucher applicerades framgångsrikt på CART
+text_voucher_removed,Kupong borttagna framgångsrikt
+text_product_not_added,Det går inte att lägga till i kundvagnen
+error_out_of_stock,Produkten är inte tillgänglig i önskad mängd!
+error_firstname,Förnamn måste vara mellan 3 och 15 tecken !!
+error_lastname,Efternamnet måste vara mellan 3 och 15 tecken !!
+error_address_1,Adressen måste vara mellan 3 och 15 tecken !!
+error_city,Staden måste vara mellan 3 och 15 tecken !!
+error_postcode,Vänligen fyll giltig postnummer !!
+error_country,Välj ett land !!
+error_zone,Välj ett tillstånd !!
+error_phone1,Telefonnummer måste vara mellan 3 och 15 tecken !!
+error_phone2,Telefonnummer ska bara innehålla siffror och streck !!
+error_password,Lösenordet måste vara mellan 4 och 15 tecken !!
+error_confirm,Lösenordet matchar inte!!
+error_email,E -post -ID är inte giltigt
+error_exists,E -post -ID redan registrerat
+error_minimum,Minsta kvantitet %d krävs för att produkten %s ska beställa.
+error_quantity_required,Önskat antal.
+error_voucher,Voucher har redan använts!
+voucher_success,Voucher ansökt framgångsrikt!
+voucher_removed,Kupong borttagna framgångsrikt
+text_wishlist_added,Produkt som läggs till i önskelistan
+text_wishlist_removed,Produkten tas bort från önskelistan
+app_text_sellers,Säljare
+app_text_seller,Säljare
+app_text_seller_shipping_policy,Säljare fraktpolicy
+app_text_seller_return_policy,Säljarens returpolicy
+app_text_review_title,Recensionstitel
+app_text_review_comment,Granska kommentar
+app_text_review_rating,Granskning
+app_text_filter_products,Filterprodukter
+app_text_select_category,Välj kategori
+app_text_select_sort,Sortera
+app_text_clear,Klar
+app_text_hour,Timme
+app_text_min,Minuter
+app_text_sec,Sekunder
+app_text_install_whatsapp,WhatsApp är inte installerad på din enhet
+app_text_no_account_registered,Inget konto är registrerat för den biometriska autentiseringen i den här enheten. Registrera ett konto först.
+app_text_confirm_for_authentication,Bekräfta ditt fingeravtryck eller ansikte för att autentisera.
+app_text_login_with_fingerprint,Logga in med fingeravtryck
+app_text_register_for_fingerprint,Registrera dig för fingeravtryck
+app_text_biometric_not_available,Biometrisk autentisering är inte tillgänglig för den här enheten.
+app_text_fingerprint_not_recognized,Touch ID känner inte igen ditt fingeravtryck. Försök igen med ditt inskrivna fingeravtryck.
+app_text_face_not_recognizes,Face ID känner inte igen ditt ansikte. Försök igen med ditt inskrivna ansikte.
+app_text_fingerprint_or_face_not_enrolled,Inga fingeravtryck/ansikte inskrivna i enheten.
+app_text_biometry_locked_out,Funktionaliteten är låst nu på grund av för många misslyckade försök.
+app_text_register_for_fingerpring,Registrera dig för fingeravtryck
+app_text_register_for_fingerprint_details,Vill du registrera det här kontot för fingeravtrycksfunktionaliteten. När du är klar kan du logga in på det här kontot utan att använda e -post -ID eller lösenord bara med fingeravtrycksverifieringen.
+app_text_register,Registrera
+app_text_fingerprint_not_available,Fingeravtrycksautentisering är inte tillgänglig i den här enheten!
+app_text_fingerprint_not_enrolled,Inga fingeravtryck som är inskrivna i enheten.
+app_text_android_marshmallow_required,Atleast Android Marshmallow krävs för att stödja fingeravtrycksautentisering.
+app_text_fingerprint_error_try_again,Det finns något fel med fingeravtryck. Försök igen eller fortsätt utan fingeravtryck!
+app_text_fingerprint_wipe_sensor_try_again,Det kan finnas lite damm på fingeravtryckssensorn. Torka av det och försök igen.
+app_text_skip_and_continue,Hoppa över och fortsätt
+app_text_verify,Kontrollera
+app_text_get_otp,Få OTP
+app_text_mobile_number,Mobilnummer
+app_text_mobile_number_optional,Mobilnummer (valfritt)
+app_text_invalid_phone_number,var vänlig skriv in ett giltigt nummer
+app_text_error_number_verification,Mobilnummer kunde inte verifieras! Försök igen med rätt OTP -nummer!
+app_text_phone_number_already_exists,Telefonnummer är redan registrerat. Försök igen med ett annat telefonnummer!
+app_text_number_verification,Antal verifiering
+app_text_number_verification_description,Du måste verifiera telefonnumret. Ange telefonnumret och skicka in
+app_text_login_with_phone_number,Logga in med telefonnummer
+app_text_forget_password_description,Ange e-postadressen eller telefonnumret som är kopplad till ditt konto.
+app_text_enter_email_or_mobile_number,Ange e -post eller mobilnummer
+app_text_phone_number_change_message,Ett telefonnummer är redan registrerat hos det här kontot. Du kan bara ändra kontaktnumret. Ange giltigt telefonnummer.
+app_text_enter_otp,Ange OTP
+app_text_review_your_order,Granska din beställning
+app_text_attributes,Attribut
+entry_company,Företag
+entry_address_1,Adress 1
+entry_address_2,Adress 2
+entry_city,Stad
+entry_postcode,Postnummer
+entry_country,Land
+app_text_label_address,Adress
+app_text_label_country,Nej
+app_text_label_phone,Telefonnummer
+app_text_select_all_options,Välj alla alternativ
+app_text_sort_asc,A-z
+app_text_sort_desc,Z-a
+phone_number_not_exist_message,Mobilnummer finns inte i databasen
+phone_number_exist_message,Mobilnummer finns i databasen
+password_update_message,Lösenordsuppdatering framgångsrikt
+app_text_continue_to_checkout_click_msg,Du kan checka ut produkter i kundvagnen genom att helt enkelt klicka på knappen "Fortsätt till kassan"!
+app_text_cart_tab,Vagn
+app_text_search,Sök
+app_text_msg_empty_wishlist,Din önskelista är tom
+app_text_your_wishlist_is_empty,Din önskelista är tom!
+app_text_percent_off,% av
+app_text_update_address_if_exists,Du kan uppdatera leveransadress eller välja någon annan om det finns!
+app_text_press_back_again_to_exit,Tryck tillbaka igen för att gå ut
+app_text_please_login,Vänligen logga in
+app_text_related_products,Relaterade produkter
+app_text_view_reviews,Visa recensioner
+app_text_write_reviews,Skriv recensioner
+app_text_please_fill_all_details,Fyll alla detaljer
+app_text_close,Stänga
+app_text_add_review,Lägga till granskning
+app_text_write_a_review,Skriva en recension
+app_text_name,namn
+app_text_title,Titel
+app_text_number_of_reviews,Antal recensioner
+app_text_minimum_rating,Lägg till minsta ratin
+app_text_error,Fel
+app_text_no_reviews,Inga recensioner
+app_text_place_your_finger_on_sensor,Placera fingret på sensorn
+text_browser_payment_method_success_msg,Framgång: Din beställning har placerats. Återgå till appen.
+text_browser_payment_method_failure_msg,Misslyckande: Din beställning kan inte placeras. Återgå till appen och försök igen.
+text_browser_payment_method_already_msg,Order har redan placerats. Återgå till appen och försök igen.
+text_order_verify_fail,Beställningen har inte placerats ännu, fortsätt för beställning. Fyll i betalningen och verifiera sedan beställningen
+app_text_external_web_payment,När du klickar på knappen Fortsätt kommer du att omdirigeras till den externa webbläsaren för att behandla betalningen. När du har slutfört betalningen där stäng webbläsaren
+app_text_text_state,stat
+app_text_description,Beskrivning
+app_text_discount,Rabatt
+app_text_applied,Applicerad
+app_text_default,Standard
+app_text_name_asc,Namn (A-Z)
+app_text_name_desc,Namn (Z-A)
+app_text_rating_asc,Betyg: låg till hög
+app_text_rating_desc,Betyg: högt till lågt
+app_text_model_asc,Modell (A-Z)
+app_text_model_desc,Modell (Z-A)
+app_text_reference_asc,Referens (A-Z)
+app_text_reference_asc,Referens (A-Z)
+app_text_reference_desc,Referens (Z-A)
+app_text_create_new_account,Skapa nytt konto
+app_text_back_login,Tillbaka till login
+app_text_guest_login,Gästinloggning
+app_text_first_name,Förnamn*
+app_text_last_name,Efternamn*
+app_text_already_have_account,Har du redan ett konto?
+app_text_error_firstname,Ange förnamnet.
+app_text_error_lastname,Ange efternamnet.
+app_text_error_mobile_number,Ange mobilnumret.
+app_text_my_profile,Min profil
+app_text_my_orders,Mina beställningar
+app_text_my_addresses,Mina adresser
+app_text_support,Stöd
+app_text_account_page_heading,Få åtkomst till dina kontouppgifter och belöningar
+app_text_not,Inte
+app_text_apple,Äpple
+app_text_google,Google
+app_text_facebook,Facebook
+app_text_view_all,Visa alla
+app_text_error_email_access,Ange åtkomst till e -post eller använd ett annat konto.
+app_text_hi,Hej
+app_text_sold_out,Utsåld
+app_text_signup_with_apple,Logga in med Apple
+app_text_login_with_apple,Logga in med Apple
+app_text_order,Beställa
+app_text_order_date,Orderdatum
+app_text_items,Objekt
+app_text_amount,Belopp
+error_voucher_not_available,Voucher är antingen ogiltig löpt ut eller nådde sin användningsgräns!
+app_text_review_order,Granskningsorder
+app_text_payment_methods,Betalningsmetoder
+app_text_review_order,Granskningsorder
+app_text_payment_methods,Betalningsmetoder
+app_text_guest,Gäst
+app_text_resend_otp,Återge OTP
+app_text_msg_mobile_number,Ange ditt mobilnummer
+app_text_msg_otp,En OTP har Ben skickat till numret:
+app_text_msg_resend_otp,En OTP har Ben som har gjort sig till numret:
+app_text_confirm_new_password,Bekräfta nytt lösenord
+app_text_error_facebook_login,Kunde inte logga in med Facebook
+app_text_sub_total,Delsumma
+app_text_product_total,Produktsumman
+app_text_are_you_sure_you_want_to_exit,Är du säker på att du vill avsluta?
+text_product_updated,Produktkvantitet uppdaterad framgångsrikt !!
+error_incorrect_password,Fel lösenord!!
+app_text_unit_price,Enhetspris
+app_text_only_mobile,Mobil
+app_text_file_download,Fil framgångsrikt nedladdad på
+app_text_video,Videobilaga
+app_text_agree_to,Samtycker till villkoren
+app_text_agree_gdpr,Kontrollera kryssrutan Villkorvillkor !!
+app_text_use_current_location,Använd nuvarande plats
+app_text_adding,Lägger till ...
+app_text_removing,Tar bort ...
+app_text_voucher_adding,Voucher lägger till ...
+app_text_voucher_removing,Voucher tar bort ...
+app_text_mobile,Mobil
+app_text_deal_ends,Affärsslut
+app_text_expires_in,Går ut om
+app_text_register_fingerprint,Registrera dig för fingeravtrycksinloggning
+app_text_reviews,Recensioner
+app_text_loading,Läser in...
+app_text_please_wait,Vänta...
+app_text_updating_cart,Uppdatering av vagn ...
+app_text_loading_shipping_address,Laddar leveransadress ...
+app_text_loading_billing_address,Laddar faktureringsadress ...
+app_text_removing_product,Ta bort produkten ...
+app_text_loading_store_data,Laddar butiksdata
+app_text_select_country,Välj ett land
+app_text_select_state,Välj en stat
+app_text_delete_account,Radera konto
+app_text_delete_account_msg,Är du säker på att du vill ta bort konto?
+app_text_scan_barcode,Streckkod
+app_text_camera_loading,Kamerabelastning ...
+app_text_camera_permission_not_available,Kameratillstånd är inte tillgängliga
+app_text_search_description,Hitta vad du letar efter.
